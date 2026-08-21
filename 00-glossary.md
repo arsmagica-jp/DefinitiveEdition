@@ -22,7 +22,7 @@
 | Hermetic Magic | ヘルメス魔法 |
 | Hermetic Arts | ヘルメス魔法の術法 |
 | hedge magic | 俗魔法 |
-| magus / maga / magi | 魔術師（マグス／マガ／マギ） |
+| magus / maga / magi | マギ（女性形は「女マギ」） |
 | companion | コンパニオン |
 | grog | グロッグ |
 | covenant | コヴナント |
@@ -154,12 +154,12 @@
 | Bestiary | 幻獣誌 | 章題・付録の索引名 |
 | antagonist | 敵役 | |
 | extra | 端役 | supporting cast（脇役）と区別 |
-| central character | 中心キャラクター | 魔術師＋コンパニオン |
+| central character | 中心キャラクター | マギ＋コンパニオン |
 | supporting cast | 脇役 | グロッグ |
 | mundane | 世俗（俗人） | |
 | bailiff | 荘官 | |
 | unGifted | 天禀なき者 | |
-| Archmagus / Archmaga | 大魔術師 | |
+| Archmagus / Archmaga | 大マギ | |
 | Cunning | 【狡知】 | 動物の【知性】に代わる特性値 |
 | True Names | 真名 | |
 | Light / Medium / Heavy / Incapacitating / Deadly Wound | 軽傷／中傷／重傷／行動不能の傷／致命傷 | |
@@ -337,7 +337,7 @@
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Hoplite | ホプリテス | 審問士を支援する戦闘魔術師 |
+| Hoplite | ホプリテス | 審問士を支援する戦闘マギ |
 | venditores | ウェンディトーレス | ウェルディーティウス派の販売代理人 |
 | Mercer House | メルケーレ家 | |
 | Orbus | オルブス | 流派を追われた赤帽士 |
@@ -409,7 +409,7 @@
 
 - 呪文名は日本語訳を主とし、初出時に丸括弧内へ原題を併記する。索引に呪文名の訳語がないため第8章までは暫定訳としていたが、**第9章「呪文」の訳出により全346名を確定し、第1〜8章へ遡って反映済み**（48件を修正）。以後、呪文名は第9章の見出しを唯一の典拠とする。
 - 形相の変種を持つ呪文（*［形相］の織りを解く*、*対立の鏡［形相］*、*魔術師の増強［形相］* など）は、第9章では［形相］を残した汎用形を見出しとし、個々の変種は当該形相名を入れた形で表記する（例：*イマーギネムの織りを解く*、*妖精の帳を貫く*／*魔法の帳を貫く*）。
-- 未邦訳の補足書名は原題（斜体）のままとし、ページ数のみ日本語にする。既存のファイル間リンクは保持する。
+- 未邦訳のサプリメント名は原題（斜体）のままとし、ページ数のみ日本語にする。既存のファイル間リンクは保持する。
 - 原書内の見出しへのページ内リンクは、日本語版では見出し名が変わりリンク切れとなるため、現状は「（○○ページ参照）」の平文とする。全章訳出後に張り直す。
 - 中世の学問書名は定訳のある邦題を当て、著者名も慣用の片仮名表記による。
 
@@ -459,7 +459,7 @@
 | --- | --- | --- |
 | vanguard / leader | 先鋒／指揮者 | 集団戦闘の役割 |
 | trained / untrained group | 訓練された集団／訓練されていない集団 | |
-| shield grog | 盾持ちグロッグ | 魔術師を護るグロッグ |
+| shield grog | 盾持ちグロッグ | マギを護るグロッグ |
 | Disengaging | 離脱 | 戦闘の選択肢 |
 | Exertion | 力の振り絞り | 疲労レベルを費やして加算 |
 | grappling / scuffling | 組みつき／小競り合い | 非致死の戦闘の二形態 |
@@ -707,7 +707,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | plot | 筋書き | 「物語」は story、「筋書き」は事前に定めた因果の連なり |
-| hooks | 導入の糸口 | 補足資料 *Hooks* は書名なので原題のまま |
+| hooks | 導入の糸口 | サプリメント *Hooks* は書名なので原題のまま |
 | climax | 山場 | |
 | variable outcomes | 結末の幅 | |
 | reactive story | 受動的な物語 | 何かが起こり、PCが応じる |
@@ -728,7 +728,7 @@
 | saga | サーガ | 一つのコヴナントを中心とする連なる物語 |
 | Background Questions | 背景についての問い | |
 | House Rules | ハウスルール | |
-| canon | 正典 | 刊行された規則と補足資料が定めるゲーム |
+| canon | 正典 | 刊行された規則とサプリメントが定めるゲーム |
 | Saga Speed | サーガの速さ | |
 | Slow / Medium / Fast / Pulsed Saga | 緩やかな／中庸の／速い／脈打つサーガ | |
 | troupe-style roleplaying | トゥループ式のロールプレイ | |
@@ -747,7 +747,7 @@
 | Saga Priorities | サーガにおいて優先すべきこと | |
 | game balance | ゲームの均衡 | |
 | vis find / vis source | ウィースの発見／ウィース源 | 前者は補充されない |
-| Hoplites | ホプリテス | 悪魔崇拝に走った魔術師を狩る者 |
+| Hoplites | ホプリテス | 悪魔崇拝に走ったマギを狩る者 |
 | paleography | 古文書学 | |
 
 **注：**第15章の「探索」は Exploration（未知の場所へ赴く物語）、第16章の「探索」は Investigation（謎を解く型のサーガ）で、原語が異なる。文脈で判別されたい。
@@ -761,5 +761,19 @@
 | Ars Magica Open License | 『アルス・マギカ』オープン・ライセンス | |
 | CC BY-SA 4.0 | クリエイティブ・コモンズ 表示−継承 4.0 国際 | 表示（Attribution）／継承（ShareAlike） |
 | Fourth Edition Conversion | 第四版からの移行 | |
-| Societates | ソキエタス | 関心を同じくする魔術師の集まり。既出（第3章の流派表） |
+| Societates | ソキエタス | 関心を同じくするマギの集まり。既出（第3章の流派表） |
 | Twilight Points | 黄昏点 | 第四版の値。÷3 で歪曲度に換算 |
+
+## 用語の方針（追補）
+
+| 原語 | 訳語 | 備考 |
+| --- | --- | --- |
+| supplement | サプリメント | 『アルス・マギカ』の補足製品。「補足資料」「補足書」から統一 |
+| magus / maga / magi | マギ | 単複を区別しない。maga は「女マギ」、Hermetic Magus は「ヘルメスのマギ」、Archmagus は「大マギ」 |
+| wizard | 魔術師／魔法使い | magi とは別語。**Wizard's ◯◯ の固有名は「魔術師の◯◯」を維持する** |
+
+**Wizard's ◯◯ として「魔術師」を据え置いた語**（magi ではないため）
+
+*魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の乗騎*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
+
+なお「ウィザーズ・ウォー」（Wizard's War）は索引準拠の音写のため対象外である。
