@@ -216,11 +216,11 @@
 | Attack Advantage | 攻撃優位 | |
 | Weakening / Resistance Total | 衰弱合計値／抵抗合計値 | ケルターメン |
 | Script / Script Bonus | 式次第／式次第加算 | 参入儀礼 |
-| Station / Avenue / Path | 位階／大路／道 | クリアモンの秘儀 |
-| charms | 護符 | メリニタの詠唱道具 |
+| Station / Avenue / Path | 位階／大路／道 | クリーアモンの秘儀 |
+| charms | 護符 | メリニータの詠唱道具 |
 | recurring spell | 反復する呪文 | 呪文の刻限 |
-| Hubris | 驕慢 | ヴェルディティウスの性格欠点。《尊大》（Proud）と区別 |
-| Verditius Runes | ヴェルディティウス・ルーン | |
+| Hubris | 驕慢 | ウェルディーティウスの性格欠点。《尊大》（Proud）と区別 |
+| Verditius Runes | ウェルディーティウス・ルーン | |
 | automata | 自動人形 | |
 | attuned item | 調和させたアイテム | |
 | Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの超常能力 |
@@ -338,14 +338,14 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | Hoplite | ホプリテス | 審問士を支援する戦闘魔術師 |
-| venditores | ウェンディトーレス | ヴェルディティウス流派の販売代理人 |
-| Mercer House | メルケレ家 | |
+| venditores | ウェンディトーレス | ウェルディーティウス派の販売代理人 |
+| Mercer House | メルケーレ家 | |
 | Orbus | オルブス | 流派を追われた赤帽士 |
 | Twelve Founders | 十二祖師 | |
-| Harmonists / Wilderists | 調和派／原野派 | ビョルナエル流派 |
-| Traditionalists / Transitionalists | 伝統派／改革派 | グェルニクス流派 |
-| league | 連盟 | イェルビトン流派 |
-| vendetta | 抗争（ヴェンデッタ） | ヴェルディティウス流派 |
+| Harmonists / Wilderists | 調和派／原野派 | ビョルネール派 |
+| Traditionalists / Transitionalists | 伝統派／改革派 | グエルニクス派 |
+| league | 連盟 | イェルビトン派 |
+| vendetta | 抗争（ヴェンデッタ） | ウェルディーティウス派 |
 | Academic Reputation / Bad Reputation | 学術評判／悪評 | |
 | minor orders / holy orders | 下級品級／上級品級 | |
 | regular / secular clergy | 修道司祭／教区司祭 | 索引準拠 |
@@ -367,12 +367,12 @@
 | nation | 同郷団 | 大学・コヴナントの区分 |
 | guild dean / alderman | ギルド長老／組合役員 | |
 | Site Hook | 土地に関するコヴナント設定 | *Covenants* の分類 |
-| Nemthengacha / Nemthenga | ネヴサンガハ／ネヴサンガ | エクス・ミスケラネアの一派 |
+| Nemthengacha / Nemthenga | ネヴサンガハ／ネヴサンガ | 雑集派の一派 |
 | Tempestaria / Tempestariae | テンペスタリア／テンペスタリアエ | 天候魔女 |
-| Beast Masters | 獣使い | エクス・ミスケラネアの伝統 |
-| Followers of Pendule | ペンデュルの徒 | メリニタの秘儀魔術団 |
-| Clan Ilfetu | イルフェトゥ氏族 | ビョルナエル流派 |
-| Columbae / Cult of Orpheus | コルンバエ／オルフェウス・カルト | エクス・ミスケラネアの伝統 |
+| Beast Masters | 獣使い | 雑集派の伝統 |
+| Followers of Pendule | ペンデュルの徒 | メリニータの秘儀魔術団 |
+| Clan Ilfetu | イルフェトゥ氏族 | ビョルネール派 |
+| Columbae / Cult of Orpheus | コルンバエ／オルフェウス・カルト | 雑集派の伝統 |
 
 ### 学問・工芸・建築
 
@@ -424,7 +424,10 @@
 | Story Hook | 物語の引っ掛かり | コヴナントの Hook とは別系統として据え置き |
 | fast casting | 速攻行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
 | ceremonial casting | 儀礼的行使 | 索引は「祭式詠唱」。同上の理由で「行使」に統一 |
-| 流派名の音写 | ビョルナエル／クリアモン／メリニタ／ヴェルディティウス／エクス・ミスケラネア | 索引はビョルネール／クリーアモン／ウェルディーティウス／雑集派。第2章以降で本表の形に統一済みのため据え置き |
+| Damhan-Allaidh | ダーヴァン＝オラス | 原文の発音表記 DAH-van ALL-ath に従う。索引の既訳と一致。当初「ダウン・アラー」としていたのを第2章5箇所で修正 |
+| 流派名の音写 | 索引の既訳に準拠 | ビョルネール／ボニサグス／クリーアモン／雑集派／フランボー／グエルニクス／イェルビトン／メルケーレ／メリニータ／トレメーレ／テュータルス／ウェルディーティウス。Ex Miscellanea は音写せず「雑集派」、Ordo Miscellanea は「諸類派魔術団」と訳す |
+| House (流派名に付く場合) | 〇〇派 | 「ビョルネール派」のように「派」を用いる。総称としての House／流派は「流派」のまま（例：十二の流派） |
+| 発音表記の扱い | ラテン語綴りに基づく音写 | 原文の発音表記（BYORE-nayr 等）は英語話者向けの英語式読みであり、流派名では採らない。ただし綴りから音が導けない非ラテン語名（Damhan-Allaidh 等）は発音表記に従う |
 
 ## 第9章「呪文」で新たに定めた訳語
 

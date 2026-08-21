@@ -1713,7 +1713,7 @@
 | Apostles（使徒） | [501](14-mythic-europe.md#聖人) |
 | Apparent Age（外見年齢） | [30](03-characters.md#書式), [391](10-long-term-events.md#老化) |
 | Apprentice (Virtue)（《徒弟》） | [70](04-virtues-and-flaws.md#徒弟apprentice) |
-| Apprentices（徒弟） | [13](02-the-order-of-hermes.md#ボニサグス流派), [21](02-the-order-of-hermes.md#徒弟), [269](08-laboratory.md#徒弟) |
+| Apprentices（徒弟） | [13](02-the-order-of-hermes.md#ボニサグス派), [21](02-the-order-of-hermes.md#徒弟), [269](08-laboratory.md#徒弟) |
 | Apprentice's Gauntlet（徒弟のガントレット） | [6](01-introduction.md#用語集), [273](08-laboratory.md#徒弟期間の終わり) |
 | Apprenticeship（徒弟期間） | [49](03-characters.md#魔術師のみ徒弟期間) |
 | Apt Student (Virtue)（《教わり上手》） | [70](04-virtues-and-flaws.md#教わり上手apt-student) |
@@ -1778,21 +1778,21 @@
 | Bigamist (Flaw)（《重婚者》） | [120](04-virtues-and-flaws.md#重婚者bigamist) |
 | Binding Wounds (Chirurgy)（傷を縛る（外科処置）） | [161](05-abilities.md#外科処置chirurgy) |
 | Bishop（司教） | [502-504](14-mythic-europe.md#組織) |
-| Bjornaer — The Heartbeast（ビョルナエル――心獣） | [233-234](07-hermetic-magic.md#ビョルナエル心獣) |
-| Bjornaer (Template)（ビョルナエル（テンプレート）） | [37](03-characters.md#ビョルナエル) |
-| Bjornaer, House（ビョルナエル流派） | [13](02-the-order-of-hermes.md#ビョルナエル流派) |
+| Bjornaer — The Heartbeast（ビョルネール――心獣） | [233-234](07-hermetic-magic.md#ビョルネール心獣) |
+| Bjornaer (Template)（ビョルネール（テンプレート）） | [37](03-characters.md#ビョルネール) |
+| Bjornaer, House（ビョルネール派） | [13](02-the-order-of-hermes.md#ビョルネール派) |
 | Black Sheep (Flaw)（《厄介者》） | [120](04-virtues-and-flaws.md#厄介者black-sheep) |
 | Blackmail (Flaw)（《恐喝》） | [120](04-virtues-and-flaws.md#恐喝blackmail) |
 | Blatant Gift (Flaw)（《露骨な天禀》） | [120](04-virtues-and-flaws.md#露骨な天禀blatant-gift) |
 | Blatant Magical Air (Flaw)（《露骨な魔法の妖気》） | [120](04-virtues-and-flaws.md#露骨な魔法の妖気blatant-magical-air) |
 | Blind (Flaw)（《盲目》） | [120](04-virtues-and-flaws.md#盲目blind) |
-| Bloodline (Target)（血脈（目標）） | [238](07-hermetic-magic.md#メリニタ妖精魔法) |
+| Bloodline (Target)（血脈（目標）） | [238](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Blood of the Nephilim (Virtue)（《ネフィリムの血》） | [72](04-virtues-and-flaws.md#ネフィリムの血blood-of-the-nephilim) |
 | Bludgeon（殴打武器） | [401](11-obstacles.md#格闘の武器) |
 | Body-of-Water (Target)（水域（目標）） | [71](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
 | Bonisagus（ボニサグス） | [6](01-introduction.md#用語集), [9-10](02-the-order-of-hermes.md#魔術団の創設) |
 | Bonisagus (Template)（ボニサグス（テンプレート）） | [37](03-characters.md#ボニサグス) |
-| Bonisagus, House（ボニサグス流派） | [13](02-the-order-of-hermes.md#ボニサグス流派), [37](03-characters.md#ボニサグス) |
+| Bonisagus, House（ボニサグス派） | [13](02-the-order-of-hermes.md#ボニサグス派), [37](03-characters.md#ボニサグス) |
 | Book Learner (Virtue)（《読書家》） | [72](04-virtues-and-flaws.md#読書家book-learner) |
 | Books（書物） | [379–383](10-long-term-events.md#書物-1) |
 | &nbsp;&nbsp;Copying（写す） | [380](10-long-term-events.md#書物を写す) |
@@ -1842,7 +1842,7 @@
 | Cautious with (Ability) (Virtue)（《細心（能力）》） | [73](04-virtues-and-flaws.md#細心能力cautious-with-ability) |
 | Ceremonial Casting（儀礼的行使） | [217–218](07-hermetic-magic.md#儀礼的行使), [225](07-hermetic-magic.md#儀礼的行使-1) |
 | Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔法》） | [122](04-virtues-and-flaws.md#儀礼的即興魔法ceremonial-spontaneous-magic) |
-| Certamen（ケルターメン） | [16](02-the-order-of-hermes.md#トレメア流派), [230–233](07-hermetic-magic.md#ケルターメン) |
+| Certamen（ケルターメン） | [16](02-the-order-of-hermes.md#トレメーレ派), [230–233](07-hermetic-magic.md#ケルターメン) |
 | Chain Mail（チェインメイル） | [399](11-obstacles.md#材質) |
 | Changing Reputations（評判の変化） | [28](03-characters.md#評判) |
 | Chaotic Magic (Flaw)（《混沌の魔術》） | [122](04-virtues-and-flaws.md#混沌の魔術chaotic-magic) |
@@ -1901,7 +1901,7 @@
 | Confirmation（堅信） | [500](14-mythic-europe.md#秘蹟) |
 | Constant Effect Devices（常時効果装置） | [258](08-laboratory.md#常時効果の装置) |
 | Constant Expression (Flaw)（《絶えざる発露》） | [123](04-virtues-and-flaws.md#常なる発現the-constant-expression) |
-| Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン流派) |
+| Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン派) |
 | Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具consumed-casting-tools) |
 | Container Targets（容器の目標） | [309](09-spells.md#容器の目標) |
 | Contested Resource (Hook)（《争われる資源》（コヴナント設定）） | [181](06-covenants.md#コヴナント設定小) |
@@ -1956,9 +1956,9 @@
 | &nbsp;&nbsp;Powers（力） | [426](13-bestiary.md#クリーチャーパワー) |
 | &nbsp;&nbsp;Size Examples（サイズの例） | [427](13-bestiary.md#サイズの例) |
 | Creo (Art)（クレオ／創造） | [207](07-hermetic-magic.md#クレオcr我創る) |
-| Criamon – The Enigma（クリアモン――エニグマ） | [235–236](07-hermetic-magic.md#クリアモンエニグマ) |
-| Criamon (Template)（クリアモン（テンプレート）） | [38](03-characters.md#クリアモン) |
-| Criamon, House（クリアモン流派） | [13](02-the-order-of-hermes.md#クリアモン流派) |
+| Criamon – The Enigma（クリーアモン――エニグマ） | [235–236](07-hermetic-magic.md#クリーアモンエニグマ) |
+| Criamon (Template)（クリーアモン（テンプレート）） | [38](03-characters.md#クリーアモン) |
+| Criamon, House（クリーアモン派） | [13](02-the-order-of-hermes.md#クリーアモン派) |
 | Crippled (Flaw)（《不具》） | [124](04-virtues-and-flaws.md#不具crippled) |
 | Crises（危機） | [521](15-stories.md#本拠の危機) |
 | &nbsp;&nbsp;*see also [Aging Crises](10-long-term-events.md#老化)* |  |
@@ -1978,9 +1978,9 @@
 | Daimons（ダイモーン） | [444](13-bestiary.md#ダイモーン) |
 | Damage Table（ダメージ表） | [404](11-obstacles.md#ダメージ表) |
 | Damage Total（ダメージ合計） | [394](11-obstacles.md#戦闘値) |
-| Damhan-Allaidh（ダーヴァン＝オラス） | [11](02-the-order-of-hermes.md#ダウンアラーとオルドミスケラネア) |
+| Damhan-Allaidh（ダーヴァン＝オラス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | Dangers（危険） | [227–233](07-hermetic-magic.md#危険) |
-| Darius of Flambeau (example character)（フランボーのダリウス（キャラクター例）） | [45](03-characters.md#例フランボー流派のダリウス), [47–54](03-characters.md#例フランボー流派のダリウス-1) |
+| Darius of Flambeau (example character)（フランボーのダリウス（キャラクター例）） | [45](03-characters.md#例フランボー派のダリウス), [47–54](03-characters.md#例フランボー派のダリウス-1) |
 | Dark Secret (Flaw)（《暗い秘密》） | [124](04-virtues-and-flaws.md#暗い秘密dark-secret) |
 | Deacon（助祭） | [500](14-mythic-europe.md#秘蹟) |
 | (Dead Language) (Ability)（〈古語〉） | [164](05-abilities.md#死語dead-language) |
@@ -2083,7 +2083,7 @@
 | Enemies (Flaw)（《宿敵》） | [127](04-virtues-and-flaws.md#宿敵enemies) |
 | Energy, Limit of（エネルギーの限界） | [211](07-hermetic-magic.md#エネルギーの限界) |
 | Enfeebled (Flaw)（《衰弱》） | [127](04-virtues-and-flaws.md#衰弱enfeebled) |
-| Enigma, The（エニグマ） | [13](02-the-order-of-hermes.md#クリアモン流派), [235](07-hermetic-magic.md#クリアモンエニグマ) |
+| Enigma, The（エニグマ） | [13](02-the-order-of-hermes.md#クリーアモン派), [235](07-hermetic-magic.md#クリーアモンエニグマ) |
 | Enigma, The (Virtue)（《エニグマ》） | [78](04-virtues-and-flaws.md#エニグマthe-enigma) |
 | Enigmatic Wisdom (Ability)（〈エニグマ悟得〉） | [164](05-abilities.md#エニグマ悟得enigmatic-wisdom), [236](07-hermetic-magic.md#エニグマ悟得) |
 | Entertainments, Noble（娯楽（貴族の）） | [508](14-mythic-europe.md#娯楽) |
@@ -2105,8 +2105,8 @@
 | Eve（イブ） | [498](14-mythic-europe.md#教義) |
 | Evil Destiny (Flaw)（《邪悪な宿命》） | [127](04-virtues-and-flaws.md#邪悪な宿命evil-destiny) |
 | Evil Eye (Flaw)（《邪視》） | [127](04-virtues-and-flaws.md#邪視evil-eye) |
-| Ex Miscellanea (Template)（エクス・ミスケラネア（テンプレート）） | [38](03-characters.md#エクスミスケラネア) |
-| Ex Miscellanea, House（エクス・ミスケラネア流派） | [14](02-the-order-of-hermes.md#エクスミスケラネア流派), [243–244](07-hermetic-magic.md#エクスミスケラネアの伝統) |
+| Ex Miscellanea (Template)（雑集派（テンプレート）） | [38](03-characters.md#雑集派) |
+| Ex Miscellanea, House（雑集派） | [14](02-the-order-of-hermes.md#雑集派), [243–244](07-hermetic-magic.md#雑集派の伝統) |
 | Exciting Experimentation (Flaw)（《刺激的な実験》） | [127](04-virtues-and-flaws.md#刺激的な実験exciting-experimentation) |
 | Excommunicate (Flaw)（《破門者》） | [128](04-virtues-and-flaws.md#破門者excommunicate) |
 | Exertion（力の振り絞り） | [397](11-obstacles.md#力の振り絞り) |
@@ -2138,7 +2138,7 @@
 | Faerie Doctors（妖精医師） | [56–57](03-characters.md#妖精医師) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
 | Faerie Lore (Ability)（〈妖精知識〉） | [165](05-abilities.md#妖精知識faerie-lore) |
-| Faerie Magic（妖精魔法） | [236–238](07-hermetic-magic.md#メリニタ妖精魔法) |
+| Faerie Magic（妖精魔法） | [236–238](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Faerie Magic (Ability)（〈妖精魔法〉） | [165](05-abilities.md#妖精魔法faerie-magic) |
 | Faerie Magic (Virtue)（《妖精魔法》） | [79](04-virtues-and-flaws.md#妖精魔法faerie-magic) |
 | Faerie-Raised Magic (Virtue)（《妖精に育まれた魔法》） | [79](04-virtues-and-flaws.md#妖精に育まれた魔法faerie-raised-magic) |
@@ -2192,7 +2192,7 @@
 | Fist（拳） | [401](11-obstacles.md#格闘の武器) |
 | Flail（フレイル） | [402](11-obstacles.md#両手武器) |
 | Flambeau (Template)（フランボー（テンプレート）） | [39](03-characters.md#フランボー) |
-| Flambeau, House（フランボー流派） | [14](02-the-order-of-hermes.md#フランボー流派) |
+| Flambeau, House（フランボー派） | [14](02-the-order-of-hermes.md#フランボー派) |
 | Flashbacks (Flaw)（《追想》） | [130](04-virtues-and-flaws.md#追想flashbacks) |
 | Flawed Parma Magica (Flaw)（《欠陥あるパルマ・マギカ》） | [130](04-virtues-and-flaws.md#欠陥あるパルママギカflawed-parma-magica) |
 | Flawed Powers (Flaw)（《欠陥ある力》） | [130](04-virtues-and-flaws.md#欠陥ある力flawed-powers) |
@@ -2267,10 +2267,10 @@
 | Groups, Combat（集団（戦闘の）） | [395–397](11-obstacles.md#集団) |
 | Grudge (Flaw)（《遺恨》） | [132](04-virtues-and-flaws.md#遺恨grudge) |
 | Guardian Angel (Virtue)（《守護天使》） | [84](04-virtues-and-flaws.md#守護天使guardian-angel) |
-| Guernicus (Template)（グェルニクス（テンプレート）） | [40](03-characters.md#グェルニクス) |
-| Guernicus, House（グェルニクス流派） | [14](02-the-order-of-hermes.md#グェルニクス流派) |
+| Guernicus (Template)（グエルニクス（テンプレート）） | [40](03-characters.md#グエルニクス) |
+| Guernicus, House（グエルニクス派） | [14](02-the-order-of-hermes.md#グエルニクス派) |
 | &nbsp;&nbsp;*see also Quaesitor* |  |
-| Guest of House Criamon (Virtue)（《クリアモン流派の客人》） | [84](04-virtues-and-flaws.md#クリアモン流派の客人guest-of-house-criamon) |
+| Guest of House Criamon (Virtue)（《クリーアモン派の客人》） | [84](04-virtues-and-flaws.md#クリーアモン派の客人guest-of-house-criamon) |
 | Guest Storyguiding（客演のストーリーガイド） | [529](16-sagas.md#客演のストーリーガイド) |
 | Guild Apprentice (Virtue)（《ギルド徒弟》） | [84](04-virtues-and-flaws.md#ギルド徒弟guild-apprentice) |
 | Guild Dean (Virtue)（《ギルド長老》） | [85](04-virtues-and-flaws.md#ギルド長老guild-dean) |
@@ -2285,7 +2285,7 @@
 | Hauberk（ホーバーク） | [399](11-obstacles.md#装着範囲) |
 | Healing Miracle（癒しの奇跡） | [505–506](14-mythic-europe.md#奇跡) |
 | Healing Spells（治癒呪文） | [406](11-obstacles.md#治癒の呪文) |
-| Heartbeast（心獣） | [233](07-hermetic-magic.md#ビョルナエル心獣) |
+| Heartbeast（心獣） | [233](07-hermetic-magic.md#ビョルネール心獣) |
 | Heartbeast (Ability)（〈心獣〉） | [165](05-abilities.md#心獣heartbeast) |
 | Heartbeast (Virtue)（《心獣》） | [85](04-virtues-and-flaws.md#心獣heartbeast) |
 | Heat（熱） | [407](11-obstacles.md#熱と腐食) |
@@ -2412,7 +2412,7 @@
 | Jack-of-All-Trades (Virtue)（《何でも屋》） | [87](04-virtues-and-flaws.md#何でも屋jack-of-all-trades) |
 | Javelin（ジャベリン） | [402](11-obstacles.md#飛び道具) |
 | Jerbiton (Template)（イェルビトン（テンプレート）） | [40](03-characters.md#イェルビトン) |
-| Jerbiton, House（イェルビトン流派） | [15](02-the-order-of-hermes.md#イェルビトン流派) |
+| Jerbiton, House（イェルビトン派） | [15](02-the-order-of-hermes.md#イェルビトン派) |
 | Jerusalem（エルサレム） | [419](12-realms.md#聖なる力のオーラの源) |
 | Jesus Christ（イエス・キリスト） | [498](14-mythic-europe.md#教義) |
 | Jews（ユダヤ人） | [499](14-mythic-europe.md#秘蹟), [504](14-mythic-europe.md#教会法) |
@@ -2421,7 +2421,7 @@
 | Journeyman (Virtue)（《遍歴職人》） | [87](04-virtues-and-flaws.md#遍歴職人journeyman) |
 | Judaic Lore (Ability)（〈ユダヤ知識〉） | [167](05-abilities.md#ユダヤ知識judaic-lore) |
 | Judged Unfairly (Flaw)（《不当に裁かれる》） | [134](04-virtues-and-flaws.md#不当に裁かれるjudged-unfairly) |
-| Judges（裁判官） | [14](02-the-order-of-hermes.md#グェルニクス流派), [504](14-mythic-europe.md#教会法) |
+| Judges（裁判官） | [14](02-the-order-of-hermes.md#グエルニクス派), [504](14-mythic-europe.md#教会法) |
 | Jumping（跳躍） | [161](05-abilities.md#運動athletics) |
 | Jurist (Virtue)（《法学者》） | [87](04-virtues-and-flaws.md#法学者jurist) |
 | Just an Instant (Virtue)（《ほんの一瞬》） | [87](04-virtues-and-flaws.md#ほんの一瞬just-an-instant) |
@@ -2600,16 +2600,16 @@
 | Mentor (Flaw)（《導師》） | [137](04-virtues-and-flaws.md#導師mentor) |
 | Mentored by Demons (Virtue)（《悪魔の教え》） | [98](04-virtues-and-flaws.md#悪魔の教えmentored-by-demons) |
 | Mercenary Captain (Virtue)（《傭兵隊長》） | [98](04-virtues-and-flaws.md#傭兵隊長mercenary-captain) |
-| Mercere (Template)（メルケレ（テンプレート）） | [41](03-characters.md#メルケレ) |
-| Mercere, House（メルケレ流派） | [15](02-the-order-of-hermes.md#メルケレ流派) |
+| Mercere (Template)（メルケーレ（テンプレート）） | [41](03-characters.md#メルケーレ) |
+| Mercere, House（メルケーレ派） | [15](02-the-order-of-hermes.md#メルケーレ派) |
 | &nbsp;&nbsp;*see also Redcaps* |  |
 | Merchant (Virtue)（《商人》） | [98](04-virtues-and-flaws.md#商人merchant) |
 | Merchant Adventurer (Virtue)（《冒険商人》） | [98](04-virtues-and-flaws.md#冒険商人merchant-adventurer) |
 | Mercurian Magic (Virtue)（《メルクリウス魔法》） | [98](04-virtues-and-flaws.md#メルクリウス魔法mercurian-magic) |
 | Mercury（メルクリウス） | [9](02-the-order-of-hermes.md#魔術団の歴史) |
-| Merinita – Faerie Magic（メリニタ――妖精魔法） | [236–238](07-hermetic-magic.md#メリニタ妖精魔法) |
-| Merinita (Template)（メリニタ（テンプレート）） | [41](03-characters.md#メリニタ) |
-| Merinita, House（メリニタ流派） | [16](02-the-order-of-hermes.md#メリニタ流派) |
+| Merinita – Faerie Magic（メリニータ――妖精魔法） | [236–238](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Merinita (Template)（メリニータ（テンプレート）） | [41](03-characters.md#メリニータ) |
+| Merinita, House（メリニータ派） | [16](02-the-order-of-hermes.md#メリニータ派) |
 | Metal Reinforced Leather Armor（リングメイル） | [399](11-obstacles.md#材質) |
 | Metal Scale Armor（スケールメイル） | [399](11-obstacles.md#材質) |
 | Method Caster (Virtue)（《型どおりの行使》） | [98](04-virtues-and-flaws.md#型どおりの行使method-caster) |
@@ -2692,7 +2692,7 @@
 | &nbsp;&nbsp;Foundation（創設） | [9](02-the-order-of-hermes.md#魔術団の創設) |
 | &nbsp;&nbsp;History（歴史） | [9](02-the-order-of-hermes.md#魔術団の歴史) |
 | Ordination（叙階） | [500](14-mythic-europe.md#秘蹟) |
-| Ordo Miscellanea（諸類派魔術団） | [11](02-the-order-of-hermes.md#ダウンアラーとオルドミスケラネア) |
+| Ordo Miscellanea（諸類派魔術団） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | (Organization) Lore (Ability)（〈組織知識〉） | [169](05-abilities.md#組織知識organization-lore) |
 | Original Sin（原罪） | [498](14-mythic-europe.md#教義) |
 | Outcast (Flaw)（《追われ者》） | [139](04-virtues-and-flaws.md#追われ者outcast) |
@@ -2765,7 +2765,7 @@
 | Powerful Relic (Virtue)（《強力な聖遺物》） | [104](04-virtues-and-flaws.md#強力な聖遺物powerful-relic) |
 | Practice Experience（実践経験点） | [377](10-long-term-events.md#鍛錬) |
 | Praeco（主宰） | [22](02-the-order-of-hermes.md#トリビューナル) |
-| Pralix（プラリクス） | [11](02-the-order-of-hermes.md#ダウンアラーとオルドミスケラネア) |
+| Pralix（プラリクス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | Precise Casting（精確な行使） | [226](07-hermetic-magic.md#精確行使) |
 | Premonitions (Ability)（〈予感〉） | [170](05-abilities.md#予感premonitions) |
 | Premonitions (Virtue)（《予感》） | [104](04-virtues-and-flaws.md#予感premonitions) |
@@ -2788,8 +2788,8 @@
 | Pure Fantasy Saga（純ファンタジーサーガ） | [530](16-sagas.md#純粋なファンタジーのサーガ) |
 | Pure Troupe Style（純粋なトゥループ式） | [530](16-sagas.md#純粋なトゥループ式) |
 | Purgatory（煉獄） | [499](14-mythic-europe.md#教義) |
-| Quaesitor（審問士） | [6](01-introduction.md#用語集), [14](02-the-order-of-hermes.md#グェルニクス流派) |
-| &nbsp;&nbsp;*see also [Guernicus, House*](02-the-order-of-hermes.md#グェルニクス流派) |  |
+| Quaesitor（審問士） | [6](01-introduction.md#用語集), [14](02-the-order-of-hermes.md#グエルニクス派) |
+| &nbsp;&nbsp;*see also [Guernicus, House*](02-the-order-of-hermes.md#グエルニクス派) |  |
 | Quick Casting（素早い行使） | [226](07-hermetic-magic.md#迅速行使) |
 | Quickness（【反応】） | [27](03-characters.md#反応quicknessqik) |
 | Quiet Casting（無言詠唱） | [226](07-hermetic-magic.md#静穏行使) |
@@ -2814,8 +2814,8 @@
 | Rector/Proctor (Flaw)（《学長／監事》） | [142](04-virtues-and-flaws.md#学長監事rectorproctor) |
 | Recurring Spells（反復する呪文） | [240](07-hermetic-magic.md#反復する呪文) |
 | Redcap (Virtue)（《赤帽士》） | [105](04-virtues-and-flaws.md#赤帽士redcap) |
-| &nbsp;&nbsp;*see also [Mercere, House](02-the-order-of-hermes.md#メルケレ流派)* |  |
-| Redcaps（赤帽士） | [6](01-introduction.md#用語集), [15](02-the-order-of-hermes.md#メルケレ流派) |
+| &nbsp;&nbsp;*see also [Mercere, House](02-the-order-of-hermes.md#メルケーレ派)* |  |
+| Redcaps（赤帽士） | [6](01-introduction.md#用語集), [15](02-the-order-of-hermes.md#メルケーレ派) |
 | Refinement (laboratory)（洗練（研究所の）） | [287](08-laboratory.md#洗練) |
 | Regio（レギオー） | [181–182](06-covenants.md#コヴナント設定小), [420](12-realms.md#レギオー) |
 | Rego (Art)（レゴー／操作） | [208](07-hermetic-magic.md#レゴーre我操る) |
@@ -2849,7 +2849,7 @@
 | Ritual Spells（儀式呪文） | [311](09-spells.md#儀式呪文) |
 | Rival (Hook)（《好敵手》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Hook)（《道》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
-| Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニタ妖精魔法) |
+| Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Rogue (Template)（無頼（テンプレート）） | [35](03-characters.md#悪漢) |
 | Rolling Stone (Flaw)（《転石》） | [143](04-virtues-and-flaws.md#転石rolling-stone) |
 | Room (Target)（部屋（目標）） | [305](09-spells.md#目標) |
@@ -2993,7 +2993,7 @@
 | Summon Animals (Virtue)（《動物召喚》） | [111](04-virtues-and-flaws.md#動物召喚summon-animals) |
 | Summoning Spirits（霊の召喚） | [308](09-spells.md#霊の召喚) |
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
-| Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメア流派の専横) |
+| Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
 | Supernatural Abilities（超常能力） | [159](05-abilities.md#超常能力) |
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常能力を習得する) |
@@ -3060,8 +3060,8 @@
 | Travel（旅行） | [408](11-obstacles.md#旅), [507–508](14-mythic-europe.md#旅) |
 | Traveling Childhood（旅する幼少期） | [48](03-characters.md#幼年期の例) |
 | Treasure Hunting（トレジャーハンティング） | [519–520](15-stories.md#宝探し) |
-| Tremere (Template)（トレメア（テンプレート）） | [42](03-characters.md#トレメア) |
-| Tremere, House（トレメア流派） | [11](02-the-order-of-hermes.md#トレメア流派の専横), [16](02-the-order-of-hermes.md#トレメア流派) |
+| Tremere (Template)（トレメーレ（テンプレート）） | [42](03-characters.md#トレメーレ) |
+| Tremere, House（トレメーレ派） | [11](02-the-order-of-hermes.md#トレメーレ派の専横), [16](02-the-order-of-hermes.md#トレメーレ派) |
 | Trianoma（トリアノマ） | [6](01-introduction.md#用語集), [10](02-the-order-of-hermes.md#トリアノマとヴィエア) |
 | Tribunals（トリビューナル） | [6](01-introduction.md#用語集), [21–23](02-the-order-of-hermes.md#トリビューナル) |
 | &nbsp;&nbsp;Grand（大トリビューナル） | [21](02-the-order-of-hermes.md#大トリビューナル) |
@@ -3080,8 +3080,8 @@
 | Twilight（黄昏） | [228–230](07-hermetic-magic.md#魔術師の黄昏) |
 | &nbsp;&nbsp;Scars（痕） | [30](03-characters.md#書式), [229](07-hermetic-magic.md#黄昏の効果) |
 | Twilight Prone (Flaw)（《黄昏の誘い》） | [148](04-virtues-and-flaws.md#黄昏の誘いtwilight-prone) |
-| Tytalus (Template)（ティタルス（テンプレート）） | [42](03-characters.md#ティタルス) |
-| Tytalus, House（ティタルス流派） | [11](02-the-order-of-hermes.md#ティタルス流派の堕落), [17](02-the-order-of-hermes.md#ティタルス流派) |
+| Tytalus (Template)（テュータルス（テンプレート）） | [42](03-characters.md#テュータルス) |
+| Tytalus, House（テュータルス派） | [11](02-the-order-of-hermes.md#テュータルス派の堕落), [17](02-the-order-of-hermes.md#テュータルス派) |
 | Tzadik Nistar (Flaw)（《ツァディーク・ニスタル》） | [148](04-virtues-and-flaws.md#ツァディークニスタルtzadik-nistar) |
 | Unaffected by The Gift (Virtue)（《天禀に動じない》） | [114](04-virtues-and-flaws.md#天禀に動じないunaffected-by-the-gift) |
 | Unaging (Virtue)（《不老》） | [114](04-virtues-and-flaws.md#不老unaging) |
@@ -3103,7 +3103,7 @@
 | Unruly Air (Flaw)（《荒ぶる妖気》） | [149](04-virtues-and-flaws.md#荒ぶる妖気unruly-air) |
 | Unspecialized (Flaw)（《専門を持たない》） | [149](04-virtues-and-flaws.md#専門を持たないunspecialized) |
 | Unstructured Caster (Flaw)（《型なき術者》） | [149](04-virtues-and-flaws.md#型なき術者unstructured-caster) |
-| Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニタ妖精魔法) |
+| Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Untrained Group（未訓練の集団） | [396](11-obstacles.md#訓練されていない集団) |
 | Urban (Covenant Situation)（都市（コヴナントの状況）） | [177](06-covenants.md#都市) |
 | Urban (Hook)（《都市》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
@@ -3114,10 +3114,10 @@
 | Vassal（家臣） | [506](14-mythic-europe.md#封建制) |
 | Venditor (Virtue)（《ウェンディトル》） | [114](04-virtues-and-flaws.md#ウェンディトルvenditor) |
 | Venus' Blessing (Virtue)（《ウェヌスの祝福》） | [114](04-virtues-and-flaws.md#ウェヌスの祝福venus-blessing) |
-| Verditius (Template)（ヴェルディティウス（テンプレート）） | [43](03-characters.md#ヴェルディティウス) |
-| Verditius, House（ヴェルディティウス流派） | [17](02-the-order-of-hermes.md#ヴェルディティウス流派) |
-| Verditius Magic（ヴェルディティウス魔法） | [240–243](07-hermetic-magic.md#ヴェルディティウスヴェルディティウス魔術) |
-| Verditius Magic (Virtue)（《ヴェルディティウス魔法》） | [114](04-virtues-and-flaws.md#ヴェルディティウス魔法verditius-magic) |
+| Verditius (Template)（ウェルディーティウス（テンプレート）） | [43](03-characters.md#ウェルディーティウス) |
+| Verditius, House（ウェルディーティウス派） | [17](02-the-order-of-hermes.md#ウェルディーティウス派) |
+| Verditius Magic（ウェルディーティウス魔法） | [240–243](07-hermetic-magic.md#ウェルディーティウスウェルディーティウス魔術) |
+| Verditius Magic (Virtue)（《ウェルディーティウス魔法》） | [114](04-virtues-and-flaws.md#ウェルディーティウス魔法verditius-magic) |
 | Vendetta (Flaw)（《抗争》） | [149](04-virtues-and-flaws.md#抗争vendetta) |
 | Vengeful Powers (Flaw)（《復讐する力》） | [150](04-virtues-and-flaws.md#復讐する力vengeful-powers) |
 | Vernus（春） | [175](06-covenants.md#ウェルヌス) |
@@ -3190,7 +3190,7 @@
 | Wrathful (Flaw)（《怒りっぽい》） | [154](04-virtues-and-flaws.md#怒りっぽいwrathful) |
 | Writing Books（執筆） | [379–380](10-long-term-events.md#書物を著す) |
 | Year (Duration)（年（持続時間）） | [305](09-spells.md#持続時間) |
-| Year + 1 (Duration)（年＋1（持続時間）） | [237](07-hermetic-magic.md#メリニタ妖精魔法) |
+| Year + 1 (Duration)（年＋1（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔法) |
 
 ---
 
