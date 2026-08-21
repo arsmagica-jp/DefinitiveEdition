@@ -7,7 +7,7 @@
 ## 表記方針
 
 - 訳文は日本語のみ。固有名詞・ルール用語は各章の初出時に英語を丸括弧で併記する。
-- 《　》＝美徳・欠点、〈　〉＝能力（アビリティ）、*斜体*＝呪文名。索引の表記に合わせる。
+- 《　》＝美点・欠点、〈　〉＝能力（アビリティ）、*斜体*＝呪文名。索引の表記に合わせる。
 - 見出しは原文の階層をそのまま保つ。表・引用ブロック・改行タグ（`<br>`）も原文どおり。
 
 ## 基本用語（索引準拠）
@@ -69,7 +69,7 @@
 | Ability | 能力 |
 | Ability score | 能力値 |
 | Specialization | 専門 |
-| Virtues and Flaws | 美徳と欠点 |
+| Virtues and Flaws | 美点と欠点 |
 | simple die | シンプルダイス |
 | stress die | ストレス・ダイス |
 | botch | ボッチ（大失敗） |
@@ -86,7 +86,7 @@
 | Chapter 1: Introduction | 第1章　序論 |
 | Chapter 2: The Order of Hermes | 第2章　ヘルメス魔術団 |
 | Chapter 3: Characters | 第3章　キャラクター |
-| Chapter 4: Virtues and Flaws | 第4章　美徳と欠点 |
+| Chapter 4: Virtues and Flaws | 第4章　美点と欠点 |
 | Chapter 5: Abilities | 第5章　能力 |
 | Chapter 6: Covenants | 第6章　コヴナント |
 | Chapter 7: Hermetic Magic | 第7章　ヘルメス魔法 |
@@ -244,7 +244,7 @@
 | Bound Familiar | 結ばれた使い魔 | 索引準拠 |
 | Opening the Arts | 術法を開く | |
 | Deficiency | 苦手 | Deficient Technique/Form と対応 |
-| House Virtue | 流派美徳 | |
+| House Virtue | 流派美点 | |
 | apprentice's gauntlet | 徒弟のガントレット | |
 | Arcane Experimentation | 秘儀の実験 | |
 | risk modifier | 危険修正 | |
@@ -512,7 +512,7 @@
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Qualities | 特質 | 獣固有の特徴。美徳・欠点とは別枠 |
+| Qualities | 特質 | 獣固有の特徴。美点・欠点とは別枠 |
 | Natural Weapons | 生来の武器 | |
 | Natural Weapons Table | 生来の武器表 | |
 | Protection | 防護 | 毛皮・鱗・甲羅などが与える値 |
@@ -576,7 +576,7 @@
 | Venomous | 有毒 |
 | Vocal | よく吠える |
 
-**注：**《鋭い聴力》（Sharp Ears）は美徳、「鋭い耳」（Sharp Ears）は特質。原文が同名を両枠で用いているため訳し分けた。同様に「組みつき」は戦闘行為・特質の双方に用いる。
+**注：**《鋭い聴力》（Sharp Ears）は美点、「鋭い耳」（Sharp Ears）は特質。原文が同名を両枠で用いているため訳し分けた。同様に「組みつき」は戦闘行為・特質の双方に用いる。
 
 ### 領域別クリーチャーの用語（第13章）
 
@@ -597,7 +597,7 @@
 | Lunar Sphere | 月天球 | 物質界と天上界の境 |
 | revenant | レヴェナント | 「歩く死者」。肉体を保つ死者 |
 | haunt | 棲処 | 地霊が結びついた土地 |
-| Ghostly Warder | 亡霊の守護者 | 美徳《亡霊の守護者》に対応 |
+| Ghostly Warder | 亡霊の守護者 | 美点《亡霊の守護者》に対応 |
 
 **妖精の領域**
 
@@ -624,7 +624,7 @@
 | Compulsiveness / Ordering | 数え癖／秩序 | 弱みの一種 |
 | Protected Group / Running Water / Vulnerability | 守られた集団／流れる水／脆さ | 弱みの一種 |
 | Corrupt Beast | 穢れた獣 | 欠点名としては《穢れた獣》 |
-| Greater / Lesser Infernal Power | 《大いなる地獄の力》／《小なる地獄の力》 | 穢れた獣専用の美徳 |
+| Greater / Lesser Infernal Power | 《大いなる地獄の力》／《小なる地獄の力》 | 穢れた獣専用の美点 |
 | Horrifying Appearance / Demonic Weakness | 《怖ろしき外見》／《悪魔の弱み》 | 穢れた獣専用の欠点 |
 | vis prava | ウィース・プラウァ（穢れたウィース） | |
 | Goetic Art of Binding | ゴエティアの術「結縛」 | |
@@ -638,7 +638,7 @@
 | Spirit Form / Subtle Form | 霊の姿／微妙なる姿 | |
 | Divine Might | 聖なる実力値 | 既出 |
 
-**注：**〈魅了〉（Entrancement、超常能力）と〈魅惑〉（Charm、一般能力）は別の能力である。混同しないこと。同様に《鋭い聴力》（Sharp Ears、美徳）と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
+**注：**〈魅了〉（Entrancement、超常能力）と〈魅惑〉（Charm、一般能力）は別の能力である。混同しないこと。同様に《鋭い聴力》（Sharp Ears、美点）と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
 
 **注：**訳者による「訳注：原文の不備について」の節を章末に置いたため、本章の日本語版は原文より `##` 見出しが一つ多い。
 
@@ -681,7 +681,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | feudalism | 封建制 | |
-| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 美徳名は《臣従の誓い》 |
+| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 美点名は《臣従の誓い》 |
 | demesne | 直営地 | 領主が自ら耕作する土地 |
 | honor | オナー（大領主権） | 相続の単位となる領主権 |
 | tournament | 馬上槍試合 | |

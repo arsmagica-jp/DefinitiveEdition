@@ -135,7 +135,7 @@
 
 ### 〈霊視〉
 
-*[67ページ](04-virtues-and-flaws.md#美徳一覧)、[170ページ](05-abilities.md#霊視second-sight)*
+*[67ページ](04-virtues-and-flaws.md#美点一覧)、[170ページ](05-abilities.md#霊視second-sight)*
 
 **レギオーの視認のロール：【知覚】＋しかるべき能力＋ストレスダイス**
 
@@ -143,7 +143,7 @@
 
 ### 〈聖邪感知〉
 
-*[67ページ](04-virtues-and-flaws.md#美徳一覧)、[189ページ](06-covenants.md#支出)、[170ページ](04-virtues-and-flaws.md#聖邪感知sense-holiness-and-unholiness)*
+*[67ページ](04-virtues-and-flaws.md#美点一覧)、[189ページ](06-covenants.md#支出)、[170ページ](04-virtues-and-flaws.md#聖邪感知sense-holiness-and-unholiness)*
 
 #### 魔法抵抗を貫通する必要のないもの
 
@@ -847,9 +847,9 @@
 - 標準の教授の規則を用いる。
 - 年に少なくとも一季節。〈パルマ・マギカ〉を広げて徒弟を覆わねばならない。
 - 術法を開くには一季節を要する。すべての術法で技量5以上を持たねばならず、さもなくば徒弟はその術法に《苦手》を得る。
-- 徒弟が超常能力を持つ場合、インテルレゴー・ウィムの研究所合計値がその能力の技量の5倍以上でなければならない。小なる美徳なら最低10、大なる美徳なら最低30（能力を伴わない小なる美徳なら10、大なる美徳なら10）。複数の能力については技量をすべて合計する。研究所合計値がこのレベルの二倍以上であれば、その能力は保たれるかヘルメスの美徳へ転換されうる。そうでなければ失われる。
+- 徒弟が超常能力を持つ場合、インテルレゴー・ウィムの研究所合計値がその能力の技量の5倍以上でなければならない。小なる美点なら最低10、大なる美点なら最低30（能力を伴わない小なる美点なら10、大なる美点なら10）。複数の能力については技量をすべて合計する。研究所合計値がこのレベルの二倍以上であれば、その能力は保たれるかヘルメスの美点へ転換されうる。そうでなければ失われる。
 
-#### ヘルメスの美徳を教える
+#### ヘルメスの美点を教える
 
 **教授の源の質：**【交渉】＋〈教授〉＋3＋加算
 
@@ -857,7 +857,7 @@
 
 **目標レベル：**小なるものは15、大なるものは21
 
-**レベルの修正：**小なるヘルメス美徳一つにつき＋3、大なるヘルメス美徳一つにつき＋9
+**レベルの修正：**小なるヘルメス美点一つにつき＋3、大なるヘルメス美点一つにつき＋9
 
 ### 呪付されたアイテム
 
@@ -1833,7 +1833,7 @@
 | Casting Requisites（行使の制約術法） | [311–312](09-spells.md#制約術法) |
 | Casting Spells（呪文の行使） | [213–220](07-hermetic-magic.md#呪文の行使) |
 | Casting Tablet（詠唱板） | [180](06-covenants.md#詠唱板), [263](08-laboratory.md#詠唱板) |
-| Casting Tools（詠唱道具） | [242](07-hermetic-magic.md#詠唱道具の呪付小なる流派の秘儀の美徳) |
+| Casting Tools（詠唱道具） | [242](07-hermetic-magic.md#詠唱道具の呪付小なる流派の秘儀の美点) |
 | Castratus (Flaw)（《去勢者》） | [122](04-virtues-and-flaws.md#去勢者castratus) |
 | Cathedral（大聖堂） | [502](14-mythic-europe.md#組織) |
 | Cathedral School Master (Virtue)（《司教座聖堂学校長》） | [73](04-virtues-and-flaws.md#司教座聖堂学校長cathedral-school-master) |
@@ -2133,7 +2133,7 @@
 | &nbsp;&nbsp;*see also Auras* |  |
 | Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
 | Faerie Creatures（妖精のクリーチャー） | [466–475](13-bestiary.md#妖精のクリーチャー) |
-| &nbsp;&nbsp;Virtues & Flaws（美徳と欠点） | [466](13-bestiary.md#新たな美徳と欠点) |
+| &nbsp;&nbsp;Virtues & Flaws（美点と欠点） | [466](13-bestiary.md#新たな美点と欠点) |
 | Faerie Doctor (Virtue)（《妖精医師》） | [79](04-virtues-and-flaws.md#妖精医師faerie-doctor) |
 | Faerie Doctors（妖精医師） | [56–57](03-characters.md#妖精医師) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
@@ -2197,7 +2197,7 @@
 | Flawed Parma Magica (Flaw)（《欠陥あるパルマ・マギカ》） | [130](04-virtues-and-flaws.md#欠陥あるパルママギカflawed-parma-magica) |
 | Flawed Powers (Flaw)（《欠陥ある力》） | [130](04-virtues-and-flaws.md#欠陥ある力flawed-powers) |
 | Flawless Magic (Virtue)（《完璧な魔法》） | [81](04-virtues-and-flaws.md#完璧な魔法flawless-magic) |
-| Flaws（欠点） | [26](03-characters.md#美徳と欠点), [45](03-characters.md#美徳と欠点-1), [47](03-characters.md#手早く簡単に美徳と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美徳と欠点) |
+| Flaws（欠点） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
 | &nbsp;&nbsp;*see also Virtues and Flaws* |  |
 | Flexible Formulaic Magic (Virtue)（《柔軟な定式魔法》） | [81](04-virtues-and-flaws.md#柔軟な定式魔法flexible-formulaic-magic) |
 | Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢fluctuating-fortune) |
@@ -2313,7 +2313,7 @@
 | Hermetic Patron (Flaw)（《ヘルメスの庇護者》） | [132](04-virtues-and-flaws.md#ヘルメスの庇護者hermetic-patron) |
 | Hermetic Prestige (Virtue)（《ヘルメスの威光》） | [85](04-virtues-and-flaws.md#ヘルメスの威光hermetic-prestige) |
 | Hermetic Reputation（ヘルメスの評判） | [28](03-characters.md#評判) |
-| Hermetic Virtues and Flaws（ヘルメス美徳と欠点） | [45](03-characters.md#美徳と欠点-1) |
+| Hermetic Virtues and Flaws（ヘルメス美点と欠点） | [45](03-characters.md#美点と欠点-1) |
 | Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛hex) |
 | Hex (Virtue)（《呪詛》） | [85](04-virtues-and-flaws.md#呪詛hex) |
 | Hiems（冬） | [176](06-covenants.md#ヒエムス) |
@@ -2443,7 +2443,7 @@
 | &nbsp;&nbsp;Features（特徴） | [296–297](08-laboratory.md#研究所の設備) |
 | &nbsp;&nbsp;Personalization（個人化） | [286–298](08-laboratory.md#研究所の個性化の規則) |
 | &nbsp;&nbsp;Texts（研究書巻） | [180](06-covenants.md#研究書巻), [262](08-laboratory.md#研究書巻) |
-| &nbsp;&nbsp;Virtues and Flaws（美徳と欠点） | [292–296](08-laboratory.md#研究所の美徳と欠点) |
+| &nbsp;&nbsp;Virtues and Flaws（美点と欠点） | [292–296](08-laboratory.md#研究所の美点と欠点) |
 | &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究所作業) |
 | Laborer (Virtue)（《労働者》） | [88](04-virtues-and-flaws.md#労働者laborer) |
 | Lame (Flaw)（《跛行》） | [135](04-virtues-and-flaws.md#跛行lame) |
@@ -2731,7 +2731,7 @@
 | Personal Power (Virtue)（《個人の力》） | [102](04-virtues-and-flaws.md#個人の力personal-power) |
 | Personal Vis Source (Virtue)（《自前のウィース源》） | [103](04-virtues-and-flaws.md#自前のウィース源personal-vis-source) |
 | Personality（性格） | [52](03-characters.md#性格-1) |
-| Personality Flaws（性格の欠点） | [45](03-characters.md#美徳と欠点), [61](04-virtues-and-flaws.md#第4章美徳と欠点), [66](04-virtues-and-flaws.md#性格) |
+| Personality Flaws（性格の欠点） | [45](03-characters.md#美点と欠点), [61](04-virtues-and-flaws.md#第4章美点と欠点), [66](04-virtues-and-flaws.md#性格) |
 | Personality Rolls（性格のロール） | [28](03-characters.md#性格ロール) |
 | Personality Traits（性格） | [28](03-characters.md#性格) |
 | Pessimistic (Flaw)（《悲観的》） | [140](04-virtues-and-flaws.md#悲観的pessimistic) |
@@ -2930,7 +2930,7 @@
 | Social Childhood（社交的な幼少期） | [48](03-characters.md#幼年期の例) |
 | Social Contacts (Virtue)（《人脈》） | [108](04-virtues-and-flaws.md#人脈social-contacts) |
 | Social Handicap (Flaw)（《社交場の不利》） | [145](04-virtues-and-flaws.md#社交場の不利social-handicap) |
-| Social Status（社会的地位） | [45](03-characters.md#美徳と欠点-1), [62](04-virtues-and-flaws.md#社会階層の美徳と欠点), [64](04-virtues-and-flaws.md#社会階層) |
+| Social Status（社会的地位） | [45](03-characters.md#美点と欠点-1), [62](04-virtues-and-flaws.md#社会階層の美点と欠点), [64](04-virtues-and-flaws.md#社会階層) |
 | &nbsp;&nbsp;By Culture（文化別） | [65](04-virtues-and-flaws.md#文化圏ごとの社会階層) |
 | Sodalis（ソダリス） | [6](01-introduction.md#用語集) |
 | Sofer (Virtue)（《ソフェル》） | [109](04-virtues-and-flaws.md#ソフェルsofer) |
@@ -2999,7 +2999,7 @@
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
-| Supernatural Virtues and Flaws（超常的美徳と欠点） | [64](04-virtues-and-flaws.md#超常) |
+| Supernatural Virtues and Flaws（超常的美点と欠点） | [64](04-virtues-and-flaws.md#超常) |
 | Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀suppressed-gift) |
 | Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医surgical-empiricus) |
 | Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術survival) |
@@ -3124,8 +3124,8 @@
 | Viaticarus (Flaw)（《ウィアティカルス》） | [150](04-virtues-and-flaws.md#ウィアティカルスviaticarus) |
 | Viea（ウィエア） | [10](02-the-order-of-hermes.md#トリアノマとヴィエア) |
 | Vim (Art)（ウィム／力） | [209](07-hermetic-magic.md#ウィムvi力), [364–372](09-spells.md#ウィムの呪文) |
-| Virtues and Flaws（美徳と欠点） | [26](03-characters.md#美徳と欠点), [45](03-characters.md#美徳と欠点-1), [47](03-characters.md#手早く簡単に美徳と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美徳と欠点) |
-| &nbsp;&nbsp;List of Virtues（美徳の一覧） | [67–68](04-virtues-and-flaws.md#美徳一覧) |
+| Virtues and Flaws（美点と欠点） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
+| &nbsp;&nbsp;List of Virtues（美点の一覧） | [67–68](04-virtues-and-flaws.md#美点一覧) |
 | &nbsp;&nbsp;List of Flaws（欠点の一覧） | [117–118](04-virtues-and-flaws.md#欠点一覧) |
 | Vis（ウィース） | [6](01-introduction.md#用語集), [180](06-covenants.md#ウィース), [212](07-hermetic-magic.md#生のウィース), [250](08-laboratory.md#ウィース) |
 | &nbsp;&nbsp;Sources（源） | [422](12-realms.md#ウィース源) |
