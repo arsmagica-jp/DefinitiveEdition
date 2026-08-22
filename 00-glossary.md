@@ -781,6 +781,6 @@
 
 **Wizard's ◯◯ として「魔術師」を据え置いた語**（magi ではないため）
 
-*魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の乗騎*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
+*魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の駒*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
 
 なお「ウィザーズ・ウォー」（Wizard's War）は索引準拠の音写のため対象外である。

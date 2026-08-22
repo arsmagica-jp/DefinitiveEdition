@@ -601,14 +601,14 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*貪婪な獣を鈍重な蟇へ変ずる術*（Transformation of the Ravenous Beast to the Torpid Toad、MuAn 25/+19）
-*獣の苦悶*（Agony of the Beast、PeAn 15/+12）
-*獣を防ぐ円環*（Circle of Beast Warding、ReAn 5/+10）
-*毒蛇の凝視*（Viper's Gaze、ReAn 15/+10）
+*餓えたる獣を鈍き蟇に変ずる術*（Transformation of the Ravenous Beast to the Torpid Toad、MuAn 25/+19）
+*獣の悶え*（Agony of the Beast、PeAn 15/+12）
+*獣を阻む円環*（Circle of Beast Warding、ReAn 5/+10）
+*蝮の睨み*（Viper's Gaze、ReAn 15/+10）
 *猫の目*（Eyes of the Cat、MuCo(An) 5/+19）
-*熊の剛毅の賜物*（Gift of the Bear's Fortitude、MuCo 25/+19）
-*涙する傷*（The Wound that Weeps、PeCo 15/+12）
-*吊られた操り人形を持ち上げる*（Lifting the Dangling Puppet、ReCo 15/+10）
+*熊の剛き賜物*（Gift of the Bear's Fortitude、MuCo 25/+19）
+*泣き止まぬ傷*（The Wound that Weeps、PeCo 15/+12）
+*吊り下がる傀儡を持ち上ぐ*（Lifting the Dangling Puppet、ReCo 15/+10）
 
 **手直しの覚書：**ビョルネールのマギは人間よりも動物とともにいるほうがはるかに気楽であり、自分を人間であると同時に動物でもあると考えているかもしれない。《露骨な天禀》と《動物に無害》の組み合わせは、彼女が人間よりも動物とうまくやることを意味する。《森の流儀》は実際の心獣にふさわしい地形へ変更すべきである。この例では狼を想定している。二つの大いなる欠点はどちらも自由に変更でき、《不得手な形相（イグネム）》はビョルネール派にきわめてよく見られるとはいえ、あなたのキャラクターがそれを持つ特段の理由はない。なお、《無音の魔術》と《無身振りの魔術》によって、このマギは心獣の姿のままペナルティなしで呪文を行使できる。
 
@@ -647,11 +647,11 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*怒れる風の突撃*（Charge of the Angry Winds、CrAu 15/+24）
-*雨と雷の雲*（Clouds of Rain and Thunder、CrAu 25/+24）
-*夏の雪の雲*（Clouds of Summer Snow、CrAu 25/+24）
-*稲妻の呪唱*（The Incantation of Lightning、CrAu 35/+24）
-*膿む傷の浄化*（Purification of the Festering Wounds、CrCo 20/+16）
+*荒ぶる風の襲い*（Charge of the Angry Winds、CrAu 15/+24）
+*雨と雷を孕む雲*（Clouds of Rain and Thunder、CrAu 25/+24）
+*夏に雪降らす雲*（Clouds of Summer Snow、CrAu 25/+24）
+*稲妻の呪言*（The Incantation of Lightning、CrAu 35/+24）
+*膿む傷の清め*（Purification of the Festering Wounds、CrCo 20/+16）
 
 **手直しの覚書：**このボニサグスは、魔法における何らかの偉大な発見をライフワークとしている見込みが高い。彼または彼女はいわゆる「研究室ネズミ」であり、外の世界よりも自分の研究室にいるほうが幸せなマギである。とはいえ、負っている借りと発見への衝動が彼を外へ押し出しがちである。同様に、呪付アイテムは彼にとってきわめて有用だが、彼は自分でそれを作るのが下手である。これもまた彼を物語へと駆り立てる。この構想は諸美点と《ライフワーク》の欠点を軸に組まれている。他の欠点は容易に変更できる。小なる欠点をさらに二つ取るか、《ライフワーク》を大いなるものにして、その釣り合いに小なる美点を二つ追加してもよい。同様に、このキャラクターが《素質》を持つ術法も変更できるが、その場合は習得呪文も変更する必要がある。
 
@@ -690,13 +690,13 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*語る首の幻像*（Phantom of the Talking Head、CrIm 10/+8）
-*高貴なる威風のオーラ*（Aura of Ennobled Presence、MuIm 10/+8）
+*物言う首の幻*（Phantom of the Talking Head、CrIm 10/+8）
+*貴きものの気配*（Aura of Ennobled Presence、MuIm 10/+8）
 *妖精の帳を貫く*（Piercing the Faerie Veil、InVi 20/+18）
 *魔法の帳を貫く*（Piercing the Magical Veil、InVi 20/+18）（*妖精の帳を貫く*を参照）
 *イマーギネムの織りを解く*（Unraveling the Fabric of Imaginem、PeVi 20/+16）
-*世俗の沈黙の風*（Wind of Mundane Silence、PeVi 20/+16）
-*悪魔に対する円環の結界*（Circular Ward Against Demons、ReVi 20/+16）
+*世俗の静寂を運ぶ風*（Wind of Mundane Silence、PeVi 20/+16）
+*悪魔を阻む円環の結界*（Circular Ward Against Demons、ReVi 20/+16）
 
 **手直しの覚書：**このクリーアモンは欠点の上限まで取っていないので、望むなら大いなる欠点をもう一つ、あるいは小なる欠点を三つ、対応する美点とともに取れる。彼女の〈魅惑〉と〈人間知識〉の値は、人生最初の五年間に取得可能な他の能力へ移すこともできる（詳細キャラクター作成ルール[43ページ](#詳細キャラクター作成)を参照）。その際、高い【魅力】の値も併せて動かしてよいだろう。
 
@@ -736,13 +736,13 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*護りの石の壁*（Wall of Protecting Stone、CrTe 25/+35）
+*護りの石壁*（Wall of Protecting Stone、CrTe 25/+35）
 *水晶の投げ矢*（The Crystal Dart、Mu(Re)Te 10/+27）
-*粘る粘土の岩*（Rock of Viscid Clay、MuTe 15/+27）
-*もはや崩れぬ大地*（Earth that Breaks No More、MuTe 20/+27）
-*金属の障壁の抹消*（Obliteration of the Metallic Barrier、Pe(Re)Te 20/+22）
+*粘る土と化す岩*（Rock of Viscid Clay、MuTe 15/+27）
+*崩れざる大地*（Earth that Breaks No More、MuTe 20/+27）
+*鉄の壁を消し去る*（Obliteration of the Metallic Barrier、Pe(Re)Te 20/+22）
 *大地の腫れ物*（The Earth's Carbuncle、Re(Mu)Te 15/+27）
-*掴む大地の手*（Hands of the Grasping Earth、Re(Mu)Te 15/+23）
+*掴み来る大地の手*（Hands of the Grasping Earth、Re(Mu)Te 15/+23）
 
 **手直しの覚書：**この雑集派の伝統は《巨人の血》と《素質（テルラム）》の美点、および《必須の条件：石に触れていること》の欠点を与える。ここでいう石は、たとえば帯に下げた石片でもよいが、少なくとも当のマギの手ほどの大きさは必要である（このマギの手は大きい）。このマギは欠点の上限まで取っていないので、大いなる欠点をもう一つ、あるいは小なる欠点をさらに三つ、対応する美点とともに取れる。
 
@@ -787,9 +787,9 @@
 **習得呪文：**
 *炎の掌*（Palm of Flame、CrIg 5/+41）
 *火のピルム*（Pilum of Fire、CrIg 20/+41）
-*火の帯の弧*（Arc of Fiery Ribbons、CrIg 25/+41）
-*深淵の炎の球*（Ball of Abysmal Flame、CrIg 35/+41）
-*取り巻く炎の環*（Circle of Encompassing Flame、CrIg 35/+41）
+*炎の帯の弧*（Arc of Fiery Ribbons、CrIg 25/+41）
+*奈落の炎の球*（Ball of Abysmal Flame、CrIg 35/+41）
+*囲む炎の輪*（Circle of Encompassing Flame、CrIg 35/+41）
 
 **手直しの覚書：**このフランボーは徹頭徹尾ひとつ芸の持ち主である。敵に火を投げつけることにかけてはきわめて効果的であり、術法と魔術の専門分野を絞っているおかげで、強力な呪文でもある程度の貫通を持つ。しかしそれ以外のことをしようとすると、はるかに弱い。型どおりの姿を少し崩したければ、《怒りっぽい》と《宿敵》は難なく他の欠点に差し替えられるし、《大いなる耐性》も同様である。小なる欠点をもう一つと、その釣り合いの小なる美点を取れる。
 
@@ -826,12 +826,12 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*医師の眼*（Physician's Eye、InCo 5/+20）
+*薬師の眼*（Physician's Eye、InCo 5/+20）
 *鷲の目*（Eyes of the Eagle、InIm 25/+21）
-*遠き像を呼び寄せる*（Summoning the Distant Image、InIm 25/+21）
+*遠き像を招く*（Summoning the Distant Image、InIm 25/+21）
 *佇む魔術師の不可視*（Invisibility of the Standing Wizard、PeIm 15/+8）
 *語られた嘘の凍える息*（Frosty Breath of the Spoken Lie、InMe 20/+21）
-*死すべき者の心を覗く*（Peering Into the Mortal Mind、InMe 30/+21）
+*人の心を覗き見る*（Peering Into the Mortal Mind、InMe 30/+21）
 
 **手直しの覚書：**このグエルニクスが嘘をつくと（自分が偽と信じていることを真であるかのように述べると）、次に日が昇るか沈むまで一切の魔法を使えない。彼女が呪文を行使した直後（おおよそ二分以内）に、その場で嘘をつこうとする者は、行使された呪文の階梯に等しい目標値に対して、該当する性格の判定を行わねばならない。判定に失敗した者は嘘をつくことができない。ただし黙っていることはできる。このグエルニクスは、あと4点分の欠点と、それに対応する美点を取れる。
 
@@ -870,15 +870,15 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*語る首の幻像*（Phantasm of the Talking Head、CrIm 10/+16）
-*人の姿の幻像*（Phantasm of the Human Form、CrIm 25/+16）
-*自らの幻影を見抜く*（Discern Own Illusions、InIm 15/+11）
-*香辛料と香草の味*（Taste of the Spices and Herbs、MuIm 5/+16）
-*高貴なる威風のオーラ*（Aura of Ennobled Presence、MuIm 10/+16）
-*麗しき響きの音色*（Notes of a Delightful Sound、MuIm 10/+16）
-*姿を変える変装*（Disguise of the Transformed Image、MuIm 15/+16）
-*冷たい炎の幻影*（Illusion of Cool Flames、PeIm 10/+6）
-*ずらされた像の幻影*（Illusion of the Shifted Image、ReIm 10/+16）
+*物言う首の幻*（Phantasm of the Talking Head、CrIm 10/+16）
+*人の姿の幻*（Phantasm of the Human Form、CrIm 25/+16）
+*己の幻を見分く*（Discern Own Illusions、InIm 15/+11）
+*香と草の味わい*（Taste of the Spices and Herbs、MuIm 5/+16）
+*貴きものの気配*（Aura of Ennobled Presence、MuIm 10/+16）
+*麗しき調べ*（Notes of a Delightful Sound、MuIm 10/+16）
+*像を変ずる装い*（Disguise of the Transformed Image、MuIm 15/+16）
+*冷たき炎の幻*（Illusion of Cool Flames、PeIm 10/+6）
+*ずれたる像の幻*（Illusion of the Shifted Image、ReIm 10/+16）
 *魔術師の横歩み*（Wizard's Sidestep、ReIm 10/+16）
 
 **手直しの覚書：**このイェルビトンは、流派に関わる無償の美点として《強化（音楽）》を取った。音楽と魔法における芸術家を自任する社交的な人物として設計されている。あと3点分までの欠点を、対応する美点とともに取れる。なお彼は《穏和な天禀》を持つため、世俗の人々とペナルティなしで関われる点に注意せよ。
@@ -918,11 +918,11 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*ユピテルの轟く一撃*（Jupiter's Resounding Blow、CrAu 10/+26）
-*雨と雷の雲*（Clouds of Rain and Thunder、CrAu 25/+35）
-*夏の雪の雲*（Clouds of Summer Snow、CrAu 25/+35）
-*天翔ける風の引き*（Pull of the Skybound Winds、CrAu 30/+26）
-*翔ける風の翼*（Wings of the Soaring Wind、Cr(Re)Au 30/+27）
+*ユピテルの轟く鉄槌*（Jupiter's Resounding Blow、CrAu 10/+26）
+*雨と雷を孕む雲*（Clouds of Rain and Thunder、CrAu 25/+35）
+*夏に雪降らす雲*（Clouds of Summer Snow、CrAu 25/+35）
+*天翔る風の誘い*（Pull of the Skybound Winds、CrAu 30/+26）
+*風に乗る翼*（Wings of the Soaring Wind、Cr(Re)Au 30/+27）
 
 **手直しの覚書：**このメルケーレは、あと3点分の欠点と、同じ点数分の美点を取れる。彼は単独で旅する能力を十分に備えており、おそらくそれを好む。〈狩猟〉と〈隠密〉の値を〈魅惑〉などの社交系能力へ移せば、集団で旅をしやすい人物に仕立てられる。
 
@@ -962,11 +962,11 @@
 
 **習得呪文：**
 *幻の獣*（Phantasmal Animal、CrIm 20/+17）
-*人の姿の幻像*（Phantasm of the Human Form、CrIm 25/+17）
+*人の姿の幻*（Phantasm of the Human Form、CrIm 25/+17）
 *像の幻*（Image Phantom、MuIm 20/+17）
-*不可視の帳*（Veil of Invisibility、PeIm 20/+14）
+*姿を隠す帳*（Veil of Invisibility、PeIm 20/+14）
 *魔術師の横歩み*（Wizard's Sidestep、ReIm 10/+17）
-*震える心の恐慌*（Panic of the Trembling Heart、CrMe 15/+9）
+*震う心の怯え*（Panic of the Trembling Heart、CrMe 15/+9）
 *眠りへの誘い*（The Call to Slumber、ReMe 10/+9）
 
 **手直しの覚書：**このメリニータは、あと3点分の欠点と同じ点数分の美点を取れる。《濃い妖精の血脈》の種類も容易に変更できる。《濃い妖精の血脈》の影響で25歳より若く見えるかもしれないが、そうである必要はない。
@@ -1008,14 +1008,14 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*守りの巡る風*（Circling Winds of Protection、Cr(Re)Au 20/+16）
-*石の雨*（Rain of Stones、MuAu(Te) 20/+16）
+*守り巡る風*（Circling Winds of Protection、Cr(Re)Au 20/+16）
+*礫の雨*（Rain of Stones、MuAu(Te) 20/+16）
 *火のピルム*（Pilum of Fire、CrIg 20/+16）
-*猛る炎を宥める*（Soothe the Raging Flames、PeIg 20/+16）
-*大地を塞ぐ*（Seal the Earth、CrTe 15/+16）
-*坑夫の鋭き眼*（The Miner's Keen Eye、InTe 20/+16）
-*もはや崩れぬ大地*（Earth that Breaks No More、MuTe 20/+16）
-*口を開く大地の穴*（Pit of the Gaping Earth、PeTe 15/+16）
+*荒ぶる炎を鎮む*（Soothe the Raging Flames、PeIg 20/+16）
+*地を封ずる*（Seal the Earth、CrTe 15/+16）
+*坑夫の冴えたる眼*（The Miner's Keen Eye、InTe 20/+16）
+*崩れざる大地*（Earth that Breaks No More、MuTe 20/+16）
+*口開く大地の穴*（Pit of the Gaping Earth、PeTe 15/+16）
 
 **手直しの覚書：**このトレメーレは、あと3点分の欠点と、同程度の点数の美点を取れる。現時点では社交的・政治的な人物だが、それらの能力のいずれかの値を戦闘系能力へ移せば、より戦士寄りにできる。《四大の魔術》があるため術法の値を動かすのは難しい。当初、彼にはAq 3、Au 6、Ig 6、Te 6の値が割り当てられていた。
 
@@ -1060,11 +1060,11 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*絶えざる憂いの痛み*（Pains of the Perpetual Worry、CrMe 20/+16）
-*無言の問いを投げる*（Posing the Silent Question、InMe 20/+16）
-*童心の信頼*（Trust of Childlike Faith、PeMe 10/+11）
-*正統なる権威のオーラ*（Aura of Rightful Authority、ReMe 20/+16）
-*安らかな眠りの香り*（Scent of Peaceful Slumber、ReMe 20/+16）
+*止まぬ憂いの疼き*（Pains of the Perpetual Worry、CrMe 20/+16）
+*黙して問う*（Posing the Silent Question、InMe 20/+16）
+*童のごとき信*（Trust of Childlike Faith、PeMe 10/+11）
+*正統なる威の輝き*（Aura of Rightful Authority、ReMe 20/+16）
+*安らけき眠りの香*（Scent of Peaceful Slumber、ReMe 20/+16）
 
 **手直しの覚書：**このテュータルスは、あと3点分までの欠点と、同程度の点数の美点を取れる。
 
@@ -1107,13 +1107,13 @@
 **荷重：**0（0）
 
 **習得呪文：**
-*大地を塞ぐ*（Seal the Earth、CrTe 15/+23）
+*地を封ずる*（Seal the Earth、CrTe 15/+23）
 *ミダスの触れ*（Touch of Midas、CrTe 20/+25）
-*護りの石の壁*（Wall of Protecting Stone、CrTe 25/+23）
+*護りの石壁*（Wall of Protecting Stone、CrTe 25/+23）
 *水晶の投げ矢*（The Crystal Dart、Mu(Re)Te 10/+21）
 *剃刀の刃*（Edge of the Razor、MuTe 20/+21）
-*口を開く大地の穴*（Pit of the Gaping Earth、PeTe 15/+19）
-*掴む大地の手*（Hands of the Grasping Earth、Re(Mu)Te 15/+21）
+*口開く大地の穴*（Pit of the Gaping Earth、PeTe 15/+19）
+*掴み来る大地の手*（Hands of the Grasping Earth、Re(Mu)Te 15/+21）
 
 **手直しの覚書：**このウェルディーティウスは、小なる欠点をあと三つ、あるいは大いなる欠点を一つと、その釣り合いの美点を取れる。加えて、彼女の〈工芸〉能力は基本構想をさほど変えることなく別の工芸に変更できる。最後に、ドワーフの血を引く者が皆これほど小柄なわけではないので、この欠点は根本的な部分に影響を与えずに他の欠点と差し替えられる。
 
@@ -1361,7 +1361,7 @@
 >
 > 次にヘルメス魔法の術法を見る。経験点は60点残っている。彼は37点をペルドに費やし、《素質》によってこれが56点になるので、ペルド10（1）となり、《強化》から+3の加算を得る。それから残りのほとんどをクレオとコルプスに充てる。15経験点でクレオ5、3経験点でコルプス2である。
 >
-> ダリウスは、習得できる最高レベルの呪文を求めるために技法＋形相に11を加える（〈魔術理論〉の専門「呪文の発明」が適用される）。彼はすべてペルド呪文を取ることにし、*涙する傷*（PeCo 15）、*塵は塵に*（Dust to Dust、PeCo 15）、*乾かす風*（Parching Wind、PeAq 20）、*猛る炎を宥める*（PeIg 20）、*不可視の帳*（PeIm 20）、*心の動きを鎮める*（Calm the Motion of the Heart、PeMe 15）、*ほんの一瞬の記憶の喪失*（Loss of But a Moment's Memory、PeMe 15）を選ぶ。
+> ダリウスは、習得できる最高レベルの呪文を求めるために技法＋形相に11を加える（〈魔術理論〉の専門「呪文の発明」が適用される）。彼はすべてペルド呪文を取ることにし、*泣き止まぬ傷*（PeCo 15）、*塵は塵に*（Dust to Dust、PeCo 15）、*干上がらす風*（Parching Wind、PeAq 20）、*荒ぶる炎を鎮む*（PeIg 20）、*姿を隠す帳*（PeIm 20）、*心の揺らぎを鎮む*（Calm the Motion of the Heart、PeMe 15）、*束の間の記憶の失せ*（Loss of But a Moment's Memory、PeMe 15）を選ぶ。
 >
 > 《完璧な魔法》の美点があるため、ダリウスは各呪文について習熟値1を持ち、それゆえニールは呪文ごとに特別な能力を選ばねばならない。
 >
@@ -1404,7 +1404,7 @@
 >
 > ダリウスはサーガ開始時には徒弟期間を終えているので、ニールはさらに歩を進める。26歳から33歳までの八年間は、経験点をまとめて扱う。これで240経験点をさまざまに使えることになる。まず25経験点を使って〈パルマ・マギカ〉を3に上げる。マギ狩りにはまともな魔法抵抗が要るからだ。次に5経験点を〈両手武器〉1に使い、ダリウスに槍を与える。続いて88経験点を使ってコルプスを13に上げる。ダリウスは自前の延命儀式を編み出したいだろうし、PeCo呪文でまともな貫通を持ちたいだろう、というのがその理屈である。次に、もう少し器用さを持たせるため、30経験点でクレオを10に、60経験点でアクアム、イグネム、イマーギネム、メンテム、テルラム、ウィムをすべて4に上げ、レゴーとインテルレゴーにそれぞれ1経験点を使ってどちらも値1とする。これで30経験点が残り、彼はそれを*冬の氷の手*（Winter's Icy Touch）と、*二百年の錆朽*（Rusted Decay of Ten-Score Years、PeTe 10、目標を集団に拡大＝+2階梯）のレベル20版に費やす。ここでもこの呪文の習熟能力を選ぶ必要がある。
 >
-> 次にニールは、ダリウスが翌年を研究室で過ごすことに決めるので、その年は経験点を得ない。これらの活動の詳細については249ページ以降の「研究室」の章を参照。第1季：呪付のために槍の柄（杖）を開く（ウィース8ポーン）。第2季：槍の柄をタリスマンとして調律する。第3季：延命儀式を作成する（ウィース7ポーン、研究室合計値35、老化に対して+7の恩恵）。第4季：タリスマンに*涙する傷*（PeCo 15）の効果を、貫通0、1日50回の使用回数で込める。槍は基本的にまだ杖の形をしているので、タリスマンを「+4 遠隔で物を破壊する」の調律に開く。
+> 次にニールは、ダリウスが翌年を研究室で過ごすことに決めるので、その年は経験点を得ない。これらの活動の詳細については249ページ以降の「研究室」の章を参照。第1季：呪付のために槍の柄（杖）を開く（ウィース8ポーン）。第2季：槍の柄をタリスマンとして調律する。第3季：延命儀式を作成する（ウィース7ポーン、研究室合計値35、老化に対して+7の恩恵）。第4季：タリスマンに*泣き止まぬ傷*（PeCo 15）の効果を、貫通0、1日50回の使用回数で込める。槍は基本的にまだ杖の形をしているので、タリスマンを「+4 遠隔で物を破壊する」の調律に開く。
 >
 > ここからニールはダリウスを1年ずつ進める。老化の結果が彼の学習と成長に影響しうるからである。ダリウスの35年目、彼は15経験点を〈狩猟〉2に、5経験点を〈ローマ法及び教会法〉1に、10経験点をアニマルを4に上げるのに費やす。この時点でニールは、ダリウスは時おりボッチしそうな類のマギなので、黄昏に見舞われる危険を冒しただろうと判断する。徒弟期間を終えて十年になるダリウスは、歪曲度2に加えて歪曲ポイントが5点余っている。彼は魔法を制御するロールを行って成功したので、ダリウスはこの時点では実際に黄昏へ入ることはない。
 >
@@ -1482,39 +1482,39 @@
 >
 > **黄昏の痕跡：**ダリウスのフードの中の影は異様に深く、その顔を隠している。ダリウスが魔法を使うと、近くにある魔法によらない品が朽ちる（欠点《歪んだ魔術》と同様）。
 >
-> **装備：**柄をタリスマンとして呪付したロングスピア。*涙する傷*（PeCo 15、貫通0、1日50回）の効果を込め、「遠隔で破壊する呪文に+4の恩恵」に調律されている。延命儀式：研究室合計値35、老化に+7の恩恵。
+> **装備：**柄をタリスマンとして呪付したロングスピア。*泣き止まぬ傷*（PeCo 15、貫通0、1日50回）の効果を込め、「遠隔で破壊する呪文に+4の恩恵」に調律されている。延命儀式：研究室合計値35、老化に+7の恩恵。
 >
 > **荷重：**0（2）
 >
 > **習得呪文：**
-> *吼える狼を跛にする*（Cripple the Howling Wolf、PeAn 25/+27\*）、習熟1（迅速な行使）
-> *乾かす風*（Parching Wind、PeAq 20/+28\*）、習熟1（貫通）
-> *砂漠の呪い*（Curse of the Desert、PeAq 25/+29\*）、習熟2（貫通、魔法抵抗）
-> *外科医の癒しの手*（The Chirurgeon's Healing Touch、CrCo 20/+32）、習熟1（貫通）
+> *吼ゆる狼の足を萎やす*（Cripple the Howling Wolf、PeAn 25/+27\*）、習熟1（迅速な行使）
+> *干上がらす風*（Parching Wind、PeAq 20/+28\*）、習熟1（貫通）
+> *荒野の呪詛*（Curse of the Desert、PeAq 25/+29\*）、習熟2（貫通、魔法抵抗）
+> *外科医の癒し手*（The Chirurgeon's Healing Touch、CrCo 20/+32）、習熟1（貫通）
 > *黒き門越しの囁き*（Whispers through the Black Gate、InCo(Me) 15/+13）、習熟1（無音の行使）
-> *仮借なき探索*（The Inexorable Search、InCo 20/+22）、習熟1（貫通）
-> *熊の剛毅の賜物*（Gift of the Bear's Fortitude、MuCo 25/+20）、習熟1（迅速な行使）
+> *逃れ得ぬ尋ね*（The Inexorable Search、InCo 20/+22）、習熟1（貫通）
+> *熊の剛き賜物*（Gift of the Bear's Fortitude、MuCo 25/+20）、習熟1（迅速な行使）
 > *塵は塵に*（Dust to Dust、PeCo 15/+37\*）、習熟1（貫通）
-> *涙する傷*（The Wound that Weeps、PeCo 15/+37\*）、習熟1（貫通）
-> *白濁した眼の呪唱*（Incantation of the Milky Eyes、PeCo 30/+37\*）、習熟1（貫通）
+> *泣き止まぬ傷*（The Wound that Weeps、PeCo 15/+37\*）、習熟1（貫通）
+> *眼を白く濁らす呪言*（Incantation of the Milky Eyes、PeCo 30/+37\*）、習熟1（貫通）
 > *舌の捩れ*（Twist of the Tongue、PeCo 30/+37\*）、習熟1（迅速な行使）
-> *握り潰された心臓の締めつけ*（Clenching Grasp of the Crushed Heart、PeCo 40/+38\*）、習熟2（貫通、魔法抵抗）
-> *狂戦士の耐久*（Endurance of the Berserkers、ReCo 15/+25）、習熟1（迅速な行使）
-> *吊られた操り人形を持ち上げる*（Lifting the Dangling Puppet、ReCo 15/+25）、習熟1（貫通）
-> *七リーグの歩み*（Seven-League Stride、ReCo 30/+25）、習熟1（迅速な行使）
-> *帰郷の跳躍*（The Leap of Homecoming、ReCo 35/+25）、習熟1（迅速な行使）
-> *大いなる腐朽*（The Great Rot、PeHe 25/+28\*）、習熟1（迅速な行使）
+> *心の臓を締め上ぐる手*（Clenching Grasp of the Crushed Heart、PeCo 40/+38\*）、習熟2（貫通、魔法抵抗）
+> *狂戦士の粘り*（Endurance of the Berserkers、ReCo 15/+25）、習熟1（迅速な行使）
+> *吊り下がる傀儡を持ち上ぐ*（Lifting the Dangling Puppet、ReCo 15/+25）、習熟1（貫通）
+> *七里を跨ぐ歩み*（Seven-League Stride、ReCo 30/+25）、習熟1（迅速な行使）
+> *家路への跳躍*（The Leap of Homecoming、ReCo 35/+25）、習熟1（迅速な行使）
+> *大いなる腐れ*（The Great Rot、PeHe 25/+28\*）、習熟1（迅速な行使）
 > *冬の氷の手*（Winter's Icy Touch、PeIg 10/+28）、習熟1（貫通）
-> *猛る炎を宥める*（Soothe the Raging Flames、PeIg 20/+28）、習熟1（迅速な行使）
-> *熱と炎に対する結界*（Ward Against Heat and Flames、ReIg 25/+16）、習熟1（迅速な行使）
-> *不可視の帳*（Veil of Invisibility、PeIm 20/+28）、習熟2（無音の行使×2）
+> *荒ぶる炎を鎮む*（Soothe the Raging Flames、PeIg 20/+28）、習熟1（迅速な行使）
+> *熱と炎を阻む結界*（Ward Against Heat and Flames、ReIg 25/+16）、習熟1（迅速な行使）
+> *姿を隠す帳*（Veil of Invisibility、PeIm 20/+28）、習熟2（無音の行使×2）
 > *舌の先*（Tip of the Tongue、PeMe 5/+29）、習熟2（迅速な行使、魔法抵抗）
-> *心の動きを鎮める*（Calm the Motion of the Heart、PeMe 15/+28）、習熟1（無音の行使）
-> *ほんの一瞬の記憶の喪失*（Loss of But a Moment's Memory、PeMe 15/+30\*）、習熟3（無音の行使×2、無身振りの行使）
-> *童心の至福の祝福*（Blessing of Childlike Bliss、PeMe 25/+30）、習熟3（無音の行使×2、無身振りの行使）
+> *心の揺らぎを鎮む*（Calm the Motion of the Heart、PeMe 15/+28）、習熟1（無音の行使）
+> *束の間の記憶の失せ*（Loss of But a Moment's Memory、PeMe 15/+30\*）、習熟3（無音の行使×2、無身振りの行使）
+> *童の至福の祝福*（Blessing of Childlike Bliss、PeMe 25/+30）、習熟3（無音の行使×2、無身振りの行使）
 > *二百年の錆朽*（Rusted Decay of Ten-Score Years、PeTe 20\*、目標を集団に拡大／+28\*）、習熟1（迅速な行使）
-> *悪魔の永遠の忘却*（Demon's Eternal Oblivion、PeVi 30/+30\*）、習熟1（迅速な行使）
-> *世俗の沈黙の風*（Wind of Mundane Silence、PeVi 30/+30）、習熟1（魔法抵抗）
+> *悪魔の永久の忘却*（Demon's Eternal Oblivion、PeVi 30/+30\*）、習熟1（迅速な行使）
+> *世俗の静寂を運ぶ風*（Wind of Mundane Silence、PeVi 30/+30）、習熟1（魔法抵抗）
 >
 > \* ダリウスがタリスマンを手にしている場合、「遠隔で物を破壊する」呪文の行使に+4の恩恵を得る。手にしているなら、これらの呪文にこの値を加えること。
 >
@@ -1685,8 +1685,8 @@
 
 - **ステータス・ブロックの整形**：原文のテンプレートはPDF抽出の名残で1項目が2〜3行に分断されている箇所が多い（例：`Combat: ... Defense +7,` ／空行／ `Damage +14`、`Short` ／空行／ `Attention Span`）。訳文では1項目1行に整形した。内容は変更していない。
 - **原文の欠落**：雑集派、グエルニクス、イェルビトンの各テンプレートの特性値欄は、原文が `Per -Pre -1`、`Per + Pre +1` のように崩れており、【知覚】の値が失われている。該当箇所に〔原文欠落〕と記した。
-- **原文の誤植**：クリーアモンの術法欄の `Ag 0` はアクアム（Aq）の誤植と判断して Aq とした。グエルニクスの呪文 `Frosty Breath of the Stoken Lie` は `Spoken` の誤植、ダリウスの `Curse of the Desert (PeAg 25)` は PeAq の誤植と判断した。騎士の装備 `beater shield` は heater shield として訳した。テュータルスの習得呪文欄では *正統なる権威のオーラ* が二度重複しているため、一度だけ掲げた。
-- **同一呪文の表記ゆれ**：原文はクリーアモンで `Phantom of the Talking Head`、イェルビトンで `Phantasm of the Talking Head` と記しており、同一呪文の表記が揺れている。訳語はいずれも *語る首の幻像* に統一し、括弧内には原文どおりの綴りを残した。
+- **原文の誤植**：クリーアモンの術法欄の `Ag 0` はアクアム（Aq）の誤植と判断して Aq とした。グエルニクスの呪文 `Frosty Breath of the Stoken Lie` は `Spoken` の誤植、ダリウスの `Curse of the Desert (PeAg 25)` は PeAq の誤植と判断した。騎士の装備 `beater shield` は heater shield として訳した。テュータルスの習得呪文欄では *正統なる威の輝き* が二度重複しているため、一度だけ掲げた。
+- **同一呪文の表記ゆれ**：原文はクリーアモンで `Phantom of the Talking Head`、イェルビトンで `Phantasm of the Talking Head` と記しており、同一呪文の表記が揺れている。訳語はいずれも *物言う首の幻* に統一し、括弧内には原文どおりの綴りを残した。
 - **ビョルネールの呪文欄**：原文では習得呪文欄の冒頭に `(forests)` という語が孤立して現れる。直前の能力欄の 〈生存術〉3 の専門が流れ込んだものと判断し、〈生存術（森林）〉3として能力欄に戻した。
 - **徒弟期間の節**：原文では「他のマギと比べて著しく弱くする」という文が例示の囲み記事によって分断され、続きが囲み記事の後に置かれている。訳文では一文につなげた。
 - **呪文名**：呪文名は日本語訳を主とし、丸括弧内に原題を併記した。索引（`CoreRules-index.md`）には呪文名の訳語がないため、本章の訳語は暫定である。第9章「呪文」の訳出時に確定し、必要なら全章を統一する。
