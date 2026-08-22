@@ -74,7 +74,8 @@
 | stress die | ストレス・ダイス |
 | botch | ボッチ（大失敗） |
 | botch dice | ボッチ・ダイス |
-| Ease Factor | 目標値 |
+| Ease Factor | 目標値 | 索引準拠。「難易度」から統一 |
+| Finesse | 〈呪文操作〉 | 索引準拠。「〈精妙〉」から統一 |
 | experience | 経験点 |
 | aging | 老化 |
 | combat | 戦闘 |
