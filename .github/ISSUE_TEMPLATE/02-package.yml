@@ -1,0 +1,49 @@
+name: 作業パッケージ（統括者用）
+description: 担当範囲を1つ切り出して、担当者を割り当てます。
+title: "[パッケージ] "
+labels: ["作業パッケージ"]
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: 系統
+      options:
+        - A 数値・データ照合（英語ほぼ不要）
+        - B 用語・表記の統一（用語集が読めれば可）
+        - C 対訳精読（英語が必要）
+        - D 日本語通読（英語不要）
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: 範囲
+      placeholder: "例）18-reference-guide.md の「一般規則」〜「研究室規則」（索引は除く）"
+    validations:
+      required: true
+  - type: textarea
+    id: howto
+    attributes:
+      label: この範囲で特に見てほしいこと
+      value: |
+        - 
+        - 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 担当者の方へ
+
+        **この Issue にコメントする形で報告してください。**新しく Issue を立てる必要はありません。
+        1回のコメントに何件まとめても構いません。下の表をコピーしてお使いください。
+
+        ```
+        | 行 | 種別 | 現在の訳文 | 提案 | 根拠 |
+        |---|---|---|---|---|
+        |  |  |  |  |  |
+        |  |  |  |  |  |
+        ```
+
+        - 行番号を出すには、ファイルの URL の末尾に `?plain=1` を付けます。
+        - **ファイルは直接編集しないでください。**報告だけお願いします。
+        - 判断に迷ったら Discussions の「用語の相談」「なんでも質問」へ。

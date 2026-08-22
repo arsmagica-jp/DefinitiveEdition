@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 用語の相談
+    url: https://github.com/arsmagica-jp/DefinitiveEdition/discussions/categories/terminology
+    about: 訳語をどうするか迷う・変えたい場合はこちらへ。決定したら用語集に反映します。
+  - name: なんでも質問
+    url: https://github.com/arsmagica-jp/DefinitiveEdition/discussions/categories/q-a
+    about: 進め方がわからない、原文の意味が取れない、など。
+  - name: 校正の手引き
+    url: https://github.com/arsmagica-jp/DefinitiveEdition/blob/main/ja/DefinitiveEdition/REVIEW-GUIDE.md
+    about: 作業を始める前にお読みください。

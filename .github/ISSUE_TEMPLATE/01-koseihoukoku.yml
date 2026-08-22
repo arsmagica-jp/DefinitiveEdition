@@ -1,0 +1,96 @@
+name: 校正報告（1件）
+description: 訳文の誤り・気になる点を1件報告します。Git の知識は不要です。
+title: "[報告] "
+labels: ["校正報告"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        まとめて何件も報告する場合は、担当パッケージの Issue にコメントする方が早いです。
+        1件だけ気づいた、という場合にこのフォームをお使いください。
+
+  - type: dropdown
+    id: file
+    attributes:
+      label: ファイル
+      options:
+        - 00-front-matter.md（前付け）
+        - 01-introduction.md（序論）
+        - 02-the-order-of-hermes.md（ヘルメス魔術団）
+        - 03-characters.md（キャラクター）
+        - 04-virtues-and-flaws.md（美点と欠点）
+        - 05-abilities.md（能力）
+        - 06-covenants.md（コヴナント）
+        - 07-hermetic-magic.md（ヘルメス魔法）
+        - 08-laboratory.md（研究室）
+        - 09-spells.md（呪文）
+        - 10-long-term-events.md（長期の出来事）
+        - 11-obstacles.md（障害）
+        - 12-realms.md（領域）
+        - 13-bestiary.md（幻獣誌）
+        - 14-mythic-europe.md（伝承ヨーロッパ）
+        - 15-stories.md（物語）
+        - 16-sagas.md（サーガ）
+        - 17-appendices.md（付録）
+        - 18-reference-guide.md（リファレンスガイド）
+        - 00-glossary.md（用語集）
+        - その他・わからない
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 種別
+      description: 迷ったら近いものを選んでください。
+      options:
+        - 数値（表やデータ欄の数字が原文と違う）
+        - 用語（訳語が他の箇所と揃っていない）
+        - 誤訳（原文と意味が違う）
+        - 訳し漏れ（原文にあるのに訳文にない）
+        - 日本語（意味は合っているが読みにくい）
+        - 原文の不備（英語の原文側が誤っている）
+    validations:
+      required: true
+
+  - type: input
+    id: place
+    attributes:
+      label: 場所
+      description: |
+        行番号、または該当行へのリンク。
+        リンクの作り方：ファイルを開いた URL の末尾に `?plain=1` を付けると行番号が出ます。
+        行番号をクリックしてから「Copy permalink」を選ぶとリンクが取れます。
+      placeholder: "例）1234行 / https://github.com/.../04-virtues-and-flaws.md?plain=1#L1234"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 現在の訳文
+      description: 該当箇所をそのまま貼り付けてください。
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 提案
+      description: こう直すとよい、という案。「わからないが変だと思う」でも構いません。
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 根拠
+      description: |
+        原文の該当箇所、用語集の記述、他の章での表記など。
+      placeholder: "例）原文 p.318 では Base 10 / 用語集では〈狩猟〉/ 第5章の能力一覧に合わせた"
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 確認
+      options:
+        - label: 用語の変更を提案する場合、自分では直さず報告に留めます（全章一括で直す必要があるため）
+          required: true
