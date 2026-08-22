@@ -1770,7 +1770,7 @@
 | &nbsp;&nbsp;*see also [Animals](13-bestiary.md#世俗の獣)* |  |
 | Beasts of Virtue（有徳の獣） | [413](02-the-order-of-hermes.md#魔法のクリーチャー) |
 | Bee King (Virtue)（《蜂の王》） | [72](04-virtues-and-flaws.md#蜂の王bee-king) |
-| Beholden (Hook)（《恩義》（コヴナント設定）） | [182](06-covenants.md#コヴナント設定大) |
+| Beholden (Hook)（《恩義（コヴナント設定）》） | [182](06-covenants.md#コヴナント設定大) |
 | Beloved Rival (Flaw)（《愛しき好敵手》） | [120](04-virtues-and-flaws.md#愛しき好敵手beloved-rival) |
 | Berserk (Virtue)（《凶暴化》） | [72](04-virtues-and-flaws.md#凶暴化berserk) |
 | Berserker (Template)（狂戦士（テンプレート）） | [31](03-characters.md#凶暴者) |
@@ -1904,7 +1904,7 @@
 | Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン派) |
 | Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具consumed-casting-tools) |
 | Container Targets（容器の目標） | [309](09-spells.md#容器の目標) |
-| Contested Resource (Hook)（《争われる資源》（コヴナント設定）） | [181](06-covenants.md#コヴナント設定小) |
+| Contested Resource (Hook)（《争われる資源（コヴナント設定）》） | [181](06-covenants.md#コヴナント設定小) |
 | Continence (Flaw)（《禁欲》） | [123](04-virtues-and-flaws.md#禁欲continence) |
 | Convents（修道院） | [505](14-mythic-europe.md#修道院) |
 | Convoluted Mind (Virtue)（《込み入った思考》） | [74](04-virtues-and-flaws.md#込み入った思考convoluted-mind) |
@@ -2636,7 +2636,7 @@
 | Monastic Offices（聖務日課） | [505](14-mythic-europe.md#修道院) |
 | Monastic Rule（修道会則） | [505](14-mythic-europe.md#修道院) |
 | Monastic Vows (Flaw)（《修道誓願》） | [138](04-virtues-and-flaws.md#修道誓願monastic-vows) |
-| Monster (Hook)（《怪物》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
+| Monster (Hook)（《怪物（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Monstrous Blood (Flaw)（《異形の血》） | [138](04-virtues-and-flaws.md#異形の血monstrous-blood) |
 | Moon (Duration)（月（持続時間）） | [304](09-spells.md#持続時間) |
 | Moses（モーゼ） | [502](14-mythic-europe.md#聖人) |
@@ -2780,7 +2780,7 @@
 | Profession (Type) (Ability)（〈職業（種別）〉） | [170](05-abilities.md#職業種別profession-type) |
 | Prohibition (Flaw)（《禁忌》） | [142](04-virtues-and-flaws.md#禁忌prohibition) |
 | Protection (Virtue)（《庇護》） | [105](04-virtues-and-flaws.md#庇護protection) |
-| Protector (Hook)（《庇護者》（コヴナント設定）） | [181](06-covenants.md#コヴナント設定小) |
+| Protector (Hook)（《庇護者（コヴナント設定）》） | [181](06-covenants.md#コヴナント設定小) |
 | Proud (Flaw)（《尊大》） | [142](04-virtues-and-flaws.md#尊大proud) |
 | Puissant Ability (Virtue)（《強化（能力）》） | [105](04-virtues-and-flaws.md#強化能力puissant-ability) |
 | Puissant Art (Virtue)（《強化（術法）》） | [105](04-virtues-and-flaws.md#強化術法puissant-art) |
@@ -2847,8 +2847,8 @@
 | Ritual Magic（儀式魔法） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#儀式魔法) |
 | Ritual Power (Virtue)（《儀式の力》） | [106](04-virtues-and-flaws.md#儀式の力ritual-power) |
 | Ritual Spells（儀式呪文） | [311](09-spells.md#儀式呪文) |
-| Rival (Hook)（《好敵手》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
-| Road (Hook)（《道》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
+| Rival (Hook)（《好敵手（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
+| Road (Hook)（《道（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Rogue (Template)（無頼（テンプレート）） | [35](03-characters.md#悪漢) |
 | Rolling Stone (Flaw)（《転石》） | [143](04-virtues-and-flaws.md#転石rolling-stone) |
@@ -2994,7 +2994,7 @@
 | Summoning Spirits（霊の召喚） | [308](09-spells.md#霊の召喚) |
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
-| Superiors (Hook)（《上位者》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
+| Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Supernatural Abilities（超常能力） | [159](05-abilities.md#超常能力) |
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
@@ -3106,7 +3106,7 @@
 | Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔法) |
 | Untrained Group（未訓練の集団） | [396](11-obstacles.md#訓練されていない集団) |
 | Urban (Covenant Situation)（都市（コヴナントの状況）） | [177](06-covenants.md#都市) |
-| Urban (Hook)（《都市》（コヴナント設定）） | [181–182](06-covenants.md#コヴナント設定小) |
+| Urban (Hook)（《都市（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Using Enchanted Devices（呪付装置の使用） | [259](08-laboratory.md#呪付装置を用いる) |
 | Usurer (Flaw)（《高利貸し》） | [149](04-virtues-and-flaws.md#高利貸しusurer) |
 | Variable Outcomes（結末の幅） | [516](15-stories.md#結末の幅) |
