@@ -788,66 +788,66 @@
 
 理解された黄昏は良い効果をもたらし、そうでなければ効果は悪しきものとなる。89ページ／[229ページ](07-hermetic-magic.md#黄昏の効果)参照。
 
-## 研究所規則
+## 研究室規則
 
-### 研究所のロール
+### 研究室のロール
 
-研究所合計値：技法＋形相＋【知性】＋〈魔術理論〉＋オーラ修正
+研究室合計値：技法＋形相＋【知性】＋〈魔術理論〉＋オーラ修正
 
 ウィースの上限：一季節につき〈魔術理論〉×2ポーン
 
-### 研究所での活動
+### 研究室での活動
 
 *94〜[102ページ](04-virtues-and-flaws.md#個人の力personal-power)、249〜[263ページ](08-laboratory.md#詠唱板)*
 
 **秘儀的連鎖の固定：**一季節＋ウィムのウィース1ポーン
 
-**ウィースの抽出：**クレオ・ウィムの研究所合計値の十分の一（切り上げ）ポーンのウィムのウィース
+**ウィースの抽出：**クレオ・ウィムの研究室合計値の十分の一（切り上げ）ポーンのウィムのウィース
 
 **ウィースの移し替え：**一日（日の出から日の出まで）。他の活動と併せて行える
 
-**呪文の考案：**一季節につき（研究所合計値−呪文レベル）のレベルを得る。得たレベルの合計が呪文レベル以上になったとき考案が完了する。
+**呪文の考案：**一季節につき（研究室合計値−呪文レベル）のレベルを得る。得たレベルの合計が呪文レベル以上になったとき考案が完了する。
 
 **インベスト・アイテムとして呪付するための品の準備：**一季節＋材質と大きさによって定まるポーン数のウィムのウィース
 
-**インベスト・アイテムへの効果の付与：**一季節につき（研究所合計値−効果レベル）のレベルを得る。得たレベルの合計が効果レベル以上になったとき付与が完了する。10レベルごと（端数も一つと数える）に、その技法または形相に合致するウィース1ポーンを費やす。
+**インベスト・アイテムへの効果の付与：**一季節につき（研究室合計値−効果レベル）のレベルを得る。得たレベルの合計が効果レベル以上になったとき付与が完了する。10レベルごと（端数も一つと数える）に、その技法または形相に合致するウィース1ポーンを費やす。
 
 **付与の上限：**効果の付与に費やすウィースのポーン数は、その品の準備に用いたウィースのポーン数を超えられない。
 
 **小なる呪付アイテム：**準備を要さないが、効果は一季節で付与し終えねばならない。
 
-**チャージ・アイテム：**ウィース不要。研究所合計値が効果のレベルを上回った五点ごと（端数も一つと数える）にチャージ一つ（研究所合計値がレベルと等しければチャージ一つ）。
+**チャージ・アイテム：**ウィース不要。研究室合計値が効果のレベルを上回った五点ごと（端数も一つと数える）にチャージ一つ（研究室合計値がレベルと等しければチャージ一つ）。
 
-**呪付の調査：**インテルレゴー・ウィムの研究所合計値＋ストレスダイス
+**呪付の調査：**インテルレゴー・ウィムの研究室合計値＋ストレスダイス
 
 **タリスマンの調律：**一季節
 
-**延命儀式：**一季節。クレオ・コルプスの研究所合計値の五点ごと（端数も一つと数える）に＋1の加算。年齢五年ごと（切り上げ）にウィース1ポーン。ウィースの使用量は〈魔術理論〉ではなく術法によって制限される。
+**延命儀式：**一季節。クレオ・コルプスの研究室合計値の五点ごと（端数も一つと数える）に＋1の加算。年齢五年ごと（切り上げ）にウィース1ポーン。ウィースの使用量は〈魔術理論〉ではなく術法によって制限される。
 
-**研究書巻：**研究所合計値が効果のレベル以上であれば一季節。すべてが同じ技法と形相であり、レベルの合計が研究所合計値を超えないのであれば、一季節に複数の呪文や効果を作成してよい。
+**研究書巻：**研究室合計値が効果のレベル以上であれば一季節。すべてが同じ技法と形相であり、レベルの合計が研究室合計値を超えないのであれば、一季節に複数の呪文や効果を作成してよい。
 
 #### 教師から呪文を学ぶ
 
-**レベルの合計の上限：**教師の該当する研究所合計値のうち最も高いもの
+**レベルの合計の上限：**教師の該当する研究室合計値のうち最も高いもの
 
-**一つの技法と形相におけるレベルの上限：**その技法と形相における教師の研究所合計値
+**一つの技法と形相におけるレベルの上限：**その技法と形相における教師の研究室合計値
 
-**個々の呪文のレベルの上限：**その呪文の技法と形相における学習者の研究所合計値
+**個々の呪文のレベルの上限：**その呪文の技法と形相における学習者の研究室合計値
 
 #### 使い魔を結ぶ
 
-**使い魔の結縛の研究所合計値：**任意の技法＋任意の形相＋【知性】＋〈魔術理論〉＋オーラ修正
+**使い魔の結縛の研究室合計値：**任意の技法＋任意の形相＋【知性】＋〈魔術理論〉＋オーラ修正
 
 **使い魔の結縛のレベル：**使い魔の魔法の実力値＋25＋（5×サイズ）
 
-**使い魔の結縛の費用：**結縛の研究所合計値の五レベルごと（端数も一つと数える）にウィース1ポーン。ウィースは技法または形相に合致せねばならない。
+**使い魔の結縛の費用：**結縛の研究室合計値の五レベルごと（端数も一つと数える）にウィース1ポーン。ウィースは技法または形相に合致せねばならない。
 
 #### 徒弟を訓練する
 
 - 標準の教授の規則を用いる。
 - 年に少なくとも一季節。〈パルマ・マギカ〉を広げて徒弟を覆わねばならない。
 - 術法を開くには一季節を要する。すべての術法で技量5以上を持たねばならず、さもなくば徒弟はその術法に《苦手》を得る。
-- 徒弟が超常能力を持つ場合、インテルレゴー・ウィムの研究所合計値がその能力の技量の5倍以上でなければならない。小なる美点なら最低10、大なる美点なら最低30（能力を伴わない小なる美点なら10、大なる美点なら10）。複数の能力については技量をすべて合計する。研究所合計値がこのレベルの二倍以上であれば、その能力は保たれるかヘルメスの美点へ転換されうる。そうでなければ失われる。
+- 徒弟が神秘系能力を持つ場合、インテルレゴー・ウィムの研究室合計値がその能力の技量の5倍以上でなければならない。小なる美点なら最低10、大なる美点なら最低30（能力を伴わない小なる美点なら10、大なる美点なら10）。複数の能力については技量をすべて合計する。研究室合計値がこのレベルの二倍以上であれば、その能力は保たれるかヘルメスの美点へ転換されうる。そうでなければ失われる。
 
 #### ヘルメスの美点を教える
 
@@ -925,7 +925,7 @@
 
 - 特別な結果表に対してストレスダイス＋危険度の修正を振る。
 - ボッチ・ダイス＝1＋オーラ＋危険度の修正
-- 研究所合計値に単純ダイス＋危険度の修正（＋3まで）を加える。
+- 研究室合計値に単純ダイス＋危険度の修正（＋3まで）を加える。
 
 ## 特別な結果表
 
@@ -945,11 +945,11 @@
 
 | 零の数 | 結果 |
 |--------|--------|
-| 1 | 研究所にいる全員が、ボッチのロールで出た零の数に等しい歪曲点を得る。ヘルメスのマギ（およびヘルメスの術法を開かれた者すべて）は、2点以上得たなら黄昏のロールを行わねばならない。その季節は完全に無駄になる。マギが黄昏に抗わないことを選べば、効果が生じる前に黄昏へ入り、自身への損傷をすべて免れる。 |
+| 1 | 研究室にいる全員が、ボッチのロールで出た零の数に等しい歪曲点を得る。ヘルメスのマギ（およびヘルメスの術法を開かれた者すべて）は、2点以上得たなら黄昏のロールを行わねばならない。その季節は完全に無駄になる。マギが黄昏に抗わないことを選べば、効果が生じる前に黄昏へ入り、自身への損傷をすべて免れる。 |
 | 2 | 創作物が破壊される。一季節の作業であれば、これは完全な失敗と同じである。 |
-| 3 | 研究所が《損傷》の欠点を得る。 |
-| 4 | 爆発。研究所が（《損傷》の代わりに）《大破》の欠点を得、研究所にいた者は全員が重傷を二つ負う。 |
-| 5以上 | ストーリーガイドが一つ選ぶ。（1）コヴナント全体を脅かす物語の出来事が、直ちに、あるいは制御を失った魔術の尾を引く余波として生じる。（2）爆発が研究所を完全に破壊する。その構造物は《歪んだ形》と《不安定》の欠点を得、一から建て直さねばならず、内にいた者は追加で行動不能の傷を負う。 |
+| 3 | 研究室が《損傷》の欠点を得る。 |
+| 4 | 爆発。研究室が（《損傷》の代わりに）《大破》の欠点を得、研究室にいた者は全員が重傷を二つ負う。 |
+| 5以上 | ストーリーガイドが一つ選ぶ。（1）コヴナント全体を脅かす物語の出来事が、直ちに、あるいは制御を失った魔術の尾を引く余波として生じる。（2）爆発が研究室を完全に破壊する。その構造物は《歪んだ形》と《不安定》の欠点を得、一から建て直さねばならず、内にいた者は追加で行動不能の傷を負う。 |
 
 **特別な効果なし：**実験は意図せぬ効果を生じることなく成功する。
 
@@ -966,7 +966,7 @@
 | 9 | その呪文に大きな副次的な恩恵がある。たとえば狼に変身する呪文が、狼でいるあいだあらゆる獣と語らうことをも可能にする。 |
 | 10 | その呪文に致命的な欠陥がある。たとえば不可視の呪文が、あなたを光らせる。 |
 
-**恩恵なし：**実験は何の成果も生まない。追加のダイスと危険度の修正の恩恵を失う――それらの修正なしで研究所合計値を計算し直すこと。新たな研究所合計値がその作業を成功させるには低すぎる場合、その作業は放棄せねばならない。
+**恩恵なし：**実験は何の成果も生まない。追加のダイスと危険度の修正の恩恵を失う――それらの修正なしで研究室合計値を計算し直すこと。新たな研究室合計値がその作業を成功させるには低すぎる場合、その作業は放棄せねばならない。
 
 **完全な失敗：**労力から何も得られず、その季節は無駄になる。使い魔か呪付されたアイテムに取り組んでいた場合は単純ダイスを振る。0が出ればそれは破壊される。
 
@@ -1147,7 +1147,7 @@
 
 **ウィースの情報源の質：**ストレスダイス＋オーラの加算
 
-**超常能力の情報源の質（新たな能力のみ）：**通常の情報源の質−超常能力の値の合計
+**神秘系能力の情報源の質（新たな能力のみ）：**通常の情報源の質−神秘系能力の値の合計
 
 ### 妨げ
 
@@ -1661,7 +1661,7 @@
 | &nbsp;&nbsp;Types（類型） | [158-159](05-abilities.md#能力の類型) |
 | Ability Block (Flaw)（《苦手分野》） | [119](04-virtues-and-flaws.md#苦手分野ability-block) |
 | Ability Roll（能力のロール） | [158](05-abilities.md#能力ロール) |
-| Academic Abilities（学術能力） | [158](05-abilities.md#学術能力) |
+| Academic Abilities（学術系能力） | [158](05-abilities.md#学術系能力) |
 | Academic Concentration (Subject) (Virtue)（《学問への専心（主題）》） | [69](04-virtues-and-flaws.md#学問への専心主題academic-concentration-subject) |
 | Accessible Power Level（利用可能魔力レベル） | [179](06-covenants.md#利用可能魔力レベル) |
 | Action-Adventure Saga（活劇のサーガ） | [533](16-sagas.md#活劇) |
@@ -1677,7 +1677,7 @@
 | Affinity with (Ability) (Virtue)（《素質（能力》） | [69](04-virtues-and-flaws.md#素質能力affinity-with-ability) |
 | Affinity with (Art) (Virtue)（《素質（術法》） | [69](04-virtues-and-flaws.md#素質術法affinity-with-art) |
 | Afflicted Tongue (Flaw)（《舌禍》） | [119](04-virtues-and-flaws.md#舌禍afflicted-tongue) |
-| After Apprenticeship（徒弟期間後） | [50](03-characters.md#マギのみ徒弟期間の後) |
+| After Apprenticeship（徒弟期間後） | [50](03-characters.md#徒弟期間の後マギのみ) |
 | Age（年齢） | [30](03-characters.md#書式), [43](03-characters.md#開始時のキャラクターの年齢), [391](10-long-term-events.md#老化) |
 | Age Quickly (Flaw)（《早まる老化》） | [119](04-virtues-and-flaws.md#早まる老化age-quickly) |
 | Aging（老化） | [391](10-long-term-events.md#老化) |
@@ -1715,12 +1715,12 @@
 | Apprentice (Virtue)（《徒弟》） | [70](04-virtues-and-flaws.md#徒弟apprentice) |
 | Apprentices（徒弟） | [13](02-the-order-of-hermes.md#ボニサグス派), [21](02-the-order-of-hermes.md#徒弟), [269](08-laboratory.md#徒弟) |
 | Apprentice's Gauntlet（徒弟のガントレット） | [6](01-introduction.md#用語集), [273](08-laboratory.md#徒弟期間の終わり) |
-| Apprenticeship（徒弟期間） | [49](03-characters.md#マギのみ徒弟期間) |
+| Apprenticeship（徒弟期間） | [49](03-characters.md#徒弟期間マギのみ) |
 | Apt Student (Virtue)（《教わり上手》） | [70](04-virtues-and-flaws.md#教わり上手apt-student) |
 | Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性aptitude-for-sin) |
 | Aquam (Art)（アクアム／水） | [208](07-hermetic-magic.md#アクアムaq水), [320](09-spells.md#アクアムの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精の領域) |
-| Arcane Abilities（秘儀能力） | [158](05-abilities.md#秘儀能力) |
+| Arcane Abilities（秘儀系能力） | [158](05-abilities.md#秘儀系能力) |
 | Arcane Connections（秘儀的連鎖） | [219](07-hermetic-magic.md#秘儀的連鎖) |
 | &nbsp;&nbsp;Limit of（秘儀的連鎖の限界） | [211](07-hermetic-magic.md#秘儀的連鎖の限界) |
 | &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#秘儀的連鎖の固定) |
@@ -1731,7 +1731,7 @@
 | Archieunuch (Virtue)（《大宦官》） | [70](04-virtues-and-flaws.md#大宦官archieunuch) |
 | (Area) Lore (Ability)（〈地域知識〉） | [159](05-abilities.md#地域知識area-lore) |
 | Aristotelian Training (Virtue)（《アリストテレス的訓練》） | [70](04-virtues-and-flaws.md#アリストテレス的訓練aristotelian-training) |
-| Aristotle（アリストテレス） | [158](05-abilities.md#学術能力) |
+| Aristotle（アリストテレス） | [158](05-abilities.md#学術系能力) |
 | Armor（鎧） | [399](11-obstacles.md#鎧) |
 | Armor Table（鎧の表） | [400](11-obstacles.md#鎧表) |
 | Athletic Childhood（運動好きな幼少期） | [48](03-characters.md#幼年期の例) |
@@ -1743,7 +1743,7 @@
 | Atlantean Magic (Virtue)（《アトランティス魔法》） | [70](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
 | Attack Advantage（攻撃優位） | [394](#attack-advantage) |
 | Attack Total（攻撃合計値） | [393](11-obstacles.md#戦闘値) |
-| Auctores（アウクトーレス） | [158](05-abilities.md#学術能力) |
+| Auctores（アウクトーレス） | [158](05-abilities.md#学術系能力) |
 | Auram (Art)（アウラム／風） | [209](07-hermetic-magic.md#アウラムau風), [325](09-spells.md#アウラムの呪文) |
 | Auras（オーラ） | [410](12-realms.md#領域のオーラ), [413](12-realms.md#魔術のオーラ) |
 | Autumn（秋） | [175](06-covenants.md#秋) |
@@ -2027,7 +2027,7 @@
 | Disjointed Magic (Flaw)（《ちぐはぐな魔術》） | [126](04-virtues-and-flaws.md#ちぐはぐな魔術disjointed-magic) |
 | Disorientating Magic (Flaw)（《眩暈を呼ぶ魔術》） | [126](04-virtues-and-flaws.md#眩暈を呼ぶ魔術disorientating-magic) |
 | Distractions（気晴らし／妨害） | [379](10-long-term-events.md#妨げ) |
-| &nbsp;&nbsp;From Lab Work（研究所の作業からの） | [265](08-laboratory.md#研究所作業の妨げ) |
+| &nbsp;&nbsp;From Lab Work（研究室の作業からの） | [265](08-laboratory.md#研究室作業の妨げ) |
 | Divine Aura（聖なるオーラ） | [418](12-realms.md#聖なる力のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Divine Creatures（神聖のクリーチャー） | [488–492](13-bestiary.md#神聖のクリーチャー) |
@@ -2134,8 +2134,8 @@
 | Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
 | Faerie Creatures（妖精のクリーチャー） | [466–475](13-bestiary.md#妖精のクリーチャー) |
 | &nbsp;&nbsp;Virtues & Flaws（美点と欠点） | [466](13-bestiary.md#新たな美点と欠点) |
-| Faerie Doctor (Virtue)（《妖精医師》） | [79](04-virtues-and-flaws.md#妖精医師faerie-doctor) |
-| Faerie Doctors（妖精医師） | [56–57](03-characters.md#妖精医師) |
+| Faerie Doctor (Virtue)（《妖精呪医》） | [79](04-virtues-and-flaws.md#妖精呪医faerie-doctor) |
+| Faerie Doctors（妖精呪医） | [56–57](03-characters.md#妖精呪医) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
 | Faerie Lore (Ability)（〈妖精知識〉） | [165](05-abilities.md#妖精知識faerie-lore) |
 | Faerie Magic（妖精魔法） | [236–238](07-hermetic-magic.md#メリニータ妖精魔法) |
@@ -2260,7 +2260,7 @@
 | Greater Purifying Touch (Virtue)（《大いなる浄化の手》） | [84](04-virtues-and-flaws.md#大いなる浄化の手greater-purifying-touch) |
 | Greed（強欲） | [499](14-mythic-europe.md#教義) |
 | Greedy (Flaw)（《大食》） | [132](04-virtues-and-flaws.md#大食greedy) |
-| Greek（ギリシャ語） | [158](05-abilities.md#学術能力) |
+| Greek（ギリシャ語） | [158](05-abilities.md#学術系能力) |
 | Grizzled Veteran (Template)（歴戦の古兵（テンプレート）） | [31](03-characters.md#歴戦の古参兵) |
 | Grogs（グロッグ） | [6](01-introduction.md#用語集), [26](03-characters.md#グロッグ) |
 | Group (Target)（集団（目標）） | [305](09-spells.md#目標) |
@@ -2292,12 +2292,12 @@
 | Heater Shield（ヒーターシールド） | [401](11-obstacles.md#片手武器) |
 | Heaven（天国） | [498–500](14-mythic-europe.md#教義) |
 | Heavy Leather Armor（ハードレザー） | [399](11-obstacles.md#材質) |
-| Hebrew（ヘブライ語） | [158](05-abilities.md#学術能力) |
+| Hebrew（ヘブライ語） | [158](05-abilities.md#学術系能力) |
 | Hedge Magic（俗魔法） | [6](01-introduction.md#用語集) |
 | Hedge Wizard (Flaw)（《俗魔法使い》） | [132](04-virtues-and-flaws.md#俗魔法使いhedge-wizard) |
 | Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人heir) |
 | Hell（地獄） | [415](12-realms.md#地獄の領域), [499](14-mythic-europe.md#教義) |
-| Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究所での助力) |
+| Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究室での助力) |
 | Herbam (Art)（ヘルバム／植物） | [209](07-hermetic-magic.md#ヘルバムhe植物), [339–343](09-spells.md#ヘルバムの呪文) |
 | Heresy（異端） | [171](05-abilities.md#神学キリスト教theology-christian), [504](14-mythic-europe.md#教会法) |
 | Hermetic Arts（ヘルメス魔法の術法） | [206–209](07-hermetic-magic.md#ヘルメス魔法の術法) |
@@ -2437,14 +2437,14 @@
 | Knight (Virtue)（《騎士》） | [88](04-virtues-and-flaws.md#騎士knight) |
 | Knights Templar（テンプル騎士団） | [111](04-virtues-and-flaws.md#テンプル騎士団) |
 | Knows People (Virtue)（《人を見る目》） | [88](04-virtues-and-flaws.md#人を見る目knows-people) |
-| Lab Total（研究所合計値） | [249](08-laboratory.md#基本的な研究所作業) |
-| Laboratory（研究所） | [249–298](08-laboratory.md#第8章研究所) |
-| &nbsp;&nbsp;Characteristics（特性値） | [286–291](08-laboratory.md#研究所の特性値) |
-| &nbsp;&nbsp;Features（特徴） | [296–297](08-laboratory.md#研究所の設備) |
-| &nbsp;&nbsp;Personalization（個人化） | [286–298](08-laboratory.md#研究所の個性化の規則) |
+| Lab Total（研究室合計値） | [249](08-laboratory.md#基本的な研究室作業) |
+| Laboratory（研究室） | [249–298](08-laboratory.md#第8章研究室) |
+| &nbsp;&nbsp;Characteristics（特性値） | [286–291](08-laboratory.md#研究室の特性値) |
+| &nbsp;&nbsp;Features（特徴） | [296–297](08-laboratory.md#研究室の設備) |
+| &nbsp;&nbsp;Personalization（個人化） | [286–298](08-laboratory.md#研究室の個性化の規則) |
 | &nbsp;&nbsp;Texts（研究書巻） | [180](06-covenants.md#研究書巻), [262](08-laboratory.md#研究書巻) |
-| &nbsp;&nbsp;Virtues and Flaws（美点と欠点） | [292–296](08-laboratory.md#研究所の美点と欠点) |
-| &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究所作業) |
+| &nbsp;&nbsp;Virtues and Flaws（美点と欠点） | [292–296](08-laboratory.md#研究室の美点と欠点) |
+| &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究室作業) |
 | Laborer (Virtue)（《労働者》） | [88](04-virtues-and-flaws.md#労働者laborer) |
 | Lame (Flaw)（《跛行》） | [135](04-virtues-and-flaws.md#跛行lame) |
 | Lance（ランス） | [401](11-obstacles.md#片手武器) |
@@ -2459,7 +2459,7 @@
 | &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
 | Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮leadership) |
 | Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力learn-ability-from-mistakes) |
-| Learning Supernatural Abilities（超常能力の学習） | [383](10-long-term-events.md#超常能力を習得する) |
+| Learning Supernatural Abilities（神秘系能力の学習） | [383](10-long-term-events.md#神秘系能力を習得する) |
 | Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂きleather-ripper) |
 | Leather Scale Armor（レザースケール） | [399](11-obstacles.md#材質) |
 | Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色lecherous) |
@@ -2573,7 +2573,7 @@
 | Markets（市場） | [509](14-mythic-europe.md#市と大市) |
 | Marriage（結婚） | [500](14-mythic-europe.md#秘蹟) |
 | Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭marshal) |
-| Martial Abilities（武術能力） | [158](05-abilities.md#武術能力) |
+| Martial Abilities（戦闘系能力） | [158](05-abilities.md#戦闘系能力) |
 | Martyrdom（殉教） | [419](12-realms.md#聖なる力のオーラの源) |
 | Mass（ミサ） | [500](14-mythic-europe.md#秘蹟) |
 | Master Bard (Virtue)（《大バード》） | [96](04-virtues-and-flaws.md#大バードmaster-bard) |
@@ -2816,7 +2816,7 @@
 | Redcap (Virtue)（《赤帽士》） | [105](04-virtues-and-flaws.md#赤帽士redcap) |
 | &nbsp;&nbsp;*see also [Mercere, House](02-the-order-of-hermes.md#メルケーレ派)* |  |
 | Redcaps（赤帽士） | [6](01-introduction.md#用語集), [15](02-the-order-of-hermes.md#メルケーレ派) |
-| Refinement (laboratory)（洗練（研究所の）） | [287](08-laboratory.md#洗練) |
+| Refinement (laboratory)（洗練（研究室の）） | [287](08-laboratory.md#洗練) |
 | Regio（レギオー） | [181–182](06-covenants.md#コヴナント設定小), [420](12-realms.md#レギオー) |
 | Rego (Art)（レゴー／操作） | [208](07-hermetic-magic.md#レゴーre我操る) |
 | Regular (Flaw)（《修道規則の徒》） | [143](04-virtues-and-flaws.md#修道規則の徒regular) |
@@ -2995,8 +2995,8 @@
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Supernatural Abilities（超常能力） | [159](05-abilities.md#超常能力) |
-| &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常能力を習得する) |
+| Supernatural Abilities（神秘系能力） | [159](05-abilities.md#神秘系能力) |
+| &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#神秘系能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
 | Supernatural Virtues and Flaws（超常的美点と欠点） | [64](04-virtues-and-flaws.md#超常) |

@@ -45,7 +45,7 @@
 | Ritual magic | 儀式魔法 |
 | magic resistance | 魔法抵抗 |
 | Warping | 歪曲 |
-| laboratory | 研究所 |
+| laboratory | 研究室 |
 | the Church | 教会 |
 | the Divine | 聖なる力 |
 | the Infernal | 地獄 |
@@ -75,6 +75,12 @@
 | botch | ボッチ（大失敗） |
 | botch dice | ボッチ・ダイス |
 | Ease Factor | 目標値 | 索引準拠。「難易度」から統一 |
+| Faerie Doctor | 《妖精呪医》 | 「妖精医師」から統一 |
+| Laboratory | 研究室 | 「研究所」から統一。研究室合計値・研究室書巻なども同様 |
+| Arcane Abilities | 秘儀系能力 | 能力の類型 |
+| Academic Abilities | 学術系能力 | 能力の類型 |
+| Martial Abilities | 戦闘系能力 | 能力の類型 |
+| Supernatural Abilities | 神秘系能力 | 能力の類型。美点の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
 | Finesse | 〈呪文操作〉 | 索引準拠。「〈精妙〉」から統一 |
 | experience | 経験点 |
 | aging | 老化 |
@@ -91,7 +97,7 @@
 | Chapter 5: Abilities | 第5章　能力 |
 | Chapter 6: Covenants | 第6章　コヴナント |
 | Chapter 7: Hermetic Magic | 第7章　ヘルメス魔法 |
-| Chapter 8: Laboratory | 第8章　研究所 |
+| Chapter 8: Laboratory | 第8章　研究室 |
 | Chapter 9: Spells | 第9章　呪文 |
 | Chapter 10: Long-Term Events | 第10章　長期の出来事 |
 | Chapter 11: Obstacles | 第11章　障害 |
@@ -184,7 +190,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | Casting Score / Casting Total | 行使値／行使合計値 | |
-| Lab Total | 研究所合計値 | |
+| Lab Total | 研究室合計値 | |
 | Advancement Total | 成長合計値 | |
 | Source Quality | 情報源の質 | |
 | magnitude | 段階 | |
@@ -224,9 +230,9 @@
 | Verditius Runes | ウェルディーティウス・ルーン | |
 | automata | 自動人形 | |
 | attuned item | 調和させたアイテム | |
-| Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの超常能力 |
-| Summon Animals | 〈動物の召喚〉 | 獣使いの超常能力 |
-| Whistle Up The Wind | 〈風を口笛で招く〉 | テンペスタリアの超常能力 |
+| Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの神秘系能力 |
+| Summon Animals | 〈動物の召喚〉 | 獣使いの神秘系能力 |
+| Whistle Up The Wind | 〈風を口笛で招く〉 | テンペスタリアの神秘系能力 |
 | Longevity Ritual | 延命儀式 | 索引準拠。第3・4章の「長寿の儀式」を統一 |
 | laboratory texts | 研究書巻 | 索引準拠 |
 | invested item / device | インベスト・アイテム | 索引準拠 |
@@ -254,16 +260,16 @@
 | breakthrough points | 突破点 | |
 | Minor / Major / Hermetic Breakthrough | 小突破／大突破／ヘルメス突破 | |
 | Integration / insight | 統合／洞察 | |
-| Refinement / General Quality | 洗練／総合品質 | 研究所の特性値 |
-| Aesthetics / Health / Safety | 美観／健全性／安全性 | 研究所の特性値 |
-| occupied Size | 占有大きさ | 研究所の特性値 |
-| Laboratory Feature | 研究所の設備 | 《大設備》《小設備》 |
+| Refinement / General Quality | 洗練／総合品質 | 研究室の特性値 |
+| Aesthetics / Health / Safety | 美観／健全性／安全性 | 研究室の特性値 |
+| occupied Size | 占有大きさ | 研究室の特性値 |
+| Laboratory Feature | 研究室の設備 | 《大設備》《小設備》 |
 | sanctum marker | 聖域の標 | |
 | Ceremonial Magic | 儀礼魔法 | |
 | Exposure / Adventure / Practice | 暴露／冒険／鍛錬 | 経験点の獲得手段 |
 | experimentation table | 実験表 | |
-| Safety | 安全性 | 研究所の指標 |
-| Upkeep | 維持費 | 研究所の指標 |
+| Safety | 安全性 | 研究室の指標 |
+| Upkeep | 維持費 | 研究室の指標 |
 | Shape & Material bonus | 形状・材質加算 | |
 | resonant bonus | 共鳴の加算 | 書物の材料 |
 | Potency / Casting Item | 強度／行使用具 | 《強力な魔術》 |
@@ -639,7 +645,7 @@
 | Spirit Form / Subtle Form | 霊の姿／微妙なる姿 | |
 | Divine Might | 聖なる実力値 | 既出 |
 
-**注：**〈魅了（Entrancement、超常能力）〉と〈魅惑（Charm、一般能力）〉は別の能力である。混同しないこと。同様に《鋭い聴力（Sharp Ears、美点）》と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
+**注：**〈魅了（Entrancement、神秘系能力）〉と〈魅惑（Charm、一般能力）〉は別の能力である。混同しないこと。同様に《鋭い聴力（Sharp Ears、美点）》と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
 
 **注：**訳者による「訳注：原文の不備について」の節を章末に置いたため、本章の日本語版は原文より `##` 見出しが一つ多い。
 
