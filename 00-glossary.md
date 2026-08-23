@@ -19,9 +19,9 @@
 | Order of Hermes | ヘルメス魔術団 |
 | Houses of Hermes | 魔術団の流派 |
 | Code of Hermes / Hermetic Oath | ヘルメス法典 |
-| Hermetic Magic | ヘルメス魔法 |
-| Hermetic Arts | ヘルメス魔法の術法 |
-| hedge magic | 俗魔法 |
+| Hermetic Magic | ヘルメス魔術 |
+| Hermetic Arts | ヘルメス魔術の術法 |
+| hedge magic | 俗魔術 |
 | magus / maga / magi | マギ（女性形は「女マギ」） |
 | companion | コンパニオン |
 | grog | グロッグ |
@@ -40,9 +40,9 @@
 | The Gift | 天禀（てんぴん） |
 | vis | ウィース |
 | spell | 呪文 |
-| Formulaic magic | 定式魔法 |
-| Spontaneous magic | 即興魔法 |
-| Ritual magic | 儀式魔法 |
+| Formulaic magic | 定式魔術 |
+| Spontaneous magic | 即興魔術 |
+| Ritual magic | 儀式魔術 |
 | magic resistance | 魔法抵抗 |
 | Warping | 歪曲 |
 | laboratory | 研究室 |
@@ -50,7 +50,7 @@
 | the Divine | 聖なる力 |
 | the Infernal | 地獄 |
 | Faerie | 妖精 |
-| Magic（領域） | 魔術（魔法界） |
+| Magic（領域） | 魔法（魔法界） | 領域なので「魔法」 |
 | Realms of Power | 力の領域 |
 | realm aura | 領域のオーラ |
 | creature | クリーチャー |
@@ -96,7 +96,7 @@
 | Chapter 4: Virtues and Flaws | 第4章　美点と欠点 |
 | Chapter 5: Abilities | 第5章　能力 |
 | Chapter 6: Covenants | 第6章　コヴナント |
-| Chapter 7: Hermetic Magic | 第7章　ヘルメス魔法 |
+| Chapter 7: Hermetic Magic | 第7章　ヘルメス魔術 |
 | Chapter 8: Laboratory | 第8章　研究室 |
 | Chapter 9: Spells | 第9章　呪文 |
 | Chapter 10: Long-Term Events | 第10章　長期の出来事 |
@@ -265,7 +265,7 @@
 | occupied Size | 占有大きさ | 研究室の特性値 |
 | Laboratory Feature | 研究室の設備 | 《大設備》《小設備》 |
 | sanctum marker | 聖域の標 | |
-| Ceremonial Magic | 儀礼魔法 | |
+| Ceremonial Magic | 儀礼魔術 | |
 | Exposure / Adventure / Practice | 暴露／冒険／鍛錬 | 経験点の獲得手段 |
 | experimentation table | 実験表 | |
 | Safety | 安全性 | 研究室の指標 |
@@ -447,7 +447,7 @@
 | static / dynamic target | 静的な目標／動的な目標 | 容器目標の二様式 |
 | magical senses | 魔法の感覚 | インテルレゴーが与える |
 | magical wards | 魔法の結界 | |
-| magical craft | 魔法の工芸 | クレオ／レゴーの工芸魔法 |
+| magical craft | 魔術の工芸 | クレオ／レゴーの工芸魔術 |
 | summoning spirits | 霊の召喚 | |
 | casting requisites | 行使の制約術法 | データに載らず行使時にのみ適用 |
 | base Individual | 基本の「個人」 | 形相ごとに定まる大きさ |
@@ -784,3 +784,24 @@
 *魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の駒*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
 
 なお「ウィザーズ・ウォー」（Wizard's War）は索引準拠の音写のため対象外である。
+
+## magic の訳し分け
+
+**魔法を操る技術・技法を指す場合は「魔術」、魔法の性質・領域・法則を指す場合は「魔法」。**
+
+| → 魔術（技法） | → 魔法（性質・領域） |
+| --- | --- |
+| ヘルメス魔術（Hermetic Magic） | 魔法の領域（Magic Realm） |
+| 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法のオーラ（Magic Aura） |
+| 妖精魔術／演技魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
+| ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法界知識（Magic Lore） |
+| 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
+| 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
+| 魔術団（Order of Hermes）／秘儀魔術団 | 魔法のクリーチャー／魔法のアイテム |
+| 共感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
+| 魔術の工芸（magical craft） | 魔法的（magical）／魔法使い（wizard） |
+| 俗魔術（hedge magic）／民間魔術（folk magic） | 魔法界（Magic Realm） |
+
+**注：**「魔術師の◯◯」（Wizard's Twilight など）は wizard 由来の固有名であり、この訳し分けの対象外。「魔術団」は組織名として慣用が固まっているため据え置く。
+
+**hedge magic と folk magic：**両者は原文で別概念のため訳し分ける。hedge magic は技法なので「**俗魔術**」（Hedge Wizard は「俗魔術使い」）、folk magic は第4章の欠点《**民間魔術**》として据え置く。両方を「民間魔術」とすると欠点名と魔法伝統の分類が同名になり区別できなくなるため。

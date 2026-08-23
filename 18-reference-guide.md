@@ -463,7 +463,7 @@
     - a. 高ければ、呪文は標的に作用する。
     - b. 同じか足りなければ、呪文は効かない。
 
-#### 定式魔法
+#### 定式魔術
 
 **行使合計値：**行使値＋ダイスの目
 
@@ -473,7 +473,7 @@
 | −1から−10 | される | 1 |
 | −11以下 | されない | 1 |
 
-#### 儀式魔法
+#### 儀式魔術
 
 **行使合計値：**行使値＋〈自由学科〉＋〈哲学〉＋ストレスダイス
 
@@ -494,7 +494,7 @@
 | 小声 | −5 | 控えめ | −2 | 5歩 |
 | なし | −10 | なし | −5 | 0歩（行使者のみ） |
 
-#### 即興魔法
+#### 即興魔術
 
 **疲労を伴う行使合計値：**（行使値＋ストレスダイス）÷2
 
@@ -1738,14 +1738,14 @@
 | Art of Memory (Ability)（〈記憶術〉） | [159](05-abilities.md#記憶術art-of-memory) |
 | Artes Liberales (Ability)（〈自由学科〉） | [160](05-abilities.md#自由学科artes-liberales) |
 | Arthritis (Flaw)（《関節炎》） | [119](04-virtues-and-flaws.md#関節炎arthritis) |
-| Arts（術法） | [206](07-hermetic-magic.md#ヘルメス魔法の術法) |
+| Arts（術法） | [206](07-hermetic-magic.md#ヘルメス魔術の術法) |
 | Athletics (Ability)（〈運動〉） | [161](05-abilities.md#運動athletics) |
-| Atlantean Magic (Virtue)（《アトランティス魔法》） | [70](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
+| Atlantean Magic (Virtue)（《アトランティス魔術》） | [70](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
 | Attack Advantage（攻撃優位） | [394](#attack-advantage) |
 | Attack Total（攻撃合計値） | [393](11-obstacles.md#戦闘値) |
 | Auctores（アウクトーレス） | [158](05-abilities.md#学術系能力) |
 | Auram (Art)（アウラム／風） | [209](07-hermetic-magic.md#アウラムau風), [325](09-spells.md#アウラムの呪文) |
-| Auras（オーラ） | [410](12-realms.md#領域のオーラ), [413](12-realms.md#魔術のオーラ) |
+| Auras（オーラ） | [410](12-realms.md#領域のオーラ), [413](12-realms.md#魔法のオーラ) |
 | Autumn（秋） | [175](06-covenants.md#秋) |
 | Autumn Power（秋の力） | [177](06-covenants.md#秋の権勢) |
 | Autumnus（秋） | [176](06-covenants.md#アウトゥムヌス) |
@@ -1786,10 +1786,10 @@
 | Blatant Gift (Flaw)（《露骨な天禀》） | [120](04-virtues-and-flaws.md#露骨な天禀blatant-gift) |
 | Blatant Magical Air (Flaw)（《露骨な魔法の妖気》） | [120](04-virtues-and-flaws.md#露骨な魔法の妖気blatant-magical-air) |
 | Blind (Flaw)（《盲目》） | [120](04-virtues-and-flaws.md#盲目blind) |
-| Bloodline (Target)（血脈（目標）） | [238](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Bloodline (Target)（血脈（目標）） | [238](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Blood of the Nephilim (Virtue)（《ネフィリムの血》） | [72](04-virtues-and-flaws.md#ネフィリムの血blood-of-the-nephilim) |
 | Bludgeon（殴打武器） | [401](11-obstacles.md#格闘の武器) |
-| Body-of-Water (Target)（水域（目標）） | [71](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
+| Body-of-Water (Target)（水域（目標）） | [71](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
 | Bonisagus（ボニサグス） | [6](01-introduction.md#用語集), [9-10](02-the-order-of-hermes.md#魔術団の創設) |
 | Bonisagus (Template)（ボニサグス（テンプレート）） | [37](03-characters.md#ボニサグス) |
 | Bonisagus, House（ボニサグス派） | [13](02-the-order-of-hermes.md#ボニサグス派), [37](03-characters.md#ボニサグス) |
@@ -1841,7 +1841,7 @@
 | Cautious Sorcerer (Virtue)（《慎重な術者》） | [73](04-virtues-and-flaws.md#慎重な術者cautious-sorcerer) |
 | Cautious with (Ability) (Virtue)（《細心（能力）》） | [73](04-virtues-and-flaws.md#細心能力cautious-with-ability) |
 | Ceremonial Casting（儀礼的行使） | [217–218](07-hermetic-magic.md#儀礼的行使), [225](07-hermetic-magic.md#儀礼的行使-1) |
-| Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔法》） | [122](04-virtues-and-flaws.md#儀礼的即興魔法ceremonial-spontaneous-magic) |
+| Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔術》） | [122](04-virtues-and-flaws.md#儀礼的即興魔術ceremonial-spontaneous-magic) |
 | Certamen（ケルターメン） | [16](02-the-order-of-hermes.md#トレメーレ派), [230–233](07-hermetic-magic.md#ケルターメン) |
 | Chain Mail（チェインメイル） | [399](11-obstacles.md#材質) |
 | Changing Reputations（評判の変化） | [28](03-characters.md#評判) |
@@ -1938,7 +1938,7 @@
 | Craft Guild Training (Virtue)（《工芸ギルドの訓練》） | [75](04-virtues-and-flaws.md#工芸ギルドの訓練craft-guild-training) |
 | Crafter's Healing (Ability)（〈職人の癒し〉） | [162](05-abilities.md#職人の癒しcrafters-healing) |
 | Crafter's Healing (Virtue)（《職人の癒し》） | [75](04-virtues-and-flaws.md#職人の癒しcrafters-healing) |
-| Crafting Magical Objects（魔法の品を作る） | [306–308](09-spells.md#魔法の工芸) |
+| Crafting Magical Objects（魔法の品を作る） | [306–308](09-spells.md#魔術の工芸) |
 | Craftsman (Virtue)（《職人》） | [75](04-virtues-and-flaws.md#職人craftsman) |
 | Craving for Travel (Flaw)（《旅への渇望》） | [124](04-virtues-and-flaws.md#旅への渇望craving-for-travel) |
 | Creation, Limit of（創造の限界） | [211](07-hermetic-magic.md#創造の限界) |
@@ -1972,8 +1972,8 @@
 | Curse-Throwing (Virtue)（《呪い移し》） | [75](04-virtues-and-flaws.md#呪い移しcurse-throwing) |
 | Cursed Guile (Flaw)（《呪われた詐術》） | [124](04-virtues-and-flaws.md#呪われた詐術cursed-guile) |
 | Custos (Virtue)（《クストス》） | [75](04-virtues-and-flaws.md#クストスcustos) |
-| Cyclic Magic (Negative) (Flaw)（《周期魔法（逆）》） | [124](04-virtues-and-flaws.md#周期魔法逆cyclic-magic-negative) |
-| Cyclic Magic (Positive) (Virtue)（《周期魔法（順）》） | [75](04-virtues-and-flaws.md#周期魔法順cyclic-magic-positive) |
+| Cyclic Magic (Negative) (Flaw)（《周期魔術（逆）》） | [124](04-virtues-and-flaws.md#周期魔術逆cyclic-magic-negative) |
+| Cyclic Magic (Positive) (Virtue)（《周期魔術（順）》） | [75](04-virtues-and-flaws.md#周期魔術順cyclic-magic-positive) |
 | Dagger（短剣） | [401](11-obstacles.md#格闘の武器) |
 | Daimons（ダイモーン） | [444](13-bestiary.md#ダイモーン) |
 | Damage Table（ダメージ表） | [404](11-obstacles.md#ダメージ表) |
@@ -2016,9 +2016,9 @@
 | Diameter (Duration)（陽径（持続時間）） | [304](09-spells.md#持続時間) |
 | Die Rolls（ダイスのロール） | [7](01-introduction.md#ダイスロール) |
 | Diedne, House（ディエドネ流派） | [10–11](02-the-order-of-hermes.md#魔術団の流派) |
-| Diedne Magic (Virtue)（《ディエドネー魔法》） | [76](04-virtues-and-flaws.md#ディエドネー魔法diedne-magic) |
+| Diedne Magic (Virtue)（《ディエドネー魔術》） | [76](04-virtues-and-flaws.md#ディエドネー魔術diedne-magic) |
 | Difficult Longevity Ritual (Flaw)（《延命儀式が困難》） | [126](04-virtues-and-flaws.md#延命儀式が困難difficult-longevity-ritual) |
-| Difficult Spontaneous Magic (Flaw)（《即興魔法が困難》） | [126](04-virtues-and-flaws.md#即興魔法が困難difficult-spontaneous-magic) |
+| Difficult Spontaneous Magic (Flaw)（《即興魔術が困難》） | [126](04-virtues-and-flaws.md#即興魔術が困難difficult-spontaneous-magic) |
 | Difficult Underlings (Flaw)（《扱いにくい配下》） | [126](04-virtues-and-flaws.md#扱いにくい配下difficult-underlings) |
 | Diocese（教区） | [504](14-mythic-europe.md#組織) |
 | Disease（病気） | [406](11-obstacles.md#病) |
@@ -2138,9 +2138,9 @@
 | Faerie Doctors（妖精呪医） | [56–57](03-characters.md#妖精呪医) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
 | Faerie Lore (Ability)（〈妖精知識〉） | [165](05-abilities.md#妖精知識faerie-lore) |
-| Faerie Magic（妖精魔法） | [236–238](07-hermetic-magic.md#メリニータ妖精魔法) |
-| Faerie Magic (Ability)（〈妖精魔法〉） | [165](05-abilities.md#妖精魔法faerie-magic) |
-| Faerie Magic (Virtue)（《妖精魔法》） | [79](04-virtues-and-flaws.md#妖精魔法faerie-magic) |
+| Faerie Magic（妖精魔術） | [236–238](07-hermetic-magic.md#メリニータ妖精魔術) |
+| Faerie Magic (Ability)（〈妖精魔術〉） | [165](05-abilities.md#妖精魔術faerie-magic) |
+| Faerie Magic (Virtue)（《妖精魔術》） | [79](04-virtues-and-flaws.md#妖精魔術faerie-magic) |
 | Faerie-Raised Magic (Virtue)（《妖精に育まれた魔法》） | [79](04-virtues-and-flaws.md#妖精に育まれた魔法faerie-raised-magic) |
 | Faerie Upbringing (Flaw)（《妖精郷育ち》） | [128](04-virtues-and-flaws.md#妖精郷育ちfaerie-upbringing) |
 | Failed Apprentice (Virtue)（《落第徒弟》） | [80](04-virtues-and-flaws.md#落第徒弟failed-apprentice) |
@@ -2199,7 +2199,7 @@
 | Flawless Magic (Virtue)（《完璧な魔法》） | [81](04-virtues-and-flaws.md#完璧な魔法flawless-magic) |
 | Flaws（欠点） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
 | &nbsp;&nbsp;*see also Virtues and Flaws* |  |
-| Flexible Formulaic Magic (Virtue)（《柔軟な定式魔法》） | [81](04-virtues-and-flaws.md#柔軟な定式魔法flexible-formulaic-magic) |
+| Flexible Formulaic Magic (Virtue)（《柔軟な定式魔術》） | [81](04-virtues-and-flaws.md#柔軟な定式魔術flexible-formulaic-magic) |
 | Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢fluctuating-fortune) |
 | Focus Power (Virtue)（《集中の力》） | [81](04-virtues-and-flaws.md#集中の力focus-power) |
 | Folk Ken (Ability)（〈人間知識〉） | [165](05-abilities.md#人間知識folk-ken) |
@@ -2212,9 +2212,9 @@
 | Foreign Upbringing (Flaw)（《異国育ち》） | [131](04-virtues-and-flaws.md#異国育ちforeign-upbringing) |
 | Forge-Companion (Virtue)（《鍛冶仲間》） | [82](04-virtues-and-flaws.md#鍛冶仲間forge-companion) |
 | Forgettable Face (Virtue)（《忘れられる顔》） | [82](04-virtues-and-flaws.md#忘れられる顔forgettable-face) |
-| Form（形相） | [206](07-hermetic-magic.md#ヘルメス魔法の術法), [208–209](07-hermetic-magic.md#形相) |
+| Form（形相） | [206](07-hermetic-magic.md#ヘルメス魔術の術法), [208–209](07-hermetic-magic.md#形相) |
 | (Form) Monstrosity (Flaw)（《（形相）の異形》） | [131](04-virtues-and-flaws.md#形相の異形form-monstrosity) |
-| Formulaic Magic（定式魔法） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#定式魔法) |
+| Formulaic Magic（定式魔術） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#定式魔術) |
 | Founders, The（祖師たち） | [6](01-introduction.md#用語集), [9–10](02-the-order-of-hermes.md#魔術団の流派) |
 | Fragile Constitution (Flaw)（《虚弱な体質》） | [131](04-virtues-and-flaws.md#虚弱な体質fragile-constitution) |
 | Frail (Flaw)（《脆弱》） | [131](04-virtues-and-flaws.md#脆弱frail) |
@@ -2293,21 +2293,21 @@
 | Heaven（天国） | [498–500](14-mythic-europe.md#教義) |
 | Heavy Leather Armor（ハードレザー） | [399](11-obstacles.md#材質) |
 | Hebrew（ヘブライ語） | [158](05-abilities.md#学術系能力) |
-| Hedge Magic（俗魔法） | [6](01-introduction.md#用語集) |
-| Hedge Wizard (Flaw)（《俗魔法使い》） | [132](04-virtues-and-flaws.md#俗魔法使いhedge-wizard) |
+| Hedge Magic（俗魔術） | [6](01-introduction.md#用語集) |
+| Hedge Wizard (Flaw)（《俗魔術使い》） | [132](04-virtues-and-flaws.md#俗魔術使いhedge-wizard) |
 | Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人heir) |
 | Hell（地獄） | [415](12-realms.md#地獄の領域), [499](14-mythic-europe.md#教義) |
 | Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究室での助力) |
 | Herbam (Art)（ヘルバム／植物） | [209](07-hermetic-magic.md#ヘルバムhe植物), [339–343](09-spells.md#ヘルバムの呪文) |
 | Heresy（異端） | [171](05-abilities.md#神学キリスト教theology-christian), [504](14-mythic-europe.md#教会法) |
-| Hermetic Arts（ヘルメス魔法の術法） | [206–209](07-hermetic-magic.md#ヘルメス魔法の術法) |
+| Hermetic Arts（ヘルメス魔術の術法） | [206–209](07-hermetic-magic.md#ヘルメス魔術の術法) |
 | Hermetic Breakthrough（ヘルメス突破） | [277](08-laboratory.md#突破) |
 | Hermetic Experience (Virtue)（《ヘルメスの経験》） | [85](04-virtues-and-flaws.md#ヘルメスの経験hermetic-experience) |
 | Hermetic Houses（ヘルメスの流派） | [10–17](02-the-order-of-hermes.md#魔術団の流派), [46](03-characters.md#ヘルメスの流派一覧) |
 | Hermetic Life（ヘルメスの生） | [533](16-sagas.md#ヘルメスの生) |
 | Hermetic Magi（ヘルメスのマギ） | [6](01-introduction.md#用語集), [25](03-characters.md#マギ) |
 | &nbsp;&nbsp;*see also Order of Hermes* |  |
-| Hermetic Magic（ヘルメス魔法） | [6](01-introduction.md#用語集), [203–246](07-hermetic-magic.md#第7章ヘルメス魔法) |
+| Hermetic Magic（ヘルメス魔術） | [6](01-introduction.md#用語集), [203–246](07-hermetic-magic.md#第7章ヘルメス魔術) |
 | Hermetic Magus (Virtue)（《ヘルメスのマギ》） | [85](04-virtues-and-flaws.md#ヘルメスのマギhermetic-magus) |
 | Hermetic Oath（ヘルメス法典） | [6](01-introduction.md#用語集), [18–19](02-the-order-of-hermes.md#ヘルメス法典) |
 | Hermetic Patron (Flaw)（《ヘルメスの庇護者》） | [132](04-virtues-and-flaws.md#ヘルメスの庇護者hermetic-patron) |
@@ -2480,7 +2480,7 @@
 | Library（蔵書） | [179](06-covenants.md#蔵書) |
 | License of Absence (Virtue)（《不在許可》） | [91](04-virtues-and-flaws.md#不在許可license-of-absence) |
 | Life Boost (Virtue)（《生命力の後押し》） | [91](04-virtues-and-flaws.md#生命力の後押しlife-boost) |
-| Life-Linked Spontaneous Magic (Virtue)（《生命に結びついた即興魔法》） | [91](04-virtues-and-flaws.md#生命に結びついた即興魔法life-linked-spontaneous-magic) |
+| Life-Linked Spontaneous Magic (Virtue)（《生命に結びついた即興魔術》） | [91](04-virtues-and-flaws.md#生命に結びついた即興魔術life-linked-spontaneous-magic) |
 | Light Touch (Virtue)（《軽やかな指先》） | [91](04-virtues-and-flaws.md#軽やかな指先light-touch) |
 | Lightning Reflexes (Virtue)（《電光の反射》） | [91](04-virtues-and-flaws.md#電光の反射lightning-reflexes) |
 | Limited Magic Resistance (Flaw)（《限られた魔法抵抗》） | [135](04-virtues-and-flaws.md#限られた魔法抵抗limited-magic-resistance) |
@@ -2523,7 +2523,7 @@
 | Magic（魔術） | [6](01-introduction.md#用語集) |
 | Magic Addiction (Flaw)（《魔術への耽溺》） | [135](04-virtues-and-flaws.md#魔術への耽溺magic-addiction) |
 | Magic and Sin（魔法と罪） | [499](14-mythic-europe.md#魔術と罪) |
-| Magic Aura（魔法のオーラ） | [413–414](12-realms.md#魔術のオーラ) |
+| Magic Aura（魔法のオーラ） | [413–414](12-realms.md#魔法のオーラ) |
 | &nbsp;&nbsp;*see also [Auras](12-realms.md#領域のオーラ)* |  |
 | Magic Creatures（魔法のクリーチャー） | [442–466](13-bestiary.md#魔法のクリーチャー) |
 | &nbsp;&nbsp;Jinn（ジン） | [442](13-bestiary.md#ジン) |
@@ -2533,7 +2533,7 @@
 | Magic Items (Virtue)（《魔法のアイテム》） | [92](04-virtues-and-flaws.md#魔法のアイテムmagic-items) |
 | Magic Lore (Ability)（〈魔法界知識〉） | [168](05-abilities.md#魔法界知識magic-lore) |
 | Magic Might（魔法の実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| Magic Realm（魔法界） | [413–414](12-realms.md#魔術の領域) |
+| Magic Realm（魔法界） | [413–414](12-realms.md#魔法の領域) |
 | Magic Resistance（魔法抵抗） | [221–223](07-hermetic-magic.md#魔法抵抗), [225](07-hermetic-magic.md#魔法抵抗-1) |
 | &nbsp;&nbsp;Limit of（魔法抵抗の限界） | [212](07-hermetic-magic.md#魔法抵抗の限界) |
 | Magic Sensitivity (Ability)（〈魔法感受性〉） | [168](05-abilities.md#魔法感受性magic-sensitivity) |
@@ -2542,7 +2542,7 @@
 | Magical Air (Flaw)（《魔法の妖気》） | [136](04-virtues-and-flaws.md#魔法の妖気magical-air) |
 | Magical (Being) Companion (Flaw)（《友なる魔法の（存在）》） | [136](04-virtues-and-flaws.md#友なる魔法の存在magical-being-companion) |
 | Magical Blood (Virtue)（《魔法の血脈》） | [93](04-virtues-and-flaws.md#魔法の血脈magical-blood) |
-| Magical Craft（魔法の工芸） | [306](09-spells.md#魔法の工芸) |
+| Magical Craft（魔術の工芸） | [306](09-spells.md#魔術の工芸) |
 | Magical Creatures（魔法のクリーチャー） | [21](02-the-order-of-hermes.md#魔法のクリーチャー), [413](12-realms.md#魔術のクリーチャー) |
 | Magical Enchantments（魔法の呪付） | [252](08-laboratory.md#呪付) |
 | Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られmagical-fascination) |
@@ -2607,7 +2607,7 @@
 | Merchant Adventurer (Virtue)（《冒険商人》） | [98](04-virtues-and-flaws.md#冒険商人merchant-adventurer) |
 | Mercurian Magic (Virtue)（《メルクリウス魔法》） | [98](04-virtues-and-flaws.md#メルクリウス魔法mercurian-magic) |
 | Mercury（メルクリウス） | [9](02-the-order-of-hermes.md#魔術団の歴史) |
-| Merinita – Faerie Magic（メリニータ――妖精魔法） | [236–238](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Merinita – Faerie Magic（メリニータ――妖精魔術） | [236–238](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Merinita (Template)（メリニータ（テンプレート）） | [41](03-characters.md#メリニータ) |
 | Merinita, House（メリニータ派） | [16](02-the-order-of-hermes.md#メリニータ派) |
 | Metal Reinforced Leather Armor（リングメイル） | [399](11-obstacles.md#材質) |
@@ -2723,7 +2723,7 @@
 | Perfect Eye for (Commodity) (Virtue)（（商品）を見抜く眼） | [100](04-virtues-and-flaws.md#商品を見抜く眼perfect-eye-for-commodity) |
 | Perfectus (Virtue)（《完徳者》） | [100](04-virtues-and-flaws.md#完徳者perfectus) |
 | Performance (Duration)（上演（持続時間）） | [101](#performance) |
-| Performance Magic (Virtue)（《演技魔法》） | [101–102](04-virtues-and-flaws.md#演技魔法performance-magic) |
+| Performance Magic (Virtue)（《演技魔術》） | [101–102](04-virtues-and-flaws.md#演技魔術performance-magic) |
 | Peripheral Code（附則法） | [18](02-the-order-of-hermes.md#附則法) |
 | Persona (Ability)（〈ペルソナ〉） | [169](05-abilities.md#ペルソナpersona) |
 | Persona (Virtue)（《ペルソナ》） | [101](04-virtues-and-flaws.md#ペルソナpersona) |
@@ -2844,12 +2844,12 @@
 | Rigid Magic (Flaw)（《硬直した魔術》） | [143](04-virtues-and-flaws.md#硬直した魔術rigid-magic) |
 | Ring (Duration)（輪（持続時間）） | [304](09-spells.md#持続時間) |
 | Ripper (Virtue)（《裂き手》） | [106](04-virtues-and-flaws.md#裂き手ripper) |
-| Ritual Magic（儀式魔法） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#儀式魔法) |
+| Ritual Magic（儀式魔術） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#儀式魔術) |
 | Ritual Power (Virtue)（《儀式の力》） | [106](04-virtues-and-flaws.md#儀式の力ritual-power) |
 | Ritual Spells（儀式呪文） | [311](09-spells.md#儀式呪文) |
 | Rival (Hook)（《好敵手（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Hook)（《道（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Rogue (Template)（無頼（テンプレート）） | [35](03-characters.md#悪漢) |
 | Rolling Stone (Flaw)（《転石》） | [143](04-virtues-and-flaws.md#転石rolling-stone) |
 | Room (Target)（部屋（目標）） | [305](09-spells.md#目標) |
@@ -2957,7 +2957,7 @@
 | Spiritual Pact (Virtue)（《精霊との盟約》） | [109](04-virtues-and-flaws.md#精霊との盟約spiritual-pact) |
 | Splitting Groups（集団を分断する） | [398](11-obstacles.md#集団を分断する) |
 | Spontaneous Casting Tools (Flaw)（《即興用の詠唱道具》） | [145](04-virtues-and-flaws.md#即興用の詠唱道具spontaneous-casting-tools) |
-| Spontaneous Magic（即興魔法） | [6](01-introduction.md#用語集), [214](07-hermetic-magic.md#即興魔法) |
+| Spontaneous Magic（即興魔術） | [6](01-introduction.md#用語集), [214](07-hermetic-magic.md#即興魔術) |
 | Spring（春） | [174](06-covenants.md#春) |
 | Stabilizing The Unknown（未知を安定させる） | [279](08-laboratory.md#未知を安定させる) |
 | Staff（杖） | [402](11-obstacles.md#両手武器) |
@@ -2967,7 +2967,7 @@
 | Stigmatic Catalyst (Flaw)（《徴の触媒》） | [145](04-virtues-and-flaws.md#徴の触媒stigmatic-catalyst) |
 | Still Casting（静止行使） | [226](07-hermetic-magic.md#静止行使) |
 | Stockade Parma Magica (Flaw)（《柵状のパルマ・マギカ》） | [145](04-virtues-and-flaws.md#柵状のパルママギカstockade-parma-magica) |
-| Storm (Duration)（嵐（持続時間）） | [71](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
+| Storm (Duration)（嵐（持続時間）） | [71](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
 | Story Flaws（物語の欠点） | [45](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [61](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
 | Story Ideas（物語の着想） | [520–522](15-stories.md#物語の着想) |
 | Story Types（物語の類型） | [517–518](15-stories.md#物語の類型) |
@@ -3103,7 +3103,7 @@
 | Unruly Air (Flaw)（《荒ぶる妖気》） | [149](04-virtues-and-flaws.md#荒ぶる妖気unruly-air) |
 | Unspecialized (Flaw)（《専門を持たない》） | [149](04-virtues-and-flaws.md#専門を持たないunspecialized) |
 | Unstructured Caster (Flaw)（《型なき術者》） | [149](04-virtues-and-flaws.md#型なき術者unstructured-caster) |
-| Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Untrained Group（未訓練の集団） | [396](11-obstacles.md#訓練されていない集団) |
 | Urban (Covenant Situation)（都市（コヴナントの状況）） | [177](06-covenants.md#都市) |
 | Urban (Hook)（《都市（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
@@ -3116,8 +3116,8 @@
 | Venus' Blessing (Virtue)（《ウェヌスの祝福》） | [114](04-virtues-and-flaws.md#ウェヌスの祝福venus-blessing) |
 | Verditius (Template)（ウェルディーティウス（テンプレート）） | [43](03-characters.md#ウェルディーティウス) |
 | Verditius, House（ウェルディーティウス派） | [17](02-the-order-of-hermes.md#ウェルディーティウス派) |
-| Verditius Magic（ウェルディーティウス魔法） | [240–243](07-hermetic-magic.md#ウェルディーティウスウェルディーティウス魔術) |
-| Verditius Magic (Virtue)（《ウェルディーティウス魔法》） | [114](04-virtues-and-flaws.md#ウェルディーティウス魔法verditius-magic) |
+| Verditius Magic（ウェルディーティウス魔術） | [240–243](07-hermetic-magic.md#ウェルディーティウスウェルディーティウス魔術) |
+| Verditius Magic (Virtue)（《ウェルディーティウス魔術》） | [114](04-virtues-and-flaws.md#ウェルディーティウス魔術verditius-magic) |
 | Vendetta (Flaw)（《抗争》） | [149](04-virtues-and-flaws.md#抗争vendetta) |
 | Vengeful Powers (Flaw)（《復讐する力》） | [150](04-virtues-and-flaws.md#復讐する力vengeful-powers) |
 | Vernus（春） | [175](06-covenants.md#ウェルヌス) |
@@ -3151,7 +3151,7 @@
 | &nbsp;&nbsp;Limit of（歪曲の限界） | [212](07-hermetic-magic.md#歪曲の限界) |
 | Warrior (Virtue)（《戦闘訓練》） | [115](04-virtues-and-flaws.md#戦闘訓練warrior) |
 | Waster of Vis (Flaw)（《ウィースの浪費家》） | [152](04-virtues-and-flaws.md#ウィースの浪費家waster-of-vis) |
-| Water-Way (Range)（水路（射程）） | [70](04-virtues-and-flaws.md#アトランティス魔法atlantean-magic) |
+| Water-Way (Range)（水路（射程）） | [70](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
 | Ways of the (Land) (Virtue)（（土地）の流儀） | [115](04-virtues-and-flaws.md#土地の流儀ways-of-the-land) |
 | Weak Characteristics (Flaw)（《貧弱な特性値》） | [152](04-virtues-and-flaws.md#貧弱な特性値weak-characteristics) |
 | Weak Enchanter (Flaw)（《呪付が苦手》） | [152](04-virtues-and-flaws.md#呪付が苦手weak-enchanter) |
@@ -3160,7 +3160,7 @@
 | Weak Parens (Flaw)（《劣った恩師》） | [152](04-virtues-and-flaws.md#劣った恩師weak-parens) |
 | Weak Personality (Flaw)（《弱い個性》） | [153](04-virtues-and-flaws.md#弱い個性weak-personality) |
 | Weak Scholar (Flaw)（《学びが苦手》） | [153](04-virtues-and-flaws.md#学びが苦手weak-scholar) |
-| Weak Spontaneous Magic (Flaw)（《即興魔法が苦手》） | [153](04-virtues-and-flaws.md#即興魔法が苦手weak-spontaneous-magic) |
+| Weak Spontaneous Magic (Flaw)（《即興魔術が苦手》） | [153](04-virtues-and-flaws.md#即興魔術が苦手weak-spontaneous-magic) |
 | Weakness (Flaw)（《弱点》） | [154](04-virtues-and-flaws.md#弱点weakness) |
 | Weak-Willed (Flaw)（《意志薄弱》） | [154](04-virtues-and-flaws.md#意志薄弱weak-willed) |
 | Wealthy (Virtue)（《富裕》） | [115](04-virtues-and-flaws.md#富裕wealthy) |
@@ -3190,7 +3190,7 @@
 | Wrathful (Flaw)（《怒りっぽい》） | [154](04-virtues-and-flaws.md#怒りっぽいwrathful) |
 | Writing Books（執筆） | [379–380](10-long-term-events.md#書物を著す) |
 | Year (Duration)（年（持続時間）） | [305](09-spells.md#持続時間) |
-| Year + 1 (Duration)（年＋1（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔法) |
+| Year + 1 (Duration)（年＋1（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔術) |
 
 ---
 
