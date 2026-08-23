@@ -7,7 +7,8 @@
 ## 表記方針
 
 - 訳文は日本語のみ。固有名詞・ルール用語は各章の初出時に英語を丸括弧で併記する。
-- 《　》＝美点・欠点、〈　〉＝能力（アビリティ）、*斜体*＝呪文名。索引の表記に合わせる。
+- 《　》＝《美点》・《欠点》、〈　〉＝〈能力〉（アビリティ）、*斜体*＝呪文名。索引の表記に合わせる。
+- 類型そのものを指す語も、術語として用いる場合は同じ括弧を付ける（Ability →〈能力〉、Virtue →《美点》、Flaw →《欠点》）。詳細は「類型名の括弧付け」を参照。
 - 見出しは原文の階層をそのまま保つ。表・引用ブロック・改行タグ（`<br>`）も原文どおり。
 
 ## 基本用語（索引準拠）
@@ -66,10 +67,10 @@
 | saga | サーガ |
 | story | 物語 |
 | Characteristic | 特性値 |
-| Ability | 能力 |
-| Ability score | 能力値 |
+| Ability | 〈能力〉 |
+| Ability score | 〈能力〉値 |
 | Specialization | 専門 |
-| Virtues and Flaws | 美点と欠点 |
+| Virtues and Flaws | 《美点》と《欠点》 |
 | simple die | シンプルダイス |
 | stress die | ストレス・ダイス |
 | botch | ボッチ（大失敗） |
@@ -77,10 +78,10 @@
 | Ease Factor | 目標値 | 索引準拠。「難易度」から統一 |
 | Faerie Doctor | 《妖精呪医》 | 「妖精医師」から統一 |
 | Laboratory | 研究室 | 「研究所」から統一。研究室合計値・研究室書巻なども同様 |
-| Arcane Abilities | 秘儀系能力 | 能力の類型 |
-| Academic Abilities | 学術系能力 | 能力の類型 |
-| Martial Abilities | 戦闘系能力 | 能力の類型 |
-| Supernatural Abilities | 神秘系能力 | 能力の類型。美点の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
+| Arcane Abilities | 秘儀系〈能力〉 | 〈能力〉の類型 |
+| Academic Abilities | 学術系〈能力〉 | 〈能力〉の類型 |
+| Martial Abilities | 戦闘系〈能力〉 | 〈能力〉の類型 |
+| Supernatural Abilities | 神秘系〈能力〉 | 〈能力〉の類型。《美点》の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
 | Finesse | 〈呪文操作〉 | 索引準拠。「〈精妙〉」から統一 |
 | experience | 経験点 |
 | aging | 老化 |
@@ -93,8 +94,8 @@
 | Chapter 1: Introduction | 第1章　序論 |
 | Chapter 2: The Order of Hermes | 第2章　ヘルメス魔術団 |
 | Chapter 3: Characters | 第3章　キャラクター |
-| Chapter 4: Virtues and Flaws | 第4章　美点と欠点 |
-| Chapter 5: Abilities | 第5章　能力 |
+| Chapter 4: Virtues and Flaws | 第4章　《美点》と《欠点》 |
+| Chapter 5: Abilities | 第5章　〈能力〉 |
 | Chapter 6: Covenants | 第6章　コヴナント |
 | Chapter 7: Hermetic Magic | 第7章　ヘルメス魔術 |
 | Chapter 8: Laboratory | 第8章　研究室 |
@@ -210,7 +211,7 @@
 | sympathetic connections | 共感連鎖 | 索引準拠 |
 | Penetration Bonus / Multiplier | 貫通加算／貫通の倍率 | |
 | voting sigil | 投票印 | 行使の印と対 |
-| mastery ability | 習熟能力 | 呪文ごとに存在する能力 |
+| mastery ability | 習熟〈能力〉 | 呪文ごとに存在する〈能力〉 |
 | Adaptive Casting | 適応行使 | 習熟の特殊能力 |
 | Imperturbable Casting | 不動行使 | 集中のロールに加算 |
 | Still Casting | 静止行使 | 身振り不要。上と訳し分け |
@@ -226,13 +227,13 @@
 | Station / Avenue / Path | 位階／大路／道 | クリーアモンの秘儀 |
 | charms | 護符 | メリニータの詠唱道具 |
 | recurring spell | 反復する呪文 | 呪文の刻限 |
-| Hubris | 驕慢 | ウェルディーティウスの性格欠点。《尊大》（Proud）と区別 |
+| Hubris | 驕慢 | ウェルディーティウスの性格《欠点》。《尊大》（Proud）と区別 |
 | Verditius Runes | ウェルディーティウス・ルーン | |
 | automata | 自動人形 | |
 | attuned item | 調和させたアイテム | |
-| Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの神秘系能力 |
-| Summon Animals | 〈動物の召喚〉 | 獣使いの神秘系能力 |
-| Whistle Up The Wind | 〈風を口笛で招く〉 | テンペスタリアの神秘系能力 |
+| Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの神秘系〈能力〉 |
+| Summon Animals | 〈動物の召喚〉 | 獣使いの神秘系〈能力〉 |
+| Whistle Up The Wind | 〈風を口笛で招く〉 | テンペスタリアの神秘系〈能力〉 |
 | Longevity Ritual | 延命儀式 | 索引準拠。第3・4章の「長寿の儀式」を統一 |
 | laboratory texts | 研究書巻 | 索引準拠 |
 | invested item / device | インベスト・アイテム | 索引準拠 |
@@ -251,7 +252,7 @@
 | Bound Familiar | 結ばれた使い魔 | 索引準拠 |
 | Opening the Arts | 術法を開く | |
 | Deficiency | 苦手 | Deficient Technique/Form と対応 |
-| House Virtue | 流派美点 | |
+| House Virtue | 流派《美点》 | |
 | apprentice's gauntlet | 徒弟のガントレット | |
 | Arcane Experimentation | 秘儀の実験 | |
 | risk modifier | 危険修正 | |
@@ -304,7 +305,7 @@
 | maleficia | マレフィキア | |
 | famulus | ファムルス | 使い魔の悪魔 |
 | Divination | 占卜 | |
-| asterisked Ability | 星印付き能力 | 値0では使用不可 |
+| asterisked Ability | 星印付き〈能力〉 | 値0では使用不可 |
 | fixed Arcane Connection | 固定の秘儀的連鎖 | |
 
 ### コヴナント
@@ -424,9 +425,9 @@
 
 | 原語 | 現在の訳 | 論点 |
 | --- | --- | --- |
-| Regular（欠点） | 修道規則の徒 | 第4章の欠点一覧では《平凡》としたまま未修正。本文の内容（厳格な宗教規則に従う）に照らして本表の訳が正しい |
+| Regular（《欠点》） | 修道規則の徒 | 第4章の《欠点》一覧では《平凡》としたまま未修正。本文の内容（厳格な宗教規則に従う）に照らして本表の訳が正しい |
 | defense total | 防御合計 | 索引は「吸収値合計」とするが、soak total と重複しており索引側の誤りと判断 |
-| Divine Lore / Dominion Lore | 〈神聖界知識〉 | 原文が同一能力に二つの名を用いている。索引は Dominion Lore にのみ訳語を与える |
+| Divine Lore / Dominion Lore | 〈神聖界知識〉 | 原文が同一の〈能力〉に二つの名を用いている。索引は Dominion Lore にのみ訳語を与える |
 | Wizard's Vigil | *魔術師の徹夜祷* | 索引に項目なし。*魔術師の同調*（Wizard's Communion）は索引準拠。第9章で確定 |
 | Story Hook | 物語の引っ掛かり | コヴナントの Hook とは別系統として据え置き |
 | fast casting | 速攻行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
@@ -519,7 +520,7 @@
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Qualities | 特質 | 獣固有の特徴。美点・欠点とは別枠 |
+| Qualities | 特質 | 獣固有の特徴。《美点》・《欠点》とは別枠 |
 | Natural Weapons | 生来の武器 | |
 | Natural Weapons Table | 生来の武器表 | |
 | Protection | 防護 | 毛皮・鱗・甲羅などが与える値 |
@@ -583,7 +584,7 @@
 | Venomous | 有毒 |
 | Vocal | よく吠える |
 
-**注：**《鋭い聴力》（Sharp Ears）は美点、「鋭い耳」（Sharp Ears）は特質。原文が同名を両枠で用いているため訳し分けた。同様に「組みつき」は戦闘行為・特質の双方に用いる。
+**注：**《鋭い聴力》（Sharp Ears）は《美点》、「鋭い耳」（Sharp Ears）は特質。原文が同名を両枠で用いているため訳し分けた。同様に「組みつき」は戦闘行為・特質の双方に用いる。
 
 ### 領域別クリーチャーの用語（第13章）
 
@@ -604,13 +605,13 @@
 | Lunar Sphere | 月天球 | 物質界と天上界の境 |
 | revenant | レヴェナント | 「歩く死者」。肉体を保つ死者 |
 | haunt | 棲処 | 地霊が結びついた土地 |
-| Ghostly Warder | 亡霊の守護者 | 美点《亡霊の守護者》に対応 |
+| Ghostly Warder | 亡霊の守護者 | 《美点》の《亡霊の守護者》に対応 |
 
 **妖精の領域**
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Pretenses | 擬態能力 | 妖精が能力を模倣する技能。〈　〉で表記する点は能力と同じ |
+| Pretenses | 擬態能力 | 妖精が〈能力〉を模倣する技能。一般語の複合語として括弧を付けない |
 | glamour | 幻惑 | 妖精の身体・装備を成す魔法の規則 |
 | Cognizance | 自覚 | |
 | Highly / Narrowly Cognizant / Incognizant | 《高い自覚》／《限られた自覚》／《無自覚》 | |
@@ -630,9 +631,9 @@
 | Abhorrent Material/Circumstance | 忌まわしい物質／状況 | 弱みの一種 |
 | Compulsiveness / Ordering | 数え癖／秩序 | 弱みの一種 |
 | Protected Group / Running Water / Vulnerability | 守られた集団／流れる水／脆さ | 弱みの一種 |
-| Corrupt Beast | 穢れた獣 | 欠点名としては《穢れた獣》 |
-| Greater / Lesser Infernal Power | 《大いなる地獄の力》／《小なる地獄の力》 | 穢れた獣専用の美点 |
-| Horrifying Appearance / Demonic Weakness | 《怖ろしき外見》／《悪魔の弱み》 | 穢れた獣専用の欠点 |
+| Corrupt Beast | 穢れた獣 | 《欠点》名としては《穢れた獣》 |
+| Greater / Lesser Infernal Power | 《大いなる地獄の力》／《小なる地獄の力》 | 穢れた獣専用の《美点》 |
+| Horrifying Appearance / Demonic Weakness | 《怖ろしき外見》／《悪魔の弱み》 | 穢れた獣専用の《欠点》 |
 | vis prava | ウィース・プラウァ（穢れたウィース） | |
 | Goetic Art of Binding | ゴエティアの術「結縛」 | |
 
@@ -645,7 +646,7 @@
 | Spirit Form / Subtle Form | 霊の姿／微妙なる姿 | |
 | Divine Might | 聖なる実力値 | 既出 |
 
-**注：**〈魅了（Entrancement、神秘系能力）〉と〈魅惑（Charm、一般能力）〉は別の能力である。混同しないこと。同様に《鋭い聴力（Sharp Ears、美点）》と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
+**注：**〈魅了〉（Entrancement、神秘系）と〈魅惑〉（Charm、一般）は別の〈能力〉である。混同しないこと。同様に《鋭い聴力》（Sharp Ears、《美点》）と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
 
 **注：**訳者による「訳注：原文の不備について」の節を章末に置いたため、本章の日本語版は原文より `##` 見出しが一つ多い。
 
@@ -688,7 +689,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | feudalism | 封建制 | |
-| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 美点名は《臣従の誓い》 |
+| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 《美点》名は《臣従の誓い》 |
 | demesne | 直営地 | 領主が自ら耕作する土地 |
 | honor | オナー（大領主権） | 相続の単位となる領主権 |
 | tournament | 馬上槍試合 | |
@@ -805,3 +806,33 @@
 **注：**「魔術師の◯◯」（Wizard's Twilight など）は wizard 由来の固有名であり、この訳し分けの対象外。「魔術団」は組織名として慣用が固まっているため据え置く。
 
 **hedge magic と folk magic：**両者は原文で別概念のため訳し分ける。hedge magic は技法なので「**俗魔術**」（Hedge Wizard は「俗魔術使い」）、folk magic は第4章の欠点《**民間魔術**》として据え置く。両方を「民間魔術」とすると欠点名と魔法伝統の分類が同名になり区別できなくなるため。
+
+## 類型名の括弧付け
+
+Ability・Virtue・Flaw は、個々の項目名だけでなく類型そのものを指す語としても頻出する。術語として用いられている場合は、項目名と同じ括弧を付ける。
+
+| 原語 | 訳語 | 例 |
+| --- | --- | --- |
+| Ability | 〈能力〉 | 「いかなる〈能力〉についても」「ある〈能力〉に値を持たない」 |
+| Virtue | 《美点》 | 「この《美点》は男性のキャラクターしか選択できない」 |
+| Flaw | 《欠点》 | 「この《欠点》は複数回取得できる」 |
+
+**修飾語は括弧の外に置く。**類型を細分する修飾語（ヘルメス、超常、無償、大いなる、性格、物語、秘儀系ほか）は類型名の一部ではないため、括弧に含めない。
+
+- ヘルメス《美点》、超常《美点》、無償の《美点》、社会階層の《美点》
+- 大いなる性格の《欠点》、物語の《欠点》
+- 秘儀系〈能力〉、学術系〈能力〉、戦闘系〈能力〉、神秘系〈能力〉、一般〈能力〉
+
+個別の項目名に修飾語が含まれる場合（《怒りっぽい（小）》、〈地域知識（川筋）〉）は従来どおり括弧の内側に入れる。両者は別の規則である。
+
+**括弧を付けない場合。**「能力」は一般語としても用いられるため、以下は素のままとする。
+
+- 語を成す複合語：変身能力、擬態能力、特殊能力、言語能力、演技能力、潜在能力、運動能力、発声能力、呪付能力、戦闘能力（「戦闘系〈能力〉」とは別語）、社交能力（「社交系〈能力〉」とは別語）
+- 「〜する能力」が能力値ではなく素質・可能性を指す場合：「荷を運ぶ能力」「学ぶ能力は【知性】が表すものではない」「魔法を行使する能力」（天禀の説明）
+- 第5章の各〈能力〉の語釈文：「水中を速く効率よく進む能力。」のように、その〈能力〉が何を指すかを平叙文で説明している箇所
+
+「美点」「欠点」は本訳では術語専用の語であり、一般語としての用例はないため全件に括弧を付けた。
+
+**適用範囲。**見出しにも付ける（個別項目の見出しが既に《　》を用いているため）。《　》〈　〉はスラッグ生成時に除去されるため、見出し内リンクは影響を受けない。リンク先アンカー・コード・既存の項目名の内側は対象外。
+
+**適用実績。**〈能力〉1,108件、《美点》1,122件、《欠点》928件に付与。「能力」102件は上記の基準で素のままとした。

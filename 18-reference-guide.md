@@ -2,12 +2,12 @@
 
 ## 一般規則
 
-### 能力を用いる
+### 〈能力〉を用いる
 
-**能力のロール：特性値＋能力＋ダイスの目。目標値以上であれば成功**
+**〈能力〉のロール：特性値＋〈能力〉＋ダイスの目。目標値以上であれば成功**
 
-*アスタリスクの付かない能力は値0でも用いうるが、ボッチ・ダイスを3個加える。*<br>
-*能力の専門を用いる場合は＋1を加える。*
+*アスタリスクの付かない〈能力〉は値0でも用いうるが、ボッチ・ダイスを3個加える。*<br>
+*〈能力〉の専門を用いる場合は＋1を加える。*
 
 ### 目標値
 
@@ -21,7 +21,7 @@
 | 9 | 並 | 才ある者や熟練者が約七割で成功する。そこそこの技能なら約五割、技能がなければほとんど見込みがない。 |
 | 12 | 困難 | 技能のないキャラクターは必ず失敗する。そこそこの技能では、よほど才がないかぎり通常は失敗する。熟練者でも約半分は失敗する。 |
 | 15 | 至難 | そこそこの技能ではほとんど成功の見込みがない。熟練し才ある者でも約半分は失敗する。きわめて熟練し才に恵まれた者が約七割で成功する。 |
-| 18 | 見事 | 最高の技能を持つキャラクターが約半分で成功する。それに劣る能力ではほぼ見込みがない。 |
+| 18 | 見事 | 最高の技能を持つキャラクターが約半分で成功する。それに劣る〈能力〉ではほぼ見込みがない。 |
 | 21 | 驚異 | きわめて熟練し才に恵まれたキャラクターでも、ときおりしか成功しない。 |
 | 24以上 | ほぼ不可能 | その技能の最高の達人が、運に恵まれたときにのみ成功する。 |
 
@@ -108,7 +108,7 @@
 #### 評判を変える
 
 - 特筆すべき行いを為すことで評判1を得る。
-- 評判を能力として扱い、特筆すべき行いのそれぞれを経験点1点として扱うことで評判を上げる。
+- 評判を〈能力〉として扱い、特筆すべき行いのそれぞれを経験点1点として扱うことで評判を上げる。
 - 新たな評判を作ることで評判を下げる（決定版28ページ参照）。
 
 #### 評判の目標値
@@ -137,7 +137,7 @@
 
 *[67ページ](04-virtues-and-flaws.md#美点一覧)、[170ページ](05-abilities.md#霊視second-sight)*
 
-**レギオーの視認のロール：【知覚】＋しかるべき能力＋ストレスダイス**
+**レギオーの視認のロール：【知覚】＋しかるべき〈能力〉＋ストレスダイス**
 
 **目標値：5＋（2×現在の層のオーラと求める層のオーラの差）**
 
@@ -271,9 +271,9 @@
 
 イニシアチブ合計値（呪文）：【反応】−荷重＋ストレスダイス
 
-攻撃合計値：【器用】＋戦闘の能力＋武器の攻撃修正＋ストレスダイス
+攻撃合計値：【器用】＋戦闘の〈能力〉＋武器の攻撃修正＋ストレスダイス
 
-防御合計値：【反応】＋戦闘の能力＋武器の防御修正＋ストレスダイス
+防御合計値：【反応】＋戦闘の〈能力〉＋武器の防御修正＋ストレスダイス
 
 ダメージ合計値：【筋力】＋武器のダメージ修正＋攻撃優位
 
@@ -304,7 +304,7 @@
 
 ### 射撃武器のデータ
 
-| 武器 | 能力 | イニ | 攻撃 | 防御 | ダメ | 距離 | 筋力 | 積載値 | 費用 |
+| 武器 | 〈能力〉 | イニ | 攻撃 | 防御 | ダメ | 距離 | 筋力 | 積載値 | 費用 |
 |--------|---------|------|-----|-----|-----|-------|-----|------|------|
 | 投斧 | 投擲武器 | 0 | ＋2 | 0 | ＋6 | 5 | 0 | 1 | 標準 |
 | 投槍 | 投擲武器 | 0 | ＋2 | 0 | ＋5 | 10 | 0 | 1 | 標準 |
@@ -316,7 +316,7 @@
 
 \* 装填と射撃に両手が空いている必要がある。
 
-**能力：**この武器を用いるのに必要な武器の能力。
+**〈能力〉：**この武器を用いるのに必要な武器の〈能力〉。
 
 **イニ：**武器のイニシアチブ修正。
 
@@ -353,7 +353,7 @@
 
 ### 白兵武器のデータ
 
-| 武器 | 能力 | イニ | 攻撃 | 防御 | ダメ | 筋力 | 積載値 | 費用 |
+| 武器 | 〈能力〉 | イニ | 攻撃 | 防御 | ダメ | 筋力 | 積載値 | 費用 |
 |--------|---------|------|-----|-----|-----|-----|------|------|
 | 回避 | 格闘 | 0 | 該当なし | 0 | 該当なし | 該当なし | 0 | 該当なし |
 | 拳 | 格闘 | 0 | 0 | 0 | 0 | 該当なし | 0 | 該当なし |
@@ -388,7 +388,7 @@
 \*\* 棘付きの棍棒、軍用槌、その他の叩く武器を含む。<br>
 \*\*\* 下馬して用いる場合の騎槍を含む。
 
-**能力：**この武器を用いるのに必要な武器の能力。
+**〈能力〉：**この武器を用いるのに必要な武器の〈能力〉。
 
 **イニ：**武器のイニシアチブ修正。
 
@@ -536,7 +536,7 @@
 
 **キャラクターの貫通合計値：**効果のロール−目標値＋貫通の加算＋オーラ修正
 
-**貫通の加算：**〈貫通〉の能力×貫通の乗数
+**貫通の加算：**〈貫通〉の〈能力〉×貫通の乗数
 
 **貫通の乗数の基本値：**1
 
@@ -847,17 +847,17 @@
 - 標準の教授の規則を用いる。
 - 年に少なくとも一季節。〈パルマ・マギカ〉を広げて徒弟を覆わねばならない。
 - 術法を開くには一季節を要する。すべての術法で技量5以上を持たねばならず、さもなくば徒弟はその術法に《苦手》を得る。
-- 徒弟が神秘系能力を持つ場合、インテルレゴー・ウィムの研究室合計値がその能力の技量の5倍以上でなければならない。小なる美点なら最低10、大なる美点なら最低30（能力を伴わない小なる美点なら10、大なる美点なら10）。複数の能力については技量をすべて合計する。研究室合計値がこのレベルの二倍以上であれば、その能力は保たれるかヘルメスの美点へ転換されうる。そうでなければ失われる。
+- 徒弟が神秘系〈能力〉を持つ場合、インテルレゴー・ウィムの研究室合計値がその〈能力〉の技量の5倍以上でなければならない。小なる《美点》なら最低10、大なる《美点》なら最低30（〈能力〉を伴わない小なる《美点》なら10、大なる《美点》なら10）。複数の〈能力〉については技量をすべて合計する。研究室合計値がこのレベルの二倍以上であれば、その〈能力〉は保たれるかヘルメスの《美点》へ転換されうる。そうでなければ失われる。
 
-#### ヘルメスの美点を教える
+#### ヘルメスの《美点》を教える
 
 **教授の源の質：**【交渉】＋〈教授〉＋3＋加算
 
-**加算：**一対一なら＋6、小なるヘルメス欠点なら＋3、大なるヘルメス欠点なら＋9
+**加算：**一対一なら＋6、小なるヘルメス《欠点》なら＋3、大なるヘルメス《欠点》なら＋9
 
 **目標レベル：**小なるものは15、大なるものは21
 
-**レベルの修正：**小なるヘルメス美点一つにつき＋3、大なるヘルメス美点一つにつき＋9
+**レベルの修正：**小なるヘルメス《美点》一つにつき＋3、大なるヘルメス《美点》一つにつき＋9
 
 ### 呪付されたアイテム
 
@@ -947,9 +947,9 @@
 |--------|--------|
 | 1 | 研究室にいる全員が、ボッチのロールで出た零の数に等しい歪曲点を得る。ヘルメスのマギ（およびヘルメスの術法を開かれた者すべて）は、2点以上得たなら黄昏のロールを行わねばならない。その季節は完全に無駄になる。マギが黄昏に抗わないことを選べば、効果が生じる前に黄昏へ入り、自身への損傷をすべて免れる。 |
 | 2 | 創作物が破壊される。一季節の作業であれば、これは完全な失敗と同じである。 |
-| 3 | 研究室が《損傷》の欠点を得る。 |
-| 4 | 爆発。研究室が（《損傷》の代わりに）《大破》の欠点を得、研究室にいた者は全員が重傷を二つ負う。 |
-| 5以上 | ストーリーガイドが一つ選ぶ。（1）コヴナント全体を脅かす物語の出来事が、直ちに、あるいは制御を失った魔術の尾を引く余波として生じる。（2）爆発が研究室を完全に破壊する。その構造物は《歪んだ形》と《不安定》の欠点を得、一から建て直さねばならず、内にいた者は追加で行動不能の傷を負う。 |
+| 3 | 研究室が《損傷》の《欠点》を得る。 |
+| 4 | 爆発。研究室が（《損傷》の代わりに）《大破》の《欠点》を得、研究室にいた者は全員が重傷を二つ負う。 |
+| 5以上 | ストーリーガイドが一つ選ぶ。（1）コヴナント全体を脅かす物語の出来事が、直ちに、あるいは制御を失った魔術の尾を引く余波として生じる。（2）爆発が研究室を完全に破壊する。その構造物は《歪んだ形》と《不安定》の《欠点》を得、一から建て直さねばならず、内にいた者は追加で行動不能の傷を負う。 |
 
 **特別な効果なし：**実験は意図せぬ効果を生じることなく成功する。
 
@@ -982,7 +982,7 @@
 | 出目 | 結果 |
 |------|--------|
 | 1〜4 | 〈魔術理論〉に経験点15点を得る。 |
-| 5〜6 | その実験に関わる何らかの能力に経験点15点を得る。 |
+| 5〜6 | その実験に関わる何らかの〈能力〉に経験点15点を得る。 |
 | 7〜8 | その実験に用いた術法の一つに経験点3点を得る。 |
 | 9 | その実験に用いた術法の一つを次の水準へ上げるに足る経験点（または3経験点のいずれか多い方）を得る。 |
 | 10以上 | 二回振る。この結果が再び出たら振り直す。 |
@@ -1082,7 +1082,7 @@
 
 ### 成長表
 
-| 値 | 術法（0から） | 術法（一段階） | 能力（0から） | 能力（一段階） |
+| 値 | 術法（0から） | 術法（一段階） | 〈能力〉（0から） | 〈能力〉（一段階） |
 |-------|------------|-----------------|----------------|---------------------|
 | 1 | 1 | 1 | 5 | 5 |
 | 2 | 3 | 2 | 15 | 10 |
@@ -1129,15 +1129,15 @@
 
 **鍛錬の情報源の質：**4〜8、通常は4
 
-**訓練の情報源の質：**教える能力における師の値＋3
+**訓練の情報源の質：**教える〈能力〉における師の値＋3
 
-**訓練の獲得限界：**教える能力における師の値
+**訓練の獲得限界：**教える〈能力〉における師の値
 
 **礼拝の情報源の質：**その教会の神聖のオーラ
 
 **教授の情報源の質：**教師の【交渉】＋〈教授〉＋3＋加算
 
-**教授の獲得限界：**その術法または能力における教師の値
+**教授の獲得限界：**その術法または〈能力〉における教師の値
 
 **大全書：**情報源の質と水準
 
@@ -1147,7 +1147,7 @@
 
 **ウィースの情報源の質：**ストレスダイス＋オーラの加算
 
-**神秘系能力の情報源の質（新たな能力のみ）：**通常の情報源の質−神秘系能力の値の合計
+**神秘系〈能力〉の情報源の質（新たな〈能力〉のみ）：**通常の情報源の質−神秘系〈能力〉の値の合計
 
 ### 妨げ
 
@@ -1657,11 +1657,11 @@
 | 項目 | ページ |
 |-----------|----------|
 | Abandoned Apprentice (Flaw)（《見捨てられた徒弟》） | [119](04-virtues-and-flaws.md#見捨てられた徒弟abandoned-apprentice) |
-| Abilities（能力） | [27](03-characters.md#能力), [48](03-characters.md#能力-1), [157-159](05-abilities.md#第5章能力) |
+| Abilities（〈能力〉） | [27](03-characters.md#能力), [48](03-characters.md#能力-1), [157-159](05-abilities.md#第5章能力) |
 | &nbsp;&nbsp;Types（類型） | [158-159](05-abilities.md#能力の類型) |
 | Ability Block (Flaw)（《苦手分野》） | [119](04-virtues-and-flaws.md#苦手分野ability-block) |
-| Ability Roll（能力のロール） | [158](05-abilities.md#能力ロール) |
-| Academic Abilities（学術系能力） | [158](05-abilities.md#学術系能力) |
+| Ability Roll（〈能力〉のロール） | [158](05-abilities.md#能力ロール) |
+| Academic Abilities（学術系〈能力〉） | [158](05-abilities.md#学術系能力) |
 | Academic Concentration (Subject) (Virtue)（《学問への専心（主題）》） | [69](04-virtues-and-flaws.md#学問への専心主題academic-concentration-subject) |
 | Accessible Power Level（利用可能魔力レベル） | [179](06-covenants.md#利用可能魔力レベル) |
 | Action-Adventure Saga（活劇のサーガ） | [533](16-sagas.md#活劇) |
@@ -1720,7 +1720,7 @@
 | Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性aptitude-for-sin) |
 | Aquam (Art)（アクアム／水） | [208](07-hermetic-magic.md#アクアムaq水), [320](09-spells.md#アクアムの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精の領域) |
-| Arcane Abilities（秘儀系能力） | [158](05-abilities.md#秘儀系能力) |
+| Arcane Abilities（秘儀系〈能力〉） | [158](05-abilities.md#秘儀系能力) |
 | Arcane Connections（秘儀的連鎖） | [219](07-hermetic-magic.md#秘儀的連鎖) |
 | &nbsp;&nbsp;Limit of（秘儀的連鎖の限界） | [211](07-hermetic-magic.md#秘儀的連鎖の限界) |
 | &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#秘儀的連鎖の固定) |
@@ -1828,7 +1828,7 @@
 | Capo (Virtue)（《カポ》） | [73](04-virtues-and-flaws.md#カポcapo) |
 | Carefree (Flaw)（《気楽》） | [122](04-virtues-and-flaws.md#気楽carefree) |
 | Careless Sorcerer (Flaw)（《不注意な術者》） | [122](04-virtues-and-flaws.md#不注意な術者careless-sorcerer) |
-| Careless with (Ability) (Flaw)（（能力）に不注意） | [122](04-virtues-and-flaws.md#能力に不注意careless-with-ability) |
+| Careless with (Ability) (Flaw)（（〈能力〉）に不注意） | [122](04-virtues-and-flaws.md#能力に不注意careless-with-ability) |
 | Carouse (Ability)（〈酒豪〉） | [161](05-abilities.md#酒豪carouse) |
 | Casting Requisites（行使の制約術法） | [311–312](09-spells.md#制約術法) |
 | Casting Spells（呪文の行使） | [213–220](07-hermetic-magic.md#呪文の行使) |
@@ -2133,7 +2133,7 @@
 | &nbsp;&nbsp;*see also Auras* |  |
 | Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
 | Faerie Creatures（妖精のクリーチャー） | [466–475](13-bestiary.md#妖精のクリーチャー) |
-| &nbsp;&nbsp;Virtues & Flaws（美点と欠点） | [466](13-bestiary.md#新たな美点と欠点) |
+| &nbsp;&nbsp;Virtues & Flaws（《美点》と《欠点》） | [466](13-bestiary.md#新たな美点と欠点) |
 | Faerie Doctor (Virtue)（《妖精呪医》） | [79](04-virtues-and-flaws.md#妖精呪医faerie-doctor) |
 | Faerie Doctors（妖精呪医） | [56–57](03-characters.md#妖精呪医) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
@@ -2156,7 +2156,7 @@
 | Falling Evil (Flaw)（《癲癇》） | [128](04-virtues-and-flaws.md#癲癇the-falling-evil) |
 | Falls Like a Cat (Virtue)（《猫のごとく落ちる》） | [80](04-virtues-and-flaws.md#猫のごとく落ちるfalls-like-a-cat) |
 | False Power (Flaw)（《偽りの力》） | [128](04-virtues-and-flaws.md#偽りの力false-power) |
-| Familiar Powers（使い魔の能力） | [267–268](08-laboratory.md#力の例) |
+| Familiar Powers（使い魔の〈能力〉） | [267–268](08-laboratory.md#力の例) |
 | Familiars（使い魔） | [265–268](08-laboratory.md#使い魔) |
 | &nbsp;&nbsp;Suggested Familiars by Art（術法別の使い魔の例） | [266](08-laboratory.md#術法別の使い魔の例) |
 | Familiar with the Fae (Virtue)（《妖精に通じる》） | [80](04-virtues-and-flaws.md#妖精への通暁familiarity-with-the-fae) |
@@ -2197,7 +2197,7 @@
 | Flawed Parma Magica (Flaw)（《欠陥あるパルマ・マギカ》） | [130](04-virtues-and-flaws.md#欠陥あるパルママギカflawed-parma-magica) |
 | Flawed Powers (Flaw)（《欠陥ある力》） | [130](04-virtues-and-flaws.md#欠陥ある力flawed-powers) |
 | Flawless Magic (Virtue)（《完璧な魔法》） | [81](04-virtues-and-flaws.md#完璧な魔法flawless-magic) |
-| Flaws（欠点） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
+| Flaws（《欠点》） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
 | &nbsp;&nbsp;*see also Virtues and Flaws* |  |
 | Flexible Formulaic Magic (Virtue)（《柔軟な定式魔術》） | [81](04-virtues-and-flaws.md#柔軟な定式魔術flexible-formulaic-magic) |
 | Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢fluctuating-fortune) |
@@ -2313,7 +2313,7 @@
 | Hermetic Patron (Flaw)（《ヘルメスの庇護者》） | [132](04-virtues-and-flaws.md#ヘルメスの庇護者hermetic-patron) |
 | Hermetic Prestige (Virtue)（《ヘルメスの威光》） | [85](04-virtues-and-flaws.md#ヘルメスの威光hermetic-prestige) |
 | Hermetic Reputation（ヘルメスの評判） | [28](03-characters.md#評判) |
-| Hermetic Virtues and Flaws（ヘルメス美点と欠点） | [45](03-characters.md#美点と欠点-1) |
+| Hermetic Virtues and Flaws（ヘルメス《美点》と《欠点》） | [45](03-characters.md#美点と欠点-1) |
 | Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛hex) |
 | Hex (Virtue)（《呪詛》） | [85](04-virtues-and-flaws.md#呪詛hex) |
 | Hiems（冬） | [176](06-covenants.md#ヒエムス) |
@@ -2443,7 +2443,7 @@
 | &nbsp;&nbsp;Features（特徴） | [296–297](08-laboratory.md#研究室の設備) |
 | &nbsp;&nbsp;Personalization（個人化） | [286–298](08-laboratory.md#研究室の個性化の規則) |
 | &nbsp;&nbsp;Texts（研究書巻） | [180](06-covenants.md#研究書巻), [262](08-laboratory.md#研究書巻) |
-| &nbsp;&nbsp;Virtues and Flaws（美点と欠点） | [292–296](08-laboratory.md#研究室の美点と欠点) |
+| &nbsp;&nbsp;Virtues and Flaws（《美点》と《欠点》） | [292–296](08-laboratory.md#研究室の美点と欠点) |
 | &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究室作業) |
 | Laborer (Virtue)（《労働者》） | [88](04-virtues-and-flaws.md#労働者laborer) |
 | Lame (Flaw)（《跛行》） | [135](04-virtues-and-flaws.md#跛行lame) |
@@ -2459,7 +2459,7 @@
 | &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
 | Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮leadership) |
 | Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力learn-ability-from-mistakes) |
-| Learning Supernatural Abilities（神秘系能力の学習） | [383](10-long-term-events.md#神秘系能力を習得する) |
+| Learning Supernatural Abilities（神秘系〈能力〉の学習） | [383](10-long-term-events.md#神秘系能力を習得する) |
 | Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂きleather-ripper) |
 | Leather Scale Armor（レザースケール） | [399](11-obstacles.md#材質) |
 | Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色lecherous) |
@@ -2561,8 +2561,8 @@
 | Magus Templates（マギのテンプレート） | [37–43](03-characters.md#マギのテンプレート) |
 | Major Breakthrough（大突破） | [277](08-laboratory.md#突破) |
 | Major Magical Focus (Virtue)（《大いなる魔術の専門分野》） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野major-magical-focus) |
-| Major Personality Flaws（大いなる性格の欠点） | [64](04-virtues-and-flaws.md#性格), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
-| Major Story Flaws（大いなる物語の欠点） | [66](04-virtues-and-flaws.md#物語) |
+| Major Personality Flaws（大いなる性格の《欠点》） | [64](04-virtues-and-flaws.md#性格), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
+| Major Story Flaws（大いなる物語の《欠点》） | [66](04-virtues-and-flaws.md#物語) |
 | Maker of Textured Vessels (Virtue)（《織り目ある器の作り手》） | [94](04-virtues-and-flaws.md#織り目ある器の作り手maker-of-textured-vessels) |
 | Maker of Water Vessels (Virtue)（《水の器の作り手》） | [94](04-virtues-and-flaws.md#水の器の作り手maker-of-water-vessels) |
 | Male Guild Sponsor (Virtue)（《男性ギルド後見人》） | [95](04-virtues-and-flaws.md#男性ギルド後見人male-guild-sponsor) |
@@ -2573,7 +2573,7 @@
 | Markets（市場） | [509](14-mythic-europe.md#市と大市) |
 | Marriage（結婚） | [500](14-mythic-europe.md#秘蹟) |
 | Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭marshal) |
-| Martial Abilities（戦闘系能力） | [158](05-abilities.md#戦闘系能力) |
+| Martial Abilities（戦闘系〈能力〉） | [158](05-abilities.md#戦闘系能力) |
 | Martyrdom（殉教） | [419](12-realms.md#聖なる力のオーラの源) |
 | Mass（ミサ） | [500](14-mythic-europe.md#秘蹟) |
 | Master Bard (Virtue)（《大バード》） | [96](04-virtues-and-flaws.md#大バードmaster-bard) |
@@ -2619,8 +2619,8 @@
 | Minor Enchantments (Virtue)（《小呪付の品》） | [98](04-virtues-and-flaws.md#小呪付の品minor-enchantments) |
 | Minor Magical Focus (Virtue)（《小なる魔術の専門分野》） | [98](04-virtues-and-flaws.md#小なる魔術の専門分野minor-magical-focus) |
 | Minor Orders（下級聖職位） | [500](14-mythic-europe.md#秘蹟) |
-| Minor Personality Flaws（小なる性格の欠点） | [66](04-virtues-and-flaws.md#性格) |
-| Minor Story Flaws（小なる物語の欠点） | [66](04-virtues-and-flaws.md#物語) |
+| Minor Personality Flaws（小なる性格の《欠点》） | [66](04-virtues-and-flaws.md#性格) |
+| Minor Story Flaws（小なる物語の《欠点》） | [66](04-virtues-and-flaws.md#物語) |
 | Miracles（奇跡） | [420](12-realms.md#奇跡), [505–506](14-mythic-europe.md#奇跡) |
 | Mischievous Childhood（わんぱくな幼少期） | [48](03-characters.md#幼年期の例) |
 | Missile Combat（射撃戦闘） | [395](11-obstacles.md#飛び道具の戦闘) |
@@ -2666,7 +2666,7 @@
 | Mythic Pound（神話ポンド） | [187](06-covenants.md#神話ポンド) |
 | Natural Leader (Virtue)（《生来の指導者》） | [99](04-virtues-and-flaws.md#生来の指導者natural-leader) |
 | Necessary Condition (Flaw)（《必須の条件》） | [138](04-virtues-and-flaws.md#必須の条件necessary-condition) |
-| Necessary (Realm) Aura for (Ability) (Flaw)（（能力）に必要な（領域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な領域のオーラnecessary-realm-aura-for-ability) |
+| Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（領域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な領域のオーラnecessary-realm-aura-for-ability) |
 | Nemthengacha, The（ネムセンガハ） | [244](07-hermetic-magic.md#ネヴサンガハ) |
 | Nephilim（ネフィリム） | [57](03-characters.md#ネフィリム) |
 | Nephilim (Virtue)（《ネフィリム》） | [99](04-virtues-and-flaws.md#ネフィリムnephilim) |
@@ -2731,7 +2731,7 @@
 | Personal Power (Virtue)（《個人の力》） | [102](04-virtues-and-flaws.md#個人の力personal-power) |
 | Personal Vis Source (Virtue)（《自前のウィース源》） | [103](04-virtues-and-flaws.md#自前のウィース源personal-vis-source) |
 | Personality（性格） | [52](03-characters.md#性格-1) |
-| Personality Flaws（性格の欠点） | [45](03-characters.md#美点と欠点), [61](04-virtues-and-flaws.md#第4章美点と欠点), [66](04-virtues-and-flaws.md#性格) |
+| Personality Flaws（性格の《欠点》） | [45](03-characters.md#美点と欠点), [61](04-virtues-and-flaws.md#第4章美点と欠点), [66](04-virtues-and-flaws.md#性格) |
 | Personality Rolls（性格のロール） | [28](03-characters.md#性格ロール) |
 | Personality Traits（性格） | [28](03-characters.md#性格) |
 | Pessimistic (Flaw)（《悲観的》） | [140](04-virtues-and-flaws.md#悲観的pessimistic) |
@@ -2945,7 +2945,7 @@
 | Spell Format（呪文の書式） | [313–314](09-spells.md#呪文の書式) |
 | Spell Improvisation (Virtue)（《呪文の即興》） | [109](04-virtues-and-flaws.md#呪文の即興spell-improvisation) |
 | Spell Mastery（呪文の習熟） | [27](03-characters.md#能力), [225–226](07-hermetic-magic.md#呪文の習熟) |
-| Spell Mastery Abilities（呪文習熟の能力） | [158](05-abilities.md#呪文の習熟能力) |
+| Spell Mastery Abilities（呪文習熟の〈能力〉） | [158](05-abilities.md#呪文の習熟能力) |
 | Spells（呪文） | [6](01-introduction.md#用語集), [301–372](09-spells.md#第9章呪文) |
 | &nbsp;&nbsp;Casting（行使） | [213–218](07-hermetic-magic.md#呪文の行使) |
 | &nbsp;&nbsp;Design（設計） | [301–308](09-spells.md#呪文の設計) |
@@ -2968,7 +2968,7 @@
 | Still Casting（静止行使） | [226](07-hermetic-magic.md#静止行使) |
 | Stockade Parma Magica (Flaw)（《柵状のパルマ・マギカ》） | [145](04-virtues-and-flaws.md#柵状のパルママギカstockade-parma-magica) |
 | Storm (Duration)（嵐（持続時間）） | [71](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
-| Story Flaws（物語の欠点） | [45](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [61](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
+| Story Flaws（物語の《欠点》） | [45](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [61](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
 | Story Ideas（物語の着想） | [520–522](15-stories.md#物語の着想) |
 | Story Types（物語の類型） | [517–518](15-stories.md#物語の類型) |
 | Stone（石） | [402](11-obstacles.md#飛び道具) |
@@ -2995,11 +2995,11 @@
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Supernatural Abilities（神秘系能力） | [159](05-abilities.md#神秘系能力) |
+| Supernatural Abilities（神秘系〈能力〉） | [159](05-abilities.md#神秘系能力) |
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#神秘系能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
-| Supernatural Virtues and Flaws（超常的美点と欠点） | [64](04-virtues-and-flaws.md#超常) |
+| Supernatural Virtues and Flaws（超常的《美点》と《欠点》） | [64](04-virtues-and-flaws.md#超常) |
 | Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀suppressed-gift) |
 | Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医surgical-empiricus) |
 | Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術survival) |
@@ -3124,9 +3124,9 @@
 | Viaticarus (Flaw)（《ウィアティカルス》） | [150](04-virtues-and-flaws.md#ウィアティカルスviaticarus) |
 | Viea（ウィエア） | [10](02-the-order-of-hermes.md#トリアノマとヴィエア) |
 | Vim (Art)（ウィム／力） | [209](07-hermetic-magic.md#ウィムvi力), [364–372](09-spells.md#ウィムの呪文) |
-| Virtues and Flaws（美点と欠点） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
-| &nbsp;&nbsp;List of Virtues（美点の一覧） | [67–68](04-virtues-and-flaws.md#美点一覧) |
-| &nbsp;&nbsp;List of Flaws（欠点の一覧） | [117–118](04-virtues-and-flaws.md#欠点一覧) |
+| Virtues and Flaws（《美点》と《欠点》） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
+| &nbsp;&nbsp;List of Virtues（《美点》の一覧） | [67–68](04-virtues-and-flaws.md#美点一覧) |
+| &nbsp;&nbsp;List of Flaws（《欠点》の一覧） | [117–118](04-virtues-and-flaws.md#欠点一覧) |
 | Vis（ウィース） | [6](01-introduction.md#用語集), [180](06-covenants.md#ウィース), [212](07-hermetic-magic.md#生のウィース), [250](08-laboratory.md#ウィース) |
 | &nbsp;&nbsp;Sources（源） | [422](12-realms.md#ウィース源) |
 | &nbsp;&nbsp;Limit of（ウィースの限界） | [212](07-hermetic-magic.md#ウィースの限界) |
