@@ -150,7 +150,7 @@
 
 | 区分 | 《美点》／《欠点》 |
 | ----------------- | ---------------- |
-| **小なる《美点》** | 《アーリム》、《官僚》、《アミール》、《フィダーイー》、《マムルーク》、《スーフィー》 |
+| **小なる《美点》** | 《アーリム》、《官僚》、《アミール》、《フィダーイー》、《マムルーク》、《スーフィ》 |
 | **大いなる《美点》** | 《ラーシク》、《ムクター》 |
 
 #### ヒベルニア
@@ -258,11 +258,11 @@
 
 ### 超常、小
 
-《不定形》（Amorphous）／《動物理解》（Animal Ken）／《職人の癒し》（Crafter's Healing）／《悪魔の実力値》（Demonic Might）／《悪魔の力》（Demonic Powers）／《ダウジング》（Dowsing）／《塵旋風》（Dust Devil）／《呪付（能力）》（Enchanting (Ability)）／《ヘパイストスの眼》（Eye of Hephaestus）／《布裂き》（Fabric Ripper）／《妖精の血脈》（Faerie Blood）／《妖精への通暁》（Familiarity with the Fae）／《羽根の使い》（Feather Messenger）／《知識の泉》（Font of Knowledge）／《恐るべき威圧》（Frightful Presence）／《性別変換》（Gender Shift）／《帰巣本能》（Homing Instinct）／《寒気への耐性》（Immunity to Cold）／《地獄の家宝》（Infernal Heirloom）／《カッサラーン式祓魔》（Kassalan Exorcism）／《（土地）のレギオー網》（(Land) Regio Network）／《革裂き》（Leather Ripper）／《小なる祝福》（Lesser Benediction）／《耐性》（Lesser Immunity）／《小なる力》（Lesser Power）／《浄化の手》（Lesser Purifying Touch）／《魔法感受性》（Magic Sensitivity）／《魔法の血脈》（Magical Blood）／《織り目ある器の作り手》（Maker of Textured Vessels）／《水の器の作り手》（Maker of Water Vessels）／《（形相）のクリーチャーの支配者》（Master of (Form) Creatures）／《ミューズ》（Muse）／《ペルソナ》（Persona）／《個人の力》（Personal Power）／《予感》（Premonitions）／《裂き手》（Ripper）／《霊視》（Second Sight）／《闇中視》（See in Darkness）／《聖邪感知》（Sense Holiness and Unholiness）／《皮衣変身》（Skinchanger）／《濃い天使の血統》（Strong Angelic Heritage）／《スーフィー》（Sufi）／《不老》（Unaging）／《縛られぬ舌》（Unbound Tongue）／《可変の力》（Variable Power）／《（土地）の声》（Voice of the (Land)）／《山野の知恵》（Wilderness Sense）／《無知よりの叡智》（Wisdom from Ignorance）
+《不定形》（Amorphous）／《動物理解》（Animal Ken）／《職人の癒し》（Crafter's Healing）／《悪魔の実力値》（Demonic Might）／《悪魔の力》（Demonic Powers）／《ダウジング》（Dowsing）／《塵旋風》（Dust Devil）／《呪付（能力）》（Enchanting (Ability)）／《ヘパイストスの眼》（Eye of Hephaestus）／《布裂き》（Fabric Ripper）／《妖精の血脈》（Faerie Blood）／《妖精への通暁》（Familiarity with the Fae）／《羽根の使い》（Feather Messenger）／《知識の泉》（Font of Knowledge）／《恐るべき威圧》（Frightful Presence）／《性別変換》（Gender Shift）／《帰巣本能》（Homing Instinct）／《寒気への耐性》（Immunity to Cold）／《地獄の家宝》（Infernal Heirloom）／《カッサラーン式祓魔》（Kassalan Exorcism）／《（土地）のレギオー網》（(Land) Regio Network）／《革裂き》（Leather Ripper）／《小なる祝福》（Lesser Benediction）／《耐性》（Lesser Immunity）／《小なる力》（Lesser Power）／《浄化の手》（Lesser Purifying Touch）／《魔法感受性》（Magic Sensitivity）／《魔法の血脈》（Magical Blood）／《織り目ある器の作り手》（Maker of Textured Vessels）／《水の器の作り手》（Maker of Water Vessels）／《（形相）のクリーチャーの支配者》（Master of (Form) Creatures）／《ミューズ》（Muse）／《ペルソナ》（Persona）／《個人の力》（Personal Power）／《予感》（Premonitions）／《裂き手》（Ripper）／《霊視》（Second Sight）／《闇中視》（See in Darkness）／《聖邪感知》（Sense Holiness and Unholiness）／《皮衣変身》（Skinchanger）／《濃い天使の血統》（Strong Angelic Heritage）／《スーフィ》（Sufi）／《不老》（Unaging）／《縛られぬ舌》（Unbound Tongue）／《可変の力》（Variable Power）／《（土地）の声》（Voice of the (Land)）／《山野の知恵》（Wilderness Sense）／《無知よりの叡智》（Wisdom from Ignorance）
 
 ### 社会階層、小
 
-《アーリム》（ʿAlim）／《アルモガテン》（Almogaten）／《アルモガバル》（Almogavar）／《バカラリウス》（Baccalaureus）／《ビードル》（Beadle）／《従軍司祭兄弟》（Brother Chaplain）／《騎士兄弟》（Brother Knight）／《従士兄弟》（Brother Sergeant）／《官僚》（Bureaucrat）／《知識階層》（Clerk）／《クストス》（Custos）／《アミール》（Emir）／《宦官》（Eunuch）／《代理商》（Factor）／《落第徒弟》（Failed Apprentice）／《鷹匠》（Falconer）／《フィダーイー》（Fidaʾi）／《鍛冶仲間》（Forge-Companion）／《郷紳／淑女》（Gentleman/woman）／《ギルド徒弟》（Guild Apprentice）／《ギルド親方》（Guild Master）／《イネスレメン》（Ineslemen）／《遍歴職人》（Journeyman）／《法学者》（Jurist）／《騎士》（Knight）／《一匹狼の赤帽士》（Lone Redcap）／《マムルーク》（Mamluk）／《厩舎頭》（Marshal）／《犬舎頭》（Master of Kennels）／《マズダー教司祭》（Mazdean Priest）／《托鉢修道士》（Mendicant Friar）／《傭兵隊長》（Mercenary Captain）／《冒険商人》（Merchant Adventurer）／《公証人》（Notary）／《完徳者》（Perfectus）／《司祭》（Priest）／《ラビ》（Rabbi）／《修道者》（Religious）／《上級バード》（Senior Bard）／《シャドヘン》（Shadchan）／《一介の学生》（Simple Student）／《スーフィー》（Sufi）／《テンプル騎士団行政官》（Templar Administrator）／《テンプル騎士団役職者》（Templar Office Holder）／《テンプル騎士団専門職》（Templar Specialist）／《町の参事》（Town Magistrate）／《トルバドゥール／トロバイリツ》（Troubadour/Trobairitz）／《大学文法教師》（University Grammar Teacher）／《賢人》（Wise One）
+《アーリム》（ʿAlim）／《アルモガテン》（Almogaten）／《アルモガバル》（Almogavar）／《バカラリウス》（Baccalaureus）／《ビードル》（Beadle）／《従軍司祭兄弟》（Brother Chaplain）／《騎士兄弟》（Brother Knight）／《従士兄弟》（Brother Sergeant）／《官僚》（Bureaucrat）／《知識階層》（Clerk）／《クストス》（Custos）／《アミール》（Emir）／《宦官》（Eunuch）／《代理商》（Factor）／《落第徒弟》（Failed Apprentice）／《鷹匠》（Falconer）／《フィダーイー》（Fidaʾi）／《鍛冶仲間》（Forge-Companion）／《郷紳／淑女》（Gentleman/woman）／《ギルド徒弟》（Guild Apprentice）／《ギルド親方》（Guild Master）／《イネスレメン》（Ineslemen）／《遍歴職人》（Journeyman）／《法学者》（Jurist）／《騎士》（Knight）／《一匹狼の赤帽士》（Lone Redcap）／《マムルーク》（Mamluk）／《厩舎頭》（Marshal）／《犬舎頭》（Master of Kennels）／《マズダー教司祭》（Mazdean Priest）／《托鉢修道士》（Mendicant Friar）／《傭兵隊長》（Mercenary Captain）／《冒険商人》（Merchant Adventurer）／《公証人》（Notary）／《完徳者》（Perfectus）／《司祭》（Priest）／《ラビ》（Rabbi）／《修道者》（Religious）／《上級バード》（Senior Bard）／《シャドヘン》（Shadchan）／《一介の学生》（Simple Student）／《スーフィ》（Sufi）／《テンプル騎士団行政官》（Templar Administrator）／《テンプル騎士団役職者》（Templar Office Holder）／《テンプル騎士団専門職》（Templar Specialist）／《町の参事》（Town Magistrate）／《トルバドゥール／トロバイリツ》（Troubadour/Trobairitz）／《大学文法教師》（University Grammar Teacher）／《賢人》（Wise One）
 
 ### 一般、小
 
@@ -302,7 +302,7 @@
 
 #### 《アーリム》（'Alim）
 *小、社会階層*<br>
-あなたは宗教的な指導層の一員である。ムアッジンやイマームのような下級の役職者かもしれないし、ムフティー（MUF-tee、法的見解を述べる資格を正式に持つ者）やカーディー（QAW-dee、裁判官）のような重要人物かもしれない。キャラクター作成時に学術系〈能力〉を購入できる。この《美点》は男性のキャラクターしか選択できない。
+あなたは宗教的な指導層の一員である。ムアッジンやイマームのような下級の役職者かもしれないし、ムフティ（MUF-tee、法的見解を述べる資格を正式に持つ者）やカーディ（QAW-dee、裁判官）のような重要人物かもしれない。キャラクター作成時に学術系〈能力〉を購入できる。この《美点》は男性のキャラクターしか選択できない。
 
 #### 《計画どおり》（All According to Plan）
 *小、一般*<br>
@@ -1993,9 +1993,9 @@
 *小、ヘルメス*<br>
 あなたは身振りを用いずにペナルティなしで呪文を行使できる。通常の身振りを用いても恩恵は得られないが、誇張した身振りには通常の恩恵を得る。
 
-#### 《スーフィー》（Sufi）
+#### 《スーフィ》（Sufi）
 *小、社会階層、超常*<br>
-あなたはムスリムの神秘家であり、禁欲と儀礼を通じて神とのより近い合一を求めている。シャイフに率いられたスーフィーのタリーカの一員である。この集団は困窮の折にあなたを支えてくれるが、あなたのシャイフは、自分と他の構成員に対して同等の献身をあなたに期待する。《導師》のようなしかるべき小なる物語の《欠点》を選ぶべきであり、これは《美点》を買うための点数を与えない。一部のスーフィーが振るう超常の力については *Realms of Power: The Divine Revised Edition* 116ページを参照。まったく世俗のスーフィーであることも可能であり、その場合はこの《美点》を社会階層の《美点》として取るべきである。
+あなたはムスリムの神秘家であり、禁欲と儀礼を通じて神とのより近い合一を求めている。シャイフに率いられたスーフィのタリーカの一員である。この集団は困窮の折にあなたを支えてくれるが、あなたのシャイフは、自分と他の構成員に対して同等の献身をあなたに期待する。《導師》のようなしかるべき小なる物語の《欠点》を選ぶべきであり、これは《美点》を買うための点数を与えない。一部のスーフィが振るう超常の力については *Realms of Power: The Divine Revised Edition* 116ページを参照。まったく世俗のスーフィであることも可能であり、その場合はこの《美点》を社会階層の《美点》として取るべきである。
 
 大半のムスリムは、その敬虔な生き方ゆえにあなたを敬意をもって扱う。キャラクター作成時に〈神学：イスラーム〉、〈イスラーム法〉、〈神聖界知識〉の〈能力〉を購入できる。
 
@@ -2169,9 +2169,9 @@
 
 #### 《無知よりの叡智》（Wisdom from Ignorance）
 *小、超常*<br>
-エジプトに見られるスーフィーの一派は、書法と謎の美学にとりわけ関心を寄せている。彼らの言う謎の美学とは、意味あるものとして構成されていながら、見る者には読めない文書を沈思することが、悟りをもたらす瞑想の一形態として用いうる、ということである。彼らは、それが書かれている言語を読めない場合に限り、書物を修練の情報源として用いることができる。
+エジプトに見られるスーフィの一派は、書法と謎の美学にとりわけ関心を寄せている。彼らの言う謎の美学とは、意味あるものとして構成されていながら、見る者には読めない文書を沈思することが、悟りをもたらす瞑想の一形態として用いうる、ということである。彼らは、それが書かれている言語を読めない場合に限り、書物を修練の情報源として用いることができる。
 
-このスーフィーたちはこの〈能力〉を霊的な事柄の理解を得るために用いるので、プレイヤーは〈能力〉の書物を通常どおり作成し、スーフィーがこの《美点》を用いるときには、その書物から学ばれる〈能力〉を〈神学〉、〈組織知識：スーフィー〉、あるいは同様に高尚な主題へ振り替えること。この《美点》を用いるスーフィーは、物質的に実用的な〈能力〉に経験を得ることもまれにあるが、これは霊的な旅路における特定の試練を乗り越える文脈においてのみ起こる。このように直接役立つ学びは、スーフィーからは奇跡とみなされるので、トゥループは他のいかなる奇跡とも同様にこれを律するべきである。
+このスーフィたちはこの〈能力〉を霊的な事柄の理解を得るために用いるので、プレイヤーは〈能力〉の書物を通常どおり作成し、スーフィがこの《美点》を用いるときには、その書物から学ばれる〈能力〉を〈神学〉、〈組織知識：スーフィ〉、あるいは同様に高尚な主題へ振り替えること。この《美点》を用いるスーフィは、物質的に実用的な〈能力〉に経験を得ることもまれにあるが、これは霊的な旅路における特定の試練を乗り越える文脈においてのみ起こる。このように直接役立つ学びは、スーフィからは奇跡とみなされるので、トゥループは他のいかなる奇跡とも同様にこれを律するべきである。
 
 #### 《賢人》（Wise One）
 *小、社会階層*<br>
@@ -3674,7 +3674,7 @@
 > - 荒れ狂う火、溶岩、あるいは溶けた鉄のそばにいるほどの暑さ
 > - 熱帯の真昼
 > - 南ヨーロッパの晴れた夏の日ほどの暖かさ
-> - ノルマンディー、ライン、ストーンヘンジ、ヒベルニア各トリビューナルの通常の住人にとって快適
+> - ノルマンディ、ライン、ストーンヘンジ、ヒベルニア各トリビューナルの通常の住人にとって快適
 > - 西ヨーロッパの底冷えする冬の日ほどの寒さ
 > - 極地の冬
 > - 不自然に寒い

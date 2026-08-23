@@ -2406,7 +2406,7 @@
 | Investigating Enchantments（呪付の調査） | [260](08-laboratory.md#呪付を調査する) |
 | Investigation Saga（探索のサーガ） | [533](16-sagas.md#探索) |
 | Iron, Molten（溶けた鉄） | [407](11-obstacles.md#熱と腐食) |
-| Islam（イスラム教） | [77](04-virtues-and-flaws.md#教育イスラームeducated-islamic), [110–111](04-virtues-and-flaws.md#スーフィーsufi), [172](05-abilities.md#神学イスラームtheology-islam) |
+| Islam（イスラム教） | [77](04-virtues-and-flaws.md#教育イスラームeducated-islamic), [110–111](04-virtues-and-flaws.md#スーフィsufi), [172](05-abilities.md#神学イスラームtheology-islam) |
 | Islamic Law (Ability)（〈イスラーム法〉） | [167](05-abilities.md#イスラーム法islamic-law) |
 | &nbsp;&nbsp;*see also Muslims* |  |
 | Jack-of-All-Trades (Virtue)（《何でも屋》） | [87](04-virtues-and-flaws.md#何でも屋jack-of-all-trades) |
@@ -2651,7 +2651,7 @@
 | Mundane Beasts（世俗の獣） | [428–442](13-bestiary.md#世俗の獣) |
 | Muse (Virtue)（《ミューズ》） | [99](04-virtues-and-flaws.md#ミューズmuse) |
 | Music (Ability)（〈音楽〉） | [168](05-abilities.md#音楽music) |
-| Muslims（イスラム教徒） | [99](04-virtues-and-flaws.md#ムクターmuqta), [111](04-virtues-and-flaws.md#スーフィーsufi) |
+| Muslims（イスラム教徒） | [99](04-virtues-and-flaws.md#ムクターmuqta), [111](04-virtues-and-flaws.md#スーフィsufi) |
 | Mute (Flaw)（《唖》） | [138](04-virtues-and-flaws.md#唖mute) |
 | Muto (Art)（ムト／変成） | [207](07-hermetic-magic.md#ムトmu我変える) |
 | Mysteries（秘儀） | [233–243](07-hermetic-magic.md#秘儀) |
@@ -2986,7 +2986,7 @@
 | Study Requirement (Flaw)（《学習の要件》） | [145](04-virtues-and-flaws.md#学習の要件study-requirement) |
 | Sub-Deacon（副助祭） | [500](14-mythic-europe.md#秘蹟) |
 | Subtle Magic (Virtue)（《無身振りの魔術》） | [110](04-virtues-and-flaws.md#無身振りの魔術subtle-magic) |
-| Sufi (Virtue)（《スーフィー》） | [111](04-virtues-and-flaws.md#スーフィーsufi) |
+| Sufi (Virtue)（《スーフィ》） | [111](04-virtues-and-flaws.md#スーフィsufi) |
 | Summae（大全書） | [179](06-covenants.md#蔵書), [379](10-long-term-events.md#大全書) |
 | Summer（夏） | [175](06-covenants.md#夏) |
 | Summon Animals (Ability)（〈動物召喚〉） | [171](05-abilities.md#動物召喚summon-animals), [243](07-hermetic-magic.md#動物の召喚) |
