@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 翻訳協力に申し込む
+    url: https://docs.google.com/forms/d/e/1FAIpQLSenAifaRrfoq61ztkXVlU65McPru-BnW3pWjhQtVv_ZZ4vpvQ/viewform
+    about: 章単位でまとまった範囲を担当していただける方を募集しています。数ページの短いチェックから可能です。
   - name: 自分で直して提出する（推奨）
     url: https://github.com/arsmagica-jp/DefinitiveEdition/blob/main/CONTRIBUTING.md
     about: 数値・訳し漏れ・誤訳・日本語の読みにくさは、直接直して提出していただくほうが早く反映されます。Git の知識は不要です。

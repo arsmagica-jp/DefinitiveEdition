@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        まとめて何件も報告する場合は、担当パッケージの Issue にコメントする方が早いです。
+        まとめて何件も報告する場合は、担当章の Issue にコメントする方が早いです。
         1件だけ気づいた、という場合にこのフォームをお使いください。
 
   - type: dropdown

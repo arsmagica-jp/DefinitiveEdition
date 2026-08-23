@@ -1,0 +1,56 @@
+name: 担当章（統括者用）
+description: 章を1つ切り出して、担当者を割り当てます。
+title: "[担当] "
+labels: ["担当章"]
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: 系統
+      options:
+        - A 数値・データ照合（英語ほぼ不要）
+        - B 用語・表記の統一（用語集が読めれば可）
+        - C 対訳精読（英語が必要）
+        - D 日本語通読（英語不要）
+    validations:
+      required: true
+  - type: input
+    id: chapter
+    attributes:
+      label: 担当章
+      placeholder: "例）第18章 リファレンスガイド"
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: 範囲（章の一部を割り当てる場合）
+      placeholder: "例）「一般規則」〜「研究室規則」（索引は除く）"
+  - type: textarea
+    id: howto
+    attributes:
+      label: この範囲で特に見てほしいこと
+      value: |
+        - 
+        - 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 担当者の方へ
+
+        **数値・訳し漏れ・誤訳・日本語の読みにくさは、直して提出してください。**
+        手順は [CONTRIBUTING.md](https://github.com/arsmagica-jp/DefinitiveEdition/blob/main/CONTRIBUTING.md) にあります。Git の知識は不要です。
+
+        **訳語・見出し・原文の不備は直さず、この Issue にコメントで報告してください。**
+        新しく Issue を立てる必要はありません。1回のコメントに何件まとめても構いません。下の表をコピーしてお使いください。
+
+        ```
+        | 行 | 種別 | 現在の訳文 | 提案 | 根拠 |
+        |---|---|---|---|---|
+        |  |  |  |  |  |
+        |  |  |  |  |  |
+        ```
+
+        - 行番号を出すには、ファイルの URL の末尾に `?plain=1` を付けます。
+        - 判断に迷ったら Discussions の「用語の相談」「なんでも質問」へ。

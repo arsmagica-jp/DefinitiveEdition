@@ -4,6 +4,10 @@
 
 Git の知識は不要です。GitHub のアカウントさえあれば、ブラウザだけで完結します。
 
+> **継続的にご協力いただける方へ**
+> 章単位でまとまった範囲を担当していただける方を募集しています。[翻訳協力申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSenAifaRrfoq61ztkXVlU65McPru-BnW3pWjhQtVv_ZZ4vpvQ/viewform)からご連絡ください。担当範囲はご希望と作業ペースに合わせて調整します。数ページの短いチェックからでも構いません。
+> 気づいた箇所を1件だけ直して提出する場合は、申し込みは不要です。そのまま下記の手順にお進みください。
+
 ## 提出の仕組み
 
 GitHub 上でファイルを編集すると、**あなた専用のコピー（フォーク）が自動で作られ**、変更はそこに保存されます。それを「プルリクエスト（PR）」として提出すると、管理者が内容を確認したうえで元のリポジトリに取り込みます。
@@ -112,11 +116,13 @@ push すると GitHub 上に「Compare & pull request」のボタンが出ます
 直さずに知らせるだけでも歓迎します。
 
 - **1件だけ気づいた場合** — Issue の「校正報告（1件）」フォームをお使いください。
-- **担当範囲をまとめて報告する場合** — 担当パッケージの Issue にコメントしてください。
+- **担当範囲をまとめて報告する場合** — 担当章の Issue にコメントしてください。
 - **訳語をどうするか相談したい場合** — Discussions の「[用語の相談](https://github.com/arsmagica-jp/DefinitiveEdition/discussions/categories/terminology)」へ。
 - **進め方がわからない・原文の意味が取れない場合** — Discussions の「[なんでも質問](https://github.com/arsmagica-jp/DefinitiveEdition/discussions/categories/q-a)」へ。
 
 分担作業の全体像は [REVIEW-GUIDE.md](REVIEW-GUIDE.md) にあります。どこから手をつけるか迷う場合はそちらをご覧ください。
+
+継続的にご協力いただける場合は、[翻訳協力申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSenAifaRrfoq61ztkXVlU65McPru-BnW3pWjhQtVv_ZZ4vpvQ/viewform)からお申し込みください。こちらから担当範囲をご相談します。
 
 ## 8. ライセンス
 
