@@ -77,6 +77,69 @@
 | botch dice | ボッチ・ダイス |
 | Ease Factor | 目標値 | 索引準拠。「難易度」から統一 |
 | Faerie Doctor | 《妖精呪医》 | 「妖精医師」から統一 |
+| Enchanting (Ability) | 《魔性の技芸（能力）》／〈魔性の技芸（能力）〉 | 「呪付（能力）」から変更。物に効果を込める enchantment（呪付）とは無関係で、音楽・舞踊・素描・語り・工芸といった芸によって他人に情動を吹き込む神秘系〈能力〉。原文が「(Ability)」を付しているのも呪付と区別するため。〈魅了〉（Entrancement）・〈魅惑〉（Charm）・〈感応〉（Induction）とは別 |
+| The Constant Expression | 《常なる魔法発現》 | 「《常なる発現》」から統一。第18章の索引が「《絶えざる発露》」と別訳になっていたのも揃えた |
+| Vulnerable to Folk Tradition | 《魔除けに脆い魔術》 | 「《民間伝承に脆い》」から変更。folk tradition は邪を払う印・唾・塩・鉄の寝台といった庶民の魔除け（folk-remedies for averting hostile spells）を指し、《民間魔術》（Folk Magic）とは別。Vulnerable は《脆い魔術》《脆い行使》と同じく「脆い」 |
+| Imagined Folk Tradition Vulnerability | 《魔除けに脆いという思い込み》 | 「《思い込みの民間伝承への脆さ》」から変更。上と対 |
+| folk-remedies | 民間の魔除け | 「民間の呪い」は「のろい」と読まれて呪詛の意味に取れるため改めた |
+| Vulnerable to Folk Tradition | 《魔除けに脆い魔術》 | 「《民間伝承に脆い》」から変更。folk tradition は邪を払う印・唾・塩・鉄の寝台といった庶民の魔除け（folk-remedies for averting hostile spells）を指し、《民間魔術》（Folk Magic）とは別。Vulnerable は《脆い魔術》《脆い行使》と同じく「脆い」。解説文の lasting enchantment は持続中の呪文の効果なので「呪付」ではなく「魔法の効果」とした |
+| Imagined Folk Tradition Vulnerability | 《魔除けに脆いという思い込み》 | 「《思い込みの民間伝承への脆さ》」から変更。上と対 |
+| folk-remedies | 民間の魔除け | 両《欠点》の解説文で統一。「民間の呪い」は「のろい」と読まれて呪詛の意味に取れるため避ける |
+| Vengeful Powers | 《祟りをなす力》 | 「《復讐する力》」から統一 |
+| Rolling Stone | 《風来坊》 | 「《転石》」から統一 |
+| Painful Magic | 《苦痛に満ちた魔術》 | 「《苦痛の魔術》」から統一 |
+| Oversensitive | 《神経質》 | 「《過敏》」から統一。第13章の《神経質（挑発に対して）》等も揃えた。《環境過敏》（Environmental Sensitivity）と《歪んだ感覚》の「過敏な（感覚）」は別 |
+| Inoffensive to (Beings) / Unbearable to (Beings) | 《（存在）にとって無害》／《（存在）にとって耐え難い》 | 「に無害」「に耐え難い」から統一し、《（存在）にとって不快》と揃えた。資格を埋めた具体形（《動物にとって無害》《世俗の人間にとって無害》《神聖の存在にとって耐え難い》）も同様。《無害な魔術》（Harmless Magic）は別の《美点》 |
+| Offensive to (Beings) | 《（存在）にとって不快》 | 「《（存在）に不快》」から統一。第13章の資格を埋めた形《神聖の存在にとって不快》も揃えた |
+| Missing Ear / Eye / Hand | 《片耳》／《片目》／《片手》 | 「《片耳がない》」等から統一。〈片手武器〉（Single Weapon）とは別 |
+| Many Marriageable Daughters | 《年頃の娘たち》 | 「《年頃の娘が大勢》」から統一 |
+| Low Tolerance | 《忍耐不足》 | 「《耐性が低い》」から統一 |
+| Loose Magic | 《大雑把な魔術》 | 「《緩い魔術》」から統一 |
+| Judged Unfairly | 《不当な評価》 | 「《不当に裁かれる》」から統一 |
+| Independent Craftsman | 《孤立した職人》 | 「《独立職人》」から統一 |
+| Inconstant Magic | 《定まらぬ魔術》 | 「《移ろう魔術》」から統一 |
+| Incomprehensible | 《理解不能》 | 「《意味不明》」から変更。第10章の「本文を訂正して意味不明にしてしまう」は一般語なので据え置き |
+| Impious Friend | 《冒涜的な友》 | 「《不敬な友》」から変更。一般語の「不敬」（第4・13章）は据え置き |
+| Flashbacks | 《フラッシュバック》 | 「《追想》」から変更。解説文中の flashback も同語に揃えた |
+| Failed Journeyman / Master / Monk | 《追放遍歴職人》／《追放親方》／《追放修道士》 | 「《落第◯◯》」から変更。同じ Failed でも《落第徒弟》（Failed Apprentice）・《落第学生》（Failed Student）は修学の挫折なので据え置き |
+| Disorientating Magic | 《目眩を引き起こす魔術行使》 | 「《眩暈を呼ぶ魔術》」から変更。呪文を行使した直後の1ラウンドを回復に費やす《欠点》 |
+| Bound to (Realm) | 《（領域）の呪縛》 | 「《（領域）に縛られる》」から統一。《（役目）の呪縛》と対になる |
+| Bound to (Role) | 《（役目）の呪縛》 | 「《（役割）に縛られる》」から変更。role は錠前師・見張り番・御者といった務めを指し、器具や場所はその務めを果たす道具。原文最終段落の Role-Bound characters が正式な呼称。「役割」は物語上の位置づけの意味で本訳の別箇所に多用されるため「役目」とした。原文の見出し `Bound to (Role) Role` は Role が重複した誤り |
+| Blatant Gift / Blatant Magical Air | 《不快な天禀》／《不快な魔法の妖気》 | 「《露骨な天禀》」「《露骨な魔法の妖気》」から変更。原語が同じ Blatant なので対で揃える |
+| Afflicted Tongue | 《縺れる舌》 | 「《舌禍》」から変更。原文は a speech impediment, such as a lisp, stutter, or missing teeth で、失言の意味ではない。話せなくなる《唖》（Mute）とは別で、こちらは−2のペナルティにとどまる |
+| Venditor | 《ウェルディーティウス派仲買人》 | 「《ウェンディトル》」から変更。原文は a selling-agent for a Verditius maga |
+| Subtle Magic | 《動作なき魔術》 | 「《無身振りの魔術》」から統一。《無音の魔術》（Quiet Magic）と対になる |
+| Senior Master | 《有力な親方》 | 「《上級親方》」から統一。第6章のギルドの階梯の記述にある普通名詞の senior master も揃えた |
+| Performance Magic | 《所作魔術》 | 「《演技魔術》」から変更。performance は舞台芸ではなく、〈工芸〉〈職業〉〈狩猟〉など明確な言語的・身体的実践を伴う〈能力〉を実際に行使することを指し、その所作がヘルメス魔術の身振りと呪言を置き換える。持続時間 Performance も「所作」とした |
+| Perfect Eye for (Commodity) | 《（商品）の目利き》 | 「《（商品）を見抜く眼》」から統一。解説文の「羊毛を見抜く眼」も「羊毛の目利き」に揃えた |
+| Mercurian Magic | 《メルクリウス魔術》 | 「《メルクリウス魔法》」から統一 |
+| Perdo / elemental / combat / Sensory Magic | ペルド魔術／元素魔術／戦闘魔術／感覚魔術 | magic の訳し分けで取りこぼしていた7件。いずれも技法の意味なので「魔術」 |
+| Maker of Textured Vessels | 《紋様ある器の作り手》 | 「《織り目ある器の作り手》」から統一。原文は mystical patterns impressed into their surfaces |
+| Magical Memory | 《魔術の記憶力》 | 「《魔術の記憶》」から統一 |
+| Magian Lineage | 《マゴス僧の血統》 | 「《マギの血統》」から変更。Magian は古代ペルシアのマゴス僧（Median tribe of Magians）を指し、本訳が magi に当てている「マギ」とは別語。解説文の「メディア人マギ族」も「メディア人のマゴス僧の部族」に改めた |
+| Long-Winded | 《持久力》 | 「《長広舌》」から変更。原文は "last longer when exerting yourself... +3 on all your Fatigue rolls" で、饒舌の意味ではない |
+| Lightning Reflexes | 《稲妻の反応》 | 「《電光の反射》」から統一 |
+| Life-Linked Spontaneous Magic | 《生命力燃焼即興魔術》 | 「《生命に結びついた即興魔術》」から統一 |
+| Life Boost | 《生命力による増幅》 | 「《生命力の後押し》」から統一 |
+| Knows People | 《顔が広い》 | 「《人を見る目》」から変更。原文は social contacts の広さと仲介役としての立ち位置を扱う《美点》で、人物眼の意味ではない。第4章《シャドヘン》の解説にある "a good judge of character"（人を見る目）は一般語なので据え置き |
+| Gorgiastic | 《ゴルギアス》 | 「《ゴルギアス風》」から統一。解説文の Gorgiastic magi も「ゴルギアスのマギ」に揃えた（「ゴルギアス風のマギ」と混在していた） |
+| Free Expression | 《独創的な表現力》 | 「《自由な表現》」から統一 |
+| Forgettable Face | 《影の薄い容貌》 | 「《忘れられる顔》」から統一 |
+| Falls Like a Cat | 《猫のごとき着地》 | 「《猫のごとく落ちる》」から統一 |
+| Factor | 《番頭》 | 「《代理商》」から統一。第4章《カポ》の解説にある普通名詞の factor も揃えた |
+| Exotic Casting | 《独特の魔術行使》 | 「《異風の行使》」から統一 |
+| Enduring Constitution | 《不屈の肉体》 | 「《頑健な体質》」から統一 |
+| Educated (Vernacular) | 《教育（世俗）》 | 「《教育（俗語）》」から統一。〈能力〉の〈俗語〉および〈語り〉の専門「俗語」（slang）との混同を避ける |
+| Craft Guild Training | 《職人ギルドの修行》 | 「《工芸ギルドの訓練》」から統一 |
+| craft guild | 職人ギルド | 普通名詞の場合も《美点》名に揃える。「工芸ギルド」から統一（第5章〈組織知識〉、第6章のギルドの解説） |
+| Convoluted Mind | 《屈折した精神》 | 「《込み入った思考》」から統一 |
+| Brother Chaplain | 《従軍司祭》 | 「《従軍司祭兄弟》」から統一 |
+| Brother Knight | 《騎士修道士》 | 「《騎士兄弟》」から統一 |
+| Brother Sergeant | 《従士修道士》 | 「《従士兄弟》」から統一 |
+| Bard | 《吟遊詩人》 | 「《バード》」から統一。同系の《上級吟遊詩人》（Senior Bard）・《大吟遊詩人》（Master Bard）・《教育（吟遊詩人）》（Educated (Bardic)）も揃える |
+| bardic school | 吟遊詩人の学院 | 「バードの学校」「吟遊詩人の学院」に割れていたのを統一 |
+| minstrel | 楽師 | Bard を「吟遊詩人」としたため、従来「吟遊詩人」を当てていた minstrel を改めた（第4章《トルバドゥール／トロバイリツ》、第14章の芸人の記述） |
+| Aneirin the Bard | 吟遊詩人アネイリン | 第13章のダイモーン。《吟遊詩人》の《美点》とは別だが、本文中の表記を揃えるため片仮名を改めた |
 | Laboratory | 研究室 | 「研究所」から統一。研究室合計値・研究室書巻なども同様 |
 | Arcane Abilities | 秘儀系〈能力〉 | 〈能力〉の類型 |
 | Academic Abilities | 学術系〈能力〉 | 〈能力〉の類型 |
@@ -194,10 +257,11 @@
 | Lab Total | 研究室合計値 | |
 | Advancement Total | 成長合計値 | |
 | Source Quality | 情報源の質 | |
-| magnitude | 段階 | |
+| magnitude | 階級 | 呪文レベルの五分の一（切り上げ）。「段階」「等級」に割れていたのを統一。一般語の「段階」（傷・疲労の水準、コヴナントの生涯の段階、表の一段上など）とは区別する。身分の意味で「階級」を用いていた6箇所は「身分」（第14章の品級の分類のみ「区分」）に改め、この語は magnitude 専用とした |
 | Range / Duration / Target | 射程／持続時間／目標 | |
 | requisite | 制約術法 | |
-| Penetration Total | 貫通合計値 | |
+| Penetration | 抵抗貫通力 | 「貫通」から統一。名詞としての Penetration 270件が対象で、〈抵抗貫通力〉（能力）・抵抗貫通力合計値・抵抗貫通力加算なども同様。動詞 penetrate（「魔法抵抗を貫通する」）54件は「貫通する」のまま |
+| Penetration Total | 抵抗貫通力合計値 | |
 | fast casting | 速攻行使 | 索引は「速唱」だが本文では行使の語で統一 |
 | aiming roll | 狙いのロール | |
 | Technique / Form | 技法／形相 | 索引準拠 |
@@ -207,9 +271,9 @@
 | Elemental Forms | 元素の形相 | 索引準拠 |
 | Limits of Magic / Lesser Limits | 魔法の限界／小限界 | 索引準拠 |
 | pawn / rook / queen | ポーン／ルーク／クイーン | ウィースの単位 |
-| Forceless Casting | 無力な行使 | 貫通合計値を0に抑える |
+| Forceless Casting | 無力な行使 | 抵抗貫通力合計値を0に抑える |
 | sympathetic connections | 共感連鎖 | 索引準拠 |
-| Penetration Bonus / Multiplier | 貫通加算／貫通の倍率 | |
+| Penetration Bonus / Multiplier | 抵抗貫通力加算／抵抗貫通力の倍率 | |
 | voting sigil | 投票印 | 行使の印と対 |
 | mastery ability | 習熟〈能力〉 | 呪文ごとに存在する〈能力〉 |
 | Adaptive Casting | 適応行使 | 習熟の特殊能力 |
@@ -231,9 +295,9 @@
 | Verditius Runes | ウェルディーティウス・ルーン | |
 | automata | 自動人形 | |
 | attuned item | 調和させたアイテム | |
-| Embitterment | 〈憎悪の吹き込み〉 | ネヴサンガハの神秘系〈能力〉 |
-| Summon Animals | 〈動物の召喚〉 | 獣使いの神秘系〈能力〉 |
-| Whistle Up The Wind | 〈風を口笛で招く〉 | テンペスタリアの神秘系〈能力〉 |
+| Embitterment | 〈心を蝕む〉 | ネヴサンガハの神秘系〈能力〉。第7章で「〈憎悪の吹き込み〉」としていたのを第4・5章の一覧に揃えた |
+| Summon Animals | 〈動物召喚〉 | 獣使いの神秘系〈能力〉。第7章で「〈動物の召喚〉」としていたのを第4・5章の一覧に揃えた |
+| Whistle Up The Wind | 〈風を呼ぶ口笛〉 | テンペスタリアの神秘系〈能力〉。第7章で「〈風を口笛で招く〉」としていたのを第4・5章の一覧に揃えた |
 | Longevity Ritual | 延命儀式 | 索引準拠。第3・4章の「長寿の儀式」を統一 |
 | laboratory texts | 研究書巻 | 索引準拠 |
 | invested item / device | インベスト・アイテム | 索引準拠 |
@@ -457,7 +521,7 @@
 | fancy effect | 凝った効果 | 設計欄の修正理由 |
 | elemental (water/air/fire/earth) | （水／風／火／地の）精霊 | 元素の精霊 |
 | spell trace / residue | 呪文の痕跡／残滓 | InVi・CrVi |
-| negative magnitude | 負の段階 | 痕跡の衰えの尺度 |
+| negative magnitude | 負の階級 | 痕跡の衰えの尺度 |
 | conduit / container (ReVi) | 導管／容器 | 呪文のための |
 | native / foreign (Aegis) | 土着／外来 | 炉辺のアエギスの用語 |
 | species (Imaginem) | スペキエース | 第7章から継続 |
@@ -690,7 +754,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | feudalism | 封建制 | |
-| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 《美点》名は《臣従の誓い》 |
+| oath of fealty / vassal / fief | 臣従の誓い／封臣／封土 | 第4章の《欠点》名も《臣従の誓い》に統一（「《忠誠の誓い》」から変更）。第4章《宮廷貴族》の解説にある "an oath of loyalty and support" は「忠誠と支援の誓い」で別語 |
 | demesne | 直営地 | 領主が自ら耕作する土地 |
 | honor | オナー（大領主権） | 相続の単位となる領主権 |
 | tournament | 馬上槍試合 | |
@@ -795,7 +859,7 @@
 | --- | --- |
 | ヘルメス魔術（Hermetic Magic） | 魔法の領域（Magic Realm） |
 | 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法のオーラ（Magic Aura） |
-| 妖精魔術／演技魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
+| 妖精魔術／所作魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
 | ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法界知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
@@ -852,4 +916,4 @@ Ability・Virtue・Flaw は、個々の項目名だけでなく類型そのも�
 
 現象そのものを指す用法には括弧を付けない。第7章の「## 天禀」の節（天禀の社会的影響、動物の反応など）、第2章の魔術団史、第13章の幻獣の記述、および「天禀を持つ者」「天禀なき者」「天禀持ち」のような語はすべて素のままとする。第4章の類型見出し `### 天禀` も、同階層の「### ヘルメス」「### 超常」等に揃えて括弧を付けない。
 
-呪文名 *幻の天禀*（The Phantom Gift）は斜体の呪文表記であり対象外。既存の《穏和な天禀》《露骨な天禀》《抑えられた天禀》《偽りの天禀》《天禀に動じない》は個別の《美点》・《欠点》名として従来どおり。
+呪文名 *幻の天禀*（The Phantom Gift）は斜体の呪文表記であり対象外。既存の《穏和な天禀》《不快な天禀》《抑えられた天禀》《偽りの天禀》《天禀に動じない》は個別の《美点》・《欠点》名として従来どおり。
