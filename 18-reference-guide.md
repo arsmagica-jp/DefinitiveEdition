@@ -131,7 +131,7 @@
 | 魔法のオーラ | 12−オーラの値 |
 | 呪文 | 21−効果の階級 |
 | 呪付されたアイテム | 21−最も強力な効果の階級 |
-| 魔法のクリーチャー | 15−魔法の実力値の五分の一 |
+| 魔法圏のクリーチャー | 15−魔法の実力値の五分の一 |
 
 ### 〈霊視〉
 
@@ -153,7 +153,7 @@
 | 生来の不可視 | 9 |
 | レギオーの境 | 5＋（2×現在の層のオーラと求める層のオーラの差） |
 
-#### 魔法抵抗を貫通せねばならないもの（神聖の領域から与えられる）
+#### 魔法抵抗を貫通せねばならないもの（神聖圏から与えられる）
 
 | 感じ取るもの | 目標値 |
 |---------|-------------|
@@ -559,7 +559,7 @@
 | 数年から数十年持続 | ＋3 |
 | 無期限に持続 | ＋4 |
 
-#### 領域相互作用表
+#### 圏域相互作用表
 
 | オーラの種類 | 魔法の力 | 神聖の力 | 妖精の力 | 地獄の力 |
 |-----------|-------------|--------------|--------------|----------------|
@@ -582,7 +582,7 @@
 
 | 値 | 例 |
 | ----- | --------------------------------------------------------------------- |
-| 1〜10 | ある領域のありふれたクリーチャー。 |
+| 1〜10 | ある圏域のありふれたクリーチャー。 |
 | 11〜20 | そこそこ強力。少なくとも駆け出しのマギに匹敵する。 |
 | 21〜30 | かなり強力。 |
 | 31〜40 | きわめて強力。妖精の君主、小型のドラゴンなど。 |
@@ -974,7 +974,7 @@
 
 - その創作物は追加の未加工のウィースを要する。マギは、その作業の技法または形相に合致するウィースを、（修正を含む）効果の階級＋危険度の修正に等しいポーン数だけ追加で費やさねばならない。ウィースを持たないか、一季節にそれだけのウィースを扱えないかしてこれができない場合は、完全な失敗として扱う。
 - マギはその作業と同じ技法と形相の呪文をも作り出す。レベルは一季節で作りうる範囲の任意のものでよい。その呪文はストーリーガイドかトゥループが設計し、その作業と明白な繋がりを持つ必要はない。マギはそれを習得しており、通常どおり研究書巻を書き上げて他のマギにも作らせることができる。この呪文がヘルメス魔術のすべての規則に従っていれば話は単純だが、トゥループが煩雑さを厭わないのであれば必須ではない。主たる作業については特別な効果なしとして扱う。
-- その創作物が何らかの形で変質する。それは必ずしも副次効果や効果の変質の区分に当てはまらないが、望むならそうしてもよい。これによりストーリーガイドはあらゆる種類の超常の効果を持ち込める――その創作物が別の領域から強く影響を受けることさえありうる。結果はマギの視点から見て良いものでも悪いものでもよいが、トゥループにとって興味深いものであるべきである。
+- その創作物が何らかの形で変質する。それは必ずしも副次効果や効果の変質の区分に当てはまらないが、望むならそうしてもよい。これによりストーリーガイドはあらゆる種類の超常の効果を持ち込める――その創作物が別の圏域から強く影響を受けることさえありうる。結果はマギの視点から見て良いものでも悪いものでもよいが、トゥループにとって興味深いものであるべきである。
 - 物語の出来事が起こる。これは何でもよく、大きな筋書きを導入する機会としても、短く愉快な寄り道としても用いうる。直ちに起こる必要はない。制御を失った魔術が何かを動かし始めるのかもしれないし、しばらく後にその創作物を特定の状況で用いた結果かもしれない。この物語の出来事は基本的に良いものでもありうる。たとえばマギが使い魔の候補の注意を引くかもしれない。その物語の出来事が別段の必要を生じないかぎり、作業そのものについては特別な効果なしとして扱う。
 
 **発見：**単純ダイスを振り、危険度の修正を加える。秘儀の発見（*ArMD* [277ページ](08-laboratory.md#突破)参照）に取り組んでいるのであれば、その作業を進める発見を得、この表は無視する。
@@ -1585,7 +1585,7 @@
 
 *配列は原文どおり英語名のアルファベット順である。*
 
-| 名前 | 領域 | 形相 | 実力値 | ページ |
+| 名前 | 圏域 | 形相 | 実力値 | ページ |
 |------|-------|-------|-------|------|
 | 毒蛇（アダー、Viperis） | 獣 | — | — | [429](13-bestiary.md#毒蛇アダーviperis) |
 | エトナ山の霊、アドラヌス | 魔法 | イグネム | 50 | [460](13-bestiary.md#エトナ山の霊アドラヌス) |
@@ -1699,8 +1699,8 @@
 | Amorphous (Virtue)（《不定形》） | [70](04-virtues-and-flaws.md#不定形amorphous) |
 | Anachronisms（時代錯誤） | [514](14-mythic-europe.md#誤りと時代錯誤) |
 | Anchored to the (Land) (Flaw)（（土地）に繋がれる） | [119](04-virtues-and-flaws.md#土地に繋がれるanchored-to-the-land) |
-| Angels（天使） | [489-492](13-bestiary.md#神聖のクリーチャー) |
-| &nbsp;&nbsp;*see also [Creatures of the Divine](13-bestiary.md#神聖のクリーチャー)* |  |
+| Angels（天使） | [489-492](13-bestiary.md#神聖圏のクリーチャー) |
+| &nbsp;&nbsp;*see also [Creatures of the Divine](13-bestiary.md#神聖圏のクリーチャー)* |  |
 | Animating Corpses（屍を動かす） | [462](13-bestiary.md#魔術で屍を動かす) |
 | Animals（アニマル／動物） | [428-436](13-bestiary.md#世俗の獣) |
 | Animal (Art)（アニマル／動物） | [208](07-hermetic-magic.md#アニマルan動物), [314](09-spells.md#アニマルの呪文) |
@@ -1719,7 +1719,7 @@
 | Apt Student (Virtue)（《教わり上手》） | [70](04-virtues-and-flaws.md#教わり上手apt-student) |
 | Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性aptitude-for-sin) |
 | Aquam (Art)（アクアム／水） | [208](07-hermetic-magic.md#アクアムaq水), [320](09-spells.md#アクアムの呪文) |
-| Arcadia（アルカディア） | [417](12-realms.md#妖精の領域) |
+| Arcadia（アルカディア） | [417](12-realms.md#妖精圏) |
 | Arcane Abilities（秘儀系〈能力〉） | [158](05-abilities.md#秘儀系能力) |
 | Arcane Connections（秘儀的連鎖） | [219](07-hermetic-magic.md#秘儀的連鎖) |
 | &nbsp;&nbsp;Limit of（秘儀的連鎖の限界） | [211](07-hermetic-magic.md#秘儀的連鎖の限界) |
@@ -1727,7 +1727,7 @@
 | Arcane Experimentation（秘儀の実験） | [274](08-laboratory.md#秘儀の実験) |
 | Arcane Lore (Virtue)（《秘儀知識》） | [70](04-virtues-and-flaws.md#秘儀知識arcane-lore) |
 | Arcane Studies（秘儀研究） | [250](08-laboratory.md#秘儀の研究) |
-| Archangels（大天使） | [*see Angels*](13-bestiary.md#神聖のクリーチャー) |
+| Archangels（大天使） | [*see Angels*](13-bestiary.md#神聖圏のクリーチャー) |
 | Archieunuch (Virtue)（《大宦官》） | [70](04-virtues-and-flaws.md#大宦官archieunuch) |
 | (Area) Lore (Ability)（〈（地域）知識〉） | [159](05-abilities.md#地域知識area-lore) |
 | Aristotelian Training (Virtue)（《アリストテレス的訓練》） | [70](04-virtues-and-flaws.md#アリストテレス的訓練aristotelian-training) |
@@ -1745,7 +1745,7 @@
 | Attack Total（攻撃合計値） | [393](11-obstacles.md#戦闘値) |
 | Auctores（アウクトーレス） | [158](05-abilities.md#学術系能力) |
 | Auram (Art)（アウラム／風） | [209](07-hermetic-magic.md#アウラムau風), [325](09-spells.md#アウラムの呪文) |
-| Auras（オーラ） | [410](12-realms.md#領域のオーラ), [413](12-realms.md#魔法のオーラ) |
+| Auras（オーラ） | [410](12-realms.md#圏域のオーラ), [413](12-realms.md#魔法のオーラ) |
 | Autumn（秋） | [175](06-covenants.md#秋) |
 | Autumn Power（秋の力） | [177](06-covenants.md#秋の権勢) |
 | Autumnus（秋） | [176](06-covenants.md#アウトゥムヌス) |
@@ -1768,7 +1768,7 @@
 | &nbsp;&nbsp;Natural Weapons Table（生来の武器表） | [440](13-bestiary.md#生来の武器表) |
 | &nbsp;&nbsp;Physical Characteristics（肉体特性値） | [437](13-bestiary.md#二特性値) |
 | &nbsp;&nbsp;*see also [Animals](13-bestiary.md#世俗の獣)* |  |
-| Beasts of Virtue（有徳の獣） | [413](02-the-order-of-hermes.md#魔法のクリーチャー) |
+| Beasts of Virtue（有徳の獣） | [413](02-the-order-of-hermes.md#魔法圏のクリーチャー) |
 | Bee King (Virtue)（《蜂の王》） | [72](04-virtues-and-flaws.md#蜂の王bee-king) |
 | Beholden (Hook)（《恩義（コヴナント設定）》） | [182](06-covenants.md#コヴナント設定大) |
 | Beloved Rival (Flaw)（《愛しき好敵手》） | [120](04-virtues-and-flaws.md#愛しき好敵手beloved-rival) |
@@ -1807,8 +1807,8 @@
 | Botch Dice（ボッチ・ダイス） | [7–8](01-introduction.md#ボッチダイス) |
 | Bound Casting Tools (Flaw)（《縛られた詠唱道具》） | [120](04-virtues-and-flaws.md#縛られた詠唱道具bound-casting-tools) |
 | Bound Magic (Flaw)（《縛られた魔術》） | [120](04-virtues-and-flaws.md#縛られた魔術bound-magic) |
-| Bound to (Realm) (Flaw)（《（領域）の呪縛》） | [120](04-virtues-and-flaws.md#領域の呪縛bound-to-realm) |
-| Bound to (Role) Role (Flaw)（《（役目）の呪縛》） | [121](04-virtues-and-flaws.md#役目の呪縛bound-to-role-role) |
+| Bound to (Realm) (Flaw)（《（圏域）の呪縛》） | [120](04-virtues-and-flaws.md#圏域の呪縛bound-to-realm) |
+| Bound to (Role) Role (Flaw)（《（役目）の呪縛》） | [121](04-virtues-and-flaws.md#役目の呪縛bound-to-role) |
 | Bows (Ability)（〈弓〉） | [161](05-abilities.md#弓bows) |
 | Branded Criminal (Flaw)（《烙印を押された罪人》） | [121](04-virtues-and-flaws.md#烙印を押された罪人branded-criminal) |
 | Brave (Personality Trait)（勇敢（性格）） | [28](03-characters.md#性格) |
@@ -1949,10 +1949,10 @@
 | &nbsp;&nbsp;Creating（作る） | [428](13-bestiary.md#クリーチャーを作る) |
 | &nbsp;&nbsp;Format（書式） | [426–427](13-bestiary.md#クリーチャーの書式) |
 | &nbsp;&nbsp;Might（実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| &nbsp;&nbsp;of the Divine（神聖の） | [488–492](13-bestiary.md#神聖のクリーチャー) |
-| &nbsp;&nbsp;of Faerie（妖精の） | [466–475](13-bestiary.md#妖精のクリーチャー) |
-| &nbsp;&nbsp;of the Infernal（地獄の） | [475–488](13-bestiary.md#地獄のクリーチャー) |
-| &nbsp;&nbsp;of Magic（魔法の） | [442–466](13-bestiary.md#魔法のクリーチャー) |
+| &nbsp;&nbsp;of the Divine（神聖の） | [488–492](13-bestiary.md#神聖圏のクリーチャー) |
+| &nbsp;&nbsp;of Faerie（妖精の） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
+| &nbsp;&nbsp;of the Infernal（地獄の） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
+| &nbsp;&nbsp;of Magic（魔法の） | [442–466](13-bestiary.md#魔法圏のクリーチャー) |
 | &nbsp;&nbsp;Powers（力） | [426](13-bestiary.md#クリーチャーパワー) |
 | &nbsp;&nbsp;Size Examples（サイズの例） | [427](13-bestiary.md#サイズの例) |
 | Creo (Art)（クレオ／創造） | [207](07-hermetic-magic.md#クレオcr我創る) |
@@ -2030,19 +2030,19 @@
 | &nbsp;&nbsp;From Lab Work（研究室の作業からの） | [265](08-laboratory.md#研究室作業の妨げ) |
 | Divine Aura（聖なるオーラ） | [418](12-realms.md#聖なる力のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
-| Divine Creatures（神聖のクリーチャー） | [488–492](13-bestiary.md#神聖のクリーチャー) |
+| Divine Creatures（神聖圏のクリーチャー） | [488–492](13-bestiary.md#神聖圏のクリーチャー) |
 | &nbsp;&nbsp;Powers（力） | [489](13-bestiary.md#天使の力) |
 | Divine Might（聖なる実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
 | Divine, Limit of the（神聖の限界） | [210](07-hermetic-magic.md#聖なる力の限界) |
-| Divine, The（聖なる力） | [6](01-introduction.md#用語集), [418–420](12-realms.md#聖なる力の領域) |
+| Divine, The（聖なる力） | [6](01-introduction.md#用語集), [418–420](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Church, The* |  |
 | Doctor in (Faculty) (Virtue)（（学部）博士） | [76](04-virtues-and-flaws.md#学部博士doctor-in-faculty) |
 | Doctrine（教義） | [498](14-mythic-europe.md#教義) |
 | Dodge（回避） | [401](11-obstacles.md#格闘の武器) |
 | Domestic Animal (Virtue)（《家畜》） | [77](04-virtues-and-flaws.md#家畜domestic-animal) |
-| Dominion（神聖領） | [418](12-realms.md#聖なる力の領域) |
+| Dominion（神聖領） | [418](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Auras* |  |
-| Dominion Lore (Ability)（〈神聖界知識〉） | [164](05-abilities.md#神聖界知識dominion-lore) |
+| Dominion Lore (Ability)（〈神聖圏知識〉） | [164](05-abilities.md#神聖圏知識dominion-lore) |
 | Doorkeeper（守衛） | [500](14-mythic-europe.md#秘蹟) |
 | Dowsing (Ability)（〈ダウジング〉） | [164](05-abilities.md#ダウジングdowsing) |
 | Dowsing (Virtue)（《ダウジング》） | [77](04-virtues-and-flaws.md#ダウジングdowsing) |
@@ -2128,16 +2128,16 @@
 | Eye of Hephaestus (Virtue)（《ヘパイストスの眼》） | [78](04-virtues-and-flaws.md#ヘパイストスの眼eye-of-hephaestus) |
 | Fabric Ripper (Virtue)（《布裂き》） | [79](04-virtues-and-flaws.md#布裂きfabric-ripper) |
 | Factor (Virtue)（《番頭》） | [79](04-virtues-and-flaws.md#番頭factor) |
-| Faerie（妖精） | [6](01-introduction.md#用語集), [416–418](12-realms.md#妖精の領域) |
+| Faerie（妖精） | [6](01-introduction.md#用語集), [416–418](12-realms.md#妖精圏) |
 | Faerie Aura（妖精のオーラ） | [416](12-realms.md#妖精のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
-| Faerie Creatures（妖精のクリーチャー） | [466–475](13-bestiary.md#妖精のクリーチャー) |
+| Faerie Creatures（妖精圏のクリーチャー） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
 | &nbsp;&nbsp;Virtues & Flaws（《美点》と《欠点》） | [466](13-bestiary.md#新たな美点と欠点) |
 | Faerie Doctor (Virtue)（《妖精呪医》） | [79](04-virtues-and-flaws.md#妖精呪医faerie-doctor) |
 | Faerie Doctors（妖精呪医） | [56–57](03-characters.md#妖精呪医) |
 | Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
-| Faerie Lore (Ability)（〈妖精知識〉） | [165](05-abilities.md#妖精知識faerie-lore) |
+| Faerie Lore (Ability)（〈妖精圏知識〉） | [165](05-abilities.md#妖精圏知識faerie-lore) |
 | Faerie Magic（妖精魔術） | [236–238](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Faerie Magic (Ability)（〈妖精魔術〉） | [165](05-abilities.md#妖精魔術faerie-magic) |
 | Faerie Magic (Virtue)（《妖精魔術》） | [79](04-virtues-and-flaws.md#妖精魔術faerie-magic) |
@@ -2240,7 +2240,7 @@
 | Giants（巨人） | [457](13-bestiary.md#典型的な巨人) |
 | Gift, The（天禀） | [6](01-introduction.md#用語集), [63–64](04-virtues-and-flaws.md#天禀), [203–205](07-hermetic-magic.md#天禀) |
 | Gift, The (Virtue)（《天禀》） | [83](04-virtues-and-flaws.md#天禀the-gift) |
-| God（神） | [9](02-the-order-of-hermes.md#第2章ヘルメス魔術団), [418–420](12-realms.md#聖なる力の領域), [498–502](14-mythic-europe.md#教義) |
+| God（神） | [9](02-the-order-of-hermes.md#第2章ヘルメス魔術団), [418–420](12-realms.md#神聖圏), [498–502](14-mythic-europe.md#教義) |
 | Golden Cord（金綬） | [267](08-laboratory.md#三本の絆) |
 | Good Teacher (Virtue)（《教え上手》） | [83](04-virtues-and-flaws.md#教え上手good-teacher) |
 | Gorgiastic (Virtue)（《ゴルギアス》） | [83](04-virtues-and-flaws.md#ゴルギアスgorgiastic) |
@@ -2296,7 +2296,7 @@
 | Hedge Magic（俗魔術） | [6](01-introduction.md#用語集) |
 | Hedge Wizard (Flaw)（《俗魔術使い》） | [132](04-virtues-and-flaws.md#俗魔術使いhedge-wizard) |
 | Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人heir) |
-| Hell（地獄） | [415](12-realms.md#地獄の領域), [499](14-mythic-europe.md#教義) |
+| Hell（地獄） | [415](12-realms.md#地獄圏), [499](14-mythic-europe.md#教義) |
 | Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究室での助力) |
 | Herbam (Art)（ヘルバム／植物） | [209](07-hermetic-magic.md#ヘルバムhe植物), [339–343](09-spells.md#ヘルバムの呪文) |
 | Heresy（異端） | [171](05-abilities.md#神学キリスト教theology-christian), [504](14-mythic-europe.md#教会法) |
@@ -2372,7 +2372,7 @@
 | Infamous Master (Flaw)（《悪名高い師》） | [134](04-virtues-and-flaws.md#悪名高い師infamous-master) |
 | Infernal Aura（地獄のオーラ） | [415](12-realms.md#地獄のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
-| Infernal Creatures（地獄のクリーチャー） | [475–488](13-bestiary.md#地獄のクリーチャー) |
+| Infernal Creatures（地獄圏のクリーチャー） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
 | &nbsp;&nbsp;Auras & Regiones（オーラとレギオー） | [479](13-bestiary.md#悪魔オーラレギオー) |
 | &nbsp;&nbsp;Corrupt Beasts（穢れた獣） | [486](13-bestiary.md#穢れた獣) |
 | &nbsp;&nbsp;Free Will（自由意志） | [478](13-bestiary.md#悪魔と自由意志) |
@@ -2382,9 +2382,9 @@
 | &nbsp;&nbsp;Religious Limitations（宗教上の制約） | [478](13-bestiary.md#悪魔への宗教上の制約) |
 | &nbsp;&nbsp;Weaknesses（弱み） | [477](13-bestiary.md#悪魔の弱み) |
 | Infernal Heirloom (Virtue)（《地獄の家宝》） | [86](04-virtues-and-flaws.md#地獄の家宝infernal-heirloom) |
-| Infernal Lore (Ability)（〈地獄界知識〉） | [167](05-abilities.md#地獄界知識infernal-lore) |
+| Infernal Lore (Ability)（〈地獄圏知識〉） | [167](05-abilities.md#地獄圏知識infernal-lore) |
 | Infernal, Limit of The（地獄の限界） | [211](07-hermetic-magic.md#地獄の限界) |
-| Infernal, The（地獄） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄の領域) |
+| Infernal, The（地獄） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄圏) |
 | &nbsp;&nbsp;*see also Demons* |  |
 | Inheritance（遺産） | [508](14-mythic-europe.md#相続) |
 | Initiative Ties（イニシアチブの同値） | [394](11-obstacles.md#イニシアチブの同値) |
@@ -2524,16 +2524,16 @@
 | Magic Addiction (Flaw)（《魔術への耽溺》） | [135](04-virtues-and-flaws.md#魔術への耽溺magic-addiction) |
 | Magic and Sin（魔法と罪） | [499](14-mythic-europe.md#魔術と罪) |
 | Magic Aura（魔法のオーラ） | [413–414](12-realms.md#魔法のオーラ) |
-| &nbsp;&nbsp;*see also [Auras](12-realms.md#領域のオーラ)* |  |
-| Magic Creatures（魔法のクリーチャー） | [442–466](13-bestiary.md#魔法のクリーチャー) |
+| &nbsp;&nbsp;*see also [Auras](12-realms.md#圏域のオーラ)* |  |
+| Magic Creatures（魔法圏のクリーチャー） | [442–466](13-bestiary.md#魔法圏のクリーチャー) |
 | &nbsp;&nbsp;Jinn（ジン） | [442](13-bestiary.md#ジン) |
 | &nbsp;&nbsp;Daimons（ダイモーン） | [444](13-bestiary.md#ダイモーン) |
 | &nbsp;&nbsp;Elementals（精霊） | [449](13-bestiary.md#精霊) |
 | &nbsp;&nbsp;Animated Corpses（動かされた屍） | [462](13-bestiary.md#魔術で屍を動かす) |
 | Magic Items (Virtue)（《魔法のアイテム》） | [92](04-virtues-and-flaws.md#魔法のアイテムmagic-items) |
-| Magic Lore (Ability)（〈魔法界知識〉） | [168](05-abilities.md#魔法界知識magic-lore) |
+| Magic Lore (Ability)（〈魔法圏知識〉） | [168](05-abilities.md#魔法圏知識magic-lore) |
 | Magic Might（魔法の実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| Magic Realm（魔法界） | [413–414](12-realms.md#魔法の領域) |
+| Magic Realm（魔法圏） | [413–414](12-realms.md#魔法圏) |
 | Magic Resistance（魔法抵抗） | [221–223](07-hermetic-magic.md#魔法抵抗), [225](07-hermetic-magic.md#魔法抵抗-1) |
 | &nbsp;&nbsp;Limit of（魔法抵抗の限界） | [212](07-hermetic-magic.md#魔法抵抗の限界) |
 | Magic Sensitivity (Ability)（〈魔法感受性〉） | [168](05-abilities.md#魔法感受性magic-sensitivity) |
@@ -2543,7 +2543,7 @@
 | Magical (Being) Companion (Flaw)（《友なる魔法の（存在）》） | [136](04-virtues-and-flaws.md#友なる魔法の存在magical-being-companion) |
 | Magical Blood (Virtue)（《魔法の血脈》） | [93](04-virtues-and-flaws.md#魔法の血脈magical-blood) |
 | Magical Craft（魔術の工芸） | [306](09-spells.md#魔術の工芸) |
-| Magical Creatures（魔法のクリーチャー） | [21](02-the-order-of-hermes.md#魔法のクリーチャー), [413](12-realms.md#魔術のクリーチャー) |
+| Magical Creatures（魔法圏のクリーチャー） | [21](02-the-order-of-hermes.md#魔法圏のクリーチャー), [413](12-realms.md#魔法圏のクリーチャー) |
 | Magical Enchantments（魔法の呪付） | [252](08-laboratory.md#呪付) |
 | Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られmagical-fascination) |
 | Magical Foci（魔術の専門分野） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野の例), [98](04-virtues-and-flaws.md#小なる魔術の専門分野の例) |
@@ -2666,7 +2666,7 @@
 | Mythic Pound（神話ポンド） | [187](06-covenants.md#神話ポンド) |
 | Natural Leader (Virtue)（《生来の指導者》） | [99](04-virtues-and-flaws.md#生来の指導者natural-leader) |
 | Necessary Condition (Flaw)（《必須の条件》） | [138](04-virtues-and-flaws.md#必須の条件necessary-condition) |
-| Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（領域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な領域のオーラnecessary-realm-aura-for-ability) |
+| Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（圏域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な圏域のオーラnecessary-realm-aura-for-ability) |
 | Nemthengacha, The（ネムセンガハ） | [244](07-hermetic-magic.md#ネヴサンガハ) |
 | Nephilim（ネフィリム） | [57](03-characters.md#ネフィリム) |
 | Nephilim (Virtue)（《ネフィリム》） | [99](04-virtues-and-flaws.md#ネフィリムnephilim) |
@@ -2741,7 +2741,7 @@
 | Pilgrimage（巡礼） | [496](14-mythic-europe.md#歴史らしくする), [502](14-mythic-europe.md#聖人) |
 | Pious (Flaw)（《敬虔》） | [140](04-virtues-and-flaws.md#敬虔pious) |
 | Plagued by Supernatural Entity (Flaw)（《超常の憎悪》） | [141](04-virtues-and-flaws.md#超常の憎悪plagued-by-supernatural-entity) |
-| Platonic Philosophy（プラトン哲学） | [409](12-realms.md#領域の本性) |
+| Platonic Philosophy（プラトン哲学） | [409](12-realms.md#圏域の本性) |
 | Plots（プロット） | [515](15-stories.md#筋書き) |
 | Poisons（毒） | [406](11-obstacles.md#毒) |
 | Pole Arm（ポールアーム） | [402](11-obstacles.md#両手武器) |
@@ -2804,7 +2804,7 @@
 | Rapid Convalescence (Virtue)（《速やかな快復》） | [105](04-virtues-and-flaws.md#速やかな快復rapid-convalescence) |
 | Rat Up a Drainpipe (Virtue)（《樋を駆け上る鼠》） | [105](04-virtues-and-flaws.md#樋を駆け上る鼠rat-up-a-drainpipe) |
 | Reactive Stories（受動的な物語） | [517](15-stories.md#受動的な物語) |
-| (Realm) Stigmatic (Flaw)（《（領域）の徴を負う者》） | [142](04-virtues-and-flaws.md#領域の徴を負う者realm-stigmatic) |
+| (Realm) Stigmatic (Flaw)（《（圏域）の徴を負う者》） | [142](04-virtues-and-flaws.md#圏域の徴を負う者realm-stigmatic) |
 | Rebellious (Flaw)（《反抗的》） | [142](04-virtues-and-flaws.md#反抗的rebellious) |
 | Rebuttal（反駁） | [226](07-hermetic-magic.md#反駁) |
 | Reckless (Flaw)（《無謀》） | [142](04-virtues-and-flaws.md#無謀reckless) |
@@ -2863,7 +2863,7 @@
 | &nbsp;&nbsp;Styles（型） | [532–533](16-sagas.md#サーガの型) |
 | Saints（聖人） | [501–502](14-mythic-europe.md#聖人) |
 | Satan（サタン） | [21](02-the-order-of-hermes.md#悪魔との関わり) |
-| &nbsp;&nbsp;*see also [Creatures of the Infernal](13-bestiary.md#地獄のクリーチャー)* |  |
+| &nbsp;&nbsp;*see also [Creatures of the Infernal](13-bestiary.md#地獄圏のクリーチャー)* |  |
 | Savantism (Flaw)（《サヴァン》） | [143](04-virtues-and-flaws.md#サヴァンsavantism) |
 | Schism War（分裂大戦） | [6](01-introduction.md#用語集), [11](02-the-order-of-hermes.md#分裂大戦) |
 | Schooled in Crime (Virtue)（《犯罪の心得》） | [106](04-virtues-and-flaws.md#犯罪の心得schooled-in-crime) |
@@ -2981,7 +2981,7 @@
 | Structures (The Church)（組織（教会の）） | [502–503](14-mythic-europe.md#組織) |
 | Struggling (covenant situation)（苦境（コヴナントの状況）） | [177](06-covenants.md#困窮) |
 | Stuck in Your Ways (Flaw)（《頑固》） | [145](04-virtues-and-flaws.md#頑固stuck-in-your-ways) |
-| Student of (Realm) (Virtue)（（領域）の徒） | [110](04-virtues-and-flaws.md#領域の徒student-of-realm) |
+| Student of (Realm) (Virtue)（（圏域）の徒） | [110](04-virtues-and-flaws.md#圏域の徒student-of-realm) |
 | Study Bonus (Virtue)（《研究の冴え》） | [110](04-virtues-and-flaws.md#研究の冴えstudy-bonus) |
 | Study Requirement (Flaw)（《学習の要件》） | [145](04-virtues-and-flaws.md#学習の要件study-requirement) |
 | Sub-Deacon（副助祭） | [500](14-mythic-europe.md#秘蹟) |

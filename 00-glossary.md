@@ -51,9 +51,10 @@
 | the Divine | 聖なる力 |
 | the Infernal | 地獄 |
 | Faerie | 妖精 |
-| Magic（領域） | 魔法（魔法界） | 領域なので「魔法」 |
-| Realms of Power | 力の領域 |
-| realm aura | 領域のオーラ |
+| realm | 圏域 | 「領域」から変更。圏域を並べて呼ぶときの短い名は「聖なる力・妖精・地獄・魔法」（Magic を「魔術」としていた箇所を改めた）。〈（圏域）知識〉のうち Magic Lore は〈魔法圏知識〉（「〈魔法界知識〉」から変更）、Dominion Lore・Infernal Lore も〈神聖圏知識〉〈地獄圏知識〉とした（「〈神聖界知識〉」「〈地獄界知識〉」から変更）。Faerie Lore も〈妖精圏知識〉とし（「〈妖精知識〉」から変更）、圏域の知識4つを揃えた。第12・13章の小見出しは 魔法圏／妖精圏／地獄圏のクリーチャー。個別の圏域は 魔法圏（Magic realm）／妖精圏（Faerie realm）／地獄圏（Infernal realm）／神聖圏（Divine realm）。「知識の領域」「研究領域」「支配下の領域」など realm 以外の一般語の「領域」は据え置き |
+| Magic（圏域） | 魔法（魔法圏） | 圏域なので「魔法」 |
+| Realms of Power | 力の圏域 |
+| realm aura | 圏域のオーラ |
 | creature | クリーチャー |
 | creature power | クリーチャーパワー |
 | Might | 実力値 |
@@ -103,7 +104,7 @@
 | Flashbacks | 《フラッシュバック》 | 「《追想》」から変更。解説文中の flashback も同語に揃えた |
 | Failed Journeyman / Master / Monk | 《追放遍歴職人》／《追放親方》／《追放修道士》 | 「《落第◯◯》」から変更。同じ Failed でも《落第徒弟》（Failed Apprentice）・《落第学生》（Failed Student）は修学の挫折なので据え置き |
 | Disorientating Magic | 《目眩を引き起こす魔術行使》 | 「《眩暈を呼ぶ魔術》」から変更。呪文を行使した直後の1ラウンドを回復に費やす《欠点》 |
-| Bound to (Realm) | 《（領域）の呪縛》 | 「《（領域）に縛られる》」から統一。《（役目）の呪縛》と対になる |
+| Bound to (Realm) | 《（圏域）の呪縛》 | 「《（領域）に縛られる》」から統一。《（役目）の呪縛》と対になる |
 | Bound to (Role) | 《（役目）の呪縛》 | 「《（役割）に縛られる》」から変更。role は錠前師・見張り番・御者といった務めを指し、器具や場所はその務めを果たす道具。原文最終段落の Role-Bound characters が正式な呼称。「役割」は物語上の位置づけの意味で本訳の別箇所に多用されるため「役目」とした。原文の見出し `Bound to (Role) Role` は Role が重複した誤り |
 | Blatant Gift / Blatant Magical Air | 《不快な天禀》／《不快な魔法の妖気》 | 「《露骨な天禀》」「《露骨な魔法の妖気》」から変更。原語が同じ Blatant なので対で揃える |
 | Afflicted Tongue | 《縺れる舌》 | 「《舌禍》」から変更。原文は a speech impediment, such as a lisp, stutter, or missing teeth で、失言の意味ではない。話せなくなる《唖》（Mute）とは別で、こちらは−2のペナルティにとどまる |
@@ -165,7 +166,7 @@
 | Chapter 9: Spells | 第9章　呪文 |
 | Chapter 10: Long-Term Events | 第10章　長期の出来事 |
 | Chapter 11: Obstacles | 第11章　障害 |
-| Chapter 12: Realms | 第12章　領域 |
+| Chapter 12: Realms | 第12章　圏域 |
 | Chapter 13: Bestiary | 第13章　幻獣誌 |
 | Chapter 14: Mythic Europe | 第14章　伝承ヨーロッパ |
 | Chapter 15: Stories | 第15章　物語 |
@@ -343,7 +344,7 @@
 | Environmental Trigger | 環境誘因 | |
 | Might Pool | 実力値の蓄え | |
 | Infernal / Divine Might | 地獄の実力値／聖なる実力値 | |
-| realm interaction chart | 領域相互作用表 | |
+| realm interaction chart | 圏域相互作用表 | |
 | Faith Points | 信仰点 | |
 | Scent (Target) | 目標「香り」 | |
 
@@ -492,7 +493,7 @@
 | --- | --- | --- |
 | Regular（《欠点》） | 修道規則の徒 | 第4章の《欠点》一覧では《平凡》としたまま未修正。本文の内容（厳格な宗教規則に従う）に照らして本表の訳が正しい |
 | defense total | 防御合計 | 索引は「吸収値合計」とするが、soak total と重複しており索引側の誤りと判断 |
-| Divine Lore / Dominion Lore | 〈神聖界知識〉 | 原文が同一の〈能力〉に二つの名を用いている。索引は Dominion Lore にのみ訳語を与える |
+| Divine Lore / Dominion Lore | 〈神聖圏知識〉 | 原文が同一の〈能力〉に二つの名を用いている。索引は Dominion Lore にのみ訳語を与える |
 | Wizard's Vigil | *魔術師の徹夜祷* | 索引に項目なし。*魔術師の同調*（Wizard's Communion）は索引準拠。第9章で確定 |
 | Story Hook | 物語の引っ掛かり | コヴナントの Hook とは別系統として据え置き |
 | fast casting | 速攻行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
@@ -555,13 +556,13 @@
 | Quotidian / Quartan Fever | 毎日熱／四日熱 | 病の表 |
 | Flux / Constriction | 流出／収縮 | 病の表 |
 
-## 第12章「領域」で新たに定めた訳語
+## 第12章「圏域」で新たに定めた訳語
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| belonging to / alignment (affiliation) | 属する／連なる（沿う） | 領域との結びつきの二段階 |
-| preternatural realm | 準自然の領域 | 神学者の三分法。魔術・妖精・地獄 |
-| Realm Interaction Table | 領域相互作用表 | 索引準拠 |
+| belonging to / alignment (affiliation) | 属する／連なる（沿う） | 圏域との結びつきの二段階 |
+| preternatural realm | 準自然の圏域 | 神学者の三分法。魔法・妖精・地獄 |
+| Realm Interaction Table | 圏域相互作用表 | 索引準拠の「領域」を「圏域」に改めた |
 | beasts of virtue | 有徳の獣 | 索引準拠 |
 | Vitality | 生気 | 妖精が物語から得る力 |
 | diabolists | 悪魔崇拝者 | 索引準拠 |
@@ -573,7 +574,7 @@
 | Scourging the Infernal | 地獄を灼く | 聖遺物の共通の力 |
 | Miracles | 奇跡 | |
 | Legatus a latere / Legatus missus | レガトゥス・ア・ラテレ／レガトゥス・ミッスス | 教皇特使の二種 |
-| the Mundane | 世俗 | 領域としての世俗 |
+| the Mundane | 世俗 | 圏域としての世俗 |
 | regio levels | レギオーの層 | |
 | Regio Sight Roll | レギオーの視認のロール | |
 | vis source | ウィース源 | |
@@ -651,13 +652,13 @@
 
 **注：**《鋭い聴力》（Sharp Ears）は《美点》、「鋭い耳」（Sharp Ears）は特質。原文が同名を両枠で用いているため訳し分けた。同様に「組みつき」は戦闘行為・特質の双方に用いる。
 
-### 領域別クリーチャーの用語（第13章）
+### 圏域別クリーチャーの用語（第13章）
 
-**魔法の領域**
+**魔法圏**
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Daimon / Aspect | ダイモーン／アスペクト | ダイモーンは魔法の領域に常住し、地上へアスペクトのみを投射する |
+| Daimon / Aspect | ダイモーン／アスペクト | ダイモーンは魔法圏に常住し、地上へアスペクトのみを投射する |
 | True Name | 真名 | 既出。無期限の秘儀的連鎖 |
 | synthemata | シュンテーマタ | 霊へ通じる印・象徴・合言葉 |
 | theurgy / theurgist | テウルギア／テウルギア使い | |
@@ -672,7 +673,7 @@
 | haunt | 棲処 | 地霊が結びついた土地 |
 | Ghostly Warder | 亡霊の守護者 | 《美点》の《亡霊の守護者》に対応 |
 
-**妖精の領域**
+**妖精圏**
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
@@ -684,7 +685,7 @@
 | Traditional Ward / Sovereign Ward | 《伝統の結界》／《至上の結界》 | 前者は禁忌、後者は絶対の禁忌 |
 | Faerie Might | 妖精の実力値 | |
 
-**地獄の領域**
+**地獄圏**
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
@@ -702,7 +703,7 @@
 | vis prava | ウィース・プラウァ（穢れたウィース） | |
 | Goetic Art of Binding | ゴエティアの術「結縛」 | |
 
-**神聖の領域**
+**神聖圏**
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
@@ -853,20 +854,20 @@
 
 ## magic の訳し分け
 
-**魔法を操る技術・技法を指す場合は「魔術」、魔法の性質・領域・法則を指す場合は「魔法」。**
+**魔法を操る技術・技法を指す場合は「魔術」、魔法の性質・圏域・法則を指す場合は「魔法」。**
 
-| → 魔術（技法） | → 魔法（性質・領域） |
+| → 魔術（技法） | → 魔法（性質・圏域） |
 | --- | --- |
-| ヘルメス魔術（Hermetic Magic） | 魔法の領域（Magic Realm） |
+| ヘルメス魔術（Hermetic Magic） | 魔法圏（Magic Realm） |
 | 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法のオーラ（Magic Aura） |
 | 妖精魔術／所作魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
-| ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法界知識（Magic Lore） |
+| ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法圏知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
-| 魔術団（Order of Hermes）／秘儀魔術団 | 魔法のクリーチャー／魔法のアイテム |
+| 魔術団（Order of Hermes）／秘儀魔術団 | 魔法圏のクリーチャー／魔法のアイテム |
 | 共感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
 | 魔術の工芸（magical craft） | 魔法的（magical）／魔法使い（wizard） |
-| 俗魔術（hedge magic）／民間魔術（folk magic） | 魔法界（Magic Realm） |
+| 俗魔術（hedge magic）／民間魔術（folk magic） | — |
 
 **注：**「魔術師の◯◯」（Wizard's Twilight など）は wizard 由来の固有名であり、この訳し分けの対象外。「魔術団」は組織名として慣用が固まっているため据え置く。
 
