@@ -264,7 +264,7 @@
 | requisite | 制約術法 | |
 | Penetration | 抵抗貫通力 | 「貫通」から統一。名詞としての Penetration 270件が対象で、〈抵抗貫通力〉（能力）・抵抗貫通力合計値・抵抗貫通力加算なども同様。動詞 penetrate（「魔法抵抗を貫通する」）54件は「貫通する」のまま |
 | Penetration Total | 抵抗貫通力合計値 | |
-| fast casting | 速攻行使 | 索引は「速唱」だが本文では行使の語で統一 |
+| fast casting | 高速行使 | 索引は「速唱」だが本文では行使の語で統一。「速攻行使」から変更 |
 | aiming roll | 狙いのロール | |
 | Technique / Form | 技法／形相 | 索引準拠 |
 | Form Bonus | 形相加算 | |
@@ -274,7 +274,7 @@
 | Limits of Magic / Lesser Limits | 魔法の限界／弱限界 | 索引の「小限界」を「弱限界」に改めた。Limit of the Lunar Sphere は「月の限界」（「月天の限界」「月天球の限界」から変更） |
 | pawn / rook / queen | ポーン／ルーク／クイーン | ウィースの単位 |
 | Forceless Casting | 無力な行使 | 抵抗貫通力合計値を0に抑える |
-| sympathetic connections | 共感連鎖 | 索引準拠 |
+| sympathetic connections | 類感媒体 | 索引の「共感連鎖」から変更。魔導媒体（Arcane Connection）と対 |
 | Penetration Bonus / Multiplier | 抵抗貫通力加算／抵抗貫通力の倍率 | |
 | voting sigil | 投票印 | 行使の印と対 |
 | mastery ability | 習熟〈能力〉 | 呪文ごとに存在する〈能力〉 |
@@ -354,7 +354,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | Personal / Touch / Eye | 自身／接触／目 | 射程 |
-| Voice / Sight / Arcane Connection | 声／視覚／秘儀的連鎖 | 射程 |
+| Voice / Sight / Arcane Connection | 声／視覚／魔導媒体 | 射程 |
 | Momentary / Concentration / Diameter | 瞬間／集中／陽径 | 持続時間。陽径＝太陽が空でその直径分動く時間（二分） |
 | Sun / Ring / Moon / Year | 日／魔法円／月／年 | 持続時間 |
 | Individual / Circle / Part | 個人／円内／部分 | 目標（物体・容器） |
@@ -372,7 +372,8 @@
 | famulus | ファムルス | 使い魔の悪魔 |
 | Divination | 占卜 | |
 | asterisked Ability | 星印付き〈能力〉 | 値0では使用不可 |
-| fixed Arcane Connection | 固定の秘儀的連鎖 | |
+| Arcane Connection | 魔導媒体 | 「秘儀的連鎖」から変更。射程・持続時間表・研究室での固定なども同じ |
+| fixed Arcane Connection | 固定の魔導媒体 | |
 
 ### コヴナント
 
@@ -500,7 +501,7 @@
 | Divine Lore / Dominion Lore | 〈神聖圏知識〉 | 原文が同一の〈能力〉に二つの名を用いている。索引は Dominion Lore にのみ訳語を与える |
 | Wizard's Vigil | *魔術師の徹夜祷* | 索引に項目なし。*魔術師の同調*（Wizard's Communion）は索引準拠。第9章で確定 |
 | Story Hook | 物語の引っ掛かり | コヴナントの Hook とは別系統として据え置き |
-| fast casting | 速攻行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
+| fast casting | 高速行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
 | ceremonial casting | 儀礼的行使 | 索引は「祭式詠唱」。同上の理由で「行使」に統一 |
 | Damhan-Allaidh | ダーヴァン＝オラス | 原文の発音表記 DAH-van ALL-ath に従う。索引の既訳と一致。当初「ダウン・アラー」としていたのを第2章5箇所で修正 |
 | 流派名の音写 | 索引の既訳に準拠 | ビョルネール／ボニサグス／クリーアモン／雑集派／フランボー／グエルニクス／イェルビトン／メルケーレ／メリニータ／トレメーレ／テュータルス／ウェルディーティウス。Ex Miscellanea は音写せず「雑集派」、Ordo Miscellanea は「諸類派魔術団」と訳す |
@@ -663,7 +664,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | Daimon / Aspect | ダイモーン／アスペクト | ダイモーンは魔法圏に常住し、地上へアスペクトのみを投射する |
-| True Name | 真名 | 既出。無期限の秘儀的連鎖 |
+| True Name | 真名 | 既出。無期限の魔導媒体 |
 | synthemata | シュンテーマタ | 霊へ通じる印・象徴・合言葉 |
 | theurgy / theurgist | テウルギア／テウルギア使い | |
 | dulia / latria | ドゥーリア／ラトリア | 聖アウグスティヌスによる崇敬と礼拝の区別 |
@@ -750,7 +751,7 @@
 | doorkeeper, lector, exorcist, acolyte | 守門、読師、祓魔師、侍祭 | 下級品級 |
 | sub-deacon, deacon, priest, bishop | 副助祭、助祭、司祭、司教 | 上級品級 |
 | tonsure | 剃髪 | |
-| Sympathetic Connection | 共感的連鎖 | 秘儀的連鎖（Arcane Connection）とは別 |
+| Sympathetic Connection | 類感媒体 | 魔導媒体（Arcane Connection）とは別。「共感連鎖」「共感的連鎖」に割れていたのを統一 |
 | seven deadly sins | 七つの大罪 | 強欲・嫉妬・貪食・色欲・傲慢・怠惰・憤怒 |
 | theological virtues | 対神徳 | 信仰・希望・愛 |
 

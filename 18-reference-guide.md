@@ -542,7 +542,7 @@
 
 *抵抗貫通力が魔法抵抗を上回れば、その標的は影響を受ける。*
 
-| 共感的連鎖 | 乗数への加算 |
+| 類感媒体 | 乗数への加算 |
 | ---------------------------------------- | ------------------- |
 | 行使者が標的の血縁である | ＋1 |
 | 標的の署名 | ＋1 |
@@ -552,7 +552,7 @@
 | 標的の出生時のホロスコープ | ＋2 |
 | 標的を象徴的に表したもの | ＋2 |
 
-| 秘儀的連鎖 | 乗数への加算 |
+| 魔導媒体 | 乗数への加算 |
 | ---------------------- | ------------------- |
 | 数時間から数日持続 | ＋1 |
 | 数週間から数か月持続 | ＋2 |
@@ -720,19 +720,19 @@
 | 1 | 接触／目 | 集中／陽径 | 部分 | — | 触覚 |
 | 2 | 声 | 日／輪 | 集団 | 部屋 | 嗅覚 |
 | 3 | 視覚 | 月 | — | 構造物 | 聴覚 |
-| 4 | 秘儀的連鎖 | 年 | — | 境界 | 視覚 |
+| 4 | 魔導媒体 | 年 | — | 境界 | 視覚 |
 
-#### 秘儀的連鎖の持続時間
+#### 魔導媒体の持続時間
 
 | 持続時間 | 連鎖の例 |
 |----------|---------------------|
 | 数時間 | 特定の場所の空気、人間の剥がれ落ちた皮膚、流れる水域からの水。 |
 | 数日 | 頻繁に用いる道具や衣服、静止した水域からの水、標的が作った世俗の物、排泄物。 |
-| 数週間 | 小なる呪付アイテム、標的が構想し作った品（たとえば標的が文案を練り自ら書いた手紙）。ある者が構想し別の者が作った品は、それを作った者に対して数日持続する秘儀的連鎖である。 |
+| 数週間 | 小なる呪付アイテム、標的が構想し作った品（たとえば標的が文案を練り自ら書いた手紙）。ある者が構想し別の者が作った品は、それを作った者に対して数日持続する魔導媒体である。 |
 | 数か月 | 髪1本、お気に入りの道具や衣服、特定の場所の木片、鳥の羽根1枚、爬虫類の鱗1枚。 |
 | 数年 | インベスト・アイテム、特定の場所の岩や金属、血、髪の束、鳥の羽根の束、爬虫類の鱗の束。 |
 | 数十年 | 身体の一部。 |
-| 無期限 | ヘルメスの使い魔（主人への連鎖）、ヘルメスのマギ（使い魔への連鎖）、ヘルメスのタリスマン（作り手への連鎖）、固定された秘儀的連鎖（94ページ／250ページ「秘儀的連鎖を固定する」参照）。 |
+| 無期限 | ヘルメスの使い魔（主人への連鎖）、ヘルメスのマギ（使い魔への連鎖）、ヘルメスのタリスマン（作り手への連鎖）、固定された魔導媒体（94ページ／250ページ「魔導媒体を固定する」参照）。 |
 
 ### ケルターメン
 
@@ -800,7 +800,7 @@
 
 *94〜[102ページ](04-virtues-and-flaws.md#個人の力personal-power)、249〜[263ページ](08-laboratory.md#詠唱板)*
 
-**秘儀的連鎖の固定：**1季節＋ウィムのウィース1ポーン
+**魔導媒体の固定：**1季節＋ウィムのウィース1ポーン
 
 **ウィースの抽出：**クレオ・ウィムの研究室合計値の10分の1（切り上げ）ポーンのウィムのウィース
 
@@ -1721,9 +1721,9 @@
 | Aquam (Art)（アクアム／水） | [208](07-hermetic-magic.md#アクアムaq水), [320](09-spells.md#アクアムの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精圏) |
 | Arcane Abilities（秘儀系〈能力〉） | [158](05-abilities.md#秘儀系能力) |
-| Arcane Connections（秘儀的連鎖） | [219](07-hermetic-magic.md#秘儀的連鎖) |
-| &nbsp;&nbsp;Limit of（秘儀的連鎖の限界） | [211](07-hermetic-magic.md#秘儀的連鎖の限界) |
-| &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#秘儀的連鎖の固定) |
+| Arcane Connections（魔導媒体） | [219](07-hermetic-magic.md#魔導媒体) |
+| &nbsp;&nbsp;Limit of（魔導媒体の限界） | [211](07-hermetic-magic.md#魔導媒体の限界) |
+| &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#魔導媒体の固定) |
 | Arcane Experimentation（秘儀の実験） | [274](08-laboratory.md#秘儀の実験) |
 | Arcane Lore (Virtue)（《秘儀知識》） | [70](04-virtues-and-flaws.md#秘儀知識arcane-lore) |
 | Arcane Studies（秘儀研究） | [250](08-laboratory.md#秘儀の研究) |
@@ -2163,7 +2163,7 @@
 | Famous (Virtue)（《高名》） | [80](04-virtues-and-flaws.md#高名famous) |
 | Farm Implement（農具） | [402](11-obstacles.md#両手武器) |
 | Fast Caster (Virtue)（《迅速な行使》） | [80](04-virtues-and-flaws.md#迅速な行使fast-caster) |
-| Fast Casting（速攻行使） | [217](07-hermetic-magic.md#速攻行使), [225](07-hermetic-magic.md#速攻行使-1) |
+| Fast Casting（高速行使） | [217](07-hermetic-magic.md#高速行使), [225](07-hermetic-magic.md#高速行使-1) |
 | Fast Saga（進行の早いサーガ） | [528](16-sagas.md#速いサーガ) |
 | Fate of Magic（魔術の行く末） | [526](16-sagas.md#魔術の行く末) |
 | Fatigue（疲労） | [403–404](11-obstacles.md#疲労) |
@@ -2330,7 +2330,7 @@
 | Homing Instinct (Virtue)（《帰巣本能》） | [85](04-virtues-and-flaws.md#帰巣本能homing-instinct) |
 | Hooks（導入の糸口） | [181–182](06-covenants.md#コヴナント設定), [516](15-stories.md#導入の糸口) |
 | Hope（希望） | [499](14-mythic-europe.md#教義) |
-| Horoscope（ホロスコープ） | [220](07-hermetic-magic.md#共感連鎖) |
+| Horoscope（ホロスコープ） | [220](07-hermetic-magic.md#類感媒体) |
 | Horrifying Appearance – Snake Legs (Flaw)（《恐ろしい姿――蛇の脚》） | [133](04-virtues-and-flaws.md#恐ろしい姿蛇の脚horrifying-appearance--snake-legs) |
 | Hospitallers（聖ヨハネ騎士団） | [73](04-virtues-and-flaws.md#騎士修道士brother-knight) |
 | Host, The（聖体） | [500](14-mythic-europe.md#秘蹟) |
@@ -3009,7 +3009,7 @@
 | Susceptibility to Sunlight (Flaw)（《日光への脆弱》） | [146](04-virtues-and-flaws.md#日光への脆弱susceptibility-to-sunlight) |
 | Susceptibility to Warping (Flaw)（《歪曲への脆弱》） | [146](04-virtues-and-flaws.md#歪曲への脆弱susceptibility-to-warping) |
 | Swim (Ability)（〈水泳〉） | [171](05-abilities.md#水泳swim) |
-| Sympathetic Connections（共感連鎖） | [220](07-hermetic-magic.md#共感連鎖) |
+| Sympathetic Connections（類感媒体） | [220](07-hermetic-magic.md#類感媒体) |
 | Tainted Offspring (Flaw)（《汚された子》） | [146](04-virtues-and-flaws.md#汚された子tainted-offspring) |
 | Tainted Treasure (Virtue)（《汚された財宝》） | [111](04-virtues-and-flaws.md#汚された財宝tainted-treasure) |
 | Tainted Vis（汚されたウィース） | [422](12-realms.md#汚されたウィース) |
