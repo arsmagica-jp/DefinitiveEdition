@@ -1979,7 +1979,7 @@
 | Damage Table（ダメージ表） | [404](11-obstacles.md#ダメージ表) |
 | Damage Total（ダメージ合計） | [394](11-obstacles.md#戦闘値) |
 | Damhan-Allaidh（ダーヴァン＝オラス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
-| Dangers（危険） | [227–233](07-hermetic-magic.md#危険) |
+| Dangers（危険性） | [227–233](07-hermetic-magic.md#危険性) |
 | Darius of Flambeau (example character)（フランボーのダリウス（キャラクター例）） | [45](03-characters.md#例フランボー派のダリウス), [47–54](03-characters.md#例フランボー派のダリウス-1) |
 | Dark Secret (Flaw)（《暗い秘密》） | [124](04-virtues-and-flaws.md#暗い秘密dark-secret) |
 | Deacon（助祭） | [500](14-mythic-europe.md#秘蹟) |
