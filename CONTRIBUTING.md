@@ -2,7 +2,13 @@
 
 『アルス・マギカ 決定版』日本語訳の誤りを見つけたら、**このリポジトリのファイルを直接直して提出**してください。報告だけでも構いませんが、直していただけるほうが早く反映されます。
 
-Git の知識は不要です。GitHub のアカウントさえあれば、ブラウザだけで完結します。
+## 協力者の資格
+
+- GitHub アカウントが必要です。[無料で登録](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)できますので、ご用意ください。
+    - Git の知識は不要です。GitHub のアカウントさえあれば、ブラウザだけで完結します。
+- Ars Magica Definitive Edition は必須ではありません。英語の markdown 版の用意があります。
+- Ars Magica に関する知識は必須ではありません。
+- 翻訳は markdown 形式で記述されています。必須ではありませんが、markdown の基本的な知識があるとスムースに作業できると思います。
 
 > **継続的にご協力いただける方へ**
 > 章単位でまとまった範囲を担当していただける方を募集しています。[翻訳協力申し込みフォーム](https://docs.google.com/forms/d/e/1FAIpQLSenAifaRrfoq61ztkXVlU65McPru-BnW3pWjhQtVv_ZZ4vpvQ/viewform)からご連絡ください。担当範囲はご希望と作業ペースに合わせて調整します。数ページの短いチェックからでも構いません。
