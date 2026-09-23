@@ -7,6 +7,7 @@
 - GitHub アカウントが必要です。[無料で登録](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)できますので、ご用意ください。
     - Git の知識は不要です。GitHub のアカウントさえあれば、ブラウザだけで完結します。
 - Ars Magica Definitive Edition は必須ではありません。英語の markdown 版の用意があります。
+- 英語の能力は必要になりますが、自信がない場合は日本語の訳文の自然さのチェックなどをお願いします。
 - Ars Magica に関する知識は必須ではありません。
 - 翻訳は markdown 形式で記述されています。必須ではありませんが、markdown の基本的な知識があるとスムースに作業できると思います。
 
