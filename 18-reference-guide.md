@@ -130,7 +130,7 @@
 |---------|-------------|
 | 魔法のオーラ | 12−オーラの値 |
 | 呪文 | 21−効果の階級 |
-| 呪付されたアイテム | 21−最も強力な効果の階級 |
+| 呪付物 | 21−最も強力な効果の階級 |
 | 魔法圏のクリーチャー | 15−魔法の実力値の5分の1 |
 
 ### 〈霊視〉
@@ -728,9 +728,9 @@
 |----------|---------------------|
 | 数時間 | 特定の場所の空気、人間の剥がれ落ちた皮膚、流れる水域からの水。 |
 | 数日 | 頻繁に用いる道具や衣服、静止した水域からの水、標的が作った世俗の物、排泄物。 |
-| 数週間 | 小なる呪付アイテム、標的が構想し作った品（たとえば標的が文案を練り自ら書いた手紙）。ある者が構想し別の者が作った品は、それを作った者に対して数日持続する魔導媒体である。 |
+| 数週間 | 小なる呪付物、標的が構想し作った品（たとえば標的が文案を練り自ら書いた手紙）。ある者が構想し別の者が作った品は、それを作った者に対して数日持続する魔導媒体である。 |
 | 数か月 | 髪1本、お気に入りの道具や衣服、特定の場所の木片、鳥の羽根1枚、爬虫類の鱗1枚。 |
-| 数年 | インベスト・アイテム、特定の場所の岩や金属、血、髪の束、鳥の羽根の束、爬虫類の鱗の束。 |
+| 数年 | 魔器、特定の場所の岩や金属、血、髪の束、鳥の羽根の束、爬虫類の鱗の束。 |
 | 数十年 | 身体の一部。 |
 | 無期限 | ヘルメスの使い魔（主人への連鎖）、ヘルメスのマギ（使い魔への連鎖）、ヘルメスのタリスマン（作り手への連鎖）、固定された魔導媒体（94ページ／250ページ「魔導媒体を固定する」参照）。 |
 
@@ -808,15 +808,15 @@
 
 **呪文の考案：**1季節につき（研究室合計値−呪文レベル）のレベルを得る。得たレベルの合計が呪文レベル以上になったとき考案が完了する。
 
-**インベスト・アイテムとして呪付するための品の準備：**1季節＋材質と大きさによって定まるポーン数のウィムのウィース
+**魔器として呪付するための品の準備：**1季節＋材質と大きさによって定まるポーン数のウィムのウィース
 
-**インベスト・アイテムへの効果の付与：**1季節につき（研究室合計値−効果レベル）のレベルを得る。得たレベルの合計が効果レベル以上になったとき付与が完了する。10レベルごと（端数も1つと数える）に、その技法または形相に合致するウィース1ポーンを費やす。
+**魔器への効果の付与：**1季節につき（研究室合計値−効果レベル）のレベルを得る。得たレベルの合計が効果レベル以上になったとき付与が完了する。10レベルごと（端数も1つと数える）に、その技法または形相に合致するウィース1ポーンを費やす。
 
 **付与の上限：**効果の付与に費やすウィースのポーン数は、その品の準備に用いたウィースのポーン数を超えられない。
 
-**小なる呪付アイテム：**準備を要さないが、効果は1季節で付与し終えねばならない。
+**小なる呪付物：**準備を要さないが、効果は1季節で付与し終えねばならない。
 
-**チャージ・アイテム：**ウィース不要。研究室合計値が効果のレベルを上回った5点ごと（端数も1つと数える）にチャージ1つ（研究室合計値がレベルと等しければチャージ1つ）。
+**充填魔道具：**ウィース不要。研究室合計値が効果のレベルを上回った5点ごと（端数も1つと数える）にチャージ1つ（研究室合計値がレベルと等しければチャージ1つ）。
 
 **呪付の調査：**インテルレゴー・ウィムの研究室合計値＋ストレスダイス
 
@@ -859,7 +859,7 @@
 
 **レベルの修正：**小なるヘルメス《美点》1つにつき＋3、大なるヘルメス《美点》1つにつき＋9
 
-### 呪付されたアイテム
+### 呪付物
 
 #### 材質と大きさの表
 
@@ -968,7 +968,7 @@
 
 **恩恵なし：**実験は何の成果も生まない。追加のダイスと危険度の修正の恩恵を失う――それらの修正なしで研究室合計値を計算し直すこと。新たな研究室合計値がその作業を成功させるには低すぎる場合、その作業は放棄せねばならない。
 
-**完全な失敗：**労力から何も得られず、その季節は無駄になる。使い魔か呪付されたアイテムに取り組んでいた場合は単純ダイスを振る。0が出ればそれは破壊される。
+**完全な失敗：**労力から何も得られず、その季節は無駄になる。使い魔か呪付物に取り組んでいた場合は単純ダイスを振る。0が出ればそれは破壊される。
 
 **特別な出来事または物語の出来事：**ストーリーガイドが以下から1つ選ぶ。
 
@@ -1851,7 +1851,7 @@
 | &nbsp;&nbsp;Detailed（詳細な作成） | [43–55](03-characters.md#詳細キャラクター作成) |
 | &nbsp;&nbsp;Templates（テンプレート） | [30–43](03-characters.md#キャラクターテンプレート) |
 | Characteristics（特性値） | [27](03-characters.md#特性値), [48](03-characters.md#特性値-1) |
-| Charged Items（チャージ・アイテム） | [253](08-laboratory.md#チャージアイテム) |
+| Charged Items（充填魔道具） | [253](08-laboratory.md#充填魔道具) |
 | Charlemagne（シャルルマーニュ） | [11](02-the-order-of-hermes.md#魔術団の流派) |
 | Charm (Ability)（〈魅惑〉） | [161](05-abilities.md#魅惑charm) |
 | Charms（護符） | [238](07-hermetic-magic.md#護符) |
@@ -1899,7 +1899,7 @@
 | Concentration (Duration)（集中（持続時間）） | [215](07-hermetic-magic.md#集中), [304](09-spells.md#持続時間) |
 | Confidence（自信） | [29](03-characters.md#自信), [52](03-characters.md#自信-1) |
 | Confirmation（堅信） | [500](14-mythic-europe.md#秘蹟) |
-| Constant Effect Devices（常時効果装置） | [258](08-laboratory.md#常時効果の装置) |
+| Constant Effect Devices（常時効果の呪付物） | [258](08-laboratory.md#常時効果の呪付物) |
 | Constant Expression (Flaw)（《常なる魔法発現》） | [123](04-virtues-and-flaws.md#常なる魔法発現the-constant-expression) |
 | Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン派) |
 | Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具consumed-casting-tools) |
@@ -2074,7 +2074,7 @@
 | Embitterment (Virtue)（《心を蝕む》） | [78](04-virtues-and-flaws.md#心を蝕むembitterment) |
 | Emir (Virtue)（《アミール》） | [78](04-virtues-and-flaws.md#アミールemir) |
 | Employed by Company (Flaw)（《商会に雇われている》） | [126](04-virtues-and-flaws.md#商会に雇われているemployed-by-company) |
-| Enchanted Items（呪付アイテム） | [180](06-covenants.md#呪付アイテム) |
+| Enchanted Items（呪付物） | [180](06-covenants.md#呪付物) |
 | Enchanting (Ability) (Ability)（〈魔性の技芸（能力）〉） | [164](05-abilities.md#魔性の技芸能力enchanting-ability) |
 | Enchanting (Ability) (Virtue)（《魔性の技芸（能力）》） | [78](04-virtues-and-flaws.md#魔性の技芸能力enchanting-ability) |
 | Encumbrance（荷重） | [403](11-obstacles.md#荷重) |
@@ -2402,7 +2402,7 @@
 | Intuition (Virtue)（《直観》） | [87](04-virtues-and-flaws.md#直観intuition) |
 | Inventing Spells（呪文の発明） | [251](08-laboratory.md#呪文を考案する) |
 | Inventive Genius (Virtue)（《発明の才》） | [87](04-virtues-and-flaws.md#発明の才inventive-genius) |
-| Invested Items（インベスト・アイテム） | [253](08-laboratory.md#インベストアイテム) |
+| Invested Items（魔器） | [253](08-laboratory.md#魔器) |
 | Investigating Enchantments（呪付の調査） | [260](08-laboratory.md#呪付を調査する) |
 | Investigation Saga（探索のサーガ） | [533](16-sagas.md#探索) |
 | Iron, Molten（溶けた鉄） | [407](11-obstacles.md#熱と腐食) |
@@ -2468,7 +2468,7 @@
 | Leper Magus (Virtue)（《癩者のマギ》） | [90](04-virtues-and-flaws.md#癩者のマギleper-magus) |
 | Leprosy (Flaw)（《癩病》） | [135](04-virtues-and-flaws.md#癩病leprosy) |
 | Lesser Benediction (Virtue)（《小なる祝福》） | [90](04-virtues-and-flaws.md#小なる祝福lesser-benediction) |
-| Lesser Enchantments（簡易呪付） | [253](08-laboratory.md#小呪付アイテム) |
+| Lesser Enchantments（簡易呪付） | [253](08-laboratory.md#小魔道具) |
 | Lesser Immunity (Virtue)（《耐性》） | [90](04-virtues-and-flaws.md#耐性lesser-immunity) |
 | Lesser Limits（弱限界） | [211](07-hermetic-magic.md#弱限界) |
 | Lesser Malediction (Flaw)（《小なる呪詛》） | [135](04-virtues-and-flaws.md#小なる呪詛lesser-malediction) |
@@ -3107,7 +3107,7 @@
 | Untrained Group（未訓練の集団） | [396](11-obstacles.md#訓練されていない集団) |
 | Urban (Covenant Situation)（都市（コヴナントの状況）） | [177](06-covenants.md#都市) |
 | Urban (Hook)（《都市（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Using Enchanted Devices（呪付装置の使用） | [259](08-laboratory.md#呪付装置を用いる) |
+| Using Enchanted Devices（呪付物の使用） | [259](08-laboratory.md#呪付物を用いる) |
 | Usurer (Flaw)（《高利貸し》） | [149](04-virtues-and-flaws.md#高利貸しusurer) |
 | Variable Outcomes（結末の幅） | [516](15-stories.md#結末の幅) |
 | Variable Power (Virtue)（《可変の力》） | [114](04-virtues-and-flaws.md#可変の力variable-power) |

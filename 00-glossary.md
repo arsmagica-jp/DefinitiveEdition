@@ -193,8 +193,8 @@
 | sigil | 印 |
 | pawn | ポーン |
 | casting tools | 詠唱道具 |
-| charged items | チャージ・アイテム |
-| enchanted items | 呪付アイテム |
+| charged items | 充填魔道具 | 「チャージ・アイテム」から変更 |
+| enchanted items | 呪付物 | 「呪付アイテム／呪付装置／呪付されたアイテム／呪付された装置」の4通りに割れていたのを統一 |
 | Heartbeast | 心獣 |
 | Enigma | エニグマ |
 | Grand Tribunal | 大トリビューナル |
@@ -290,7 +290,7 @@
 | Attack Advantage | 攻撃優位 | |
 | Weakening / Resistance Total | 衰弱合計値／抵抗合計値 | ケルターメン |
 | Script / Script Bonus | 式次第／式次第加算 | 参入儀礼 |
-| Station / Avenue / Path | 位階／大路／道 | クリーアモンの秘儀 |
+| Station / Avenue / Path | 位階／小道／道 | クリーアモンの秘儀。Avenue は「大路」から変更 |
 | charms | 護符 | メリニータの詠唱道具 |
 | recurring spell | 反復する呪文 | 呪文の刻限 |
 | Hubris | 驕慢 | ウェルディーティウスの性格《欠点》。《尊大》（Proud）と区別 |
@@ -302,8 +302,8 @@
 | Whistle Up The Wind | 〈風を呼ぶ口笛〉 | テンペスタリアの神秘系〈能力〉。第7章で「〈風を口笛で招く〉」としていたのを第4・5章の一覧に揃えた |
 | Longevity Ritual | 延命儀式 | 索引準拠。第3・4章の「長寿の儀式」を統一 |
 | laboratory texts | 研究書巻 | 索引準拠 |
-| invested item / device | インベスト・アイテム | 索引準拠 |
-| lesser enchantment | 小呪付アイテム | |
+| invested item / device | 魔器 | 「インベスト・アイテム」から変更 |
+| lesser enchantment | 小魔道具 | 「小呪付アイテム」から変更。《小呪付の品》（Minor Enchantments）は別の《美点》 |
 | instilling effects | 効果を込める | 索引は「効果の付与」 |
 | effect level / modified effect level | 効果レベル／修正後効果レベル | |
 | trigger / environmental trigger | トリガー／環境発動 | 索引準拠 |
@@ -329,7 +329,8 @@
 | Integration / insight | 統合／洞察 | |
 | Refinement / General Quality | 洗練／総合品質 | 研究室の特性値 |
 | Aesthetics / Health / Safety | 美観／健全性／安全性 | 研究室の特性値 |
-| occupied Size | 占有大きさ | 研究室の特性値 |
+| Size（研究室） | サイズ | 研究室の特性値。「大きさ」から変更。呪文の目標や材質・大きさ表の「大きさ」とは別 |
+| occupied Size | 占有サイズ | 研究室の特性値 |
 | Laboratory Feature | 研究室の設備 | 《大設備》《小設備》 |
 | sanctum marker | 聖域の標 | |
 | Ceremonial Magic | 儀礼魔術 | |
