@@ -119,7 +119,7 @@
 | Performance Magic | 《所作魔術》 | 「《演技魔術》」から変更。performance は舞台芸ではなく、〈工芸〉〈職業〉〈狩猟〉など明確な言語的・身体的実践を伴う〈能力〉を実際に行使することを指し、その所作がヘルメス魔術の身振りと呪言を置き換える。持続時間 Performance も「所作」とした |
 | Perfect Eye for (Commodity) | 《（商品）の目利き》 | 「《（商品）を見抜く眼》」から統一。解説文の「羊毛を見抜く眼」も「羊毛の目利き」に揃えた |
 | Mercurian Magic | 《メルクリウス魔術》 | 「《メルクリウス魔法》」から統一 |
-| Perdo / elemental / combat / Sensory Magic | ペルド魔術／元素魔術／戦闘魔術／感覚魔術 | magic の訳し分けで取りこぼしていた7件。いずれも技法の意味なので「魔術」 |
+| Perdo / elemental / combat / Sensory Magic | ペルドー魔術／元素魔術／戦闘魔術／感覚魔術 | magic の訳し分けで取りこぼしていた7件。いずれも技法の意味なので「魔術」 |
 | Maker of Textured Vessels | 《紋様ある器の作り手》 | 「《織り目ある器の作り手》」から統一。原文は mystical patterns impressed into their surfaces |
 | Magical Memory | 《魔術の記憶力》 | 「《魔術の記憶》」から統一 |
 | Magian Lineage | 《マゴス僧の血統》 | 「《マギの血統》」から変更。Magian は古代ペルシアのマゴス僧（Median tribe of Magians）を指し、本訳が magi に当てている「マギ」とは別語。解説文の「メディア人マギ族」も「メディア人のマゴス僧の部族」に改めた |
@@ -272,7 +272,7 @@
 | aiming roll | 狙いのロール | |
 | Technique / Form | 技法／形相 | 索引準拠 |
 | Form Bonus | 形相加算 | |
-| substance | 実体 | クレオの説明 |
+| substance | 実体 | クレオーの説明 |
 | species | スペキエース（可感的形象） | イマーギネムの用語 |
 | Elemental Forms | 元素の形相 | 索引準拠 |
 | Limits of Magic / Lesser Limits | 魔法の限界／弱限界 | 索引の「小限界」を「弱限界」に改めた。Limit of the Lunar Sphere は「月の限界」（「月天の限界」「月天球の限界」から変更） |
@@ -524,7 +524,7 @@
 | static / dynamic target | 静的な目標／動的な目標 | 容器目標の二様式 |
 | magical senses | 魔法の感覚 | インテルレゴーが与える |
 | magical wards | 魔法の結界 | |
-| magical craft | 魔術の工芸 | クレオ／レゴーの工芸魔術 |
+| magical craft | 魔術の工芸 | クレオー／レーゴーの工芸魔術 |
 | summoning spirits | 霊の召喚 | |
 | casting requisites | 行使の制約術法 | データに載らず行使時にのみ適用 |
 | base Individual | 基本の「個人」 | 形相ごとに定まる大きさ |
