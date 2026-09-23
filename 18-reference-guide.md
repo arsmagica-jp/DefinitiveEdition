@@ -2441,7 +2441,7 @@
 | Laboratory（研究室） | [249–298](08-laboratory.md#第8章研究室) |
 | &nbsp;&nbsp;Characteristics（特性値） | [286–291](08-laboratory.md#研究室の特性値) |
 | &nbsp;&nbsp;Features（特徴） | [296–297](08-laboratory.md#研究室の設備) |
-| &nbsp;&nbsp;Personalization（個人化） | [286–298](08-laboratory.md#研究室の個性化の規則) |
+| &nbsp;&nbsp;Personalization（カスタマイズ） | [286–298](08-laboratory.md#研究室のカスタマイズルール) |
 | &nbsp;&nbsp;Texts（研究書巻） | [180](06-covenants.md#研究書巻), [262](08-laboratory.md#研究書巻) |
 | &nbsp;&nbsp;Virtues and Flaws（《美点》と《欠点》） | [292–296](08-laboratory.md#研究室の美点と欠点) |
 | &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究室作業) |
