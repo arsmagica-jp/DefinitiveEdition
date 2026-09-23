@@ -11,6 +11,9 @@
 - 《　》＝《美点》・《欠点》、〈　〉＝〈能力〉（アビリティ）、*斜体*＝呪文名。索引の表記に合わせる。
 - 個別の〈能力〉名の直後に類型名を重ねない。原文の "Craft Ability" "Penetration Ability" のような形も「〈工芸〉」「〈抵抗貫通力〉」とだけ書き、「〈工芸〉〈能力〉」とはしない。
 - 類型そのものを指す語も、術語として用いる場合は同じ括弧を付ける（Ability →〈能力〉、Virtue →《美点》、Flaw →《欠点》）。詳細は「類型名の括弧付け」を参照。
+- 書名の綴りは実際の書名に合わせる（『City & Guild』『Art & Academe』『Faith & Flame』『Between Sand & Sea』、Revised Edition はカンマなし）。原文にある揺れ（The Lion and The Lily など）は正しい綴りに直す。
+- 他の書籍・サプリメントの題は『　』で示す（『Covenants』『Realms of Power: Magic』など）。*斜体* は呪文名と、索引の "see also" などに用いる。
+- 算用数字に添える符号は半角の + を用いる。
 - 見出しは原文の階層をそのまま保つ。表・引用ブロック・改行タグ（`<br>`）も原文どおり。
 
 ## 基本用語（索引準拠）
@@ -228,7 +231,7 @@
 | Bestiary | 幻獣誌 | 章題・付録の索引名 |
 | antagonist | 敵役 | |
 | extra | 端役 | supporting cast（脇役）と区別 |
-| central character | 中心キャラクター | マギ＋コンパニオン |
+| central character | 中心キャラクター | マギ+コンパニオン |
 | supporting cast | 脇役 | グロッグ |
 | mundane | 世俗（俗人） | |
 | bailiff | 荘官 | |
@@ -444,7 +447,7 @@
 | nation（コヴナント） | 組 | グロッグを役割横断で束ねる区分（第6章）。「同郷団」から変更 |
 | nation（大学） | 同郷団 | 大学の学生団体の区分（第4章《ヌンティウス》《代表》、第6章で大学を例に引く段落）。国家の意味の nation は対象外 |
 | guild dean / alderman | ギルド長老／組合役員 | |
-| Site Hook | 土地に関するコヴナント設定 | *Covenants* の分類 |
+| Site Hook | 土地に関するコヴナント設定 | 『Covenants』 の分類 |
 | Nemthengacha / Nemthenga | ネヴサンガハ／ネヴサンガ | 雑集派の一派 |
 | Tempestaria / Tempestariae | テンペスタリア／テンペスタリアエ | 天候魔女 |
 | Beast Masters | 獣使い | 雑集派の伝統 |
@@ -464,8 +467,8 @@
 | sub-lunar world | 月下界 | |
 | cauterization | 焼灼 | |
 | Improvement Ease Factor | 改善目標値 | |
-| Craft Value / Innovation | 工芸値／技術革新 | *City & Guild* |
-| Labor Points / Wealth Multiplier | 労働点／富裕度倍率 | *City & Guild* |
+| Craft Value / Innovation | 工芸値／技術革新 | 『City & Guild』 |
+| Labor Points / Wealth Multiplier | 労働点／富裕度倍率 | 『City & Guild』 |
 | illuminator / percamenarius | 装飾写本師／羊皮紙職人 | |
 | tinker / cooper / lapidary | 鋳掛屋／桶職人／宝石細工師 | |
 | farrier | 蹄鉄工 | |
@@ -788,7 +791,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | plot | 筋書き | 「物語」は story、「筋書き」は事前に定めた因果の連なり |
-| hooks | 導入の糸口 | サプリメント *Hooks* は書名なので原題のまま |
+| hooks | 導入の糸口 | サプリメント 『Hooks』 は書名なので原題のまま |
 | climax | 山場 | |
 | variable outcomes | 結末の幅 | |
 | reactive story | 受動的な物語 | 何かが起こり、PCが応じる |
