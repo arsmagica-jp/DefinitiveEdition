@@ -83,7 +83,7 @@
 | botch dice | ボッチ・ダイス |
 | Ease Factor | 目標値 | 索引準拠。「難易度」から統一 |
 | Faerie Doctor | 《妖精呪医》 | 「妖精医師」から統一 |
-| Enchanting (Ability) | 《魔性の技芸（能力）》／〈魔性の技芸（能力）〉 | 「呪付（能力）」から変更。物に効果を込める enchantment（呪付）とは無関係で、音楽・舞踊・素描・語り・工芸といった芸によって他人に情動を吹き込む神秘系〈能力〉。原文が「(Ability)」を付しているのも呪付と区別するため。〈魅了〉（Entrancement）・〈魅惑〉（Charm）・〈感応〉（Induction）とは別 |
+| Enchanting (Ability) | 《魔性の技芸（能力）》／〈魔性の技芸（能力）〉 | 「呪付（能力）」から変更。物に効果を込める enchantment（呪付）とは無関係で、音楽・舞踊・素描・語り・工芸といった芸によって他人に情動を吹き込む超常系〈能力〉。原文が「(Ability)」を付しているのも呪付と区別するため。〈魅了〉（Entrancement）・〈魅惑〉（Charm）・〈感応〉（Induction）とは別 |
 | The Constant Expression | 《常なる魔法発現》 | 「《常なる発現》」から統一。第18章の索引が「《絶えざる発露》」と別訳になっていたのも揃えた |
 | Vulnerable to Folk Tradition | 《魔除けに脆い魔術》 | 「《民間伝承に脆い》」から変更。folk tradition は邪を払う印・唾・塩・鉄の寝台といった庶民の魔除け（folk-remedies for averting hostile spells）を指し、《民間魔術》（Folk Magic）とは別。Vulnerable は《脆い魔術》《脆い行使》と同じく「脆い」 |
 | Imagined Folk Tradition Vulnerability | 《魔除けに脆いという思い込み》 | 「《思い込みの民間伝承への脆さ》」から変更。上と対 |
@@ -150,7 +150,7 @@
 | Arcane Abilities | 秘儀系〈能力〉 | 〈能力〉の類型 |
 | Academic Abilities | 学術系〈能力〉 | 〈能力〉の類型 |
 | Martial Abilities | 戦闘系〈能力〉 | 〈能力〉の類型 |
-| Supernatural Abilities | 神秘系〈能力〉 | 〈能力〉の類型。《美点》の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
+| Supernatural Abilities | 超常系〈能力〉 | 〈能力〉の類型。《美点》の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
 | Finesse | 〈呪文操作〉 | 索引準拠。「〈精妙〉」から統一 |
 | experience | 経験点 |
 | aging | 老化 |
@@ -262,7 +262,7 @@
 | Casting Score / Casting Total | 行使値／行使合計値 | |
 | Lab Total | 研究室合計値 | |
 | Advancement Total | 成長合計値 | |
-| Source Quality | 情報源の質 | |
+| Source Quality | 学習品質 | |
 | magnitude | 階級 | 呪文レベルの五分の一（切り上げ）。「段階」「等級」に割れていたのを統一。一般語の「段階」（傷・疲労の水準、コヴナントの生涯の段階、表の一段上など）とは区別する。身分の意味で「階級」を用いていた6箇所は「身分」（第14章の品級の分類のみ「区分」）に改め、この語は magnitude 専用とした |
 | Range / Duration / Target | 射程／持続時間／目標 | |
 | requisite | 制約術法 | |
@@ -301,9 +301,9 @@
 | Verditius Runes | ウェルディーティウス・ルーン | |
 | automata | 自動人形 | |
 | attuned item | 調和させたアイテム | |
-| Embitterment | 〈心を蝕む〉 | ネヴサンガハの神秘系〈能力〉。第7章で「〈憎悪の吹き込み〉」としていたのを第4・5章の一覧に揃えた |
-| Summon Animals | 〈動物召喚〉 | 獣使いの神秘系〈能力〉。第7章で「〈動物の召喚〉」としていたのを第4・5章の一覧に揃えた |
-| Whistle Up The Wind | 〈風を呼ぶ口笛〉 | テンペスタリアの神秘系〈能力〉。第7章で「〈風を口笛で招く〉」としていたのを第4・5章の一覧に揃えた |
+| Embitterment | 〈心を蝕む〉 | ネヴサンガハの超常系〈能力〉。第7章で「〈憎悪の吹き込み〉」としていたのを第4・5章の一覧に揃えた |
+| Summon Animals | 〈動物召喚〉 | 獣使いの超常系〈能力〉。第7章で「〈動物の召喚〉」としていたのを第4・5章の一覧に揃えた |
+| Whistle Up The Wind | 〈風を呼ぶ口笛〉 | テンペスタリアの超常系〈能力〉。第7章で「〈風を口笛で招く〉」としていたのを第4・5章の一覧に揃えた |
 | Longevity Ritual | 延命儀式 | 索引準拠。第3・4章の「長寿の儀式」を統一 |
 | laboratory texts | 研究書巻 | 索引準拠 |
 | invested item / device | 魔器 | 「インベスト・アイテム」から変更 |
@@ -338,7 +338,7 @@
 | Laboratory Feature | 研究室の設備 | 《大設備》《小設備》 |
 | sanctum marker | 聖域の標 | |
 | Ceremonial Magic | 儀礼魔術 | |
-| Exposure / Adventure / Practice | 暴露／冒険／鍛錬 | 経験点の獲得手段 |
+| Exposure / Adventure / Practice | 体験／冒険／鍛錬 | 経験点の獲得手段。Exposure は「暴露」から変更。歪曲についての prolonged exposure（長期の曝露）は成長手段ではないので別語 |
 | experimentation table | 実験表 | |
 | Safety | 安全性 | 研究室の指標 |
 | Upkeep | 維持費 | 研究室の指標 |
@@ -390,7 +390,7 @@
 | Baseline | 基準 | |
 | Accessible Power Level | 利用可能魔力レベル | 索引にも項目あり |
 | casting tablet | 詠唱板 | |
-| tractatus | 小論 | summa（大全書）と対 |
+| tractatus | 専門書 | summa（大全書）と対 |
 | Mythic Pound | 神話ポンド | |
 | Source of Income Categories | 収入源の区分 | |
 | Lesser / Typical / Greater / Legendary | 小規模／標準的／大規模／伝説的 | 収入源の区分 |
@@ -722,7 +722,7 @@
 | Spirit Form / Subtle Form | 霊の姿／微妙なる姿 | |
 | Divine Might | 聖なる実力値 | 既出 |
 
-**注：**〈魅了〉（Entrancement、神秘系）と〈魅惑〉（Charm、一般）は別の〈能力〉である。混同しないこと。同様に《鋭い聴力》（Sharp Ears、《美点》）と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
+**注：**〈魅了〉（Entrancement、超常系）と〈魅惑〉（Charm、一般）は別の〈能力〉である。混同しないこと。同様に《鋭い聴力》（Sharp Ears、《美点》）と「鋭い耳」（Sharp Ears、獣の特質）も別枠である。
 
 **注：**訳者による「訳注：原文の不備について」の節を章末に置いたため、本章の日本語版は原文より `##` 見出しが一つ多い。
 
@@ -897,7 +897,7 @@ Ability・Virtue・Flaw は、個々の項目名だけでなく類型そのも�
 
 - ヘルメス《美点》、超常《美点》、無償の《美点》、社会階層の《美点》
 - 大いなる性格の《欠点》、物語の《欠点》
-- 秘儀系〈能力〉、学術系〈能力〉、戦闘系〈能力〉、神秘系〈能力〉、一般〈能力〉
+- 秘儀系〈能力〉、学術系〈能力〉、戦闘系〈能力〉、超常系〈能力〉、一般〈能力〉
 
 個別の項目名に修飾語が含まれる場合（《怒りっぽい（小）》、〈地域知識（川筋）〉）は従来どおり括弧の内側に入れる。両者は別の規則である。
 

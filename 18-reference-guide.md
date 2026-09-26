@@ -847,7 +847,7 @@
 - 標準の教授の規則を用いる。
 - 年に少なくとも1季節。〈パルマ・マギカ〉を広げて徒弟を覆わねばならない。
 - 術法を開くには1季節を要する。すべての術法で技量5以上を持たねばならず、さもなくば徒弟はその術法に《苦手》を得る。
-- 徒弟が神秘系〈能力〉を持つ場合、インテルレゴー・ウィームの研究室合計値がその〈能力〉の技量の5倍以上でなければならない。小なる《美点》なら最低10、大なる《美点》なら最低30（〈能力〉を伴わない小なる《美点》なら10、大なる《美点》なら10）。複数の〈能力〉については技量をすべて合計する。研究室合計値がこのレベルの2倍以上であれば、その〈能力〉は保たれるかヘルメスの《美点》へ転換されうる。そうでなければ失われる。
+- 徒弟が超常系〈能力〉を持つ場合、インテルレゴー・ウィームの研究室合計値がその〈能力〉の技量の5倍以上でなければならない。小なる《美点》なら最低10、大なる《美点》なら最低30（〈能力〉を伴わない小なる《美点》なら10、大なる《美点》なら10）。複数の〈能力〉については技量をすべて合計する。研究室合計値がこのレベルの2倍以上であれば、その〈能力〉は保たれるかヘルメスの《美点》へ転換されうる。そうでなければ失われる。
 
 #### ヘルメスの《美点》を教える
 
@@ -1111,43 +1111,43 @@
 
 ### 書物を書く
 
-**大全書の情報源の質：**著者の【交渉】+6+加算
+**大全書の学習品質：**著者の【交渉】+6+加算
 
 **大全書の獲得限界：**その大全書の水準
 
-**小論の情報源の質：**著者の【交渉】+6
+**専門書の学習品質：**著者の【交渉】+6
 
-**丁寧に写す：**1季節につき小論1冊、または大全書に向けて 6+〈職業（写字生）〉点
+**丁寧に写す：**1季節につき専門書1冊、または大全書に向けて 6+〈職業（写字生）〉点
 
-**素早く写す：**丁寧に写す3倍の速さ。写しの情報源の質は元の書物より1低い。
+**素早く写す：**丁寧に写す3倍の速さ。写しの学習品質は元の書物より1低い。
 
-### 成長の情報源の質
+### 成長の学習品質
 
-**暴露の情報源の質：**2
+**体験の学習品質：**2
 
-**冒険の情報源の質：**5〜10
+**冒険の学習品質：**5〜10
 
-**鍛錬の情報源の質：**4〜8、通常は4
+**鍛錬の学習品質：**4〜8、通常は4
 
-**訓練の情報源の質：**教える〈能力〉における師の値+3
+**訓練の学習品質：**教える〈能力〉における師の値+3
 
 **訓練の獲得限界：**教える〈能力〉における師の値
 
-**礼拝の情報源の質：**その教会の神聖のオーラ
+**礼拝の学習品質：**その教会の神聖のオーラ
 
-**教授の情報源の質：**教師の【交渉】+〈教授〉+3+加算
+**教授の学習品質：**教師の【交渉】+〈教授〉+3+加算
 
 **教授の獲得限界：**その術法または〈能力〉における教師の値
 
-**大全書：**情報源の質と水準
+**大全書：**学習品質と水準
 
 **大全書の獲得限界：**その大全書の水準
 
-**小論：**情報源の質
+**専門書：**学習品質
 
-**ウィースの情報源の質：**ストレスダイス+オーラの加算
+**ウィースの学習品質：**ストレスダイス+オーラの加算
 
-**神秘系〈能力〉の情報源の質（新たな〈能力〉のみ）：**通常の情報源の質−神秘系〈能力〉の値の合計
+**超常系〈能力〉の学習品質（新たな〈能力〉のみ）：**通常の学習品質−超常系〈能力〉の値の合計
 
 ### 妨げ
 
@@ -1798,7 +1798,7 @@
 | &nbsp;&nbsp;Copying（写す） | [380](10-long-term-events.md#書物を写す) |
 | &nbsp;&nbsp;Prices（価格） | [382](10-long-term-events.md#書物の価格) |
 | &nbsp;&nbsp;Summae（大全書） | [379–380](10-long-term-events.md#大全書) |
-| &nbsp;&nbsp;Tractatus（小論） | [380](10-long-term-events.md#小論) |
+| &nbsp;&nbsp;Tractatus（専門書） | [380](10-long-term-events.md#専門書) |
 | &nbsp;&nbsp;Writing（書く） | [379–380](10-long-term-events.md#書物を著す) |
 | Boons（恵み） | [183–184](06-covenants.md#恩恵) |
 | Boosted Magic (Virtue)（《増幅魔術》） | [72](04-virtues-and-flaws.md#増幅魔術boosted-magic) |
@@ -2116,7 +2116,7 @@
 | Expenditure（支出） | [189](06-covenants.md#支出), [195–196](06-covenants.md#年間支出の要約) |
 | Experience（経験点） | [375–376](10-long-term-events.md#経験と成長) |
 | &nbsp;&nbsp;Adventure（冒険） | [376](10-long-term-events.md#冒険) |
-| Exposure（暴露） | [376](10-long-term-events.md#暴露) |
+| Exposure（体験） | [376](10-long-term-events.md#体験) |
 | &nbsp;&nbsp;*see also Advancement* |  |
 | Experimentation（実験） | [274–276](08-laboratory.md#実験) |
 | Exploration（探検） | [520](15-stories.md#探索) |
@@ -2459,7 +2459,7 @@
 | &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
 | Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮leadership) |
 | Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力learn-ability-from-mistakes) |
-| Learning Supernatural Abilities（神秘系〈能力〉の学習） | [383](10-long-term-events.md#神秘系能力を習得する) |
+| Learning Supernatural Abilities（超常系〈能力〉の学習） | [383](10-long-term-events.md#超常系能力を習得する) |
 | Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂きleather-ripper) |
 | Leather Scale Armor（レザースケール） | [399](11-obstacles.md#材質) |
 | Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色lecherous) |
@@ -2995,8 +2995,8 @@
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Supernatural Abilities（神秘系〈能力〉） | [159](05-abilities.md#神秘系能力) |
-| &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#神秘系能力を習得する) |
+| Supernatural Abilities（超常系〈能力〉） | [159](05-abilities.md#超常系能力) |
+| &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常系能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
 | Supernatural Virtues and Flaws（超常的《美点》と《欠点》） | [64](04-virtues-and-flaws.md#超常) |
@@ -3049,7 +3049,7 @@
 | Tough Guy (Template)（猛者（テンプレート）） | [33](03-characters.md#タフガイ) |
 | Towns（町） | [510–511](14-mythic-europe.md#町) |
 | Town Magistrate (Virtue)（《町の参事》） | [113](04-virtues-and-flaws.md#町の参事town-magistrate) |
-| Tractatus（小論） | [179](06-covenants.md#蔵書), [380](10-long-term-events.md#小論) |
+| Tractatus（専門書） | [179](06-covenants.md#蔵書), [380](10-long-term-events.md#専門書) |
 | Trade（交易） | [509](14-mythic-europe.md#町と交易) |
 | Trained Assassin (Virtue)（《訓練された暗殺者》） | [113](04-virtues-and-flaws.md#訓練された暗殺者trained-assassin) |
 | Trained Group（訓練された集団） | [385](10-long-term-events.md#訓練された集団), [396](11-obstacles.md#訓練された集団) |
