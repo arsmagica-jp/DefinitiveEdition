@@ -20,7 +20,7 @@
 [《欠点》一覧](04-virtues-and-flaws.md#欠点一覧)<br>
 [〈能力〉一覧](05-abilities.md#能力一覧)<br>
 
-[秘儀の実験](08-laboratory.md#秘儀の実験)<br>
+[秘術の実験](08-laboratory.md#秘術の実験)<br>
 [呪文の設計](09-spells.md#呪文の設計)<br>
 
 [アニマールの呪文](09-spells.md#アニマールの呪文)<br>
@@ -35,9 +35,9 @@
 [ウィームの呪文](09-spells.md#ウィームの呪文)<br>
 
 [リファレンスガイド](18-reference-guide.md#リファレンスガイド)<br>
-[戦闘規則の参照](18-reference-guide.md#戦闘規則)<br>
-[魔術規則の参照](18-reference-guide.md#魔術規則)<br>
-[研究室規則の参照](18-reference-guide.md#研究室規則)<br>
+[戦闘ルールの参照](18-reference-guide.md#戦闘ルール)<br>
+[魔術ルールの参照](18-reference-guide.md#魔術ルール)<br>
+[研究室ルールの参照](18-reference-guide.md#研究室ルール)<br>
 
 [呪文索引](18-reference-guide.md#呪文索引)<br>
 [呪文指針索引](18-reference-guide.md#呪文指針索引)<br>
@@ -58,8 +58,8 @@
 
 索引で見つかった問題（558〜568ページ）：
 
-- 索引で〈秘儀知識〉が《美点》ではなく〈能力〉として挙げられている（修正済み）
-- 索引の「詠唱板」の項が180ページを指しているが、そこはコヴナントの資源しか扱っておらず、規則は263ページにある（修正済み）
+- 索引で〈秘術知識〉が《美点》ではなく〈能力〉として挙げられている（修正済み）
+- 索引の「詠唱板」の項が180ページを指しているが、そこはコヴナントの資源しか扱っておらず、ルールは263ページにある（修正済み）
 - 索引で「穢れた獣」の位置が誤っている（修正済み）
 - 索引に「Enchanting (Ability) (Ability)」が欠けている（修正済み）
 - 索引に《予感（美点）》が欠けている（修正済み）
@@ -127,7 +127,7 @@ Christian Rosenkjaer Andersen, Jason Brennan, Volker Bürkel, Evangeline Cheng, 
 
 **第五次：**Niall Christie, Chris Jensen-Romer, Peter Hiley, Kevin Sides, Luke Price, Lloyd Graney, Paul Jenchowski, Polly Draper, Samuel Bidal, Anne-Gaëlle Darmont, Jérôme Darmont, Gilles Marcvincent, Miguel Peca, Didier Rabour, Quetta Garrison, Wendell Joyner, Angus MacDonald, Sarah MacDonald, Dan Shull, Brian Watson, Kaynek Young, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Andrea C. Cofalik, Ulrich Willmünder, Tod Gelle, Roberta Olson, Jeff Schmidt, Erik Tyrrell, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell, Trond Løkke, John Henry Nordlien, Petter Stolba, Jon Sederqvist Østmoe, Tom Fraser, Philip Gardner, Ben Wright, Keith Dalzell, Sarah Doss, Paul Eastlund, Roy Pollock, Paul Tevis: Charlton Wilbur, Jason Burkins, Margaret Halpert, Chris Aylott, Fr. Tom Dowd
 
-……そして、規則が最初に刊行されて以来の年月に、後のサプリメントをプレイテストし、正誤情報を寄せてくださったすべての方々に感謝する。皆さんのおかげで本書は今あるものとなった。
+……そして、ルールが最初に刊行されて以来の年月に、後のサプリメントをプレイテストし、正誤情報を寄せてくださったすべての方々に感謝する。皆さんのおかげで本書は今あるものとなった。
 
 ## 特別な謝辞
 
@@ -231,7 +231,7 @@ ISBN: 978-1-58978-251-8
 
 グロッグが好きだ。彼らはマギの力を引き立て、コンパニオンを輝かせ、キャラクターの死を受け入れやすくしてくれる。
 
-コンパニオンと、プレイヤーが望むコンパニオンをたやすく組み立てられるところが好きだ。彼らが秘儀のマギと広い世俗の人々との中間に位置しているところが好きだ。
+コンパニオンと、プレイヤーが望むコンパニオンをたやすく組み立てられるところが好きだ。彼らが秘術のマギと広い世俗の人々との中間に位置しているところが好きだ。
 
 中核のダイスの仕組みが好きだ。あまりに素直なので、私は後にそれを『ダンジョンズ＆ドラゴンズ』第三版の中核の仕組みに転用したほどである。
 
@@ -328,4 +328,4 @@ ISBN: 978-1-58978-251-8
 
 ---
 
-> *蒼穹を背に、青銅の鱗が閃く。その影は幾日ものあいだ我らの束の間の道連れであったが、いまや怪物めいたその生き物が我らの小さな一行へと降りてくる。我らのマギの目は秘儀の力に燃え、屈強なグロッグは剣を握りしめ、私は矢をつがえたまま構えている。遥かな山腹の高みに据えられた遠くのコヴナントが、我らの危うい旅路を見守り、眼下からは教会の鐘が警告を告げる。鞄に秘めた急ぎの使信を、日没までに届けねばならぬ。神話と魔法のこの地を行く我らの旅は、まだ始まったばかりだ。世俗の世界が伝説の抱擁へと溶けてゆくこの地を。*
+> *蒼穹を背に、青銅の鱗が閃く。その影は幾日ものあいだ我らの束の間の道連れであったが、いまや怪物めいたその生き物が我らの小さな一行へと降りてくる。我らのマギの目は秘術の力に燃え、屈強なグロッグは剣を握りしめ、私は矢をつがえたまま構えている。遥かな山腹の高みに据えられた遠くのコヴナントが、我らの危うい旅路を見守り、眼下からは教会の鐘が警告を告げる。鞄に秘めた急ぎの使信を、日没までに届けねばならぬ。神話と魔法のこの地を行く我らの旅は、まだ始まったばかりだ。世俗の世界が伝説の抱擁へと溶けてゆくこの地を。*

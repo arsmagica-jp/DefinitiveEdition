@@ -12,6 +12,7 @@
 - 個別の〈能力〉名の直後に類型名を重ねない。原文の "Craft Ability" "Penetration Ability" のような形も「〈工芸〉」「〈抵抗貫通力〉」とだけ書き、「〈工芸〉〈能力〉」とはしない。
 - 類型そのものを指す語も、術語として用いる場合は同じ括弧を付ける（Ability →〈能力〉、Virtue →《美点》、Flaw →《欠点》）。詳細は「類型名の括弧付け」を参照。
 - 書名の綴りは実際の書名に合わせる（『City & Guild』『Art & Academe』『Faith & Flame』『Between Sand & Sea』、Revised Edition はカンマなし）。原文にある揺れ（The Lion and The Lily など）は正しい綴りに直す。
+- arcane は「秘術」、mystery は「秘儀」と訳し分ける（秘術系〈能力〉・〈秘術知識〉・秘術の実験・秘術の発見／秘儀教団・秘儀導師・内なる秘儀・秘儀への参入）。ただし Arcane Connection は「魔導媒体」のままとする。
 - 他の書籍・サプリメントの題は『　』で示す（『Covenants』『Realms of Power: Magic』など）。*斜体* は呪文名と、索引の "see also" などに用いる。
 - 算用数字に添える符号は半角の + を用いる。
 - 見出しは原文の階層をそのまま保つ。表・引用ブロック・改行タグ（`<br>`）も原文どおり。
@@ -147,7 +148,7 @@
 | minstrel | 楽師 | Bard を「吟遊詩人」としたため、従来「吟遊詩人」を当てていた minstrel を改めた（第4章《トルバドゥール／トロバイリツ》、第14章の芸人の記述） |
 | Aneirin the Bard | 吟遊詩人アネイリン | 第13章のダイモーン。《吟遊詩人》の《美点》とは別だが、本文中の表記を揃えるため片仮名を改めた |
 | Laboratory | 研究室 | 「研究所」から統一。研究室合計値・研究室書巻なども同様 |
-| Arcane Abilities | 秘儀系〈能力〉 | 〈能力〉の類型 |
+| Arcane Abilities | 秘術系〈能力〉 | 〈能力〉の類型。「秘儀系」から変更 |
 | Academic Abilities | 学術系〈能力〉 | 〈能力〉の類型 |
 | Martial Abilities | 戦闘系〈能力〉 | 〈能力〉の類型 |
 | Supernatural Abilities | 超常系〈能力〉 | 〈能力〉の類型。《美点》の類型「超常」（*小、超常* 等）とは別で、そちらは据え置き |
@@ -193,7 +194,7 @@
 | Final Twilight | 終末の黄昏 |
 | Wizard's Twilight | 魔術師の黄昏 |
 | True Lineages | 真正の血統 |
-| Mystery Cults | 秘儀魔術団 |
+| Mystery Cults | 秘儀教団 | 組織名・〈（秘儀教団）知識〉とも同じ語。「秘儀魔術団」から統一 |
 | sigil | 印 |
 | pawn | ポーン |
 | casting tools | 詠唱道具 |
@@ -324,10 +325,10 @@
 | Deficiency | 苦手 | Deficient Technique/Form と対応 |
 | House Virtue | 流派《美点》 | |
 | apprentice's gauntlet | 徒弟のガントレット | |
-| Arcane Experimentation | 秘儀の実験 | |
+| Arcane Experimentation | 秘術の実験 | |
 | risk modifier | 危険修正 | |
 | Extraordinary Results Chart | 異常な結果表 | |
-| Arcane Discovery / Breakthrough | 秘儀の発見／突破 | |
+| Arcane Discovery / Breakthrough | 秘術の発見／突破 | |
 | breakthrough points | 突破点 | |
 | Minor / Major / Hermetic Breakthrough | 小突破／大突破／ヘルメス突破 | |
 | Integration / insight | 統合／洞察 | |
@@ -368,7 +369,7 @@
 | wards | 結界 | 索引準拠 |
 | static / dynamic target | 静的な目標／動的な目標 | 容器目標の二様式 |
 | Initiation / Ordeal | 参入儀礼／試練 | |
-| Mystagogue / Mystae | 秘儀導師／秘儀者 | |
+| Mystagogue / Mystae | 秘儀導師／秘儀者 | mystery は一貫して「秘儀」 |
 | Outer / Inner Mystery | 外なる秘儀／内なる秘儀 | |
 | tarnish / temper | 曇り／気風 | オーラの性質 |
 | stigmata | 聖痕 | |
@@ -377,7 +378,7 @@
 | famulus | ファムルス | 使い魔の悪魔 |
 | Divination | 占卜 | |
 | asterisked Ability | 星印付き〈能力〉 | 値0では使用不可 |
-| Arcane Connection | 魔導媒体 | 「秘儀的連鎖」から変更。射程・持続時間表・研究室での固定なども同じ |
+| Arcane Connection | 魔導媒体 | 「秘儀的連鎖」から変更。射程・持続時間表・研究室での固定なども同じ。arcane の一般訳「秘術」の例外 |
 | fixed Arcane Connection | 固定の魔導媒体 | |
 
 ### コヴナント
@@ -451,7 +452,7 @@
 | Nemthengacha / Nemthenga | ネヴサンガハ／ネヴサンガ | 雑集派の一派 |
 | Tempestaria / Tempestariae | テンペスタリア／テンペスタリアエ | 天候魔女 |
 | Beast Masters | 獣使い | 雑集派の伝統 |
-| Followers of Pendule | ペンデュルの徒 | メリニータの秘儀魔術団 |
+| Followers of Pendule | ペンデュルの徒 | メリニータの秘儀教団 |
 | Clan Ilfetu | イルフェトゥ氏族 | ビョルネール派 |
 | Columbae / Cult of Orpheus | コルンバエ／オルフェウス・カルト | 雑集派の伝統 |
 
@@ -812,7 +813,7 @@
 | saga | サーガ | 一つのコヴナントを中心とする連なる物語 |
 | Background Questions | 背景についての問い | |
 | House Rules | ハウスルール | |
-| canon | 正典 | 刊行された規則とサプリメントが定めるゲーム |
+| canon | 正典 | 刊行されたルールとサプリメントが定めるゲーム |
 | Saga Speed | サーガの速さ | |
 | Slow / Medium / Fast / Pulsed Saga | 緩やかな／中庸の／速い／脈打つサーガ | |
 | troupe-style roleplaying | トゥループ式のロールプレイ | |
@@ -874,7 +875,7 @@
 | ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法圏知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
-| 魔術団（Order of Hermes）／秘儀魔術団 | 魔法圏のクリーチャー／魔法のアイテム |
+| 魔術団（Order of Hermes）／秘儀教団 | 魔法圏のクリーチャー／魔法のアイテム |
 | 共感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
 | 魔術の工芸（magical craft） | 魔法的（magical）／魔法使い（wizard） |
 | 俗魔術（hedge magic）／民間魔術（folk magic） | — |
@@ -893,11 +894,11 @@ Ability・Virtue・Flaw は、個々の項目名だけでなく類型そのも�
 | Virtue | 《美点》 | 「この《美点》は男性のキャラクターしか選択できない」 |
 | Flaw | 《欠点》 | 「この《欠点》は複数回取得できる」 |
 
-**修飾語は括弧の外に置く。**類型を細分する修飾語（ヘルメス、超常、無償、大いなる、性格、物語、秘儀系ほか）は類型名の一部ではないため、括弧に含めない。
+**修飾語は括弧の外に置く。**類型を細分する修飾語（ヘルメス、超常、無償、大いなる、性格、物語、秘術系ほか）は類型名の一部ではないため、括弧に含めない。
 
 - ヘルメス《美点》、超常《美点》、無償の《美点》、社会階層の《美点》
 - 大いなる性格の《欠点》、物語の《欠点》
-- 秘儀系〈能力〉、学術系〈能力〉、戦闘系〈能力〉、超常系〈能力〉、一般〈能力〉
+- 秘術系〈能力〉、学術系〈能力〉、戦闘系〈能力〉、超常系〈能力〉、一般〈能力〉
 
 個別の項目名に修飾語が含まれる場合（《怒りっぽい（小）》、〈地域知識（川筋）〉）は従来どおり括弧の内側に入れる。両者は別の規則である。
 
