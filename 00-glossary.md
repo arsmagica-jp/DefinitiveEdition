@@ -546,7 +546,7 @@
 | trained / untrained group | 訓練された集団／訓練されていない集団 | |
 | shield grog | 盾持ちグロッグ | マギを護るグロッグ |
 | Disengaging | 離脱 | 戦闘の選択肢 |
-| Exertion | 力の振り絞り | 疲労レベルを費やして加算 |
+| Exertion | 全力 | 疲労レベルを費やして加算 |
 | grappling / scuffling | 組みつき／小競り合い | 非致死の戦闘の二形態 |
 | Grapple Strength | 組みつきの強さ | |
 | Splitting Groups | 集団を分断する | |

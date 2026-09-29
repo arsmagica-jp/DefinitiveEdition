@@ -2109,7 +2109,7 @@
 | Ex Miscellanea, House（雑集派） | [14](02-the-order-of-hermes.md#雑集派), [243–244](07-hermetic-magic.md#雑集派の伝統) |
 | Exciting Experimentation (Flaw)（《刺激的な実験》） | [127](04-virtues-and-flaws.md#刺激的な実験exciting-experimentation) |
 | Excommunicate (Flaw)（《破門者》） | [128](04-virtues-and-flaws.md#破門者excommunicate) |
-| Exertion（力の振り絞り） | [397](11-obstacles.md#力の振り絞り) |
+| Exertion（全力） | [397](11-obstacles.md#全力) |
 | Exiled Atlantean (Flaw)（《追放されたアトランティス人》） | [128](04-virtues-and-flaws.md#追放されたアトランティス人exiled-atlantean) |
 | Exorcist（祓魔師） | [500](14-mythic-europe.md#秘蹟) |
 | Exotic Casting (Virtue)（《独特の魔術行使》） | [78](04-virtues-and-flaws.md#独特の魔術行使exotic-casting) |
