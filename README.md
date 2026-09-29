@@ -11,4 +11,4 @@ Definitive Edition の翻訳リポジトリです。
 
 ## ライセンス
 
-*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示−継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。*
+*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示-継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。*

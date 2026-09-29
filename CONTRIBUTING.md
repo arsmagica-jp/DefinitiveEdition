@@ -143,6 +143,6 @@ push すると GitHub 上に「Compare & pull request」のボタンが出ます
 
 本翻訳は、CC BY-SA 4.0 のもとで公開されている原文にもとづくものです。
 
-*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示−継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。*
+*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示-継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。*
 
 ご提出いただいた修正も、同じ CC BY-SA 4.0 のもとで公開されます。提出をもってこれに同意いただいたものとします。

@@ -10,7 +10,7 @@
 
 *Markdownでの読みやすさのため、本文中の大文字だけの見出し（原版ではそれに適した書体が用いられていた）は、シカゴ・マニュアル方式のタイトルケース見出しに置き換えた（呪文のレベルを示す見出しを除く）。*
 
-*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示−継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。Order of Hermes、Tremere、Doissetep、Grimgroth は Paradox Interactive AB の商標であり、許諾を得て使用している。*
+*本書は『アルス・マギカ』の素材に基づく。©1993–2024、Trident, Inc. d/b/a Atlas Games® により[クリエイティブ・コモンズ 表示-継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)（「CC-BY-SA 4.0」）のもとで許諾されている。Order of Hermes、Tremere、Doissetep、Grimgroth は Paradox Interactive AB の商標であり、許諾を得て使用している。*
 
 ### Markdown版の便利リンク
 

@@ -113,7 +113,7 @@
 | Bound to (Realm) | 《（圏域）の呪縛》 | 「《（領域）に縛られる》」から統一。《（役目）の呪縛》と対になる |
 | Bound to (Role) | 《（役目）の呪縛》 | 「《（役割）に縛られる》」から変更。role は錠前師・見張り番・御者といった務めを指し、器具や場所はその務めを果たす道具。原文最終段落の Role-Bound characters が正式な呼称。「役割」は物語上の位置づけの意味で本訳の別箇所に多用されるため「役目」とした。原文の見出し `Bound to (Role) Role` は Role が重複した誤り |
 | Blatant Gift / Blatant Magical Air | 《不快な天禀》／《不快な魔法の妖気》 | 「《露骨な天禀》」「《露骨な魔法の妖気》」から変更。原語が同じ Blatant なので対で揃える |
-| Afflicted Tongue | 《縺れる舌》 | 「《舌禍》」から変更。原文は a speech impediment, such as a lisp, stutter, or missing teeth で、失言の意味ではない。話せなくなる《唖》（Mute）とは別で、こちらは−2のペナルティにとどまる |
+| Afflicted Tongue | 《縺れる舌》 | 「《舌禍》」から変更。原文は a speech impediment, such as a lisp, stutter, or missing teeth で、失言の意味ではない。話せなくなる《唖》（Mute）とは別で、こちらは-2のペナルティにとどまる |
 | Venditor | 《ウェルディーティウス派仲買人》 | 「《ウェンディトル》」から変更。原文は a selling-agent for a Verditius maga |
 | Subtle Magic | 《動作なき魔術》 | 「《無身振りの魔術》」から統一。《無音の魔術》（Quiet Magic）と対になる |
 | Senior Master | 《有力な親方》 | 「《上級親方》」から統一。第6章のギルドの階梯の記述にある普通名詞の senior master も揃えた |
@@ -844,7 +844,7 @@
 | Line Editor | ライン・エディター | 製品群の統括編集者 |
 | errata | 正誤情報 | |
 | Ars Magica Open License | 『アルス・マギカ』オープン・ライセンス | |
-| CC BY-SA 4.0 | クリエイティブ・コモンズ 表示−継承 4.0 国際 | 表示（Attribution）／継承（ShareAlike） |
+| CC BY-SA 4.0 | クリエイティブ・コモンズ 表示-継承 4.0 国際 | 表示（Attribution）／継承（ShareAlike） |
 | Fourth Edition Conversion | 第四版からの移行 | |
 | Societates | ソキエタス | 関心を同じくするマギの集まり。既出（第3章の流派表） |
 | Twilight Points | 黄昏点 | 第四版の値。÷3 で歪曲度に換算 |
