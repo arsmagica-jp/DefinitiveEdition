@@ -210,7 +210,7 @@
 | wound penalties | 負傷ペナルティ |
 | decrepitude | 老衰 |
 | warping score | 歪曲度 |
-| Encumbrance | 荷重 |
+| Encumbrance | 運搬負荷 |
 | Confidence | 自信 |
 | Personality Traits | 性格 |
 | Reputations | 評判 |
@@ -240,12 +240,12 @@
 | Archmagus / Archmaga | 大マギ | |
 | Cunning | 【狡知】 | 動物の【知性】に代わる特性値 |
 | True Names | 真名 | |
-| Light / Medium / Heavy / Incapacitating / Deadly Wound | 軽傷／中傷／重傷／行動不能の傷／致命傷 | |
-| Dazed / Winded / Tired | 朦朧／息切れ／疲労 | 疲労レベルの段階 |
+| Light / Medium / Heavy / Incapacitating / Deadly Wound | 軽傷／中傷／重傷／瀕死の傷／致命傷 | |
+| Dazed / Winded / Tired | 疲労困憊／軽疲労／重疲労 | 疲労レベルの段階 |
 | short-term / long-term Fatigue | 短期疲労／長期疲労 | |
 | Dodge | 回避 | |
 | Initiative | イニシアチブ | |
-| Encumbrance / Burden / Load | 荷重／積載量／積載値 | 荷重＝最終的なペナルティ、積載量＝携行総量、積載値＝品ごとの寄与 |
+| Encumbrance / Burden / Load | 運搬負荷／運搬総量／荷重値 | 運搬負荷＝最終的なペナルティ、運搬総量＝携行総量、荷重値＝品ごとの寄与 |
 | Protection | 防護 | 鎧の指標 |
 | Impact damage | 衝撃ダメージ | |
 | debilitation check | 衰弱の判定 | |
@@ -553,7 +553,7 @@
 | sap | 打撲棒 | 鉛を詰めた革袋 |
 | range increment | 距離の刻み | 第7章から継続 |
 | walk / hurry / run | 歩き／急ぎ／走り | 戦闘中の移動速度 |
-| Fresh / Winded / Weary / Tired / Dazed / Unconscious | 爽快／息切れ／気だるさ／疲労／朦朧／意識喪失 | 疲労レベルの六段階 |
+| Fresh / Winded / Weary / Tired / Dazed / Unconscious | 爽快／息切れ／軽疲労／重疲労／疲労困憊／意識喪失 | 疲労レベルの六段階 |
 | Stable / Improvement Ease Factor | 安定目標値／改善目標値 | 回復のロール |
 | Recovery Total | 回復合計値 | |
 | Debilitation / Deprivation | 衰弱／欠乏 | |
