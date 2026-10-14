@@ -54,11 +54,11 @@
 | Warping | 歪曲 |
 | laboratory | 研究室 |
 | the Church | 教会 |
-| the Divine | 聖なる力 |
-| the Infernal | 地獄 |
-| Faerie | 妖精 |
-| realm | 圏域 | 「領域」から変更。圏域を並べて呼ぶときの短い名は「聖なる力・妖精・地獄・魔法」（Magic を「魔術」としていた箇所を改めた）。〈（圏域）知識〉のうち Magic Lore は〈魔法圏知識〉（「〈魔法界知識〉」から変更）、Dominion Lore・Infernal Lore も〈神聖圏知識〉〈地獄圏知識〉とした（「〈神聖界知識〉」「〈地獄界知識〉」から変更）。Faerie Lore も〈妖精圏知識〉とし（「〈妖精知識〉」から変更）、圏域の知識4つを揃えた。第12・13章の小見出しは 魔法圏／妖精圏／地獄圏のクリーチャー。個別の圏域は 魔法圏（Magic realm）／妖精圏（Faerie realm）／地獄圏（Infernal realm）／神聖圏（Divine realm）。「知識の領域」「研究領域」「支配下の領域」など realm 以外の一般語の「領域」は据え置き |
-| Magic（圏域） | 魔法（魔法圏） | 圏域なので「魔法」 |
+| the Divine | 神聖圏 |
+| the Infernal | 地獄圏 |
+| Faerie | 妖精圏 |
+| realm | 圏域 | 「領域」から変更。4つの圏域を並べて呼ぶときも「神聖圏・妖精圏・地獄圏・魔法圏」と4つとも「〜圏」を付ける（「聖なる力・妖精・地獄・魔術」→「聖なる力・妖精・地獄・魔法」→現在の形と二段階で改めた）。〈（圏域）知識〉のうち Magic Lore は〈魔法圏知識〉（「〈魔法界知識〉」から変更）、Dominion Lore・Infernal Lore も〈神聖圏知識〉〈地獄圏知識〉とした（「〈神聖界知識〉」「〈地獄界知識〉」から変更）。Faerie Lore も〈妖精圏知識〉とし（「〈妖精知識〉」から変更）、圏域の知識4つを揃えた。第12・13章の小見出しは 魔法圏／妖精圏／地獄圏のクリーチャー。個別の圏域は 魔法圏（Magic realm）／妖精圏（Faerie realm）／地獄圏（Infernal realm）／神聖圏（Divine realm）。2つ・3つだけ並べる場合も同様に「〜圏」を付ける（「神聖圏や地獄圏」「妖精圏・地獄圏」など）。Divine Power・Faerie Power などの「力」は「神聖圏の力」「妖精圏の力」とし、圏域相互作用表の列名も「魔法圏の力／神聖圏の力／妖精圏の力／地獄圏の力」、行名を「魔法圏／神聖圏／妖精圏／地獄圏」に揃えた（第12章と第18章で表記が食い違っていたのを統一）。ただし形容詞的な用法（「神聖の介入」「神聖の癒し」「地獄の嘘」「妖精の森」など、原文が小文字の infernal・形容詞の divine）と、実力値の名（聖なる実力値・地獄の実力値・妖精の実力値・魔法の実力値）、Dominion の訳語「聖堂圏」、Hell の訳語「地獄」は据え置き。「知識の領域」「研究領域」「支配下の領域」など realm 以外の一般語の「領域」も据え置き |
+| Magic（圏域） | 魔法圏 | 圏域を指すときは「魔法圏」。「魔術」とはしない |
 | Realms of Power | 力の圏域 |
 | realm aura | 圏域のオーラ |
 | creature | クリーチャー |
@@ -70,7 +70,7 @@
 | 原語 | 訳語 |
 | --- | --- |
 | storyguide | ストーリーガイド |
-| troupe / troupe-style roleplaying | トゥループ／トゥループ・スタイル・ロールプレイング |
+| troupe / troupe-style roleplaying | トループ／トループ・スタイル・ロールプレイング | 「トゥループ」から変更。表記は全文「トループ」に統一（第16章の見出し「トループ式のロールプレイ」「純粋なトループ式」と第18章索引のリンク先も含む） |
 | saga | サーガ |
 | story | 物語 |
 | Characteristic | 特性値 |
@@ -190,7 +190,7 @@
 | Wizard's March | 魔術師の行軍 |
 | Renouncing | 追放 |
 | regio (pl. regiones) | レギオー |
-| Dominion | 神聖領 |
+| Dominion | 聖堂圏 |
 | Final Twilight | 終末の黄昏 |
 | Wizard's Twilight | 魔術師の黄昏 |
 | True Lineages | 真正の血統 |
@@ -572,7 +572,7 @@
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
 | belonging to / alignment (affiliation) | 属する／連なる（沿う） | 圏域との結びつきの二段階 |
-| preternatural realm | 準自然の圏域 | 神学者の三分法。魔法・妖精・地獄 |
+| preternatural realm | 準自然の圏域 | 神学者の三分法。魔法圏・妖精圏・地獄圏 |
 | Realm Interaction Table | 圏域相互作用表 | 索引準拠の「領域」を「圏域」に改めた |
 | beasts of virtue | 有徳の獣 | 索引準拠 |
 | Vitality | 生気 | 妖精が物語から得る力 |
@@ -688,11 +688,11 @@
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| Pretenses | 擬態能力 | 妖精が〈能力〉を模倣する技能。一般語の複合語として括弧を付けない |
-| glamour | 幻惑 | 妖精の身体・装備を成す魔法の規則 |
+| Pretenses | 模擬能力 | 妖精が〈能力〉を模倣する技能。「擬態能力」から変更。一般語の複合語として括弧を付けない |
+| glamour | 幻法 | 妖精の身体・装備を成す魔法の規則 |
 | Cognizance | 自覚 | |
 | Highly / Narrowly Cognizant / Incognizant | 《高い自覚》／《限られた自覚》／《無自覚》 | |
-| Faerie Sight / Faerie Speech | 《妖精の視覚》／《妖精の言葉》 | |
+| Faerie Sight / Faerie Speech | 《妖精の視覚》／《妖精の会話》 | |
 | Traditional Ward / Sovereign Ward | 《伝統の結界》／《至上の結界》 | 前者は禁忌、後者は絶対の禁忌 |
 | Faerie Might | 妖精の実力値 | |
 
@@ -705,12 +705,12 @@
 | Envisioning | 幻視の付与 | 天使も同名の力を持つ |
 | Possession / energumen | 憑依／エネルグメン | 憑かれた者 |
 | Possession Might Pool | 憑依の実力値の蓄え | |
-| Abhorrent Material/Circumstance | 忌まわしい物質／状況 | 弱みの一種 |
-| Compulsiveness / Ordering | 数え癖／秩序 | 弱みの一種 |
-| Protected Group / Running Water / Vulnerability | 守られた集団／流れる水／脆さ | 弱みの一種 |
+| Abhorrent Material/Circumstance | 忌まわしい物質／状況 | 弱点の一種 |
+| Compulsiveness / Ordering | 数え癖／秩序 | 弱点の一種 |
+| Protected Group / Running Water / Vulnerability | 守られた集団／流れる水／脆さ | 弱点の一種 |
 | Corrupt Beast | 穢れた獣 | 《欠点》名としては《穢れた獣》 |
 | Greater / Lesser Infernal Power | 《大いなる地獄の力》／《小なる地獄の力》 | 穢れた獣専用の《美点》 |
-| Horrifying Appearance / Demonic Weakness | 《怖ろしき外見》／《悪魔の弱み》 | 穢れた獣専用の《欠点》 |
+| Horrifying Appearance / Demonic Weakness | 《怖ろしき外見》／《悪魔の弱点》 | 穢れた獣専用の《欠点》 |
 | vis prava | ウィース・プラウァ（穢れたウィース） | |
 | Goetic Art of Binding | ゴエティアの術「結縛」 | |
 
@@ -816,13 +816,13 @@
 | canon | 正典 | 刊行されたルールとサプリメントが定めるゲーム |
 | Saga Speed | サーガの速さ | |
 | Slow / Medium / Fast / Pulsed Saga | 緩やかな／中庸の／速い／脈打つサーガ | |
-| troupe-style roleplaying | トゥループ式のロールプレイ | |
+| troupe-style roleplaying | トループ式のロールプレイ | |
 | Alternative Characters | 交代のキャラクター | 各自が複数持ち、一回に一人だけ演じる |
 | Pooled Characters | 共有キャラクター | 誰でも演じられるグロッグ・端役の持ち寄り |
 | bit-parts | 端役 | |
 | Guest Storyguiding | 客演のストーリーガイド | |
 | Alpha / Beta Storyguide | アルファ／ベータ・ストーリーガイド | |
-| Pure Troupe Style | 純粋なトゥループ式 | |
+| Pure Troupe Style | 純粋なトループ式 | |
 | Researching a Setting | 舞台を調べる | |
 | Saga Styles | サーガの型 | |
 | High Fantasy | ハイ・ファンタジー | |
@@ -870,7 +870,7 @@
 | → 魔術（技法） | → 魔法（性質・圏域） |
 | --- | --- |
 | ヘルメス魔術（Hermetic Magic） | 魔法圏（Magic Realm） |
-| 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法のオーラ（Magic Aura） |
+| 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法圏のオーラ（Magic Aura） |
 | 妖精魔術／所作魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
 | ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法圏知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
@@ -904,7 +904,7 @@ Ability・Virtue・Flaw は、個々の項目名だけでなく類型そのも�
 
 **括弧を付けない場合。**「能力」は一般語としても用いられるため、以下は素のままとする。
 
-- 語を成す複合語：変身能力、擬態能力、特殊能力、言語能力、演技能力、潜在能力、運動能力、発声能力、呪付能力、戦闘能力（「戦闘系〈能力〉」とは別語）、社交能力（「社交系〈能力〉」とは別語）
+- 語を成す複合語：変身能力、模擬能力、特殊能力、言語能力、演技能力、潜在能力、運動能力、発声能力、呪付能力、戦闘能力（「戦闘系〈能力〉」とは別語）、社交能力（「社交系〈能力〉」とは別語）
 - 「〜する能力」が能力値ではなく素質・可能性を指す場合：「荷を運ぶ能力」「学ぶ能力は【知性】が表すものではない」「魔法を行使する能力」（天禀の説明）
 - 第5章の各〈能力〉の語釈文：「水中を速く効率よく進む能力。」のように、その〈能力〉が何を指すかを平叙文で説明している箇所
 

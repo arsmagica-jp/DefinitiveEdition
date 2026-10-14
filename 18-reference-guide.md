@@ -128,7 +128,7 @@
 
 | 感じ取るもの | 目標値 |
 |---------|-------------|
-| 魔法のオーラ | 12-オーラの値 |
+| 魔法圏のオーラ | 12-オーラの値 |
 | 呪文 | 21-効果の階級 |
 | 呪付物 | 21-最も強力な効果の階級 |
 | 魔法圏のクリーチャー | 15-魔法の実力値の5分の1 |
@@ -561,12 +561,12 @@
 
 #### 圏域相互作用表
 
-| オーラの種類 | 魔法の力 | 神聖の力 | 妖精の力 | 地獄の力 |
+| オーラの種類 | 魔法圏の力 | 神聖圏の力 | 妖精圏の力 | 地獄圏の力 |
 |-----------|-------------|--------------|--------------|----------------|
-| 魔法 | +オーラ | 影響なし | +（オーラ÷2） | -オーラ |
-| 神聖 | -（3×オーラ） | +オーラ | -（4×オーラ） | -（5×オーラ） |
-| 妖精 | +（オーラ÷2） | 影響なし | +オーラ | -オーラ |
-| 地獄 | -オーラ | 影響なし | -（2×オーラ） | +オーラ |
+| 魔法圏 | +オーラ | 影響なし | +（オーラ÷2） | -オーラ |
+| 神聖圏 | -（3×オーラ） | +オーラ | -（4×オーラ） | -（5×オーラ） |
+| 妖精圏 | +（オーラ÷2） | 影響なし | +オーラ | -オーラ |
+| 地獄圏 | -オーラ | 影響なし | -（2×オーラ） | +オーラ |
 
 異質なオーラの内では、オーラの値1につきボッチ・ダイス+1個（倍にはしない）。
 
@@ -941,11 +941,11 @@
 | 11 | 効果の変質 |
 | 12以上 | この表でさらに2回振る。 |
 
-**大失敗：**惨めに失敗する。ボッチ・ダイスで出た零の数に応じて下の表を参照する。明示的に別段の指示がないかぎり、出た数とそれ以下のすべての結果を受ける。たとえば爆発（3）は創作物をも破壊し、マギに歪曲点を与える。
+**大失敗：**惨めに失敗する。ボッチ・ダイスで出た0の数に応じて下の表を参照する。明示的に別段の指示がないかぎり、出た数とそれ以下のすべての結果を受ける。たとえば爆発（3）は創作物をも破壊し、マギに歪曲点を与える。
 
-| 零の数 | 結果 |
+| 0の数 | 結果 |
 |--------|--------|
-| 1 | 研究室にいる全員が、ボッチのロールで出た零の数に等しい歪曲点を得る。ヘルメスのマギ（およびヘルメスの術法を開かれた者すべて）は、2点以上得たなら黄昏のロールを行わねばならない。その季節は完全に無駄になる。マギが黄昏に抗わないことを選べば、効果が生じる前に黄昏へ入り、自身への損傷をすべて免れる。 |
+| 1 | 研究室にいる全員が、ボッチのロールで出た0の数に等しい歪曲点を得る。ヘルメスのマギ（およびヘルメスの術法を開かれた者すべて）は、2点以上得たなら黄昏のロールを行わねばならない。その季節は完全に無駄になる。マギが黄昏に抗わないことを選べば、効果が生じる前に黄昏へ入り、自身への損傷をすべて免れる。 |
 | 2 | 創作物が破壊される。1季節の作業であれば、これは完全な失敗と同じである。 |
 | 3 | 研究室が《損傷》の《欠点》を得る。 |
 | 4 | 爆発。研究室が（《損傷》の代わりに）《大破》の《欠点》を得、研究室にいた者は全員が重傷を2つ負う。 |
@@ -973,8 +973,8 @@
 **特別な出来事または物語の出来事：**ストーリーガイドが以下から1つ選ぶ。
 
 - その創作物は追加の未加工のウィースを要する。マギは、その作業の技法または形相に合致するウィースを、（修正を含む）効果の階級+危険度の修正に等しいポーン数だけ追加で費やさねばならない。ウィースを持たないか、1季節にそれだけのウィースを扱えないかしてこれができない場合は、完全な失敗として扱う。
-- マギはその作業と同じ技法と形相の呪文をも作り出す。レベルは1季節で作りうる範囲の任意のものでよい。その呪文はストーリーガイドかトゥループが設計し、その作業と明白な繋がりを持つ必要はない。マギはそれを習得しており、通常どおり研究書巻を書き上げて他のマギにも作らせることができる。この呪文がヘルメス魔術のすべてのルールに従っていれば話は単純だが、トゥループが煩雑さを厭わないのであれば必須ではない。主たる作業については特別な効果なしとして扱う。
-- その創作物が何らかの形で変質する。それは必ずしも副次効果や効果の変質の区分に当てはまらないが、望むならそうしてもよい。これによりストーリーガイドはあらゆる種類の超常の効果を持ち込める――その創作物が別の圏域から強く影響を受けることさえありうる。結果はマギの視点から見て良いものでも悪いものでもよいが、トゥループにとって興味深いものであるべきである。
+- マギはその作業と同じ技法と形相の呪文をも作り出す。レベルは1季節で作りうる範囲の任意のものでよい。その呪文はストーリーガイドかトループが設計し、その作業と明白な繋がりを持つ必要はない。マギはそれを習得しており、通常どおり研究書巻を書き上げて他のマギにも作らせることができる。この呪文がヘルメス魔術のすべてのルールに従っていれば話は単純だが、トループが煩雑さを厭わないのであれば必須ではない。主たる作業については特別な効果なしとして扱う。
+- その創作物が何らかの形で変質する。それは必ずしも副次効果や効果の変質の区分に当てはまらないが、望むならそうしてもよい。これによりストーリーガイドはあらゆる種類の超常の効果を持ち込める――その創作物が別の圏域から強く影響を受けることさえありうる。結果はマギの視点から見て良いものでも悪いものでもよいが、トループにとって興味深いものであるべきである。
 - 物語の出来事が起こる。これは何でもよく、大きな筋書きを導入する機会としても、短く愉快な寄り道としても用いうる。直ちに起こる必要はない。制御を失った魔術が何かを動かし始めるのかもしれないし、しばらく後にその創作物を特定の状況で用いた結果かもしれない。この物語の出来事は基本的に良いものでもありうる。たとえばマギが使い魔の候補の注意を引くかもしれない。その物語の出来事が別段の必要を生じないかぎり、作業そのものについては特別な効果なしとして扱う。
 
 **発見：**単純ダイスを振り、危険度の修正を加える。秘術の発見（『ArMD』 [277ページ](08-laboratory.md#突破)参照）に取り組んでいるのであれば、その作業を進める発見を得、この表は無視する。
@@ -1105,7 +1105,7 @@
 | 19 | 190 | 19 | 950 | 95 |
 | 20 | 210 | 20 | 1050 | 100 |
 
-**0から：**値を零からその数まで上げるのに必要な経験点の数。
+**0から：**値を0からその数まで上げるのに必要な経験点の数。
 
 **1段階：**値を1点上げてその数にするのに必要な経験点の数。
 
@@ -1133,7 +1133,7 @@
 
 **訓練の獲得限界：**教える〈能力〉における師の値
 
-**礼拝の学習品質：**その教会の神聖のオーラ
+**礼拝の学習品質：**その教会の神聖圏のオーラ
 
 **教授の学習品質：**教師の【交渉】+〈教授〉+3+加算
 
@@ -1616,7 +1616,7 @@
 | 大レジ | 妖精 | ヘルバーム | 40 | [473](13-bestiary.md#大レジ) |
 | 巨人グドルティ＝コム | 魔法 | アウラーム | 40 | [447](13-bestiary.md#巨人グドルティコム) |
 | 乳母ヒプタ | 魔法 | アニマール | 15 | [447](13-bestiary.md#乳母ヒプタ) |
-| ドノス（ホノス） | 魔法 | コルプース | 30 | [448](13-bestiary.md#ドノス) |
+| ドノス（ホノス） | 魔法 | コルプース | 30 | [448](13-bestiary.md#ホノス) |
 | 馬、コーサー（Equus） | 獣 | — | — | [432](13-bestiary.md#馬コーサーequus) |
 | 馬、デストリア（Equus） | 獣 | — | — | [433](13-bestiary.md#馬デストリアequus) |
 | 猟犬（カニス、Canis） | 獣 | — | — | [433](13-bestiary.md#猟犬カニスcanis) |
@@ -1745,7 +1745,7 @@
 | Attack Total（攻撃合計値） | [393](11-obstacles.md#戦闘値) |
 | Auctores（アウクトーレス） | [158](05-abilities.md#学術系能力) |
 | Auram (Art)（アウラーム／風） | [209](07-hermetic-magic.md#アウラームau風), [325](09-spells.md#アウラームの呪文) |
-| Auras（オーラ） | [410](12-realms.md#圏域のオーラ), [413](12-realms.md#魔法のオーラ) |
+| Auras（オーラ） | [410](12-realms.md#圏域のオーラ), [413](12-realms.md#魔法圏のオーラ) |
 | Autumn（秋） | [175](06-covenants.md#秋) |
 | Autumn Power（秋の力） | [177](06-covenants.md#秋の権勢) |
 | Autumnus（秋） | [176](06-covenants.md#アウトゥムヌス) |
@@ -1764,9 +1764,9 @@
 | &nbsp;&nbsp;Aging（老化） | [440](13-bestiary.md#老い) |
 | &nbsp;&nbsp;Creating（作る） | [436](13-bestiary.md#世俗の獣を作る) |
 | &nbsp;&nbsp;Non-Standard Size（標準外の大きさ） | [437](13-bestiary.md#標準外のサイズの生き物) |
-| &nbsp;&nbsp;Mental Characteristics（精神特性値） | [436](13-bestiary.md#二特性値) |
+| &nbsp;&nbsp;Mental Characteristics（精神特性値） | [436](13-bestiary.md#2-特性値) |
 | &nbsp;&nbsp;Natural Weapons Table（生来の武器表） | [440](13-bestiary.md#生来の武器表) |
-| &nbsp;&nbsp;Physical Characteristics（肉体特性値） | [437](13-bestiary.md#二特性値) |
+| &nbsp;&nbsp;Physical Characteristics（肉体特性値） | [437](13-bestiary.md#2-特性値) |
 | &nbsp;&nbsp;*see also [Animals](13-bestiary.md#世俗の獣)* |  |
 | Beasts of Virtue（有徳の獣） | [413](02-the-order-of-hermes.md#魔法圏のクリーチャー) |
 | Bee King (Virtue)（《蜂の王》） | [72](04-virtues-and-flaws.md#蜂の王bee-king) |
@@ -1949,10 +1949,10 @@
 | &nbsp;&nbsp;Creating（作る） | [428](13-bestiary.md#クリーチャーを作る) |
 | &nbsp;&nbsp;Format（書式） | [426–427](13-bestiary.md#クリーチャーの書式) |
 | &nbsp;&nbsp;Might（実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| &nbsp;&nbsp;of the Divine（神聖の） | [488–492](13-bestiary.md#神聖圏のクリーチャー) |
-| &nbsp;&nbsp;of Faerie（妖精の） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
-| &nbsp;&nbsp;of the Infernal（地獄の） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
-| &nbsp;&nbsp;of Magic（魔法の） | [442–466](13-bestiary.md#魔法圏のクリーチャー) |
+| &nbsp;&nbsp;of the Divine（神聖圏の） | [488–492](13-bestiary.md#神聖圏のクリーチャー) |
+| &nbsp;&nbsp;of Faerie（妖精圏の） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
+| &nbsp;&nbsp;of the Infernal（地獄圏の） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
+| &nbsp;&nbsp;of Magic（魔法圏の） | [442–466](13-bestiary.md#魔法圏のクリーチャー) |
 | &nbsp;&nbsp;Powers（力） | [426](13-bestiary.md#クリーチャーパワー) |
 | &nbsp;&nbsp;Size Examples（サイズの例） | [427](13-bestiary.md#サイズの例) |
 | Creo (Art)（クレオー／創造） | [207](07-hermetic-magic.md#クレオーcr我創る) |
@@ -2028,19 +2028,19 @@
 | Disorientating Magic (Flaw)（《目眩を引き起こす魔術行使》） | [126](04-virtues-and-flaws.md#目眩を引き起こす魔術行使disorientating-magic) |
 | Distractions（気晴らし／妨害） | [379](10-long-term-events.md#妨げ) |
 | &nbsp;&nbsp;From Lab Work（研究室の作業からの） | [265](08-laboratory.md#研究室作業の妨げ) |
-| Divine Aura（聖なるオーラ） | [418](12-realms.md#聖なる力のオーラ) |
+| Divine Aura（聖なるオーラ） | [418](12-realms.md#神聖圏のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Divine Creatures（神聖圏のクリーチャー） | [488–492](13-bestiary.md#神聖圏のクリーチャー) |
 | &nbsp;&nbsp;Powers（力） | [489](13-bestiary.md#天使の力) |
 | Divine Might（聖なる実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| Divine, Limit of the（神聖の限界） | [210](07-hermetic-magic.md#聖なる力の限界) |
-| Divine, The（聖なる力） | [6](01-introduction.md#用語集), [418–420](12-realms.md#神聖圏) |
+| Divine, Limit of the（神聖圏の限界） | [210](07-hermetic-magic.md#神聖圏の限界) |
+| Divine, The（神聖圏） | [6](01-introduction.md#用語集), [418–420](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Church, The* |  |
 | Doctor in (Faculty) (Virtue)（（学部）博士） | [76](04-virtues-and-flaws.md#学部博士doctor-in-faculty) |
 | Doctrine（教義） | [498](14-mythic-europe.md#教義) |
 | Dodge（回避） | [401](11-obstacles.md#格闘の武器) |
 | Domestic Animal (Virtue)（《家畜》） | [77](04-virtues-and-flaws.md#家畜domestic-animal) |
-| Dominion（神聖領） | [418](12-realms.md#神聖圏) |
+| Dominion（聖堂圏） | [418](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Dominion Lore (Ability)（〈神聖圏知識〉） | [164](05-abilities.md#神聖圏知識dominion-lore) |
 | Doorkeeper（守衛） | [500](14-mythic-europe.md#秘蹟) |
@@ -2128,8 +2128,8 @@
 | Eye of Hephaestus (Virtue)（《ヘパイストスの眼》） | [78](04-virtues-and-flaws.md#ヘパイストスの眼eye-of-hephaestus) |
 | Fabric Ripper (Virtue)（《布裂き》） | [79](04-virtues-and-flaws.md#布裂きfabric-ripper) |
 | Factor (Virtue)（《番頭》） | [79](04-virtues-and-flaws.md#番頭factor) |
-| Faerie（妖精） | [6](01-introduction.md#用語集), [416–418](12-realms.md#妖精圏) |
-| Faerie Aura（妖精のオーラ） | [416](12-realms.md#妖精のオーラ) |
+| Faerie（妖精圏） | [6](01-introduction.md#用語集), [416–418](12-realms.md#妖精圏) |
+| Faerie Aura（妖精圏のオーラ） | [416](12-realms.md#妖精圏のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
 | Faerie Creatures（妖精圏のクリーチャー） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
@@ -2370,7 +2370,7 @@
 | Ineslemen (Virtue)（《イネスレメン》） | [86](04-virtues-and-flaws.md#イネスレメンineslemen) |
 | Infamous (Flaw)（《悪名高い》） | [134](04-virtues-and-flaws.md#悪名高いinfamous) |
 | Infamous Master (Flaw)（《悪名高い師》） | [134](04-virtues-and-flaws.md#悪名高い師infamous-master) |
-| Infernal Aura（地獄のオーラ） | [415](12-realms.md#地獄のオーラ) |
+| Infernal Aura（地獄圏のオーラ） | [415](12-realms.md#地獄圏のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Infernal Creatures（地獄圏のクリーチャー） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
 | &nbsp;&nbsp;Auras & Regiones（オーラとレギオー） | [479](13-bestiary.md#悪魔オーラレギオー) |
@@ -2380,11 +2380,11 @@
 | &nbsp;&nbsp;and Magic（と魔術） | [477](13-bestiary.md#悪魔と魔術) |
 | &nbsp;&nbsp;Powers（力） | [475](04-virtues-and-flaws.md#悪魔の力demonic-powers) |
 | &nbsp;&nbsp;Religious Limitations（宗教上の制約） | [478](13-bestiary.md#悪魔への宗教上の制約) |
-| &nbsp;&nbsp;Weaknesses（弱み） | [477](13-bestiary.md#悪魔の弱み) |
+| &nbsp;&nbsp;Weaknesses（弱点） | [477](13-bestiary.md#悪魔の弱点) |
 | Infernal Heirloom (Virtue)（《地獄の家宝》） | [86](04-virtues-and-flaws.md#地獄の家宝infernal-heirloom) |
 | Infernal Lore (Ability)（〈地獄圏知識〉） | [167](05-abilities.md#地獄圏知識infernal-lore) |
 | Infernal, Limit of The（地獄の限界） | [211](07-hermetic-magic.md#地獄の限界) |
-| Infernal, The（地獄） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄圏) |
+| Infernal, The（地獄圏） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄圏) |
 | &nbsp;&nbsp;*see also Demons* |  |
 | Inheritance（遺産） | [508](14-mythic-europe.md#相続) |
 | Initiative Ties（イニシアチブの同値） | [394](11-obstacles.md#イニシアチブの同値) |
@@ -2413,7 +2413,7 @@
 | Javelin（ジャベリン） | [402](11-obstacles.md#飛び道具) |
 | Jerbiton (Template)（イェルビトン（テンプレート）） | [40](03-characters.md#イェルビトン) |
 | Jerbiton, House（イェルビトン派） | [15](02-the-order-of-hermes.md#イェルビトン派) |
-| Jerusalem（エルサレム） | [419](12-realms.md#聖なる力のオーラの源) |
+| Jerusalem（エルサレム） | [419](12-realms.md#神聖圏のオーラの源) |
 | Jesus Christ（イエス・キリスト） | [498](14-mythic-europe.md#教義) |
 | Jews（ユダヤ人） | [499](14-mythic-europe.md#秘蹟), [504](14-mythic-europe.md#教会法) |
 | Jinn（ジン） | [442](13-bestiary.md#ジン) |
@@ -2523,7 +2523,7 @@
 | Magic（魔術） | [6](01-introduction.md#用語集) |
 | Magic Addiction (Flaw)（《魔術への耽溺》） | [135](04-virtues-and-flaws.md#魔術への耽溺magic-addiction) |
 | Magic and Sin（魔法と罪） | [499](14-mythic-europe.md#魔術と罪) |
-| Magic Aura（魔法のオーラ） | [413–414](12-realms.md#魔法のオーラ) |
+| Magic Aura（魔法圏のオーラ） | [413–414](12-realms.md#魔法圏のオーラ) |
 | &nbsp;&nbsp;*see also [Auras](12-realms.md#圏域のオーラ)* |  |
 | Magic Creatures（魔法圏のクリーチャー） | [442–466](13-bestiary.md#魔法圏のクリーチャー) |
 | &nbsp;&nbsp;Jinn（ジン） | [442](13-bestiary.md#ジン) |
@@ -2574,7 +2574,7 @@
 | Marriage（結婚） | [500](14-mythic-europe.md#秘蹟) |
 | Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭marshal) |
 | Martial Abilities（戦闘系〈能力〉） | [158](05-abilities.md#戦闘系能力) |
-| Martyrdom（殉教） | [419](12-realms.md#聖なる力のオーラの源) |
+| Martyrdom（殉教） | [419](12-realms.md#神聖圏のオーラの源) |
 | Mass（ミサ） | [500](14-mythic-europe.md#秘蹟) |
 | Master Bard (Virtue)（《大吟遊詩人》） | [96](04-virtues-and-flaws.md#大吟遊詩人master-bard) |
 | Master of (Form) Creatures (Virtue)（《（形相）のクリーチャーの支配者》） | [96](04-virtues-and-flaws.md#形相のクリーチャーの支配者master-of-form-creatures) |
@@ -2786,7 +2786,7 @@
 | Puissant Art (Virtue)（《強化（術法）》） | [105](04-virtues-and-flaws.md#強化術法puissant-art) |
 | Pulsed Saga（断続的なサーガ） | [528](16-sagas.md#脈打つサーガ) |
 | Pure Fantasy Saga（純ファンタジーサーガ） | [530](16-sagas.md#純粋なファンタジーのサーガ) |
-| Pure Troupe Style（純粋なトゥループ式） | [530](16-sagas.md#純粋なトゥループ式) |
+| Pure Troupe Style（純粋なトループ式） | [530](16-sagas.md#純粋なトループ式) |
 | Purgatory（煉獄） | [499](14-mythic-europe.md#教義) |
 | Quaesitor（審問士） | [6](01-introduction.md#用語集), [14](02-the-order-of-hermes.md#グエルニクス派) |
 | &nbsp;&nbsp;*see also [Guernicus, House*](02-the-order-of-hermes.md#グエルニクス派) |  |
@@ -3003,7 +3003,7 @@
 | Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀suppressed-gift) |
 | Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医surgical-empiricus) |
 | Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術survival) |
-| Susceptibility to Divine Power (Flaw)（《聖なる力への脆弱》） | [146](04-virtues-and-flaws.md#聖なる力への脆弱susceptibility-to-divine-power) |
+| Susceptibility to Divine Power (Flaw)（《神聖圏への脆弱》） | [146](04-virtues-and-flaws.md#神聖圏への脆弱susceptibility-to-divine-power) |
 | Susceptibility to Faerie Power (Flaw)（《妖精の力への脆弱》） | [146](04-virtues-and-flaws.md#妖精の力への脆弱susceptibility-to-faerie-power) |
 | Susceptibility to Infernal Power (Flaw)（《地獄の力への脆弱》） | [146](04-virtues-and-flaws.md#地獄の力への脆弱susceptibility-to-infernal-power) |
 | Susceptibility to Sunlight (Flaw)（《日光への脆弱》） | [146](04-virtues-and-flaws.md#日光への脆弱susceptibility-to-sunlight) |
@@ -3068,7 +3068,7 @@
 | &nbsp;&nbsp;Regional（地方トリビューナル） | [23](02-the-order-of-hermes.md#地方トリビューナル) |
 | Trivium（三学） | [160](05-abilities.md#自由学科artes-liberales) |
 | Troubadour/Trobairitz (Virtue)（《トルバドゥール／トロバイリツ》） | [113](04-virtues-and-flaws.md#トルバドゥールトロバイリツtroubadourtrobairitz) |
-| Troupe-Style Roleplaying（トゥループ式のロールプレイ） | [4](01-introduction.md#基本的な考え方), [528–530](16-sagas.md#トゥループ式のロールプレイ) |
+| Troupe-Style Roleplaying（トループ式のロールプレイ） | [4](01-introduction.md#基本的な考え方), [528–530](16-sagas.md#トループ式のロールプレイ) |
 | Troupe Upbringing (Virtue)（《旅芸人育ち》） | [113](04-virtues-and-flaws.md#旅芸人育ちtroupe-upbringing) |
 | True Faith（真の信仰） | [419](12-realms.md#真の信仰) |
 | True Faith (Virtue)（《真の信仰》） | [113](04-virtues-and-flaws.md#真の信仰true-faith) |
