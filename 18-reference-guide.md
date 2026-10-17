@@ -847,7 +847,7 @@
 - 標準の教授のルールを使う。
 - 年に少なくとも1季節。〈パルマ・マギカ〉を広げて徒弟を覆わねばならない。
 - 術法を開くには1季節を要する。すべての術法で技量5以上を持たねばならず、さもなくば徒弟はその術法に《苦手》を得る。
-- 徒弟が超常系〈能力〉を持つ場合、インテルレゴー・ウィームの研究室合計値がその〈能力〉の技量の5倍以上でなければならない。小なる《美点》なら最低10、大なる《美点》なら最低30（〈能力〉を伴わない小なる《美点》なら10、大なる《美点》なら10）。複数の〈能力〉については技量をすべて合計する。研究室合計値がこのレベルの2倍以上であれば、その〈能力〉は保たれるかヘルメスの《美点》へ転換されうる。そうでなければ失われる。
+- 徒弟が〈超常系能力〉を持つ場合、インテルレゴー・ウィームの研究室合計値がその〈能力〉の技量の5倍以上でなければならない。小なる《美点》なら最低10、大なる《美点》なら最低30（〈能力〉を伴わない小なる《美点》なら10、大なる《美点》なら10）。複数の〈能力〉については技量をすべて合計する。研究室合計値がこのレベルの2倍以上であれば、その〈能力〉は保たれるかヘルメスの《美点》へ転換されうる。そうでなければ失われる。
 
 #### ヘルメスの《美点》を教える
 
@@ -1147,7 +1147,7 @@
 
 **ウィースの学習品質：**ストレスダイス+オーラのボーナス
 
-**超常系〈能力〉の学習品質（新たな〈能力〉のみ）：**通常の学習品質-超常系〈能力〉の値の合計
+**〈超常系能力〉の学習品質（新たな〈能力〉のみ）：**通常の学習品質-〈超常系能力〉の値の合計
 
 ### 妨げ
 
@@ -1661,7 +1661,7 @@
 | &nbsp;&nbsp;Types（類型） | [158-159](05-abilities.md#能力の類型) |
 | Ability Block (Flaw)（《苦手分野》） | [119](04-virtues-and-flaws.md#苦手分野ability-block) |
 | Ability Roll（〈能力〉のロール） | [158](05-abilities.md#能力ロール) |
-| Academic Abilities（学術系〈能力〉） | [158](05-abilities.md#学術系能力) |
+| Academic Abilities（〈学術系能力〉） | [158](05-abilities.md#学術系能力) |
 | Academic Concentration (Subject) (Virtue)（《学問への専心（主題）》） | [69](04-virtues-and-flaws.md#学問への専心主題academic-concentration-subject) |
 | Accessible Power Level（利用可能魔力レベル） | [179](06-covenants.md#利用可能魔力レベル) |
 | Action-Adventure Saga（活劇のサーガ） | [533](16-sagas.md#活劇) |
@@ -1720,7 +1720,7 @@
 | Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性aptitude-for-sin) |
 | Aquam (Art)（アクアーム／水） | [208](07-hermetic-magic.md#アクアームaq水), [320](09-spells.md#アクアームの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精圏) |
-| Arcane Abilities（秘術系〈能力〉） | [158](05-abilities.md#秘術系能力) |
+| Arcane Abilities（〈秘術系能力〉） | [158](05-abilities.md#秘術系能力) |
 | Arcane Connections（魔導媒体） | [219](07-hermetic-magic.md#魔導媒体) |
 | &nbsp;&nbsp;Limit of（魔導媒体の限界） | [211](07-hermetic-magic.md#魔導媒体の限界) |
 | &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#魔導媒体の固定) |
@@ -2459,7 +2459,7 @@
 | &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
 | Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮leadership) |
 | Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力learn-ability-from-mistakes) |
-| Learning Supernatural Abilities（超常系〈能力〉の学習） | [383](10-long-term-events.md#超常系能力を習得する) |
+| Learning Supernatural Abilities（〈超常系能力〉の学習） | [383](10-long-term-events.md#超常系能力を習得する) |
 | Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂きleather-ripper) |
 | Leather Scale Armor（レザースケール） | [399](11-obstacles.md#材質) |
 | Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色lecherous) |
@@ -2573,7 +2573,7 @@
 | Markets（市場） | [509](14-mythic-europe.md#市と大市) |
 | Marriage（結婚） | [500](14-mythic-europe.md#秘蹟) |
 | Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭marshal) |
-| Martial Abilities（戦闘系〈能力〉） | [158](05-abilities.md#戦闘系能力) |
+| Martial Abilities（〈戦闘系能力〉） | [158](05-abilities.md#戦闘系能力) |
 | Martyrdom（殉教） | [419](12-realms.md#神聖圏のオーラの源) |
 | Mass（ミサ） | [500](14-mythic-europe.md#秘蹟) |
 | Master Bard (Virtue)（《大吟遊詩人》） | [96](04-virtues-and-flaws.md#大吟遊詩人master-bard) |
@@ -2945,7 +2945,7 @@
 | Spell Format（呪文の書式） | [313–314](09-spells.md#呪文の書式) |
 | Spell Improvisation (Virtue)（《呪文の即興》） | [109](04-virtues-and-flaws.md#呪文の即興spell-improvisation) |
 | Spell Mastery（呪文の習熟） | [27](03-characters.md#能力), [225–226](07-hermetic-magic.md#呪文の習熟) |
-| Spell Mastery Abilities（呪文習熟の〈能力〉） | [158](05-abilities.md#呪文の習熟能力) |
+| Spell Mastery Abilities（呪文習熟の〈能力〉） | [158](05-abilities.md#呪文習熟能力) |
 | Spells（呪文） | [6](01-introduction.md#用語集), [301–372](09-spells.md#第9章呪文) |
 | &nbsp;&nbsp;Casting（行使） | [213–218](07-hermetic-magic.md#呪文の行使) |
 | &nbsp;&nbsp;Design（設計） | [301–308](09-spells.md#呪文の設計) |
@@ -2995,7 +2995,7 @@
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Supernatural Abilities（超常系〈能力〉） | [159](05-abilities.md#超常系能力) |
+| Supernatural Abilities（〈超常系能力〉） | [159](05-abilities.md#超常系能力) |
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常系能力を習得する) |
 | Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
