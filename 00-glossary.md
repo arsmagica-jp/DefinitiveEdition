@@ -15,6 +15,7 @@
 - arcane は「秘術」、mystery は「秘儀」と訳し分ける（秘術系〈能力〉・〈秘術知識〉・秘術の実験・秘術の発見／秘儀教団・秘儀導師・内なる秘儀・秘儀への参入）。ただし Arcane Connection は「魔導媒体」のままとする。
 - 他の書籍・サプリメントの題は『　』で示す（『Covenants』『Realms of Power: Magic』など）。*斜体* は呪文名と、索引の "see also" などに使う。
 - use は原則として「使う」と訳す。「用いる」としていた909箇所を「使う」に改めた（可能の意味の「用いられる」は「使える」、「用いうる」も「使える」、「用い方」は「使い方」）。荘重な文体がふさわしい箇所のみ「用いる」を残す（第2章のヘルメスの誓い「それを慎重に用いる」1件）。
+- bonus は「ボーナス」、penalty は「ペナルティ」。「加算」「減算」としていた箇所を改めた。複合語も「形相ボーナス」「式次第ボーナス」「形状・材質ボーナス」「吸収値ボーナス」「抵抗貫通力ボーナス」「ボーナス経験点」のようにする。ただし「X を Y に加算する」のように足し算の動作を指す動詞は「加える」、「【特性値】+〈能力〉+ダイスロールを加算し」のように項を足し上げる場合は「合計し」とする。
 - 算用数字に添える符号は半角の + を使う。
 - 見出しは原文の階層をそのまま保つ。表・引用ブロック・改行タグ（`<br>`）も原文どおり。
 
@@ -268,12 +269,12 @@
 | magnitude | 階級 | 呪文レベルの五分の一（切り上げ）。「段階」「等級」に割れていたのを統一。一般語の「段階」（傷・疲労のレベル、コヴナントの生涯の段階、表の一段上など）とは区別する。身分の意味で「階級」を使っていた6箇所は「身分」（第14章の品級の分類のみ「区分」）に改め、この語は magnitude 専用とした |
 | Range / Duration / Target | 射程／持続時間／目標 | |
 | requisite | 制約術法 | |
-| Penetration | 抵抗貫通力 | 「貫通」から統一。名詞としての Penetration 270件が対象で、〈抵抗貫通力〉（能力）・抵抗貫通力合計値・抵抗貫通力加算なども同様。動詞 penetrate（「魔法抵抗を貫通する」）54件は「貫通する」のまま |
+| Penetration | 抵抗貫通力 | 「貫通」から統一。名詞としての Penetration 270件が対象で、〈抵抗貫通力〉（能力）・抵抗貫通力合計値・抵抗貫通力ボーナスなども同様。動詞 penetrate（「魔法抵抗を貫通する」）54件は「貫通する」のまま |
 | Penetration Total | 抵抗貫通力合計値 | |
 | fast casting | 高速行使 | 索引は「速唱」だが本文では行使の語で統一。「速攻行使」から変更 |
 | aiming roll | 狙いのロール | |
 | Technique / Form | 技法／形相 | 索引準拠 |
-| Form Bonus | 形相加算 | |
+| Form Bonus | 形相ボーナス | |
 | substance | 実体 | クレオーの説明 |
 | species | スペキエース（可感的形象） | イマーギネムの用語 |
 | Elemental Forms | 元素の形相 | 索引準拠 |
@@ -281,11 +282,11 @@
 | pawn / rook / queen | ポーン／ルーク／クイーン | ウィースの単位 |
 | Forceless Casting | 無力な行使 | 抵抗貫通力合計値を0に抑える |
 | sympathetic connections | 類感媒体 | 索引の「共感連鎖」から変更。魔導媒体（Arcane Connection）と対 |
-| Penetration Bonus / Multiplier | 抵抗貫通力加算／抵抗貫通力の倍率 | |
+| Penetration Bonus / Multiplier | 抵抗貫通力ボーナス／抵抗貫通力の倍率 | |
 | voting sigil | 投票印 | 行使の印と対 |
 | mastery ability | 習熟〈能力〉 | 呪文ごとに存在する〈能力〉 |
 | Adaptive Casting | 適応行使 | 習熟の特殊能力 |
-| Imperturbable Casting | 不動行使 | 集中のロールに加算 |
+| Imperturbable Casting | 不動行使 | 集中のロールにボーナス |
 | Still Casting | 静止行使 | 身振り不要。上と訳し分け |
 | Quiet Casting / Quick Casting | 静穏行使／迅速行使 | |
 | Obfuscated / Precise / Multiple Casting | 秘匿行使／精確行使／多重行使 | |
@@ -295,7 +296,7 @@
 | Attack / Defense Total | 攻撃合計値／防御合計値 | ケルターメン・戦闘 |
 | Attack Advantage | 攻撃優位 | |
 | Weakening / Resistance Total | 衰弱合計値／抵抗合計値 | ケルターメン |
-| Script / Script Bonus | 式次第／式次第加算 | 参入儀礼 |
+| Script / Script Bonus | 式次第／式次第ボーナス | 参入儀礼 |
 | Station / Avenue / Path | 位階／小道／道 | クリーアモンの秘儀。Avenue は「大路」から変更 |
 | charms | 護符 | メリニータの詠唱道具 |
 | recurring spell | 反復する呪文 | 呪文の刻限 |
@@ -317,8 +318,8 @@
 | Effect Expiry | 効果の失効 | |
 | talisman attunement | タリスマンの調律 | |
 | opening for enchantment | 呪付のために開く | |
-| Shape and Material Bonuses Table | 形状・材質加算表 | |
-| similar spell bonus | 類似呪文の加算 | |
+| Shape and Material Bonuses Table | 形状・材質ボーナス表 | |
+| similar spell bonus | 類似呪文のボーナス | |
 | Casting Tablet | 詠唱板 | 索引準拠 |
 | Golden / Silver / Bronze Cord | 金綬／銀綬／銅綬 | 索引準拠。使い魔の三本の絆 |
 | Bound Familiar | 結ばれた使い魔 | 索引準拠 |
@@ -344,8 +345,8 @@
 | experimentation table | 実験表 | |
 | Safety | 安全性 | 研究室の指標 |
 | Upkeep | 維持費 | 研究室の指標 |
-| Shape & Material bonus | 形状・材質加算 | |
-| resonant bonus | 共鳴の加算 | 書物の材料 |
+| Shape & Material bonus | 形状・材質ボーナス | |
+| resonant bonus | 共鳴のボーナス | 書物の材料 |
 | Potency / Casting Item | 強度／行使用具 | 《強力な魔術》 |
 | sympathetic magic | 共感魔術 | |
 | Waiting Spell | 待機呪文 | |
@@ -547,7 +548,7 @@
 | trained / untrained group | 訓練された集団／訓練されていない集団 | |
 | shield grog | 盾持ちグロッグ | マギを護るグロッグ |
 | Disengaging | 離脱 | 戦闘の選択肢 |
-| Exertion | 全力 | 疲労レベルを費やして加算 |
+| Exertion | 全力 | 疲労レベルを費やしてボーナス |
 | grappling / scuffling | 組みつき／小競り合い | 非致死の戦闘の二形態 |
 | Grapple Strength | 組みつきの強さ | |
 | Splitting Groups | 集団を分断する | |
