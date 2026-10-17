@@ -103,7 +103,7 @@
 
 ### 評判
 
-*19ページ、[28〜29ページ](03-characters.md#評判)、[[386ページ](04-virtues-and-flaws.md#動物理解animal-ken)](10-long-term-events.md#評判を変える)*
+*19ページ、[28〜29ページ](03-characters.md#評判)、[[386ページ](04-virtues-and-flaws.md#動物理解-animal-ken)](10-long-term-events.md#評判を変える)*
 
 #### 評判を変える
 
@@ -124,7 +124,7 @@
 
 ### 〈魔法感受性〉
 
-*45ページ、[[168ページ](05-abilities.md#魔法感受性magic-sensitivity)](05-abilities.md#魔法感受性magic-sensitivity)*
+*45ページ、[[168ページ](05-abilities.md#魔法感受性-magic-sensitivity-超常系)](05-abilities.md#魔法感受性-magic-sensitivity-超常系)*
 
 | 感じ取るもの | 目標値 |
 |---------|-------------|
@@ -135,7 +135,7 @@
 
 ### 〈霊視〉
 
-*[67ページ](04-virtues-and-flaws.md#美点一覧)、[170ページ](05-abilities.md#霊視second-sight)*
+*[67ページ](04-virtues-and-flaws.md#美点一覧)、[170ページ](05-abilities.md#霊視-second-sight-超常系)*
 
 **レギオーの視認のロール：【知覚】+しかるべき〈能力〉+ストレスダイス**
 
@@ -143,7 +143,7 @@
 
 ### 〈聖邪感知〉
 
-*[67ページ](04-virtues-and-flaws.md#美点一覧)、[189ページ](06-covenants.md#支出)、[170ページ](04-virtues-and-flaws.md#聖邪感知sense-holiness-and-unholiness)*
+*[67ページ](04-virtues-and-flaws.md#美点一覧)、[189ページ](06-covenants.md#支出)、[170ページ](04-virtues-and-flaws.md#聖邪感知-sense-holiness-and-unholiness)*
 
 #### 魔法抵抗を貫通する必要のないもの
 
@@ -506,7 +506,7 @@
 
 **迅速行使のボッチ・ダイス：**ボッチ・ダイス+2個
 
-**魔法の効果の形相を見極める：**【知覚】+〈気付き〉、対 15-効果の階級
+**魔法の効果の形相を見極める：**【知覚】+〈認識〉、対 15-効果の階級
 
 **儀礼的行使のボーナス：**行使値に〈自由学科〉+〈哲学〉を加える
 
@@ -798,7 +798,7 @@
 
 ### 研究室での活動
 
-*94〜[102ページ](04-virtues-and-flaws.md#個人の力personal-power)、249〜[263ページ](08-laboratory.md#詠唱板)*
+*94〜[102ページ](04-virtues-and-flaws.md#個人の力-personal-power)、249〜[263ページ](08-laboratory.md#詠唱板)*
 
 **魔導媒体の固定：**1季節+ウィームのウィース1ポーン
 
@@ -1164,366 +1164,366 @@
 
 | 呪文名 | 術法 | レベル | ページ |
 |--------|------|--------|--------|
-| *炉辺のアエギス* | ReVi | 汎用 | [370](09-spells.md#炉辺のアエギスaegis-of-the-hearth) |
-| *獣の悶え* | PeAn | 15 | [318](09-spells.md#獣の悶えagony-of-the-beast) |
-| *気の幽けき姿* | CrAu | 5 | [325](09-spells.md#気の幽けき姿airs-ghostly-form) |
-| *炎の帯の弧* | CrIg | 25 | [344](09-spells.md#炎の帯の弧arc-of-fiery-ribbons) |
-| *嬰児の腕* | MuCo | 20 | [334](09-spells.md#嬰児の腕arm-of-the-infant) |
-| *貴きものの気配* | MuIm | 10 | [350](09-spells.md#貴きものの気配aura-of-ennobled-presence) |
-| *正統なる威の輝き* | ReMe | 20 | [357](09-spells.md#正統なる威の輝きaura-of-rightful-authority) |
-| *まどろむ屍を起こす* | ReCo | 25 | [338](09-spells.md#まどろむ屍を起こすawaken-the-slumbering-corpse) |
-| *奈落の炎の球* | CrIg | 35 | [344](09-spells.md#奈落の炎の球ball-of-abysmal-flame) |
-| *老い衰えし身の災い* | PeCo | 25 | [336](09-spells.md#老い衰えし身の災いbane-of-the-decrepit-body) |
-| *芥子粒の獣* | MuAn | 20 | [318](09-spells.md#芥子粒の獣beast-of-minuscule-proportions) |
-| *異形に膨るる獣* | MuAn | 15 | [317](09-spells.md#異形に膨るる獣beast-of-outlandish-size) |
-| *造り替えられし獣* | MuAn | 25 | [318](09-spells.md#造り替えられし獣the-beast-remade) |
-| *創を綴じる手* | CrCo | 10 | [332](09-spells.md#創を綴じる手bind-wound) |
-| *黒き囁き* | PeMe | 40 | [356](09-spells.md#黒き囁きblack-whisper) |
-| *毒々しき炎の刃* | CrIg | 15 | [344](09-spells.md#毒々しき炎の刃blade-of-the-virulent-flame) |
-| *童の至福の祝福* | PeMe | 25 | [356](09-spells.md#童の至福の祝福blessing-of-childlike-bliss) |
-| *蝮の牙を鈍らす* | PeAn | 20 | [319](09-spells.md#蝮の牙を鈍らすblunt-the-vipers-fangs) |
-| *満ち足る饗* | CrHe | 35 | [339](09-spells.md#満ち足る饗the-bountiful-feast) |
-| *寄せ来る波を砕く* | ReAq | 10 | [324](09-spells.md#寄せ来る波を砕くbreak-the-oncoming-wave) |
-| *大空の息吹* | CrAu | 40 | [327](09-spells.md#大空の息吹breath-of-the-open-sky) |
-| *冬の吐息* | ReAq | 15 | [324](09-spells.md#冬の吐息breath-of-winter) |
-| *霜の懸け橋* | ReAq | 30 | [324](09-spells.md#霜の懸け橋bridge-of-frost) |
-| *木の懸け橋* | CrHe | 20 | [339](09-spells.md#木の懸け橋bridge-of-wood) |
-| *吹き払う風の箒* | CrAu | 15 | [326](09-spells.md#吹き払う風の箒broom-of-the-winds) |
-| *薙ぎ払う炎の迸り* | ReIg | 25 | [347](09-spells.md#薙ぎ払う炎の迸りburst-of-the-sweeping-flames) |
-| *奔る水の呼ばい* | InAq | 15 | [322](09-spells.md#奔る水の呼ばいcall-of-the-rushing-waters) |
-| *眠りへの誘い* | ReMe | 10 | [357](09-spells.md#眠りへの誘いthe-call-to-slumber) |
-| *木々の評定を召す* | ReHe | 45 | [343](09-spells.md#木々の評定を召すcalling-the-council-of-the-trees) |
-| *忌まわしき旱を招く* | PeAq | 50 | [323](09-spells.md#忌まわしき旱を招くcalling-the-odious-drought) |
-| *心の揺らぎを鎮む* | PeMe | 15 | [356](09-spells.md#心の揺らぎを鎮むcalm-the-motion-of-the-heart) |
-| *囚われの声* | ReIm | 30 | [352](09-spells.md#囚われの声the-captive-voice) |
-| *岩の奔流* | PeTe | 40 | [362](09-spells.md#岩の奔流cascade-of-rocks) |
-| *姿消ゆる室* | PeIm | 25 | [351](09-spells.md#姿消ゆる室chamber-of-invisibility) |
-| *春風の室* | CrAu | 5 | [325](09-spells.md#春風の室chamber-of-spring-breezes) |
-| *荒ぶる波の乱れ* | ReAq | 30 | [324](09-spells.md#荒ぶる波の乱れchaos-of-the-angry-waves) |
-| *荒ぶる風の襲い* | CrAu | 15 | [326](09-spells.md#荒ぶる風の襲いcharge-of-the-angry-winds) |
-| *腐れを防ぐ護符* | CrCo | 10 | [332](09-spells.md#腐れを防ぐ護符charm-against-putrefaction) |
-| *死の使いを謀る* | CrCo | 30 | [332](09-spells.md#死の使いを謀るcheating-the-reaper) |
-| *外科医の癒し手* | CrCo | 20 | [332](09-spells.md#外科医の癒し手the-chirurgeons-healing-touch) |
-| *獣を阻む円環* | ReAn | 5 | [319](09-spells.md#獣を阻む円環circle-of-beast-warding) |
-| *囲む炎の輪* | CrIg | 35 | [344](09-spells.md#囲む炎の輪circle-of-encompassing-flames) |
-| *守り巡る風* | CrAu | 20 | [326](09-spells.md#守り巡る風circling-winds-of-protection) |
-| *悪魔を阻む円環の結界* | ReVi | 汎用 | [371](09-spells.md#悪魔を阻む円環の結界circular-ward-against-demons) |
-| *水の精の澄み眼* | InAq | 5 | [321](09-spells.md#水の精の澄み眼clear-sight-of-the-naiad) |
-| *心の臓を締め上ぐる手* | PeCo | 40 | [336](09-spells.md#心の臓を締め上ぐる手clenching-grasp-of-the-crushed-heart) |
-| *烏羽の羽衣* | MuCo | 30 | [334](09-spells.md#烏羽の羽衣cloak-of-black-feathers) |
-| *霧の衣* | MuCo | 40 | [335](09-spells.md#霧の衣cloak-of-mist) |
-| *鴨羽の衣* | ReAq | 5 | [323](09-spells.md#鴨羽の衣cloak-of-the-ducks-feathers) |
-| *地の門を閉ざす* | PeAq | 25 | [323](09-spells.md#地の門を閉ざすclosing-the-earths-gate) |
-| *雲なき空の戻り* | PeAu | 45 | [329](09-spells.md#雲なき空の戻りthe-cloudless-sky-returned) |
-| *雨と雷を孕む雲* | CrAu | 25 | [326](09-spells.md#雨と雷を孕む雲clouds-of-rain-and-thunder) |
-| *夏に雪降らす雲* | CrAu | 25 | [326](09-spells.md#夏に雪降らす雲clouds-of-summer-snow) |
-| *雷鳴を孕む雲* | ReAu | 30 | [330](09-spells.md#雷鳴を孕む雲clouds-of-thunderous-might) |
-| *炎の衣* | CrIg | 25 | [344](09-spells.md#炎の衣coat-of-flame) |
-| *夜の霊を従わす* | ReMe | 20 | [357](09-spells.md#夜の霊を従わすcoerce-the-spirits-of-the-night) |
-| *絡む草の巻きつき* | ReHe | 20 | [342](09-spells.md#絡む草の巻きつきcoils-of-the-entangling-plants) |
-| *濡れそぼつ旅人の慰め* | PeAq | 5 | [323](09-spells.md#濡れそぼつ旅人の慰めcomfort-of-the-drenched-traveler) |
-| *くびきの獣への下知* | ReAn | 30 | [320](09-spells.md#くびきの獣への下知commanding-the-harnessed-beast) |
-| *狂える震えの惑わし* | ReIm | 30 | [352](09-spells.md#狂える震えの惑わしconfusion-of-the-insane-vibrations) |
-| *痺れし心の惑い* | ReMe | 15 | [357](09-spells.md#痺れし心の惑いconfusion-of-the-numbed-will) |
-| *紛れもなき寒気を招く* | PeIg | 25 | [346](09-spells.md#紛れもなき寒気を招くconjuration-of-the-indubitable-cold) |
-| *頑なる蔓を招く* | CrHe | 5 | [339](09-spells.md#頑なる蔓を招くconjure-the-sturdy-vine) |
-| *神秘の塔を召す* | CrTe | 35 | [359](09-spells.md#神秘の塔を召すconjuring-the-mystic-tower) |
-| *草木と語らう* | InHe | 25 | [340](09-spells.md#草木と語らうconverse-with-plant-and-tree) |
-| *這い寄る地の裂け目* | ReTe | 30 | [363](09-spells.md#這い寄る地の裂け目creeping-chasm) |
-| *這い寄る油* | CrAq | 15 | [321](09-spells.md#這い寄る油creeping-oil) |
-| *土波の穂先* | ReTe | 20 | [363](09-spells.md#土波の穂先crest-of-the-earth-wave) |
-| *吼ゆる狼の足を萎やす* | PeAn | 25 | [319](09-spells.md#吼ゆる狼の足を萎やすcripple-the-howling-wolf) |
-| *水晶の投げ矢* | MuTe | 10 | [360](09-spells.md#水晶の投げ矢the-crystal-dart) |
-| *キルケの呪い* | MuCo | 30 | [334](09-spells.md#キルケの呪いcurse-of-circe) |
-| *荒野の呪詛* | PeAq | 25 | [323](09-spells.md#荒野の呪詛curse-of-the-desert) |
-| *物の憑く森の呪詛* | MuHe | 60 | [341](09-spells.md#物の憑く森の呪詛curse-of-the-haunted-forest) |
-| *癩に朽つる肉の呪詛* | PeCo | 25 | [336](09-spells.md#癩に朽つる肉の呪詛curse-of-the-leprous-flesh) |
-| *餓えたる群れの呪詛* | CrAn | 50 | [316](09-spells.md#餓えたる群れの呪詛curse-of-the-ravenous-swarm) |
-| *朽ち木の呪い* | PeHe | 5 | [341](09-spells.md#朽ち木の呪いcurse-of-the-rotted-wood) |
-| *予兆なき疫の呪詛* | PeCo | 55 | [337](09-spells.md#予兆なき疫の呪詛curse-of-the-unportended-plague) |
-| *利かぬ舌の呪い* | ReCo | 5 | [337](09-spells.md#利かぬ舌の呪いcurse-of-the-unruly-tongue) |
-| *杖の踊り* | ReHe | 5 | [342](09-spells.md#杖の踊りdance-of-the-staves) |
-| *毛皮と革の腐れ* | PeAn | 10 | [318](09-spells.md#毛皮と革の腐れdecay-fur-and-hide) |
-| *奔り砕くる大水* | CrAq | 40 | [321](09-spells.md#奔り砕くる大水deluge-of-rushing-and-dashing) |
-| *悪魔の永久の忘却* | PeVi | 汎用 | [370](09-spells.md#悪魔の永久の忘却demons-eternal-oblivion) |
-| *震う枷の絶望* | ReCo | 15 | [337](09-spells.md#震う枷の絶望despair-of-the-quivering-manacles) |
-| *己の幻を見分く* | InIm | 15 | [349](09-spells.md#己の幻を見分くdiscern-own-illusions) |
-| *真と偽の像を見分く* | InIm | 汎用 | [349](09-spells.md#真と偽の像を見分くdiscern-the-images-of-truth-and-falsehood) |
-| *呪付を解く* | PeVi | 汎用 | [370](09-spells.md#呪付を解くdisenchant) |
-| *面変わりの装い* | MuCo | 15 | [333](09-spells.md#面変わりの装いdisguise-of-the-new-visage) |
-| *腐り香の面変わり* | ReAn | 5 | [319](09-spells.md#腐り香の面変わりdisguise-of-the-putrid-aroma) |
-| *像を変ずる装い* | MuIm | 15 | [350](09-spells.md#像を変ずる装いdisguise-of-the-transformed-image) |
-| *幻の像を祓う* | PeIm | 汎用 | [351](09-spells.md#幻の像を祓うdispel-the-phantom-image) |
-| *貫かれざる絹の帷子* | MuAn | 15 | [318](09-spells.md#貫かれざる絹の帷子doublet-of-impenetrable-silk) |
-| *坐する心の夢* | InTe | 50 | [360](09-spells.md#坐する心の夢dream-of-the-mind-that-sits) |
-| *塵は塵に* | PeCo | 15 | [335](09-spells.md#塵は塵にdust-to-dust) |
-| *遠き声を捉うる耳* | InIm | 20 | [349](09-spells.md#遠き声を捉うる耳the-ear-for-distant-voices) |
-| *大地の震え* | ReTe | 30 | [363](09-spells.md#大地の震えearth-shock) |
-| *裂け割るる大地* | ReTe | 30 | [364](09-spells.md#裂け割るる大地the-earth-split-asunder) |
-| *崩れざる大地* | MuTe | 20 | [361](09-spells.md#崩れざる大地earth-that-breaks-no-more) |
-| *大地の腫れ物* | ReTe | 15 | [363](09-spells.md#大地の腫れ物the-earths-carbuncle) |
-| *剃刀の刃* | MuTe | 20 | [361](09-spells.md#剃刀の刃edge-of-the-razor) |
-| *物思いを離るる呪付* | PeMe | 15 | [356](09-spells.md#物思いを離るる呪付enchantment-of-detachment) |
-| *遠見の淵の呪付* | InAq | 30 | [322](09-spells.md#遠見の淵の呪付enchantment-of-the-scrying-pool) |
-| *堅城の終わり* | PeTe | 25 | [362](09-spells.md#堅城の終わりend-of-the-mighty-castle) |
-| *狂戦士の粘り* | ReCo | 15 | [338](09-spells.md#狂戦士の粘りendurance-of-the-berserkers) |
-| *エニグマの賜物* | CrVi | 30 | [365](09-spells.md#エニグマの賜物the-enigmas-gift) |
-| *人の心を隷とす* | ReMe | 40 | [358](09-spells.md#人の心を隷とすenslave-the-mortal-mind) |
-| *二つの心の入れ替え* | ReMe | 55 | [358](09-spells.md#二つの心の入れ替えexchange-of-the-two-minds) |
-| *賢者の眼* | InCo | 30 | [333](09-spells.md#賢者の眼the-eye-of-the-sage) |
-| *蝙蝠の目* | InAu | 25 | [327](09-spells.md#蝙蝠の目eyes-of-the-bat) |
-| *猫の目* | MuCo | 5 | [333](09-spells.md#猫の目eyes-of-the-cat) |
-| *鷲の眼* | InIm | 25 | [349](09-spells.md#鷲の眼eyes-of-the-eagle) |
-| *悠久の眼* | InTe | 10 | [359](09-spells.md#悠久の眼eyes-of-the-eons) |
-| *炎の眼* | InIg | 35 | [345](09-spells.md#炎の眼eyes-of-the-flame) |
-| *危うき地を見る眼* | InTe | 15 | [359](09-spells.md#危うき地を見る眼eyes-of-the-treacherous-terrain) |
-| *鷹の頭巾* | PeAn | 25 | [319](09-spells.md#鷹の頭巾the-falcons-hood) |
-| *砕きの拳* | PeTe | 10 | [361](09-spells.md#砕きの拳fist-of-shattering) |
-| *氷に彫られし炎* | MuIg | 35 | [346](09-spells.md#氷に彫られし炎flames-of-sculpted-ice) |
-| *緋炎の閃き* | CrIg | 15 | [344](09-spells.md#緋炎の閃きflash-of-the-scarlet-flames) |
-| *惑わしの霧* | MuAu | 45 | [328](09-spells.md#惑わしの霧fog-of-confusion) |
-| *滑り油の足跡* | CrAq | 5 | [320](09-spells.md#滑り油の足跡footsteps-of-slippery-oil) |
-| *情け深き大地* | ReTe | 10 | [363](09-spells.md#情け深き大地the-forgiving-earth) |
-| *歩む木を解き放つ* | ReHe | 30 | [343](09-spells.md#歩む木を解き放つfreeing-the-striding-tree) |
-| *語られた嘘の凍える息* | InMe | 20 | [354](09-spells.md#語られた嘘の凍える息frosty-breath-of-the-spoken-lie) |
-| *獣の精を集む* | ReVi | 15 | [372](09-spells.md#獣の精を集むgather-the-essence-of-the-beast) |
-| *嵐の力を集む* | ReAu | 40 | [330](09-spells.md#嵐の力を集むgathering-of-the-stormy-might) |
-| *和ぎたる獣* | ReAn | 25 | [320](09-spells.md#和ぎたる獣the-gentle-beast) |
-| *清められし身の優しき手* | CrCo | 20 | [332](09-spells.md#清められし身の優しき手gentle-touch-of-the-purified-body) |
-| *理の賜物* | CrMe | 35 | [354](09-spells.md#理の賜物gift-of-reason) |
-| *熊の剛き賜物* | MuCo | 25 | [334](09-spells.md#熊の剛き賜物gift-of-the-bears-fortitude) |
-| *蛙の脚の賜物* | ReCo | 15 | [338](09-spells.md#蛙の脚の賜物gift-of-the-frogs-legs) |
-| *精気の賜物* | ReCo | 20 | [338](09-spells.md#精気の賜物the-gift-of-vigor) |
-| *夕闇の翳り* | PeIg | 10 | [346](09-spells.md#夕闇の翳りgloom-of-evening) |
-| *大いなる腐れ* | PeHe | 25 | [341](09-spells.md#大いなる腐れthe-great-rot) |
-| *喉を絞むる手* | PeCo | 25 | [336](09-spells.md#喉を絞むる手grip-of-the-choking-hand) |
-| *這うものの伸び上がり* | MuAn | 15 | [318](09-spells.md#這うものの伸び上がりgrowth-of-the-creeping-things) |
-| *掴み来る大地の手* | ReTe | 15 | [363](09-spells.md#掴み来る大地の手hands-of-the-grasping-earth) |
-| *生き霊の現れ* | CrIm | 35 | [348](09-spells.md#生き霊の現れhaunt-of-the-living-ghost) |
-| *灼くる鍛冶場の熱* | CrIg | 10 | [343](09-spells.md#灼くる鍛冶場の熱heat-of-the-searing-forge) |
-| *ヘルメスの門* | ReTe | 75 | [364](09-spells.md#ヘルメスの門hermes-portal) |
-| *雀蜂の火* | MuIg | 10 | [345](09-spells.md#雀蜂の火hornet-fire) |
-| *野の薬草を求む* | InHe | 5 | [340](09-spells.md#野の薬草を求むhunt-for-the-wild-herb) |
-| *狩人の冴え* | InAn | 30 | [317](09-spells.md#狩人の冴えhunters-sense) |
-| *人を溺らす氷* | ReAq | 35 | [324](09-spells.md#人を溺らす氷ice-of-drowning) |
-| *冷たき炎の幻* | PeIm | 10 | [351](09-spells.md#冷たき炎の幻illusion-of-cool-flames) |
-| *置き違えられし城の幻* | ReIm | 50 | [352](09-spells.md#置き違えられし城の幻illusion-of-the-misplaced-castle) |
-| *ずれたる像の幻* | ReIm | 10 | [352](09-spells.md#ずれたる像の幻illusion-of-the-shifted-image) |
-| *魔術師から離れた像* | ReIm | 35 | [352](09-spells.md#魔術師から離れた像image-from-the-wizard-torn) |
-| *獣の面影* | InAn | 5 | [316](09-spells.md#獣の面影image-of-the-beast) |
-| *像の幻* | MuIm | 20 | [350](09-spells.md#像の幻image-phantom) |
-| *稲妻の呪言* | CrAu | 35 | [327](09-spells.md#稲妻の呪言the-incantation-of-lightning) |
-| *葡萄酒を腐らす呪言* | MuAq | 15 | [322](09-spells.md#葡萄酒を腐らす呪言incantation-of-putrid-wine) |
-| *亡き者を呼ばう呪言* | ReMe | 40 | [358](09-spells.md#亡き者を呼ばう呪言incantation-of-summoning-the-dead) |
-| *身を全うする呪言* | CrCo | 40 | [332](09-spells.md#身を全うする呪言incantation-of-the-body-made-whole) |
-| *眼を白く濁らす呪言* | PeCo | 30 | [336](09-spells.md#眼を白く濁らす呪言incantation-of-the-milky-eyes) |
-| *逃れ得ぬ尋ね* | InCo | 20 | [333](09-spells.md#逃れ得ぬ尋ねthe-inexorable-search) |
-| *死をもたらす奈落の煙* | MuAu | 40 | [328](09-spells.md#死をもたらす奈落の煙infernal-smoke-of-death) |
-| *心底の友* | MuMe | 40 | [355](09-spells.md#心底の友inmost-companion) |
-| *森の勘* | InHe | 10 | [340](09-spells.md#森の勘intuition-of-the-forest) |
-| *佇む魔術師の不可視* | PeIm | 15 | [351](09-spells.md#佇む魔術師の不可視invisibility-of-the-standing-wizard) |
-| *見えざる眼を露わにす* | InVi | 汎用 | [366](09-spells.md#見えざる眼を露わにすthe-invisible-eye-revealed) |
-| *ウィラノの見えざる投石紐* | ReTe | 10 | [363](09-spells.md#ウィラノの見えざる投石紐invisible-sling-of-vilano) |
-| *倦みを招く呪言* | PeCo | 20 | [336](09-spells.md#倦みを招く呪言invocation-of-weariness) |
-| *ユピテルの轟く鉄槌* | CrAu | 10 | [326](09-spells.md#ユピテルの轟く鉄槌jupiters-resounding-blow) |
-| *死の口づけ* | PeCo | 45 | [336](09-spells.md#死の口づけthe-kiss-of-death) |
-| *炎なき灯* | CrIg | 10 | [344](09-spells.md#炎なき灯lamp-without-flame) |
-| *憑く霊を鎮む* | PeMe | 汎用 | [355](09-spells.md#憑く霊を鎮むlay-to-rest-the-haunting-spirit) |
-| *家路への跳躍* | ReCo | 35 | [338](09-spells.md#家路への跳躍the-leap-of-homecoming) |
-| *火の跳び移り* | ReIg | 10 | [347](09-spells.md#火の跳び移りleap-of-the-fire) |
-| *吊り下がる傀儡を持ち上ぐ* | ReCo | 15 | [338](09-spells.md#吊り下がる傀儡を持ち上ぐlifting-the-dangling-puppet) |
-| *夜を貫く光の柱* | ReIg | 20 | [347](09-spells.md#夜を貫く光の柱light-shaft-of-the-night) |
-| *木々の主* | ReHe | 25 | [343](09-spells.md#木々の主lord-of-the-trees) |
-| *束の間の記憶の失せ* | PeMe | 15 | [356](09-spells.md#束の間の記憶の失せloss-of-but-a-moments-memory) |
-| *魚の息* | MuAq | 20 | [323](09-spells.md#魚の息lungs-of-the-fish) |
-| *手のかかる呪文を保つ* | ReVi | 汎用 | [372](09-spells.md#手のかかる呪文を保つmaintaining-the-demanding-spell) |
-| *色とりどりの大火* | MuIg | 5 | [345](09-spells.md#色とりどりの大火the-many-hued-conflagration) |
-| *魔法の匂いを覆う* | PeVi | 汎用 | [369](09-spells.md#魔法の匂いを覆うmasking-the-odor-of-magic) |
-| *荒れ狂う獣を御す* | ReAn | 25 | [320](09-spells.md#荒れ狂う獣を御すmastering-the-unruly-beast) |
-| *遠き夢の記憶* | CrMe | 20 | [353](09-spells.md#遠き夢の記憶memory-of-the-distant-dream) |
-| *猛き水の奔り* | CrAq | 20 | [321](09-spells.md#猛き水の奔りmighty-torrent-of-water) |
-| *獣の心* | MuMe | 30 | [355](09-spells.md#獣の心mind-of-the-beast) |
-| *坑夫の冴えたる眼* | InTe | 20 | [359](09-spells.md#坑夫の冴えたる眼the-miners-keen-eye) |
-| *対立の鏡［形相］* | MuVi | 汎用 | [368](09-spells.md#対立の鏡形相mirror-of-opposition-form) |
-| *移ろいの霧* | MuCo | 60 | [335](09-spells.md#移ろいの霧mists-of-change) |
-| *月影* | CrIg | 3 | [343](09-spells.md#月影moonbeam) |
-| *ネプトゥヌスの憤り* | ReAq | 40 | [325](09-spells.md#ネプトゥヌスの憤りneptunes-wrath) |
-| *麗しき調べ* | MuIm | 10 | [350](09-spells.md#麗しき調べnotes-of-a-delightful-sound) |
-| *嵩を増す物* | MuTe | 20 | [361](09-spells.md#嵩を増す物object-of-increased-size) |
-| *鉄の壁を消し去る* | PeTe | 20 | [361](09-spells.md#鉄の壁を消し去るobliteration-of-the-metallic-barrier) |
-| *触れざる隧道を開く* | ReVi | 汎用 | [372](09-spells.md#触れざる隧道を開くopening-the-intangible-tunnel) |
-| *獣の心の巻を繙く* | InAn | 25 | [317](09-spells.md#獣の心の巻を繙くopening-the-tome-of-the-animals-mind) |
-| *止まぬ憂いの疼き* | CrMe | 20 | [353](09-spells.md#止まぬ憂いの疼きpains-of-the-perpetual-worry) |
-| *炎の掌* | CrIg | 5 | [343](09-spells.md#炎の掌palm-of-flame) |
-| *象すら怯ゆる鼠* | ReAn | 15 | [319](09-spells.md#象すら怯ゆる鼠panic-of-the-elephants-mouse) |
-| *震う心の怯え* | CrMe | 15 | [353](09-spells.md#震う心の怯えpanic-of-the-trembling-heart) |
-| *干上がらす風* | PeAq | 20 | [323](09-spells.md#干上がらす風parching-wind) |
-| *潮を分かつ* | ReAq | 30 | [324](09-spells.md#潮を分かつparting-the-waves) |
-| *開かずの扉を抜ける* | MuHe | 5 | [340](09-spells.md#開かずの扉を抜けるpass-the-unyielding-portal) |
-| *情を失う* | PeMe | 25 | [356](09-spells.md#情を失うpassions-lost-feeling) |
-| *他人の来し方* | MuMe | 35 | [355](09-spells.md#他人の来し方past-of-another) |
-| *人の心を覗き見る* | InMe | 30 | [354](09-spells.md#人の心を覗き見るpeering-into-the-mortal-mind) |
-| *相克する心根の察し* | InMe | 15 | [354](09-spells.md#相克する心根の察しperception-of-the-conflicting-motives) |
-| *人の姿の幻* | CrIm | 25 | [348](09-spells.md#人の姿の幻phantasm-of-the-human-form) |
-| *物言う首の幻* | CrIm | 10 | [348](09-spells.md#物言う首の幻phantasm-of-the-talking-head) |
-| *幻の獣* | CrIm | 20 | [348](09-spells.md#幻の獣phantasmal-animal) |
-| *幻の火* | CrIm | 20 | [348](09-spells.md#幻の火phantasmal-fire) |
-| *幻の天禀* | CrVi | 15 | [365](09-spells.md#幻の天禀the-phantom-gift) |
-| *薬師の眼* | InCo | 5 | [333](09-spells.md#薬師の眼physicians-eye) |
-| *貫く木の矢* | MuHe | 10 | [341](09-spells.md#貫く木の矢piercing-shaft-of-wood) |
-| *妖精の帳を貫く* | InVi | 20 | [367](09-spells.md#妖精の帳を貫くpiercing-the-faerie-veil) |
-| *火のピルム* | CrIg | 20 | [344](09-spells.md#火のピルムpilum-of-fire) |
-| *口開く大地の穴* | PeTe | 15 | [361](09-spells.md#口開く大地の穴pit-of-the-gaping-earth) |
-| *草木を萎えさす災い* | PeHe | 20 | [341](09-spells.md#草木を萎えさす災いplants-withering-bane) |
-| *意志を毒す* | PeMe | 65 | [356](09-spells.md#意志を毒すpoisoning-the-will) |
-| *黙して問う* | InMe | 20 | [354](09-spells.md#黙して問うposing-the-silent-question) |
-| *尋常ならざる伸び縮み* | MuCo | 15 | [333](09-spells.md#尋常ならざる伸び縮みpreternatural-growth-and-shrinking) |
-| *炎の牢* | MuIg | 20 | [345](09-spells.md#炎の牢prison-of-flames) |
-| *純銀を探る* | InTe | 4 | [359](09-spells.md#純銀を探るprobe-for-pure-silver) |
-| *自然の秘めたる理を探る* | InHe | 4 | [340](09-spells.md#自然の秘めたる理を探るprobe-natures-hidden-lore) |
-| *覗き見る眼* | InIm | 5 | [349](09-spells.md#覗き見る眼prying-eyes) |
-| *天翔る風の誘い* | CrAu | 30 | [326](09-spells.md#天翔る風の誘いpull-of-the-skybound-winds) |
-| *水底の墓へ誘う手* | ReAq | 35 | [325](09-spells.md#水底の墓へ誘う手pull-of-the-watery-grave) |
-| *膿む傷の清め* | CrCo | 20 | [332](09-spells.md#膿む傷の清めpurification-of-the-festering-wounds) |
-| *凪の波の押し* | ReAq | 15 | [324](09-spells.md#凪の波の押しpush-of-the-gentle-wave) |
-| *荒ぶる風を鎮む* | PeAu | 20 | [329](09-spells.md#荒ぶる風を鎮むquiet-the-raging-winds) |
-| *油の雨* | MuAu | 50 | [329](09-spells.md#油の雨rain-of-oil) |
-| *礫の雨* | MuAu | 20 | [328](09-spells.md#礫の雨rain-of-stones) |
-| *生きざりし日の記憶* | MuMe | 4 | [355](09-spells.md#生きざりし日の記憶recollection-of-memories-never-quite-lived) |
-| *目立つ印を消す* | PeIm | 20 | [351](09-spells.md#目立つ印を消すremoval-of-the-conspicuous-sigil) |
-| *木の矢を退ける* | ReHe | 10 | [342](09-spells.md#木の矢を退けるrepel-the-wooden-shafts) |
-| *穢れし身の立ち直り* | CrCo | 25 | [332](09-spells.md#穢れし身の立ち直りrestoration-of-the-defiled-body) |
-| *褪せし糸を蘇らす* | CrVi | 汎用 | [365](09-spells.md#褪せし糸を蘇らすrestore-the-faded-threads) |
-| *移されし像を戻す* | ReIm | 汎用 | [352](09-spells.md#移されし像を戻すrestore-the-moved-image) |
-| *死すべき肉の綻び* | InCo | 10 | [333](09-spells.md#死すべき肉の綻びrevealed-flaws-of-mortal-flesh) |
-| *霊を阻む環* | ReMe | 汎用 | [357](09-spells.md#霊を阻む環ring-of-warding-against-spirits) |
-| *羽のごとく浮かぶ身* | ReCo | 10 | [337](09-spells.md#羽のごとく浮かぶ身rise-of-the-feathery-body) |
-| *兆す怒り* | CrMe | 15 | [353](09-spells.md#兆す怒りrising-ire) |
-| *粘る土と化す岩* | MuTe | 15 | [361](09-spells.md#粘る土と化す岩rock-of-viscid-clay) |
-| *淀む気の室* | PeAu | 15 | [329](09-spells.md#淀む気の室room-of-stale-air) |
-| *青銅の縄* | MuHe | 15 | [341](09-spells.md#青銅の縄rope-of-bronze) |
-| *二百年の錆朽* | PeTe | 10 | [361](09-spells.md#二百年の錆朽rusted-decay-of-ten-score-years) |
-| *水夫の明日を知る勘* | InAu | 15 | [327](09-spells.md#水夫の明日を知る勘sailors-foretaste-of-the-morrow) |
-| *魔法の重さを量る天秤* | InVi | 5 | [366](09-spells.md#魔法の重さを量る天秤scales-of-the-magical-weight) |
-| *安らけき眠りの香* | ReMe | 20 | [357](09-spells.md#安らけき眠りの香scent-of-peaceful-slumber) |
-| *地を封ずる* | CrTe | 15 | [359](09-spells.md#地を封ずるseal-the-earth) |
-| *魔力を覚る* | InVi | 2 | [366](09-spells.md#魔力を覚るsense-of-magical-power) |
-| *残り漂う魔法を覚る* | InVi | 30 | [367](09-spells.md#残り漂う魔法を覚るsense-of-the-lingering-magic) |
-| *大地を踏む足を覚る* | InTe | 30 | [360](09-spells.md#大地を踏む足を覚るsense-the-feet-that-thread-the-earth) |
-| *ウィースの性を覚る* | InVi | 5 | [367](09-spells.md#ウィースの性を覚るsense-the-nature-of-vis) |
-| *七里を跨ぐ歩み* | ReCo | 30 | [338](09-spells.md#七里を跨ぐ歩みseven-league-stride) |
-| *断たれし手足の繋ぎ* | CrCo | 25 | [332](09-spells.md#断たれし手足の繋ぎthe-severed-limb-made-whole) |
-| *人の世の影* | CrIm | 40 | [349](09-spells.md#人の世の影the-shadow-of-human-life) |
-| *蘇る命の影* | CrCo | 75 | [332](09-spells.md#蘇る命の影the-shadow-of-life-renewed) |
-| *過ぎし火の影* | InIg | 15 | [345](09-spells.md#過ぎし火の影shadows-of-the-fires-past) |
-| *森を彷徨うものの姿* | MuCo | 25 | [334](09-spells.md#森を彷徨うものの姿shape-of-the-woodland-prowler) |
-| *偽りの判じの殻* | CrVi | 汎用 | [365](09-spells.md#偽りの判じの殻shell-of-false-determinations) |
-| *朧なる神秘の殻* | CrVi | 汎用 | [365](09-spells.md#朧なる神秘の殻shell-of-opaque-mysteries) |
-| *狼憑きの粟立ち* | InAn | 10 | [317](09-spells.md#狼憑きの粟立ちshiver-of-the-lycanthrope) |
-| *炎と煙の見世物* | MuIg | 10 | [345](09-spells.md#炎と煙の見世物show-of-the-flames-and-smoke) |
-| *飛び来る矢の叫び* | InHe | 15 | [340](09-spells.md#飛び来る矢の叫びshriek-of-the-impending-shafts) |
-| *魔法を覆う帳* | MuVi | 汎用 | [368](09-spells.md#魔法を覆う帳shroud-magic) |
-| *覆われし谷* | ReMe | 40 | [358](09-spells.md#覆われし谷the-shrouded-glen) |
-| *働く魔法を見る眼* | InVi | 40 | [367](09-spells.md#働く魔法を見る眼sight-of-the-active-magics) |
-| *透ける心根を見る眼* | InMe | 10 | [354](09-spells.md#透ける心根を見る眼sight-of-the-transparent-motive) |
-| *真の姿を見透かす眼* | InCo | 汎用 | [333](09-spells.md#真の姿を見透かす眼sight-of-the-true-form) |
-| *音を押し殺す静寂* | PeIm | 20 | [351](09-spells.md#音を押し殺す静寂silence-of-the-smothered-sound) |
-| *黙しての徹夜* | MuCo | 45 | [335](09-spells.md#黙しての徹夜the-silent-vigil) |
-| *目覚めの指鳴らし* | ReMe | 10 | [357](09-spells.md#目覚めの指鳴らしsnap-of-awakening) |
-| *獣の疼きを鎮むる手* | CrAn | 20 | [316](09-spells.md#獣の疼きを鎮むる手soothe-pains-of-the-beast) |
-| *荒ぶる熊を和ます* | ReAn | 10 | [319](09-spells.md#荒ぶる熊を和ますsoothe-the-ferocious-bear) |
-| *荒ぶる炎を鎮む* | PeIg | 20 | [346](09-spells.md#荒ぶる炎を鎮むsoothe-the-raging-flames) |
-| *術者の二叉* | MuVi | 汎用 | [368](09-spells.md#術者の二叉the-sorcerers-fork) |
-| *意に添わぬ手の引き攣り* | ReCo | 5 | [337](09-spells.md#意に添わぬ手の引き攣りspasms-of-the-uncontrolled-hand) |
-| *忍ぶ木の佇まい* | MuCo | 35 | [335](09-spells.md#忍ぶ木の佇まいstance-of-the-patient-tree) |
-| *復讐の駒* | MuAn | 35 | [318](09-spells.md#復讐の駒steed-of-vengeance) |
-| *二十の屍の臭い* | CrAu | 10 | [326](09-spells.md#二十の屍の臭いstench-of-the-twenty-corpses) |
-| *まどろむ木を揺り起こす* | MuHe | 25 | [341](09-spells.md#まどろむ木を揺り起こすstir-the-slumbering-tree) |
-| *坐する心の石の語り* | InTe | 30 | [360](09-spells.md#坐する心の石の語りstone-tell-of-the-mind-that-sits) |
-| *石を零るる塵に* | PeTe | 20 | [362](09-spells.md#石を零るる塵にstone-to-falling-dust) |
-| *荒ぶる枝の打ち* | ReHe | 15 | [342](09-spells.md#荒ぶる枝の打ちstrike-of-the-angered-branch) |
-| *意に染まぬ傀儡の糸* | ReCo | 25 | [338](09-spells.md#意に染まぬ傀儡の糸strings-of-the-unwilling-marionette) |
-| *毒と清らの淡き味わい* | InAq | 5 | [321](09-spells.md#毒と清らの淡き味わいsubtle-taste-of-poison-and-purity) |
-| *遠き像を招く* | InIm | 25 | [350](09-spells.md#遠き像を招くsummoning-the-distant-image) |
-| *しなう鉄と強張る縄* | MuTe | 10 | [361](09-spells.md#しなう鉄と強張る縄supple-iron-and-rigid-rope) |
-| *魔術師の手業を抑える* | ReVi | 汎用 | [372](09-spells.md#魔術師の手業を抑えるsuppressing-the-wizards-handiwork) |
-| *灰の語り* | InIg | 5 | [345](09-spells.md#灰の語りtales-of-the-ashes) |
-| *風の爪* | MuAu | 20 | [328](09-spells.md#風の爪talons-of-the-winds) |
-| *木と荊の絡み* | ReHe | 15 | [342](09-spells.md#木と荊の絡みtangle-of-wood-and-thorns) |
-| *鈍りし舌の味* | PeIm | 5 | [351](09-spells.md#鈍りし舌の味taste-of-the-dulled-tongue) |
-| *香と草の味わい* | MuIm | 5 | [350](09-spells.md#香と草の味わいtaste-of-the-spices-and-herbs) |
-| *地母の牙* | MuTe | 35 | [361](09-spells.md#地母の牙teeth-of-the-earth-mother) |
-| *草木を鉄に変ずる秘術* | MuHe | 20 | [341](09-spells.md#草木を鉄に変ずる秘術thaumaturgical-transformation-of-plants-to-iron) |
-| *喧噪に紛るる思い* | InMe | 25 | [354](09-spells.md#喧噪に紛るる思いthoughts-within-babble) |
-| *舌の先* | PeMe | 5 | [355](09-spells.md#舌の先tip-of-the-tongue) |
-| *ミダスの触れ* | CrTe | 20 | [359](09-spells.md#ミダスの触れtouch-of-midas) |
-| *鵞の羽の触れ* | PeCo | 5 | [335](09-spells.md#鵞の羽の触れtouch-of-the-goose-feather) |
-| *真珠に触るる指* | InAq | 5 | [322](09-spells.md#真珠に触るる指touch-of-the-pearls) |
-| *渦巻く水の柱* | ReAq | 35 | [325](09-spells.md#渦巻く水の柱tower-of-whirling-water) |
-| *跡なき歩み* | ReTe | 10 | [363](09-spells.md#跡なき歩みtrackless-step) |
-| *妖精の光の跡* | InTe | 25 | [359](09-spells.md#妖精の光の跡tracks-of-the-faerie-glow) |
-| *水と化す* | MuCo | 40 | [335](09-spells.md#水と化すtransform-to-water) |
-| *餓えたる獣を鈍き蟇に変ずる術* | MuAn | 25 | [318](09-spells.md#餓えたる獣を鈍き蟇に変ずる術transformation-of-the-ravenous-beast-to-the-torpid-toad) |
-| *荊の杖への変じ* | MuHe | 10 | [341](09-spells.md#荊の杖への変じtransformation-of-the-thorny-staff) |
-| *纏いつく蔓の罠* | CrHe | 15 | [339](09-spells.md#纏いつく蔓の罠trap-of-the-entwining-vines) |
-| *火を捕らう* | MuIg | 25 | [346](09-spells.md#火を捕らうtrapping-the-fire) |
-| *裏切りの槍* | ReHe | 25 | [343](09-spells.md#裏切りの槍the-treacherous-spear) |
-| *灰の道を踏む* | PeHe | 30 | [342](09-spells.md#灰の道を踏むtreading-the-ashen-path) |
-| *松明の炎の揺らぎ跳び* | ReIg | 5 | [347](09-spells.md#松明の炎の揺らぎ跳びtremulous-vault-of-the-torchs-flame) |
-| *傷つきし獣のまことの安らい* | CrAn | 20 | [316](09-spells.md#傷つきし獣のまことの安らいtrue-rest-of-the-injured-brute) |
-| *気を見透かす眼* | InAu | 15 | [327](09-spells.md#気を見透かす眼true-sight-of-the-air) |
-| *童のごとき信* | PeMe | 10 | [356](09-spells.md#童のごとき信trust-of-childlike-faith) |
-| *舌の捩れ* | PeCo | 30 | [336](09-spells.md#舌の捩れtwist-of-the-tongue) |
-| *生ける木を捩る* | ReHe | 25 | [343](09-spells.md#生ける木を捩るtwist-the-living-tree) |
-| *［形相］の織りを解く* | PeVi | 汎用 | [370](09-spells.md#形相の織りを解くunravelling-the-fabric-of-form) |
-| *見えざる腕* | ReTe | 5 | [362](09-spells.md#見えざる腕unseen-arm) |
-| *見えざる荷担ぎ* | ReTe | 10 | [363](09-spells.md#見えざる荷担ぎthe-unseen-porter) |
-| *揺るがぬ大地* | ReTe | 10 | [363](09-spells.md#揺るがぬ大地unyielding-earth) |
-| *姿を隠す帳* | PeIm | 20 | [351](09-spells.md#姿を隠す帳veil-of-invisibility) |
-| *子を成さぬ濁り水* | MuAq | 45 | [323](09-spells.md#子を成さぬ濁り水vile-water-of-sterility) |
-| *蝮の睨み* | ReAn | 15 | [320](09-spells.md#蝮の睨みvipers-gaze) |
-| *熱の光を見る眼* | InIg | 20 | [345](09-spells.md#熱の光を見る眼vision-of-heats-light) |
-| *憑く霊を見る眼* | MuMe | 40 | [355](09-spells.md#憑く霊を見る眼vision-of-the-haunting-spirits) |
-| *奈落の怖れの幻* | ReMe | 30 | [357](09-spells.md#奈落の怖れの幻visions-of-the-infernal-terrors) |
-| *湖水の物言い* | InAq | 25 | [322](09-spells.md#湖水の物言いvoice-of-the-lake) |
-| *歩く屍* | ReCo | 35 | [339](09-spells.md#歩く屍the-walking-corpse) |
-| *生ける木の壁* | CrHe | 25 | [339](09-spells.md#生ける木の壁wall-of-living-wood) |
-| *護りの石壁* | CrTe | 25 | [359](09-spells.md#護りの石壁wall-of-protecting-stone) |
-| *荊の壁* | CrHe | 20 | [339](09-spells.md#荊の壁wall-of-thorns) |
-| *風の妖精を阻む結界* | ReAu | 汎用 | [329](09-spells.md#風の妖精を阻む結界ward-against-faeries-of-the-air) |
-| *山の妖精を阻む結界* | ReTe | 汎用 | [362](09-spells.md#山の妖精を阻む結界ward-against-faeries-of-the-mountain) |
-| *水の妖精を阻む結界* | ReAq | 汎用 | [323](09-spells.md#水の妖精を阻む結界ward-against-faeries-of-the-waters) |
-| *森の妖精を阻む結界* | ReHe | 汎用 | [342](09-spells.md#森の妖精を阻む結界ward-against-faeries-of-the-wood) |
-| *熱と炎を阻む結界* | ReIg | 25 | [347](09-spells.md#熱と炎を阻む結界ward-against-heat-and-flames) |
-| *雨を阻む結界* | ReAu | 10 | [330](09-spells.md#雨を阻む結界ward-against-rain) |
-| *伝えの獣を阻む結界* | ReAn | 汎用 | [319](09-spells.md#伝えの獣を阻む結界ward-against-the-beasts-of-legend) |
-| *木を阻む結界* | ReHe | 25 | [343](09-spells.md#木を阻む結界ward-against-wood) |
-| *見張りの結界* | ReVi | 汎用 | [372](09-spells.md#見張りの結界watching-ward) |
-| *溺れさせ砕く波* | ReAq | 30 | [324](09-spells.md#溺れさせ砕く波waves-of-drowning-and-smashing) |
-| *蜘蛛の織り手の絡め網* | CrAn | 35 | [316](09-spells.md#蜘蛛の織り手の絡め網weavers-trap-of-webs) |
-| *千の奈落の重み* | CrMe | 25 | [353](09-spells.md#千の奈落の重みweight-of-a-thousand-hells) |
-| *光なき井戸* | PeIg | 25 | [346](09-spells.md#光なき井戸well-without-light) |
-| *囁く風* | InAu | 15 | [327](09-spells.md#囁く風whispering-winds) |
-| *黒き門越しの囁き* | InCo | 15 | [333](09-spells.md#黒き門越しの囁きwhispers-through-the-black-gate) |
-| *見えざる投石紐の操り* | ReTe | 10 | [363](09-spells.md#見えざる投石紐の操りwielding-the-invisible-sling) |
-| *背を押す風* | ReAu | 5 | [329](09-spells.md#背を押す風wind-at-the-back) |
-| *世俗の静寂を運ぶ風* | PeVi | 汎用 | [370](09-spells.md#世俗の静寂を運ぶ風wind-of-mundane-silence) |
-| *風に乗る翼* | CrAu | 30 | [326](09-spells.md#風に乗る翼wings-of-the-soaring-wind) |
-| *冬の氷の手* | PeIg | 10 | [346](09-spells.md#冬の氷の手winters-icy-touch) |
-| *魔術師の秋* | PeHe | 15 | [341](09-spells.md#魔術師の秋wizards-autumn) |
-| *魔術師の増強［形相］* | MuVi | 汎用 | [368](09-spells.md#魔術師の増強形相wizards-boost-form) |
-| *魔術師の同調* | MuVi | 汎用 | [369](09-spells.md#魔術師の同調wizards-communion) |
-| *魔術師の日蝕* | PeIg | 35 | [346](09-spells.md#魔術師の日蝕wizards-eclipse) |
-| *魔術師の氷の握り* | PeIg | 30 | [346](09-spells.md#魔術師の氷の握りwizards-icy-grip) |
-| *魔術師の駒* | CrAn | 35 | [316](09-spells.md#魔術師の駒the-wizards-mount) |
-| *魔術師の届き［形相］* | MuVi | 汎用 | [369](09-spells.md#魔術師の届き形相wizards-reach-form) |
-| *魔術師の横歩み* | ReIm | 10 | [352](09-spells.md#魔術師の横歩みwizards-sidestep) |
-| *魔術師の徹夜祷* | MuVi | 汎用 | [370](09-spells.md#魔術師の徹夜祷wizards-vigil) |
-| *揺らめく炎の言の葉* | InIg | 35 | [345](09-spells.md#揺らめく炎の言の葉words-of-the-flickering-flame) |
-| *破られぬ静寂の言の葉* | CrMe | 10 | [353](09-spells.md#破られぬ静寂の言の葉words-of-the-unbroken-silence) |
-| *泣き止まぬ傷* | PeCo | 15 | [335](09-spells.md#泣き止まぬ傷the-wound-that-weeps) |
-| *渦巻く風と水の憤り* | CrAu | 65 | [327](09-spells.md#渦巻く風と水の憤りwrath-of-whirling-winds-and-water) |
-| *悪臭立つ煙の輪* | CrAu | 10 | [326](09-spells.md#悪臭立つ煙の輪wreaths-of-foul-smoke) |
+| *炉辺のアエギス* | ReVi | 汎用 | [370](09-spells.md#炉辺のアエギス-aegis-of-the-hearth) |
+| *獣の悶え* | PeAn | 15 | [318](09-spells.md#獣の悶え-agony-of-the-beast) |
+| *気の幽けき姿* | CrAu | 5 | [325](09-spells.md#気の幽けき姿-airs-ghostly-form) |
+| *炎の帯の弧* | CrIg | 25 | [344](09-spells.md#炎の帯の弧-arc-of-fiery-ribbons) |
+| *嬰児の腕* | MuCo | 20 | [334](09-spells.md#嬰児の腕-arm-of-the-infant) |
+| *貴きものの気配* | MuIm | 10 | [350](09-spells.md#貴きものの気配-aura-of-ennobled-presence) |
+| *正統なる威の輝き* | ReMe | 20 | [357](09-spells.md#正統なる威の輝き-aura-of-rightful-authority) |
+| *まどろむ屍を起こす* | ReCo | 25 | [338](09-spells.md#まどろむ屍を起こす-awaken-the-slumbering-corpse) |
+| *奈落の炎の球* | CrIg | 35 | [344](09-spells.md#奈落の炎の球-ball-of-abysmal-flame) |
+| *老い衰えし身の災い* | PeCo | 25 | [336](09-spells.md#老い衰えし身の災い-bane-of-the-decrepit-body) |
+| *芥子粒の獣* | MuAn | 20 | [318](09-spells.md#芥子粒の獣-beast-of-minuscule-proportions) |
+| *異形に膨るる獣* | MuAn | 15 | [317](09-spells.md#異形に膨るる獣-beast-of-outlandish-size) |
+| *造り替えられし獣* | MuAn | 25 | [318](09-spells.md#造り替えられし獣-the-beast-remade) |
+| *創を綴じる手* | CrCo | 10 | [332](09-spells.md#創を綴じる手-bind-wound) |
+| *黒き囁き* | PeMe | 40 | [356](09-spells.md#黒き囁き-black-whisper) |
+| *毒々しき炎の刃* | CrIg | 15 | [344](09-spells.md#毒々しき炎の刃-blade-of-the-virulent-flame) |
+| *童の至福の祝福* | PeMe | 25 | [356](09-spells.md#童の至福の祝福-blessing-of-childlike-bliss) |
+| *蝮の牙を鈍らす* | PeAn | 20 | [319](09-spells.md#蝮の牙を鈍らす-blunt-the-vipers-fangs) |
+| *満ち足る饗* | CrHe | 35 | [339](09-spells.md#満ち足る饗-the-bountiful-feast) |
+| *寄せ来る波を砕く* | ReAq | 10 | [324](09-spells.md#寄せ来る波を砕く-break-the-oncoming-wave) |
+| *大空の息吹* | CrAu | 40 | [327](09-spells.md#大空の息吹-breath-of-the-open-sky) |
+| *冬の吐息* | ReAq | 15 | [324](09-spells.md#冬の吐息-breath-of-winter) |
+| *霜の懸け橋* | ReAq | 30 | [324](09-spells.md#霜の懸け橋-bridge-of-frost) |
+| *木の懸け橋* | CrHe | 20 | [339](09-spells.md#木の懸け橋-bridge-of-wood) |
+| *吹き払う風の箒* | CrAu | 15 | [326](09-spells.md#吹き払う風の箒-broom-of-the-winds) |
+| *薙ぎ払う炎の迸り* | ReIg | 25 | [347](09-spells.md#薙ぎ払う炎の迸り-burst-of-the-sweeping-flames) |
+| *奔る水の呼ばい* | InAq | 15 | [322](09-spells.md#奔る水の呼ばい-call-of-the-rushing-waters) |
+| *眠りへの誘い* | ReMe | 10 | [357](09-spells.md#眠りへの誘い-the-call-to-slumber) |
+| *木々の評定を召す* | ReHe | 45 | [343](09-spells.md#木々の評定を召す-calling-the-council-of-the-trees) |
+| *忌まわしき旱を招く* | PeAq | 50 | [323](09-spells.md#忌まわしき旱を招く-calling-the-odious-drought) |
+| *心の揺らぎを鎮む* | PeMe | 15 | [356](09-spells.md#心の揺らぎを鎮む-calm-the-motion-of-the-heart) |
+| *囚われの声* | ReIm | 30 | [352](09-spells.md#囚われの声-the-captive-voice) |
+| *岩の奔流* | PeTe | 40 | [362](09-spells.md#岩の奔流-cascade-of-rocks) |
+| *姿消ゆる室* | PeIm | 25 | [351](09-spells.md#姿消ゆる室-chamber-of-invisibility) |
+| *春風の室* | CrAu | 5 | [325](09-spells.md#春風の室-chamber-of-spring-breezes) |
+| *荒ぶる波の乱れ* | ReAq | 30 | [324](09-spells.md#荒ぶる波の乱れ-chaos-of-the-angry-waves) |
+| *荒ぶる風の襲い* | CrAu | 15 | [326](09-spells.md#荒ぶる風の襲い-charge-of-the-angry-winds) |
+| *腐れを防ぐ護符* | CrCo | 10 | [332](09-spells.md#腐れを防ぐ護符-charm-against-putrefaction) |
+| *死の使いを謀る* | CrCo | 30 | [332](09-spells.md#死の使いを謀る-cheating-the-reaper) |
+| *外科医の癒し手* | CrCo | 20 | [332](09-spells.md#外科医の癒し手-the-chirurgeons-healing-touch) |
+| *獣を阻む円環* | ReAn | 5 | [319](09-spells.md#獣を阻む円環-circle-of-beast-warding) |
+| *囲む炎の輪* | CrIg | 35 | [344](09-spells.md#囲む炎の輪-circle-of-encompassing-flames) |
+| *守り巡る風* | CrAu | 20 | [326](09-spells.md#守り巡る風-circling-winds-of-protection) |
+| *悪魔を阻む円環の結界* | ReVi | 汎用 | [371](09-spells.md#悪魔を阻む円環の結界-circular-ward-against-demons) |
+| *水の精の澄み眼* | InAq | 5 | [321](09-spells.md#水の精の澄み眼-clear-sight-of-the-naiad) |
+| *心の臓を締め上ぐる手* | PeCo | 40 | [336](09-spells.md#心の臓を締め上ぐる手-clenching-grasp-of-the-crushed-heart) |
+| *烏羽の羽衣* | MuCo | 30 | [334](09-spells.md#烏羽の羽衣-cloak-of-black-feathers) |
+| *霧の衣* | MuCo | 40 | [335](09-spells.md#霧の衣-cloak-of-mist) |
+| *鴨羽の衣* | ReAq | 5 | [323](09-spells.md#鴨羽の衣-cloak-of-the-ducks-feathers) |
+| *地の門を閉ざす* | PeAq | 25 | [323](09-spells.md#地の門を閉ざす-closing-the-earths-gate) |
+| *雲なき空の戻り* | PeAu | 45 | [329](09-spells.md#雲なき空の戻り-the-cloudless-sky-returned) |
+| *雨と雷を孕む雲* | CrAu | 25 | [326](09-spells.md#雨と雷を孕む雲-clouds-of-rain-and-thunder) |
+| *夏に雪降らす雲* | CrAu | 25 | [326](09-spells.md#夏に雪降らす雲-clouds-of-summer-snow) |
+| *雷鳴を孕む雲* | ReAu | 30 | [330](09-spells.md#雷鳴を孕む雲-clouds-of-thunderous-might) |
+| *炎の衣* | CrIg | 25 | [344](09-spells.md#炎の衣-coat-of-flame) |
+| *夜の霊を従わす* | ReMe | 20 | [357](09-spells.md#夜の霊を従わす-coerce-the-spirits-of-the-night) |
+| *絡む草の巻きつき* | ReHe | 20 | [342](09-spells.md#絡む草の巻きつき-coils-of-the-entangling-plants) |
+| *濡れそぼつ旅人の慰め* | PeAq | 5 | [323](09-spells.md#濡れそぼつ旅人の慰め-comfort-of-the-drenched-traveler) |
+| *くびきの獣への下知* | ReAn | 30 | [320](09-spells.md#くびきの獣への下知-commanding-the-harnessed-beast) |
+| *狂える震えの惑わし* | ReIm | 30 | [352](09-spells.md#狂える震えの惑わし-confusion-of-the-insane-vibrations) |
+| *痺れし心の惑い* | ReMe | 15 | [357](09-spells.md#痺れし心の惑い-confusion-of-the-numbed-will) |
+| *紛れもなき寒気を招く* | PeIg | 25 | [346](09-spells.md#紛れもなき寒気を招く-conjuration-of-the-indubitable-cold) |
+| *頑なる蔓を招く* | CrHe | 5 | [339](09-spells.md#頑なる蔓を招く-conjure-the-sturdy-vine) |
+| *神秘の塔を召す* | CrTe | 35 | [359](09-spells.md#神秘の塔を召す-conjuring-the-mystic-tower) |
+| *草木と語らう* | InHe | 25 | [340](09-spells.md#草木と語らう-converse-with-plant-and-tree) |
+| *這い寄る地の裂け目* | ReTe | 30 | [363](09-spells.md#這い寄る地の裂け目-creeping-chasm) |
+| *這い寄る油* | CrAq | 15 | [321](09-spells.md#這い寄る油-creeping-oil) |
+| *土波の穂先* | ReTe | 20 | [363](09-spells.md#土波の穂先-crest-of-the-earth-wave) |
+| *吼ゆる狼の足を萎やす* | PeAn | 25 | [319](09-spells.md#吼ゆる狼の足を萎やす-cripple-the-howling-wolf) |
+| *水晶の投げ矢* | MuTe | 10 | [360](09-spells.md#水晶の投げ矢-the-crystal-dart) |
+| *キルケの呪い* | MuCo | 30 | [334](09-spells.md#キルケの呪い-curse-of-circe) |
+| *荒野の呪詛* | PeAq | 25 | [323](09-spells.md#荒野の呪詛-curse-of-the-desert) |
+| *物の憑く森の呪詛* | MuHe | 60 | [341](09-spells.md#物の憑く森の呪詛-curse-of-the-haunted-forest) |
+| *癩に朽つる肉の呪詛* | PeCo | 25 | [336](09-spells.md#癩に朽つる肉の呪詛-curse-of-the-leprous-flesh) |
+| *餓えたる群れの呪詛* | CrAn | 50 | [316](09-spells.md#餓えたる群れの呪詛-curse-of-the-ravenous-swarm) |
+| *朽ち木の呪い* | PeHe | 5 | [341](09-spells.md#朽ち木の呪い-curse-of-the-rotted-wood) |
+| *予兆なき疫の呪詛* | PeCo | 55 | [337](09-spells.md#予兆なき疫の呪詛-curse-of-the-unportended-plague) |
+| *利かぬ舌の呪い* | ReCo | 5 | [337](09-spells.md#利かぬ舌の呪い-curse-of-the-unruly-tongue) |
+| *杖の踊り* | ReHe | 5 | [342](09-spells.md#杖の踊り-dance-of-the-staves) |
+| *毛皮と革の腐れ* | PeAn | 10 | [318](09-spells.md#毛皮と革の腐れ-decay-fur-and-hide) |
+| *奔り砕くる大水* | CrAq | 40 | [321](09-spells.md#奔り砕くる大水-deluge-of-rushing-and-dashing) |
+| *悪魔の永久の忘却* | PeVi | 汎用 | [370](09-spells.md#悪魔の永久の忘却-demons-eternal-oblivion) |
+| *震う枷の絶望* | ReCo | 15 | [337](09-spells.md#震う枷の絶望-despair-of-the-quivering-manacles) |
+| *己の幻を見分く* | InIm | 15 | [349](09-spells.md#己の幻を見分く-discern-own-illusions) |
+| *真と偽の像を見分く* | InIm | 汎用 | [349](09-spells.md#真と偽の像を見分く-discern-the-images-of-truth-and-falsehood) |
+| *呪付を解く* | PeVi | 汎用 | [370](09-spells.md#呪付を解く-disenchant) |
+| *面変わりの装い* | MuCo | 15 | [333](09-spells.md#面変わりの装い-disguise-of-the-new-visage) |
+| *腐り香の面変わり* | ReAn | 5 | [319](09-spells.md#腐り香の面変わり-disguise-of-the-putrid-aroma) |
+| *像を変ずる装い* | MuIm | 15 | [350](09-spells.md#像を変ずる装い-disguise-of-the-transformed-image) |
+| *幻の像を祓う* | PeIm | 汎用 | [351](09-spells.md#幻の像を祓う-dispel-the-phantom-image) |
+| *貫かれざる絹の帷子* | MuAn | 15 | [318](09-spells.md#貫かれざる絹の帷子-doublet-of-impenetrable-silk) |
+| *坐する心の夢* | InTe | 50 | [360](09-spells.md#坐する心の夢-dream-of-the-mind-that-sits) |
+| *塵は塵に* | PeCo | 15 | [335](09-spells.md#塵は塵に-dust-to-dust) |
+| *遠き声を捉うる耳* | InIm | 20 | [349](09-spells.md#遠き声を捉うる耳-the-ear-for-distant-voices) |
+| *大地の震え* | ReTe | 30 | [363](09-spells.md#大地の震え-earth-shock) |
+| *裂け割るる大地* | ReTe | 30 | [364](09-spells.md#裂け割るる大地-the-earth-split-asunder) |
+| *崩れざる大地* | MuTe | 20 | [361](09-spells.md#崩れざる大地-earth-that-breaks-no-more) |
+| *大地の腫れ物* | ReTe | 15 | [363](09-spells.md#大地の腫れ物-the-earths-carbuncle) |
+| *剃刀の刃* | MuTe | 20 | [361](09-spells.md#剃刀の刃-edge-of-the-razor) |
+| *物思いを離るる呪付* | PeMe | 15 | [356](09-spells.md#物思いを離るる呪付-enchantment-of-detachment) |
+| *遠見の淵の呪付* | InAq | 30 | [322](09-spells.md#遠見の淵の呪付-enchantment-of-the-scrying-pool) |
+| *堅城の終わり* | PeTe | 25 | [362](09-spells.md#堅城の終わり-end-of-the-mighty-castle) |
+| *狂戦士の粘り* | ReCo | 15 | [338](09-spells.md#狂戦士の粘り-endurance-of-the-berserkers) |
+| *エニグマの賜物* | CrVi | 30 | [365](09-spells.md#エニグマの賜物-the-enigmas-gift) |
+| *人の心を隷とす* | ReMe | 40 | [358](09-spells.md#人の心を隷とす-enslave-the-mortal-mind) |
+| *二つの心の入れ替え* | ReMe | 55 | [358](09-spells.md#二つの心の入れ替え-exchange-of-the-two-minds) |
+| *賢者の眼* | InCo | 30 | [333](09-spells.md#賢者の眼-the-eye-of-the-sage) |
+| *蝙蝠の目* | InAu | 25 | [327](09-spells.md#蝙蝠の目-eyes-of-the-bat) |
+| *猫の目* | MuCo | 5 | [333](09-spells.md#猫の目-eyes-of-the-cat) |
+| *鷲の眼* | InIm | 25 | [349](09-spells.md#鷲の眼-eyes-of-the-eagle) |
+| *悠久の眼* | InTe | 10 | [359](09-spells.md#悠久の眼-eyes-of-the-eons) |
+| *炎の眼* | InIg | 35 | [345](09-spells.md#炎の眼-eyes-of-the-flame) |
+| *危うき地を見る眼* | InTe | 15 | [359](09-spells.md#危うき地を見る眼-eyes-of-the-treacherous-terrain) |
+| *鷹の頭巾* | PeAn | 25 | [319](09-spells.md#鷹の頭巾-the-falcons-hood) |
+| *砕きの拳* | PeTe | 10 | [361](09-spells.md#砕きの拳-fist-of-shattering) |
+| *氷に彫られし炎* | MuIg | 35 | [346](09-spells.md#氷に彫られし炎-flames-of-sculpted-ice) |
+| *緋炎の閃き* | CrIg | 15 | [344](09-spells.md#緋炎の閃き-flash-of-the-scarlet-flames) |
+| *惑わしの霧* | MuAu | 45 | [328](09-spells.md#惑わしの霧-fog-of-confusion) |
+| *滑り油の足跡* | CrAq | 5 | [320](09-spells.md#滑り油の足跡-footsteps-of-slippery-oil) |
+| *情け深き大地* | ReTe | 10 | [363](09-spells.md#情け深き大地-the-forgiving-earth) |
+| *歩む木を解き放つ* | ReHe | 30 | [343](09-spells.md#歩む木を解き放つ-freeing-the-striding-tree) |
+| *語られた嘘の凍える息* | InMe | 20 | [354](09-spells.md#語られた嘘の凍える息-frosty-breath-of-the-spoken-lie) |
+| *獣の精を集む* | ReVi | 15 | [372](09-spells.md#獣の精を集む-gather-the-essence-of-the-beast) |
+| *嵐の力を集む* | ReAu | 40 | [330](09-spells.md#嵐の力を集む-gathering-of-the-stormy-might) |
+| *和ぎたる獣* | ReAn | 25 | [320](09-spells.md#和ぎたる獣-the-gentle-beast) |
+| *清められし身の優しき手* | CrCo | 20 | [332](09-spells.md#清められし身の優しき手-gentle-touch-of-the-purified-body) |
+| *理の賜物* | CrMe | 35 | [354](09-spells.md#理の賜物-gift-of-reason) |
+| *熊の剛き賜物* | MuCo | 25 | [334](09-spells.md#熊の剛き賜物-gift-of-the-bears-fortitude) |
+| *蛙の脚の賜物* | ReCo | 15 | [338](09-spells.md#蛙の脚の賜物-gift-of-the-frogs-legs) |
+| *精気の賜物* | ReCo | 20 | [338](09-spells.md#精気の賜物-the-gift-of-vigor) |
+| *夕闇の翳り* | PeIg | 10 | [346](09-spells.md#夕闇の翳り-gloom-of-evening) |
+| *大いなる腐れ* | PeHe | 25 | [341](09-spells.md#大いなる腐れ-the-great-rot) |
+| *喉を絞むる手* | PeCo | 25 | [336](09-spells.md#喉を絞むる手-grip-of-the-choking-hand) |
+| *這うものの伸び上がり* | MuAn | 15 | [318](09-spells.md#這うものの伸び上がり-growth-of-the-creeping-things) |
+| *掴み来る大地の手* | ReTe | 15 | [363](09-spells.md#掴み来る大地の手-hands-of-the-grasping-earth) |
+| *生き霊の現れ* | CrIm | 35 | [348](09-spells.md#生き霊の現れ-haunt-of-the-living-ghost) |
+| *灼くる鍛冶場の熱* | CrIg | 10 | [343](09-spells.md#灼くる鍛冶場の熱-heat-of-the-searing-forge) |
+| *ヘルメスの門* | ReTe | 75 | [364](09-spells.md#ヘルメスの門-hermes-portal) |
+| *雀蜂の火* | MuIg | 10 | [345](09-spells.md#雀蜂の火-hornet-fire) |
+| *野の薬草を求む* | InHe | 5 | [340](09-spells.md#野の薬草を求む-hunt-for-the-wild-herb) |
+| *狩人の冴え* | InAn | 30 | [317](09-spells.md#狩人の冴え-hunters-sense) |
+| *人を溺らす氷* | ReAq | 35 | [324](09-spells.md#人を溺らす氷-ice-of-drowning) |
+| *冷たき炎の幻* | PeIm | 10 | [351](09-spells.md#冷たき炎の幻-illusion-of-cool-flames) |
+| *置き違えられし城の幻* | ReIm | 50 | [352](09-spells.md#置き違えられし城の幻-illusion-of-the-misplaced-castle) |
+| *ずれたる像の幻* | ReIm | 10 | [352](09-spells.md#ずれたる像の幻-illusion-of-the-shifted-image) |
+| *魔術師から離れた像* | ReIm | 35 | [352](09-spells.md#魔術師から離れた像-image-from-the-wizard-torn) |
+| *獣の面影* | InAn | 5 | [316](09-spells.md#獣の面影-image-of-the-beast) |
+| *像の幻* | MuIm | 20 | [350](09-spells.md#像の幻-image-phantom) |
+| *稲妻の呪言* | CrAu | 35 | [327](09-spells.md#稲妻の呪言-the-incantation-of-lightning) |
+| *葡萄酒を腐らす呪言* | MuAq | 15 | [322](09-spells.md#葡萄酒を腐らす呪言-incantation-of-putrid-wine) |
+| *亡き者を呼ばう呪言* | ReMe | 40 | [358](09-spells.md#亡き者を呼ばう呪言-incantation-of-summoning-the-dead) |
+| *身を全うする呪言* | CrCo | 40 | [332](09-spells.md#身を全うする呪言-incantation-of-the-body-made-whole) |
+| *眼を白く濁らす呪言* | PeCo | 30 | [336](09-spells.md#眼を白く濁らす呪言-incantation-of-the-milky-eyes) |
+| *逃れ得ぬ尋ね* | InCo | 20 | [333](09-spells.md#逃れ得ぬ尋ね-the-inexorable-search) |
+| *死をもたらす奈落の煙* | MuAu | 40 | [328](09-spells.md#死をもたらす奈落の煙-infernal-smoke-of-death) |
+| *心底の友* | MuMe | 40 | [355](09-spells.md#心底の友-inmost-companion) |
+| *森の勘* | InHe | 10 | [340](09-spells.md#森の勘-intuition-of-the-forest) |
+| *佇む魔術師の不可視* | PeIm | 15 | [351](09-spells.md#佇む魔術師の不可視-invisibility-of-the-standing-wizard) |
+| *見えざる眼を露わにす* | InVi | 汎用 | [366](09-spells.md#見えざる眼を露わにす-the-invisible-eye-revealed) |
+| *ウィラノの見えざる投石紐* | ReTe | 10 | [363](09-spells.md#ウィラノの見えざる投石紐-invisible-sling-of-vilano) |
+| *倦みを招く呪言* | PeCo | 20 | [336](09-spells.md#倦みを招く呪言-invocation-of-weariness) |
+| *ユピテルの轟く鉄槌* | CrAu | 10 | [326](09-spells.md#ユピテルの轟く鉄槌-jupiters-resounding-blow) |
+| *死の口づけ* | PeCo | 45 | [336](09-spells.md#死の口づけ-the-kiss-of-death) |
+| *炎なき灯* | CrIg | 10 | [344](09-spells.md#炎なき灯-lamp-without-flame) |
+| *憑く霊を鎮む* | PeMe | 汎用 | [355](09-spells.md#憑く霊を鎮む-lay-to-rest-the-haunting-spirit) |
+| *家路への跳躍* | ReCo | 35 | [338](09-spells.md#家路への跳躍-the-leap-of-homecoming) |
+| *火の跳び移り* | ReIg | 10 | [347](09-spells.md#火の跳び移り-leap-of-the-fire) |
+| *吊り下がる傀儡を持ち上ぐ* | ReCo | 15 | [338](09-spells.md#吊り下がる傀儡を持ち上ぐ-lifting-the-dangling-puppet) |
+| *夜を貫く光の柱* | ReIg | 20 | [347](09-spells.md#夜を貫く光の柱-light-shaft-of-the-night) |
+| *木々の主* | ReHe | 25 | [343](09-spells.md#木々の主-lord-of-the-trees) |
+| *束の間の記憶の失せ* | PeMe | 15 | [356](09-spells.md#束の間の記憶の失せ-loss-of-but-a-moments-memory) |
+| *魚の息* | MuAq | 20 | [323](09-spells.md#魚の息-lungs-of-the-fish) |
+| *手のかかる呪文を保つ* | ReVi | 汎用 | [372](09-spells.md#手のかかる呪文を保つ-maintaining-the-demanding-spell) |
+| *色とりどりの大火* | MuIg | 5 | [345](09-spells.md#色とりどりの大火-the-many-hued-conflagration) |
+| *魔法の匂いを覆う* | PeVi | 汎用 | [369](09-spells.md#魔法の匂いを覆う-masking-the-odor-of-magic) |
+| *荒れ狂う獣を御す* | ReAn | 25 | [320](09-spells.md#荒れ狂う獣を御す-mastering-the-unruly-beast) |
+| *遠き夢の記憶* | CrMe | 20 | [353](09-spells.md#遠き夢の記憶-memory-of-the-distant-dream) |
+| *猛き水の奔り* | CrAq | 20 | [321](09-spells.md#猛き水の奔り-mighty-torrent-of-water) |
+| *獣の心* | MuMe | 30 | [355](09-spells.md#獣の心-mind-of-the-beast) |
+| *坑夫の冴えたる眼* | InTe | 20 | [359](09-spells.md#坑夫の冴えたる眼-the-miners-keen-eye) |
+| *対立の鏡［形相］* | MuVi | 汎用 | [368](09-spells.md#対立の鏡形相-mirror-of-opposition-form) |
+| *移ろいの霧* | MuCo | 60 | [335](09-spells.md#移ろいの霧-mists-of-change) |
+| *月影* | CrIg | 3 | [343](09-spells.md#月影-moonbeam) |
+| *ネプトゥヌスの憤り* | ReAq | 40 | [325](09-spells.md#ネプトゥヌスの憤り-neptunes-wrath) |
+| *麗しき調べ* | MuIm | 10 | [350](09-spells.md#麗しき調べ-notes-of-a-delightful-sound) |
+| *嵩を増す物* | MuTe | 20 | [361](09-spells.md#嵩を増す物-object-of-increased-size) |
+| *鉄の壁を消し去る* | PeTe | 20 | [361](09-spells.md#鉄の壁を消し去る-obliteration-of-the-metallic-barrier) |
+| *触れざる隧道を開く* | ReVi | 汎用 | [372](09-spells.md#触れざる隧道を開く-opening-the-intangible-tunnel) |
+| *獣の心の巻を繙く* | InAn | 25 | [317](09-spells.md#獣の心の巻を繙く-opening-the-tome-of-the-animals-mind) |
+| *止まぬ憂いの疼き* | CrMe | 20 | [353](09-spells.md#止まぬ憂いの疼き-pains-of-the-perpetual-worry) |
+| *炎の掌* | CrIg | 5 | [343](09-spells.md#炎の掌-palm-of-flame) |
+| *象すら怯ゆる鼠* | ReAn | 15 | [319](09-spells.md#象すら怯ゆる鼠-panic-of-the-elephants-mouse) |
+| *震う心の怯え* | CrMe | 15 | [353](09-spells.md#震う心の怯え-panic-of-the-trembling-heart) |
+| *干上がらす風* | PeAq | 20 | [323](09-spells.md#干上がらす風-parching-wind) |
+| *潮を分かつ* | ReAq | 30 | [324](09-spells.md#潮を分かつ-parting-the-waves) |
+| *開かずの扉を抜ける* | MuHe | 5 | [340](09-spells.md#開かずの扉を抜ける-pass-the-unyielding-portal) |
+| *情を失う* | PeMe | 25 | [356](09-spells.md#情を失う-passions-lost-feeling) |
+| *他人の来し方* | MuMe | 35 | [355](09-spells.md#他人の来し方-past-of-another) |
+| *人の心を覗き見る* | InMe | 30 | [354](09-spells.md#人の心を覗き見る-peering-into-the-mortal-mind) |
+| *相克する心根の察し* | InMe | 15 | [354](09-spells.md#相克する心根の察し-perception-of-the-conflicting-motives) |
+| *人の姿の幻* | CrIm | 25 | [348](09-spells.md#人の姿の幻-phantasm-of-the-human-form) |
+| *物言う首の幻* | CrIm | 10 | [348](09-spells.md#物言う首の幻-phantasm-of-the-talking-head) |
+| *幻の獣* | CrIm | 20 | [348](09-spells.md#幻の獣-phantasmal-animal) |
+| *幻の火* | CrIm | 20 | [348](09-spells.md#幻の火-phantasmal-fire) |
+| *幻の天禀* | CrVi | 15 | [365](09-spells.md#幻の天禀-the-phantom-gift) |
+| *薬師の眼* | InCo | 5 | [333](09-spells.md#薬師の眼-physicians-eye) |
+| *貫く木の矢* | MuHe | 10 | [341](09-spells.md#貫く木の矢-piercing-shaft-of-wood) |
+| *妖精の帳を貫く* | InVi | 20 | [367](09-spells.md#妖精の帳を貫く-piercing-the-faerie-veil) |
+| *火のピルム* | CrIg | 20 | [344](09-spells.md#火のピルム-pilum-of-fire) |
+| *口開く大地の穴* | PeTe | 15 | [361](09-spells.md#口開く大地の穴-pit-of-the-gaping-earth) |
+| *草木を萎えさす災い* | PeHe | 20 | [341](09-spells.md#草木を萎えさす災い-plants-withering-bane) |
+| *意志を毒す* | PeMe | 65 | [356](09-spells.md#意志を毒す-poisoning-the-will) |
+| *黙して問う* | InMe | 20 | [354](09-spells.md#黙して問う-posing-the-silent-question) |
+| *尋常ならざる伸び縮み* | MuCo | 15 | [333](09-spells.md#尋常ならざる伸び縮み-preternatural-growth-and-shrinking) |
+| *炎の牢* | MuIg | 20 | [345](09-spells.md#炎の牢-prison-of-flames) |
+| *純銀を探る* | InTe | 4 | [359](09-spells.md#純銀を探る-probe-for-pure-silver) |
+| *自然の秘めたる理を探る* | InHe | 4 | [340](09-spells.md#自然の秘めたる理を探る-probe-natures-hidden-lore) |
+| *覗き見る眼* | InIm | 5 | [349](09-spells.md#覗き見る眼-prying-eyes) |
+| *天翔る風の誘い* | CrAu | 30 | [326](09-spells.md#天翔る風の誘い-pull-of-the-skybound-winds) |
+| *水底の墓へ誘う手* | ReAq | 35 | [325](09-spells.md#水底の墓へ誘う手-pull-of-the-watery-grave) |
+| *膿む傷の清め* | CrCo | 20 | [332](09-spells.md#膿む傷の清め-purification-of-the-festering-wounds) |
+| *凪の波の押し* | ReAq | 15 | [324](09-spells.md#凪の波の押し-push-of-the-gentle-wave) |
+| *荒ぶる風を鎮む* | PeAu | 20 | [329](09-spells.md#荒ぶる風を鎮む-quiet-the-raging-winds) |
+| *油の雨* | MuAu | 50 | [329](09-spells.md#油の雨-rain-of-oil) |
+| *礫の雨* | MuAu | 20 | [328](09-spells.md#礫の雨-rain-of-stones) |
+| *生きざりし日の記憶* | MuMe | 4 | [355](09-spells.md#生きざりし日の記憶-recollection-of-memories-never-quite-lived) |
+| *目立つ印を消す* | PeIm | 20 | [351](09-spells.md#目立つ印を消す-removal-of-the-conspicuous-sigil) |
+| *木の矢を退ける* | ReHe | 10 | [342](09-spells.md#木の矢を退ける-repel-the-wooden-shafts) |
+| *穢れし身の立ち直り* | CrCo | 25 | [332](09-spells.md#穢れし身の立ち直り-restoration-of-the-defiled-body) |
+| *褪せし糸を蘇らす* | CrVi | 汎用 | [365](09-spells.md#褪せし糸を蘇らす-restore-the-faded-threads) |
+| *移されし像を戻す* | ReIm | 汎用 | [352](09-spells.md#移されし像を戻す-restore-the-moved-image) |
+| *死すべき肉の綻び* | InCo | 10 | [333](09-spells.md#死すべき肉の綻び-revealed-flaws-of-mortal-flesh) |
+| *霊を阻む環* | ReMe | 汎用 | [357](09-spells.md#霊を阻む環-ring-of-warding-against-spirits) |
+| *羽のごとく浮かぶ身* | ReCo | 10 | [337](09-spells.md#羽のごとく浮かぶ身-rise-of-the-feathery-body) |
+| *兆す怒り* | CrMe | 15 | [353](09-spells.md#兆す怒り-rising-ire) |
+| *粘る土と化す岩* | MuTe | 15 | [361](09-spells.md#粘る土と化す岩-rock-of-viscid-clay) |
+| *淀む気の室* | PeAu | 15 | [329](09-spells.md#淀む気の室-room-of-stale-air) |
+| *青銅の縄* | MuHe | 15 | [341](09-spells.md#青銅の縄-rope-of-bronze) |
+| *二百年の錆朽* | PeTe | 10 | [361](09-spells.md#二百年の錆朽-rusted-decay-of-ten-score-years) |
+| *水夫の明日を知る勘* | InAu | 15 | [327](09-spells.md#水夫の明日を知る勘-sailors-foretaste-of-the-morrow) |
+| *魔法の重さを量る天秤* | InVi | 5 | [366](09-spells.md#魔法の重さを量る天秤-scales-of-the-magical-weight) |
+| *安らけき眠りの香* | ReMe | 20 | [357](09-spells.md#安らけき眠りの香-scent-of-peaceful-slumber) |
+| *地を封ずる* | CrTe | 15 | [359](09-spells.md#地を封ずる-seal-the-earth) |
+| *魔力を覚る* | InVi | 2 | [366](09-spells.md#魔力を覚る-sense-of-magical-power) |
+| *残り漂う魔法を覚る* | InVi | 30 | [367](09-spells.md#残り漂う魔法を覚る-sense-of-the-lingering-magic) |
+| *大地を踏む足を覚る* | InTe | 30 | [360](09-spells.md#大地を踏む足を覚る-sense-the-feet-that-thread-the-earth) |
+| *ウィースの性を覚る* | InVi | 5 | [367](09-spells.md#ウィースの性を覚る-sense-the-nature-of-vis) |
+| *七里を跨ぐ歩み* | ReCo | 30 | [338](09-spells.md#七里を跨ぐ歩み-seven-league-stride) |
+| *断たれし手足の繋ぎ* | CrCo | 25 | [332](09-spells.md#断たれし手足の繋ぎ-the-severed-limb-made-whole) |
+| *人の世の影* | CrIm | 40 | [349](09-spells.md#人の世の影-the-shadow-of-human-life) |
+| *蘇る命の影* | CrCo | 75 | [332](09-spells.md#蘇る命の影-the-shadow-of-life-renewed) |
+| *過ぎし火の影* | InIg | 15 | [345](09-spells.md#過ぎし火の影-shadows-of-the-fires-past) |
+| *森を彷徨うものの姿* | MuCo | 25 | [334](09-spells.md#森を彷徨うものの姿-shape-of-the-woodland-prowler) |
+| *偽りの判じの殻* | CrVi | 汎用 | [365](09-spells.md#偽りの判じの殻-shell-of-false-determinations) |
+| *朧なる神秘の殻* | CrVi | 汎用 | [365](09-spells.md#朧なる神秘の殻-shell-of-opaque-mysteries) |
+| *狼憑きの粟立ち* | InAn | 10 | [317](09-spells.md#狼憑きの粟立ち-shiver-of-the-lycanthrope) |
+| *炎と煙の見世物* | MuIg | 10 | [345](09-spells.md#炎と煙の見世物-show-of-the-flames-and-smoke) |
+| *飛び来る矢の叫び* | InHe | 15 | [340](09-spells.md#飛び来る矢の叫び-shriek-of-the-impending-shafts) |
+| *魔法を覆う帳* | MuVi | 汎用 | [368](09-spells.md#魔法を覆う帳-shroud-magic) |
+| *覆われし谷* | ReMe | 40 | [358](09-spells.md#覆われし谷-the-shrouded-glen) |
+| *働く魔法を見る眼* | InVi | 40 | [367](09-spells.md#働く魔法を見る眼-sight-of-the-active-magics) |
+| *透ける心根を見る眼* | InMe | 10 | [354](09-spells.md#透ける心根を見る眼-sight-of-the-transparent-motive) |
+| *真の姿を見透かす眼* | InCo | 汎用 | [333](09-spells.md#真の姿を見透かす眼-sight-of-the-true-form) |
+| *音を押し殺す静寂* | PeIm | 20 | [351](09-spells.md#音を押し殺す静寂-silence-of-the-smothered-sound) |
+| *黙しての徹夜* | MuCo | 45 | [335](09-spells.md#黙しての徹夜-the-silent-vigil) |
+| *目覚めの指鳴らし* | ReMe | 10 | [357](09-spells.md#目覚めの指鳴らし-snap-of-awakening) |
+| *獣の疼きを鎮むる手* | CrAn | 20 | [316](09-spells.md#獣の疼きを鎮むる手-soothe-pains-of-the-beast) |
+| *荒ぶる熊を和ます* | ReAn | 10 | [319](09-spells.md#荒ぶる熊を和ます-soothe-the-ferocious-bear) |
+| *荒ぶる炎を鎮む* | PeIg | 20 | [346](09-spells.md#荒ぶる炎を鎮む-soothe-the-raging-flames) |
+| *術者の二叉* | MuVi | 汎用 | [368](09-spells.md#術者の二叉-the-sorcerers-fork) |
+| *意に添わぬ手の引き攣り* | ReCo | 5 | [337](09-spells.md#意に添わぬ手の引き攣り-spasms-of-the-uncontrolled-hand) |
+| *忍ぶ木の佇まい* | MuCo | 35 | [335](09-spells.md#忍ぶ木の佇まい-stance-of-the-patient-tree) |
+| *復讐の駒* | MuAn | 35 | [318](09-spells.md#復讐の駒-steed-of-vengeance) |
+| *二十の屍の臭い* | CrAu | 10 | [326](09-spells.md#二十の屍の臭い-stench-of-the-twenty-corpses) |
+| *まどろむ木を揺り起こす* | MuHe | 25 | [341](09-spells.md#まどろむ木を揺り起こす-stir-the-slumbering-tree) |
+| *坐する心の石の語り* | InTe | 30 | [360](09-spells.md#坐する心の石の語り-stone-tell-of-the-mind-that-sits) |
+| *石を零るる塵に* | PeTe | 20 | [362](09-spells.md#石を零るる塵に-stone-to-falling-dust) |
+| *荒ぶる枝の打ち* | ReHe | 15 | [342](09-spells.md#荒ぶる枝の打ち-strike-of-the-angered-branch) |
+| *意に染まぬ傀儡の糸* | ReCo | 25 | [338](09-spells.md#意に染まぬ傀儡の糸-strings-of-the-unwilling-marionette) |
+| *毒と清らの淡き味わい* | InAq | 5 | [321](09-spells.md#毒と清らの淡き味わい-subtle-taste-of-poison-and-purity) |
+| *遠き像を招く* | InIm | 25 | [350](09-spells.md#遠き像を招く-summoning-the-distant-image) |
+| *しなう鉄と強張る縄* | MuTe | 10 | [361](09-spells.md#しなう鉄と強張る縄-supple-iron-and-rigid-rope) |
+| *魔術師の手業を抑える* | ReVi | 汎用 | [372](09-spells.md#魔術師の手業を抑える-suppressing-the-wizards-handiwork) |
+| *灰の語り* | InIg | 5 | [345](09-spells.md#灰の語り-tales-of-the-ashes) |
+| *風の爪* | MuAu | 20 | [328](09-spells.md#風の爪-talons-of-the-winds) |
+| *木と荊の絡み* | ReHe | 15 | [342](09-spells.md#木と荊の絡み-tangle-of-wood-and-thorns) |
+| *鈍りし舌の味* | PeIm | 5 | [351](09-spells.md#鈍りし舌の味-taste-of-the-dulled-tongue) |
+| *香と草の味わい* | MuIm | 5 | [350](09-spells.md#香と草の味わい-taste-of-the-spices-and-herbs) |
+| *地母の牙* | MuTe | 35 | [361](09-spells.md#地母の牙-teeth-of-the-earth-mother) |
+| *草木を鉄に変ずる秘術* | MuHe | 20 | [341](09-spells.md#草木を鉄に変ずる秘術-thaumaturgical-transformation-of-plants-to-iron) |
+| *喧噪に紛るる思い* | InMe | 25 | [354](09-spells.md#喧噪に紛るる思い-thoughts-within-babble) |
+| *舌の先* | PeMe | 5 | [355](09-spells.md#舌の先-tip-of-the-tongue) |
+| *ミダスの触れ* | CrTe | 20 | [359](09-spells.md#ミダスの触れ-touch-of-midas) |
+| *鵞の羽の触れ* | PeCo | 5 | [335](09-spells.md#鵞の羽の触れ-touch-of-the-goose-feather) |
+| *真珠に触るる指* | InAq | 5 | [322](09-spells.md#真珠に触るる指-touch-of-the-pearls) |
+| *渦巻く水の柱* | ReAq | 35 | [325](09-spells.md#渦巻く水の柱-tower-of-whirling-water) |
+| *跡なき歩み* | ReTe | 10 | [363](09-spells.md#跡なき歩み-trackless-step) |
+| *妖精の光の跡* | InTe | 25 | [359](09-spells.md#妖精の光の跡-tracks-of-the-faerie-glow) |
+| *水と化す* | MuCo | 40 | [335](09-spells.md#水と化す-transform-to-water) |
+| *餓えたる獣を鈍き蟇に変ずる術* | MuAn | 25 | [318](09-spells.md#餓えたる獣を鈍き蟇に変ずる術-transformation-of-the-ravenous-beast-to-the-torpid-toad) |
+| *荊の杖への変じ* | MuHe | 10 | [341](09-spells.md#荊の杖への変じ-transformation-of-the-thorny-staff) |
+| *纏いつく蔓の罠* | CrHe | 15 | [339](09-spells.md#纏いつく蔓の罠-trap-of-the-entwining-vines) |
+| *火を捕らう* | MuIg | 25 | [346](09-spells.md#火を捕らう-trapping-the-fire) |
+| *裏切りの槍* | ReHe | 25 | [343](09-spells.md#裏切りの槍-the-treacherous-spear) |
+| *灰の道を踏む* | PeHe | 30 | [342](09-spells.md#灰の道を踏む-treading-the-ashen-path) |
+| *松明の炎の揺らぎ跳び* | ReIg | 5 | [347](09-spells.md#松明の炎の揺らぎ跳び-tremulous-vault-of-the-torchs-flame) |
+| *傷つきし獣のまことの安らい* | CrAn | 20 | [316](09-spells.md#傷つきし獣のまことの安らい-true-rest-of-the-injured-brute) |
+| *気を見透かす眼* | InAu | 15 | [327](09-spells.md#気を見透かす眼-true-sight-of-the-air) |
+| *童のごとき信* | PeMe | 10 | [356](09-spells.md#童のごとき信-trust-of-childlike-faith) |
+| *舌の捩れ* | PeCo | 30 | [336](09-spells.md#舌の捩れ-twist-of-the-tongue) |
+| *生ける木を捩る* | ReHe | 25 | [343](09-spells.md#生ける木を捩る-twist-the-living-tree) |
+| *［形相］の織りを解く* | PeVi | 汎用 | [370](09-spells.md#形相の織りを解く-unravelling-the-fabric-of-form) |
+| *見えざる腕* | ReTe | 5 | [362](09-spells.md#見えざる腕-unseen-arm) |
+| *見えざる荷担ぎ* | ReTe | 10 | [363](09-spells.md#見えざる荷担ぎ-the-unseen-porter) |
+| *揺るがぬ大地* | ReTe | 10 | [363](09-spells.md#揺るがぬ大地-unyielding-earth) |
+| *姿を隠す帳* | PeIm | 20 | [351](09-spells.md#姿を隠す帳-veil-of-invisibility) |
+| *子を成さぬ濁り水* | MuAq | 45 | [323](09-spells.md#子を成さぬ濁り水-vile-water-of-sterility) |
+| *蝮の睨み* | ReAn | 15 | [320](09-spells.md#蝮の睨み-vipers-gaze) |
+| *熱の光を見る眼* | InIg | 20 | [345](09-spells.md#熱の光を見る眼-vision-of-heats-light) |
+| *憑く霊を見る眼* | MuMe | 40 | [355](09-spells.md#憑く霊を見る眼-vision-of-the-haunting-spirits) |
+| *奈落の怖れの幻* | ReMe | 30 | [357](09-spells.md#奈落の怖れの幻-visions-of-the-infernal-terrors) |
+| *湖水の物言い* | InAq | 25 | [322](09-spells.md#湖水の物言い-voice-of-the-lake) |
+| *歩く屍* | ReCo | 35 | [339](09-spells.md#歩く屍-the-walking-corpse) |
+| *生ける木の壁* | CrHe | 25 | [339](09-spells.md#生ける木の壁-wall-of-living-wood) |
+| *護りの石壁* | CrTe | 25 | [359](09-spells.md#護りの石壁-wall-of-protecting-stone) |
+| *荊の壁* | CrHe | 20 | [339](09-spells.md#荊の壁-wall-of-thorns) |
+| *風の妖精を阻む結界* | ReAu | 汎用 | [329](09-spells.md#風の妖精を阻む結界-ward-against-faeries-of-the-air) |
+| *山の妖精を阻む結界* | ReTe | 汎用 | [362](09-spells.md#山の妖精を阻む結界-ward-against-faeries-of-the-mountain) |
+| *水の妖精を阻む結界* | ReAq | 汎用 | [323](09-spells.md#水の妖精を阻む結界-ward-against-faeries-of-the-waters) |
+| *森の妖精を阻む結界* | ReHe | 汎用 | [342](09-spells.md#森の妖精を阻む結界-ward-against-faeries-of-the-wood) |
+| *熱と炎を阻む結界* | ReIg | 25 | [347](09-spells.md#熱と炎を阻む結界-ward-against-heat-and-flames) |
+| *雨を阻む結界* | ReAu | 10 | [330](09-spells.md#雨を阻む結界-ward-against-rain) |
+| *伝えの獣を阻む結界* | ReAn | 汎用 | [319](09-spells.md#伝えの獣を阻む結界-ward-against-the-beasts-of-legend) |
+| *木を阻む結界* | ReHe | 25 | [343](09-spells.md#木を阻む結界-ward-against-wood) |
+| *見張りの結界* | ReVi | 汎用 | [372](09-spells.md#見張りの結界-watching-ward) |
+| *溺れさせ砕く波* | ReAq | 30 | [324](09-spells.md#溺れさせ砕く波-waves-of-drowning-and-smashing) |
+| *蜘蛛の織り手の絡め網* | CrAn | 35 | [316](09-spells.md#蜘蛛の織り手の絡め網-weavers-trap-of-webs) |
+| *千の奈落の重み* | CrMe | 25 | [353](09-spells.md#千の奈落の重み-weight-of-a-thousand-hells) |
+| *光なき井戸* | PeIg | 25 | [346](09-spells.md#光なき井戸-well-without-light) |
+| *囁く風* | InAu | 15 | [327](09-spells.md#囁く風-whispering-winds) |
+| *黒き門越しの囁き* | InCo | 15 | [333](09-spells.md#黒き門越しの囁き-whispers-through-the-black-gate) |
+| *見えざる投石紐の操り* | ReTe | 10 | [363](09-spells.md#見えざる投石紐の操り-wielding-the-invisible-sling) |
+| *背を押す風* | ReAu | 5 | [329](09-spells.md#背を押す風-wind-at-the-back) |
+| *世俗の静寂を運ぶ風* | PeVi | 汎用 | [370](09-spells.md#世俗の静寂を運ぶ風-wind-of-mundane-silence) |
+| *風に乗る翼* | CrAu | 30 | [326](09-spells.md#風に乗る翼-wings-of-the-soaring-wind) |
+| *冬の氷の手* | PeIg | 10 | [346](09-spells.md#冬の氷の手-winters-icy-touch) |
+| *魔術師の秋* | PeHe | 15 | [341](09-spells.md#魔術師の秋-wizards-autumn) |
+| *魔術師の増強［形相］* | MuVi | 汎用 | [368](09-spells.md#魔術師の増強形相-wizards-boost-form) |
+| *魔術師の同調* | MuVi | 汎用 | [369](09-spells.md#魔術師の同調-wizards-communion) |
+| *魔術師の日蝕* | PeIg | 35 | [346](09-spells.md#魔術師の日蝕-wizards-eclipse) |
+| *魔術師の氷の握り* | PeIg | 30 | [346](09-spells.md#魔術師の氷の握り-wizards-icy-grip) |
+| *魔術師の駒* | CrAn | 35 | [316](09-spells.md#魔術師の駒-the-wizards-mount) |
+| *魔術師の届き［形相］* | MuVi | 汎用 | [369](09-spells.md#魔術師の届き形相-wizards-reach-form) |
+| *魔術師の横歩み* | ReIm | 10 | [352](09-spells.md#魔術師の横歩み-wizards-sidestep) |
+| *魔術師の徹夜祷* | MuVi | 汎用 | [370](09-spells.md#魔術師の徹夜祷-wizards-vigil) |
+| *揺らめく炎の言の葉* | InIg | 35 | [345](09-spells.md#揺らめく炎の言の葉-words-of-the-flickering-flame) |
+| *破られぬ静寂の言の葉* | CrMe | 10 | [353](09-spells.md#破られぬ静寂の言の葉-words-of-the-unbroken-silence) |
+| *泣き止まぬ傷* | PeCo | 15 | [335](09-spells.md#泣き止まぬ傷-the-wound-that-weeps) |
+| *渦巻く風と水の憤り* | CrAu | 65 | [327](09-spells.md#渦巻く風と水の憤り-wrath-of-whirling-winds-and-water) |
+| *悪臭立つ煙の輪* | CrAu | 10 | [326](09-spells.md#悪臭立つ煙の輪-wreaths-of-foul-smoke) |
 
 
 ### 呪文指針索引
@@ -1612,7 +1612,7 @@
 | 戦士の悪魔、フィムス | 地獄 | テルラーム | 10 | [484](13-bestiary.md#戦士の悪魔フィムス) |
 | 火の精霊の例 | 魔法 | イグネム | 15 | [456](13-bestiary.md#火の精霊の例) |
 | 預言の大天使、ガブリエル | 神聖 | メンテム | 100 | [455](13-bestiary.md#預言の大天使ガブリエル) |
-| 亡霊の守護者 | 魔法 | メンテム | 10 | [489](04-virtues-and-flaws.md#亡霊の守護者ghostly-warder) |
+| 亡霊の守護者 | 魔法 | メンテム | 10 | [489](04-virtues-and-flaws.md#亡霊の守護者-ghostly-warder) |
 | 大レジ | 妖精 | ヘルバーム | 40 | [473](13-bestiary.md#大レジ) |
 | 巨人グドルティ＝コム | 魔法 | アウラーム | 40 | [447](13-bestiary.md#巨人グドルティコム) |
 | 乳母ヒプタ | 魔法 | アニマール | 15 | [447](13-bestiary.md#乳母ヒプタ) |
@@ -1656,30 +1656,30 @@
 
 | 項目 | ページ |
 |-----------|----------|
-| Abandoned Apprentice (Flaw)（《見捨てられた徒弟》） | [119](04-virtues-and-flaws.md#見捨てられた徒弟abandoned-apprentice) |
+| Abandoned Apprentice (Flaw)（《見捨てられた徒弟》） | [119](04-virtues-and-flaws.md#見捨てられた徒弟-abandoned-apprentice) |
 | Abilities（〈能力〉） | [27](03-characters.md#能力), [48](03-characters.md#能力-1), [157-159](05-abilities.md#第5章能力) |
 | &nbsp;&nbsp;Types（類型） | [158-159](05-abilities.md#能力の類型) |
-| Ability Block (Flaw)（《苦手分野》） | [119](04-virtues-and-flaws.md#苦手分野ability-block) |
+| Ability Block (Flaw)（《苦手分野》） | [119](04-virtues-and-flaws.md#苦手分野-ability-block) |
 | Ability Roll（〈能力〉のロール） | [158](05-abilities.md#能力ロール) |
 | Academic Abilities（〈学術系能力〉） | [158](05-abilities.md#学術系能力) |
-| Academic Concentration (Subject) (Virtue)（《学問への専心（主題）》） | [69](04-virtues-and-flaws.md#学問への専心主題academic-concentration-subject) |
+| Academic Concentration (Subject) (Virtue)（《学問への専心（主題）》） | [69](04-virtues-and-flaws.md#学問への専心主題-academic-concentration-subject) |
 | Accessible Power Level（利用可能魔力レベル） | [179](06-covenants.md#利用可能魔力レベル) |
 | Action-Adventure Saga（活劇のサーガ） | [533](16-sagas.md#活劇) |
 | Adam（アダム） | [498](14-mythic-europe.md#教義) |
 | Adaptive Casting（適応行使） | [225](07-hermetic-magic.md#適応行使) |
-| Adept Laboratory Student (Virtue)（《優等生》） | [69](04-virtues-and-flaws.md#優等生adept-laboratory-student) |
+| Adept Laboratory Student (Virtue)（《優等生》） | [69](04-virtues-and-flaws.md#優等生-adept-laboratory-student) |
 | Advancement（成長） | [375-379](10-long-term-events.md#成長) |
 | &nbsp;&nbsp;*see also [Experience](10-long-term-events.md#経験と成長)* |  |
 | Advancement Table（成長表） | [49](03-characters.md#成長表), [375](10-long-term-events.md#成長表) |
 | Adventure Experience（冒険経験点） | [376](10-long-term-events.md#冒険) |
 | Aegis of the Hearth（炉辺のアエギス） | [173](06-covenants.md#炉辺のアエギス) |
 | Aestas（アエスタス） | [175](06-covenants.md#アエスタス) |
-| Affinity with (Ability) (Virtue)（《素質（能力）》） | [69](04-virtues-and-flaws.md#素質能力affinity-with-ability) |
-| Affinity with (Art) (Virtue)（《素質（術法）》） | [69](04-virtues-and-flaws.md#素質術法affinity-with-art) |
-| Afflicted Tongue (Flaw)（《縺れる舌》） | [119](04-virtues-and-flaws.md#縺れる舌afflicted-tongue) |
+| Affinity with (Ability) (Virtue)（《素質（能力）》） | [69](04-virtues-and-flaws.md#素質能力-affinity-with-ability) |
+| Affinity with (Art) (Virtue)（《素質（術法）》） | [69](04-virtues-and-flaws.md#素質術法-affinity-with-art) |
+| Afflicted Tongue (Flaw)（《縺れる舌》） | [119](04-virtues-and-flaws.md#縺れる舌-afflicted-tongue) |
 | After Apprenticeship（徒弟期間後） | [50](03-characters.md#徒弟期間の後マギのみ) |
 | Age（年齢） | [30](03-characters.md#書式), [43](03-characters.md#開始時のキャラクターの年齢), [391](10-long-term-events.md#老化) |
-| Age Quickly (Flaw)（《早まる老化》） | [119](04-virtues-and-flaws.md#早まる老化age-quickly) |
+| Age Quickly (Flaw)（《早まる老化》） | [119](04-virtues-and-flaws.md#早まる老化-age-quickly) |
 | Aging（老化） | [391](10-long-term-events.md#老化) |
 | &nbsp;&nbsp;Crisis（危機） | [392](10-long-term-events.md#老化) |
 | &nbsp;&nbsp;Limit of（老いの限界） | [211](07-hermetic-magic.md#老化の限界) |
@@ -1688,36 +1688,36 @@
 | &nbsp;&nbsp;*see also [Longevity Ritual](08-laboratory.md#延命儀式)* |  |
 | Aiming Spells（呪文の狙い） | [223](07-hermetic-magic.md#狙いをつける) |
 | Air Deprivation（空気欠乏） | [407](11-obstacles.md#欠乏) |
-| Alim (Virtue)（《アーリム》） | [69](04-virtues-and-flaws.md#アーリムalim) |
-| All According to Plan (Virtue)（《計画どおり》） | [69](04-virtues-and-flaws.md#計画どおりall-according-to-plan) |
-| Alluring to (Beings) (Virtue)（（存在）を惹きつける） | [69](04-virtues-and-flaws.md#存在を惹きつけるalluring-to-beings) |
-| Almogaten (Virtue)（《アルモガテン》） | [69](04-virtues-and-flaws.md#アルモガテンalmogaten) |
-| Almogavar (Virtue)（《アルモガバル》） | [69](04-virtues-and-flaws.md#アルモガバルalmogavar) |
+| Alim (Virtue)（《アーリム》） | [69](04-virtues-and-flaws.md#アーリム-alim) |
+| All According to Plan (Virtue)（《計画どおり》） | [69](04-virtues-and-flaws.md#計画どおり-all-according-to-plan) |
+| Alluring to (Beings) (Virtue)（（存在）を惹きつける） | [69](04-virtues-and-flaws.md#存在を惹きつける-alluring-to-beings) |
+| Almogaten (Virtue)（《アルモガテン》） | [69](04-virtues-and-flaws.md#アルモガテン-almogaten) |
+| Almogavar (Virtue)（《アルモガバル》） | [69](04-virtues-and-flaws.md#アルモガバル-almogavar) |
 | Alpha Storyguides（アルファ・ストーリーガイド） | [530](16-sagas.md#アルファとベータのストーリーガイド) |
 | Alternative Characters（交代のキャラクター） | [529](16-sagas.md#交代のキャラクター) |
-| Ambitious (Flaw)（《野心家》） | [119](04-virtues-and-flaws.md#野心家ambitious) |
-| Amorphous (Virtue)（《不定形》） | [70](04-virtues-and-flaws.md#不定形amorphous) |
+| Ambitious (Flaw)（《野心家》） | [119](04-virtues-and-flaws.md#野心家-ambitious) |
+| Amorphous (Virtue)（《不定形》） | [70](04-virtues-and-flaws.md#不定形-amorphous) |
 | Anachronisms（時代錯誤） | [514](14-mythic-europe.md#誤りと時代錯誤) |
-| Anchored to the (Land) (Flaw)（（土地）に繋がれる） | [119](04-virtues-and-flaws.md#土地に繋がれるanchored-to-the-land) |
+| Anchored to the (Land) (Flaw)（（土地）に繋がれる） | [119](04-virtues-and-flaws.md#土地に繋がれる-anchored-to-the-land) |
 | Angels（天使） | [489-492](13-bestiary.md#神聖圏のクリーチャー) |
 | &nbsp;&nbsp;*see also [Creatures of the Divine](13-bestiary.md#神聖圏のクリーチャー)* |  |
 | Animating Corpses（屍を動かす） | [462](13-bestiary.md#魔術で屍を動かす) |
 | Animals（アニマール／動物） | [428-436](13-bestiary.md#世俗の獣) |
 | Animal (Art)（アニマール／動物） | [208](07-hermetic-magic.md#アニマールan動物), [314](09-spells.md#アニマールの呪文) |
 | Animal Characters（動物のキャラクター） | [77](04-virtues-and-flaws.md#動物のキャラクター) |
-| Animal Companion (Flaw)（《友なる動物》） | [119](04-virtues-and-flaws.md#友なる動物animal-companion) |
-| Animal Handling (Ability)（〈動物の扱い〉） | [159](05-abilities.md#動物の扱いanimal-handling) |
-| Animal Ken (Ability)（〈動物理解〉） | [159](05-abilities.md#動物理解animal-ken) |
-| Animal Ken (Virtue)（《動物理解》） | [70](04-virtues-and-flaws.md#動物理解animal-ken), [386](04-virtues-and-flaws.md#動物理解animal-ken) |
-| Apostate (Flaw)（《背教者》） | [119](04-virtues-and-flaws.md#背教者apostate) |
+| Animal Companion (Flaw)（《友なる動物》） | [119](04-virtues-and-flaws.md#友なる動物-animal-companion) |
+| Animal Handling (Ability)（〈動物の扱い〉） | [159](05-abilities.md#動物の扱い-animal-handling-一般系) |
+| Animal Ken (Ability)（〈動物理解〉） | [159](05-abilities.md#動物理解-animal-ken-超常系) |
+| Animal Ken (Virtue)（《動物理解》） | [70](04-virtues-and-flaws.md#動物理解-animal-ken), [386](04-virtues-and-flaws.md#動物理解-animal-ken) |
+| Apostate (Flaw)（《背教者》） | [119](04-virtues-and-flaws.md#背教者-apostate) |
 | Apostles（使徒） | [501](14-mythic-europe.md#聖人) |
 | Apparent Age（外見年齢） | [30](03-characters.md#書式), [391](10-long-term-events.md#老化) |
-| Apprentice (Virtue)（《徒弟》） | [70](04-virtues-and-flaws.md#徒弟apprentice) |
+| Apprentice (Virtue)（《徒弟》） | [70](04-virtues-and-flaws.md#徒弟-apprentice) |
 | Apprentices（徒弟） | [13](02-the-order-of-hermes.md#ボニサグス派), [21](02-the-order-of-hermes.md#徒弟), [269](08-laboratory.md#徒弟) |
 | Apprentice's Gauntlet（徒弟のガントレット） | [6](01-introduction.md#用語集), [273](08-laboratory.md#徒弟期間の終わり) |
 | Apprenticeship（徒弟期間） | [49](03-characters.md#徒弟期間マギのみ) |
-| Apt Student (Virtue)（《教わり上手》） | [70](04-virtues-and-flaws.md#教わり上手apt-student) |
-| Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性aptitude-for-sin) |
+| Apt Student (Virtue)（《教わり上手》） | [70](04-virtues-and-flaws.md#教わり上手-apt-student) |
+| Aptitude for (Sin) (Virtue)（（罪）への適性） | [70](04-virtues-and-flaws.md#罪への適性-aptitude-for-sin) |
 | Aquam (Art)（アクアーム／水） | [208](07-hermetic-magic.md#アクアームaq水), [320](09-spells.md#アクアームの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精圏) |
 | Arcane Abilities（〈秘術系能力〉） | [158](05-abilities.md#秘術系能力) |
@@ -1725,22 +1725,22 @@
 | &nbsp;&nbsp;Limit of（魔導媒体の限界） | [211](07-hermetic-magic.md#魔導媒体の限界) |
 | &nbsp;&nbsp;Fixing（固定） | [250](08-laboratory.md#魔導媒体の固定) |
 | Arcane Experimentation（秘術の実験） | [274](08-laboratory.md#秘術の実験) |
-| Arcane Lore (Virtue)（《秘術知識》） | [70](04-virtues-and-flaws.md#秘術知識arcane-lore) |
+| Arcane Lore (Virtue)（《秘術知識》） | [70](04-virtues-and-flaws.md#秘術知識-arcane-lore) |
 | Arcane Studies（秘術研究） | [250](08-laboratory.md#秘術の研究) |
 | Archangels（大天使） | [*see Angels*](13-bestiary.md#神聖圏のクリーチャー) |
-| Archieunuch (Virtue)（《大宦官》） | [70](04-virtues-and-flaws.md#大宦官archieunuch) |
-| (Area) Lore (Ability)（〈（地域）知識〉） | [159](05-abilities.md#地域知識area-lore) |
-| Aristotelian Training (Virtue)（《アリストテレス的訓練》） | [70](04-virtues-and-flaws.md#アリストテレス的訓練aristotelian-training) |
+| Archieunuch (Virtue)（《大宦官》） | [70](04-virtues-and-flaws.md#大宦官-archieunuch) |
+| (Area) Lore (Ability)（〈（地域）知識〉） | [159](05-abilities.md#地域知識-area-lore-一般系) |
+| Aristotelian Training (Virtue)（《アリストテレス的訓練》） | [70](04-virtues-and-flaws.md#アリストテレス的訓練-aristotelian-training) |
 | Aristotle（アリストテレス） | [158](05-abilities.md#学術系能力) |
 | Armor（鎧） | [399](11-obstacles.md#鎧) |
 | Armor Table（鎧の表） | [400](11-obstacles.md#鎧表) |
 | Athletic Childhood（運動好きな幼少期） | [48](03-characters.md#幼年期の例) |
-| Art of Memory (Ability)（〈記憶術〉） | [159](05-abilities.md#記憶術art-of-memory) |
-| Artes Liberales (Ability)（〈自由学科〉） | [160](05-abilities.md#自由学科artes-liberales) |
-| Arthritis (Flaw)（《関節炎》） | [119](04-virtues-and-flaws.md#関節炎arthritis) |
+| Art of Memory (Ability)（〈記憶術〉） | [159](05-abilities.md#記憶術-art-of-memory-学術系) |
+| Artes Liberales (Ability)（〈自由学科〉） | [160](05-abilities.md#自由学科-artes-liberales-学術系) |
+| Arthritis (Flaw)（《関節炎》） | [119](04-virtues-and-flaws.md#関節炎-arthritis) |
 | Arts（術法） | [206](07-hermetic-magic.md#ヘルメス魔術の術法) |
-| Athletics (Ability)（〈運動〉） | [161](05-abilities.md#運動athletics) |
-| Atlantean Magic (Virtue)（《アトランティス魔術》） | [70](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
+| Athletics (Ability)（〈運動〉） | [161](05-abilities.md#運動-athletics-一般系) |
+| Atlantean Magic (Virtue)（《アトランティス魔術》） | [70](04-virtues-and-flaws.md#アトランティス魔術-atlantean-magic) |
 | Attack Advantage（攻撃優位） | [394](#attack-advantage) |
 | Attack Total（攻撃合計値） | [393](11-obstacles.md#戦闘値) |
 | Auctores（アウクトーレス） | [158](05-abilities.md#学術系能力) |
@@ -1750,15 +1750,15 @@
 | Autumn Power（秋の力） | [177](06-covenants.md#秋の権勢) |
 | Autumnus（秋） | [176](06-covenants.md#アウトゥムヌス) |
 | Avarice（強欲） | [499](14-mythic-europe.md#教義) |
-| Avaricious (Flaw)（《強欲》） | [119](04-virtues-and-flaws.md#強欲avaricious) |
-| Awareness (Ability)（〈気付き〉） | [161](05-abilities.md#気付きawareness) |
+| Avaricious (Flaw)（《強欲》） | [119](04-virtues-and-flaws.md#強欲-avaricious) |
+| Awareness (Ability)（〈認識〉） | [161](05-abilities.md#認識-awareness-一般系) |
 | Axe（斧） | [401](11-obstacles.md#片手武器) |
-| Baccalaureus (Virtue)（《バカラリウス》） | [71](04-virtues-and-flaws.md#バカラリウスbaccalaureus) |
-| Baneful Circumstances (Flaw)（《災いなす状況》） | [119](04-virtues-and-flaws.md#災いなす状況baneful-circumstances) |
+| Baccalaureus (Virtue)（《バカラリウス》） | [71](04-virtues-and-flaws.md#バカラリウス-baccalaureus) |
+| Baneful Circumstances (Flaw)（《災いなす状況》） | [119](04-virtues-and-flaws.md#災いなす状況-baneful-circumstances) |
 | Baptism（洗礼） | [499](14-mythic-europe.md#秘蹟) |
 | Bard (Virtue)（《吟遊詩人》） | [71](#bard) |
-| Bargain (Ability)（〈取引〉） | [161](05-abilities.md#取引bargain) |
-| Beadle (Virtue)（《ビードル》） | [71](04-virtues-and-flaws.md#ビードルbeadle) |
+| Bargain (Ability)（〈取引〉） | [161](05-abilities.md#取引-bargain-一般系) |
+| Beadle (Virtue)（《ビードル》） | [71](04-virtues-and-flaws.md#ビードル-beadle) |
 | Beast Masters（獣使い） | [243](07-hermetic-magic.md#獣使い) |
 | Beasts, Mundane（世俗の獣） | [428-442](13-bestiary.md#世俗の獣) |
 | &nbsp;&nbsp;Aging（老化） | [440](13-bestiary.md#老い) |
@@ -1769,31 +1769,31 @@
 | &nbsp;&nbsp;Physical Characteristics（肉体特性値） | [437](13-bestiary.md#2-特性値) |
 | &nbsp;&nbsp;*see also [Animals](13-bestiary.md#世俗の獣)* |  |
 | Beasts of Virtue（有徳の獣） | [413](02-the-order-of-hermes.md#魔法圏のクリーチャー) |
-| Bee King (Virtue)（《蜂の王》） | [72](04-virtues-and-flaws.md#蜂の王bee-king) |
+| Bee King (Virtue)（《蜂の王》） | [72](04-virtues-and-flaws.md#蜂の王-bee-king) |
 | Beholden (Hook)（《恩義（コヴナント設定）》） | [182](06-covenants.md#コヴナント設定大) |
-| Beloved Rival (Flaw)（《愛しき好敵手》） | [120](04-virtues-and-flaws.md#愛しき好敵手beloved-rival) |
-| Berserk (Virtue)（《凶暴化》） | [72](04-virtues-and-flaws.md#凶暴化berserk) |
+| Beloved Rival (Flaw)（《愛しき好敵手》） | [120](04-virtues-and-flaws.md#愛しき好敵手-beloved-rival) |
+| Berserk (Virtue)（《凶暴化》） | [72](04-virtues-and-flaws.md#凶暴化-berserk) |
 | Berserker (Template)（狂戦士（テンプレート）） | [31](03-characters.md#凶暴者) |
 | Beta Storyguides（ベータ・ストーリーガイド） | [530](16-sagas.md#アルファとベータのストーリーガイド) |
-| Bigamist (Flaw)（《重婚者》） | [120](04-virtues-and-flaws.md#重婚者bigamist) |
-| Binding Wounds (Chirurgy)（傷を縛る（外科処置）） | [161](05-abilities.md#外科処置chirurgy) |
+| Bigamist (Flaw)（《重婚者》） | [120](04-virtues-and-flaws.md#重婚者-bigamist) |
+| Binding Wounds (Chirurgy)（傷を縛る（外科処置）） | [161](05-abilities.md#外科処置-chirurgy-一般系) |
 | Bishop（司教） | [502-504](14-mythic-europe.md#組織) |
 | Bjornaer — The Heartbeast（ビョルネール――心獣） | [233-234](07-hermetic-magic.md#ビョルネール心獣) |
 | Bjornaer (Template)（ビョルネール（テンプレート）） | [37](03-characters.md#ビョルネール) |
 | Bjornaer, House（ビョルネール派） | [13](02-the-order-of-hermes.md#ビョルネール派) |
-| Black Sheep (Flaw)（《厄介者》） | [120](04-virtues-and-flaws.md#厄介者black-sheep) |
-| Blackmail (Flaw)（《恐喝》） | [120](04-virtues-and-flaws.md#恐喝blackmail) |
-| Blatant Gift (Flaw)（《不快な天禀》） | [120](04-virtues-and-flaws.md#不快な天禀blatant-gift) |
-| Blatant Magical Air (Flaw)（《不快な魔法の妖気》） | [120](04-virtues-and-flaws.md#不快な魔法の妖気blatant-magical-air) |
-| Blind (Flaw)（《盲目》） | [120](04-virtues-and-flaws.md#盲目blind) |
+| Black Sheep (Flaw)（《厄介者》） | [120](04-virtues-and-flaws.md#厄介者-black-sheep) |
+| Blackmail (Flaw)（《恐喝》） | [120](04-virtues-and-flaws.md#恐喝-blackmail) |
+| Blatant Gift (Flaw)（《不快な天禀》） | [120](04-virtues-and-flaws.md#不快な天禀-blatant-gift) |
+| Blatant Magical Air (Flaw)（《不快な魔法の妖気》） | [120](04-virtues-and-flaws.md#不快な魔法の妖気-blatant-magical-air) |
+| Blind (Flaw)（《盲目》） | [120](04-virtues-and-flaws.md#盲目-blind) |
 | Bloodline (Target)（血脈（目標）） | [238](07-hermetic-magic.md#メリニータ妖精魔術) |
-| Blood of the Nephilim (Virtue)（《ネフィリムの血》） | [72](04-virtues-and-flaws.md#ネフィリムの血blood-of-the-nephilim) |
+| Blood of the Nephilim (Virtue)（《ネフィリムの血》） | [72](04-virtues-and-flaws.md#ネフィリムの血-blood-of-the-nephilim) |
 | Bludgeon（殴打武器） | [401](11-obstacles.md#格闘の武器) |
-| Body-of-Water (Target)（水域（目標）） | [71](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
+| Body-of-Water (Target)（水域（目標）） | [71](04-virtues-and-flaws.md#アトランティス魔術-atlantean-magic) |
 | Bonisagus（ボニサグス） | [6](01-introduction.md#用語集), [9-10](02-the-order-of-hermes.md#魔術団の創設) |
 | Bonisagus (Template)（ボニサグス（テンプレート）） | [37](03-characters.md#ボニサグス) |
 | Bonisagus, House（ボニサグス派） | [13](02-the-order-of-hermes.md#ボニサグス派), [37](03-characters.md#ボニサグス) |
-| Book Learner (Virtue)（《読書家》） | [72](04-virtues-and-flaws.md#読書家book-learner) |
+| Book Learner (Virtue)（《読書家》） | [72](04-virtues-and-flaws.md#読書家-book-learner) |
 | Books（書物） | [379–383](10-long-term-events.md#書物-1) |
 | &nbsp;&nbsp;Copying（写す） | [380](10-long-term-events.md#書物を写す) |
 | &nbsp;&nbsp;Prices（価格） | [382](10-long-term-events.md#書物の価格) |
@@ -1801,51 +1801,51 @@
 | &nbsp;&nbsp;Tractatus（専門書） | [380](10-long-term-events.md#専門書) |
 | &nbsp;&nbsp;Writing（書く） | [379–380](10-long-term-events.md#書物を著す) |
 | Boons（恵み） | [183–184](06-covenants.md#恩恵) |
-| Boosted Magic (Virtue)（《増幅魔術》） | [72](04-virtues-and-flaws.md#増幅魔術boosted-magic) |
+| Boosted Magic (Virtue)（《増幅魔術》） | [72](04-virtues-and-flaws.md#増幅魔術-boosted-magic) |
 | Botch（ボッチ（大失敗）） | [7](01-introduction.md#ストレスダイス) |
 | &nbsp;&nbsp;*see also [Combat Botches](11-obstacles.md#戦闘のボッチ)* |  |
 | Botch Dice（ボッチ・ダイス） | [7–8](01-introduction.md#ボッチダイス) |
-| Bound Casting Tools (Flaw)（《縛られた詠唱道具》） | [120](04-virtues-and-flaws.md#縛られた詠唱道具bound-casting-tools) |
-| Bound Magic (Flaw)（《縛られた魔術》） | [120](04-virtues-and-flaws.md#縛られた魔術bound-magic) |
-| Bound to (Realm) (Flaw)（《（圏域）の呪縛》） | [120](04-virtues-and-flaws.md#圏域の呪縛bound-to-realm) |
-| Bound to (Role) Role (Flaw)（《（役目）の呪縛》） | [121](04-virtues-and-flaws.md#役目の呪縛bound-to-role) |
-| Bows (Ability)（〈弓〉） | [161](05-abilities.md#弓bows) |
-| Branded Criminal (Flaw)（《烙印を押された罪人》） | [121](04-virtues-and-flaws.md#烙印を押された罪人branded-criminal) |
+| Bound Casting Tools (Flaw)（《縛られた詠唱道具》） | [120](04-virtues-and-flaws.md#縛られた詠唱道具-bound-casting-tools) |
+| Bound Magic (Flaw)（《縛られた魔術》） | [120](04-virtues-and-flaws.md#縛られた魔術-bound-magic) |
+| Bound to (Realm) (Flaw)（《（圏域）の呪縛》） | [120](04-virtues-and-flaws.md#圏域の呪縛-bound-to-realm) |
+| Bound to (Role) Role (Flaw)（《（役目）の呪縛》） | [121](04-virtues-and-flaws.md#役目の呪縛-bound-to-role) |
+| Bows (Ability)（〈弓〉） | [161](05-abilities.md#弓-bows-戦闘系) |
+| Branded Criminal (Flaw)（《烙印を押された罪人》） | [121](04-virtues-and-flaws.md#烙印を押された罪人-branded-criminal) |
 | Brave (Personality Trait)（勇敢（性格）） | [28](03-characters.md#性格) |
-| Brawl (Ability)（〈格闘〉） | [161](05-abilities.md#格闘brawl) |
+| Brawl (Ability)（〈格闘〉） | [161](05-abilities.md#格闘-brawl-一般系) |
 | Brawling Weapons（格闘武器） | [401](11-obstacles.md#格闘の武器) |
 | Breakthrough（突破） | [277](08-laboratory.md#突破) |
-| Broken Vessel (Flaw)（《壊れた器》） | [121](04-virtues-and-flaws.md#壊れた器broken-vessel) |
+| Broken Vessel (Flaw)（《壊れた器》） | [121](04-virtues-and-flaws.md#壊れた器-broken-vessel) |
 | Bronze Cord（銅綬） | [267](08-laboratory.md#三本の絆) |
-| Brother Chaplain (Virtue)（《従軍司祭》） | [73](04-virtues-and-flaws.md#従軍司祭brother-chaplain) |
-| Brother Knight (Virtue)（《騎士修道士》） | [73](04-virtues-and-flaws.md#騎士修道士brother-knight) |
-| Brother Sergeant (Virtue)（《従士修道士》） | [73](04-virtues-and-flaws.md#従士修道士brother-sergeant) |
-| Brutal Artist (Flaw)（《荒々しい作り手》） | [121](04-virtues-and-flaws.md#荒々しい作り手brutal-artist) |
+| Brother Chaplain (Virtue)（《従軍司祭》） | [73](04-virtues-and-flaws.md#従軍司祭-brother-chaplain) |
+| Brother Knight (Virtue)（《騎士修道士》） | [73](04-virtues-and-flaws.md#騎士修道士-brother-knight) |
+| Brother Sergeant (Virtue)（《従士修道士》） | [73](04-virtues-and-flaws.md#従士修道士-brother-sergeant) |
+| Brutal Artist (Flaw)（《荒々しい作り手》） | [121](04-virtues-and-flaws.md#荒々しい作り手-brutal-artist) |
 | Buckler Shield（バックラー盾） | [401](11-obstacles.md#片手武器) |
-| Bureaucrat (Virtue)（《官僚》） | [73](04-virtues-and-flaws.md#官僚bureaucrat) |
-| Busybody (Flaw)（《お節介焼き》） | [121](04-virtues-and-flaws.md#お節介焼きbusybody) |
-| Canon Law（教会法） | [161](05-abilities.md#ローマ法及び教会法civil-and-canon-law), [504](14-mythic-europe.md#教会法) |
-| Capo (Virtue)（《カポ》） | [73](04-virtues-and-flaws.md#カポcapo) |
-| Carefree (Flaw)（《気楽》） | [122](04-virtues-and-flaws.md#気楽carefree) |
-| Careless Sorcerer (Flaw)（《不注意な術者》） | [122](04-virtues-and-flaws.md#不注意な術者careless-sorcerer) |
-| Careless with (Ability) (Flaw)（（〈能力〉）に不注意） | [122](04-virtues-and-flaws.md#能力に不注意careless-with-ability) |
-| Carouse (Ability)（〈酒豪〉） | [161](05-abilities.md#酒豪carouse) |
+| Bureaucrat (Virtue)（《官僚》） | [73](04-virtues-and-flaws.md#官僚-bureaucrat) |
+| Busybody (Flaw)（《お節介焼き》） | [121](04-virtues-and-flaws.md#お節介焼き-busybody) |
+| Canon Law（教会法） | [161](05-abilities.md#ローマ法及び教会法-civil-and-canon-law-学術系), [504](14-mythic-europe.md#教会法) |
+| Capo (Virtue)（《カポ》） | [73](04-virtues-and-flaws.md#カポ-capo) |
+| Carefree (Flaw)（《気楽》） | [122](04-virtues-and-flaws.md#気楽-carefree) |
+| Careless Sorcerer (Flaw)（《不注意な術者》） | [122](04-virtues-and-flaws.md#不注意な術者-careless-sorcerer) |
+| Careless with (Ability) (Flaw)（（〈能力〉）に不注意） | [122](04-virtues-and-flaws.md#能力に不注意-careless-with-ability) |
+| Carouse (Ability)（〈酒豪〉） | [161](05-abilities.md#酒豪-carouse-一般系) |
 | Casting Requisites（行使の制約術法） | [311–312](09-spells.md#制約術法) |
 | Casting Spells（呪文の行使） | [213–220](07-hermetic-magic.md#呪文の行使) |
 | Casting Tablet（詠唱板） | [180](06-covenants.md#詠唱板), [263](08-laboratory.md#詠唱板) |
 | Casting Tools（詠唱道具） | [242](07-hermetic-magic.md#詠唱道具の呪付小なる流派の秘儀の美点) |
-| Castratus (Flaw)（《去勢者》） | [122](04-virtues-and-flaws.md#去勢者castratus) |
+| Castratus (Flaw)（《去勢者》） | [122](04-virtues-and-flaws.md#去勢者-castratus) |
 | Cathedral（大聖堂） | [502](14-mythic-europe.md#組織) |
-| Cathedral School Master (Virtue)（《司教座聖堂学校長》） | [73](04-virtues-and-flaws.md#司教座聖堂学校長cathedral-school-master) |
-| Cauterization (Chirurgy)（焼灼（外科処置）） | [161](05-abilities.md#外科処置chirurgy) |
-| Cautious Sorcerer (Virtue)（《慎重な術者》） | [73](04-virtues-and-flaws.md#慎重な術者cautious-sorcerer) |
-| Cautious with (Ability) (Virtue)（《細心（能力）》） | [73](04-virtues-and-flaws.md#細心能力cautious-with-ability) |
+| Cathedral School Master (Virtue)（《司教座聖堂学校長》） | [73](04-virtues-and-flaws.md#司教座聖堂学校長-cathedral-school-master) |
+| Cauterization (Chirurgy)（焼灼（外科処置）） | [161](05-abilities.md#外科処置-chirurgy-一般系) |
+| Cautious Sorcerer (Virtue)（《慎重な術者》） | [73](04-virtues-and-flaws.md#慎重な術者-cautious-sorcerer) |
+| Cautious with (Ability) (Virtue)（《細心（能力）》） | [73](04-virtues-and-flaws.md#細心能力-cautious-with-ability) |
 | Ceremonial Casting（儀礼的行使） | [217–218](07-hermetic-magic.md#儀礼的行使), [225](07-hermetic-magic.md#儀礼的行使-1) |
-| Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔術》） | [122](04-virtues-and-flaws.md#儀礼的即興魔術ceremonial-spontaneous-magic) |
+| Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔術》） | [122](04-virtues-and-flaws.md#儀礼的即興魔術-ceremonial-spontaneous-magic) |
 | Certamen（ケルターメン） | [16](02-the-order-of-hermes.md#トレメーレ派), [230–233](07-hermetic-magic.md#ケルターメン) |
 | Chain Mail（鎖帷子） | [399](11-obstacles.md#材質) |
 | Changing Reputations（評判の変化） | [28](03-characters.md#評判) |
-| Chaotic Magic (Flaw)（《混沌の魔術》） | [122](04-virtues-and-flaws.md#混沌の魔術chaotic-magic) |
+| Chaotic Magic (Flaw)（《混沌の魔術》） | [122](04-virtues-and-flaws.md#混沌の魔術-chaotic-magic) |
 | Character Creation（キャラクター作成） | [25–55](03-characters.md#第3章キャラクター) |
 | &nbsp;&nbsp;Child Characters（子供のキャラクター） | [44](03-characters.md#子供のキャラクター) |
 | &nbsp;&nbsp;Detailed（詳細な作成） | [43–55](03-characters.md#詳細キャラクター作成) |
@@ -1853,30 +1853,30 @@
 | Characteristics（特性値） | [27](03-characters.md#特性値), [48](03-characters.md#特性値-1) |
 | Charged Items（充填魔道具） | [253](08-laboratory.md#充填魔道具) |
 | Charlemagne（シャルルマーニュ） | [11](02-the-order-of-hermes.md#魔術団の流派) |
-| Charm (Ability)（〈魅惑〉） | [161](05-abilities.md#魅惑charm) |
+| Charm (Ability)（〈魅惑〉） | [161](05-abilities.md#魅惑-charm-一般系) |
 | Charms（護符） | [238](07-hermetic-magic.md#護符) |
 | Child Characters（子供のキャラクター） | [44](03-characters.md#子供のキャラクター) |
-| Chirurgy (Ability)（〈外科処置〉） | [161](05-abilities.md#外科処置chirurgy) |
+| Chirurgy (Ability)（〈外科処置〉） | [161](05-abilities.md#外科処置-chirurgy-一般系) |
 | Christ（キリスト） | [498](14-mythic-europe.md#教義) |
 | Church Militant（地上の教会） | [501](14-mythic-europe.md#聖人) |
 | Church Triumphant（天上の教会） | [501](14-mythic-europe.md#聖人) |
 | Church, The（教会） | [6](01-introduction.md#用語集), [23](02-the-order-of-hermes.md#教会), [497–506](14-mythic-europe.md#教会), [525](16-sagas.md#教会) |
 | &nbsp;&nbsp;*see also Divine, The* |  |
-| Church Upbringing (Flaw)（《教会育ち》） | [122](04-virtues-and-flaws.md#教会育ちchurch-upbringing) |
+| Church Upbringing (Flaw)（《教会育ち》） | [122](04-virtues-and-flaws.md#教会育ち-church-upbringing) |
 | Circle (Target)（円内（目標）） | [305](09-spells.md#目標) |
 | Cities（都市） | [24](02-the-order-of-hermes.md#都市) |
-| Civil and Canon Law (Ability)（〈ローマ法及び教会法〉） | [161](05-abilities.md#ローマ法及び教会法civil-and-canon-law) |
-| Clan Ilfetu (Virtue)（《イルフェトゥ氏族》） | [73](04-virtues-and-flaws.md#イルフェトゥ氏族clan-ilfetu) |
-| Clear Thinker (Virtue)（《明晰な思考》） | [74](04-virtues-and-flaws.md#明晰な思考clear-thinker) |
+| Civil and Canon Law (Ability)（〈ローマ法及び教会法〉） | [161](05-abilities.md#ローマ法及び教会法-civil-and-canon-law-学術系) |
+| Clan Ilfetu (Virtue)（《イルフェトゥ氏族》） | [73](04-virtues-and-flaws.md#イルフェトゥ氏族-clan-ilfetu) |
+| Clear Thinker (Virtue)（《明晰な思考》） | [74](04-virtues-and-flaws.md#明晰な思考-clear-thinker) |
 | Clergy（聖職者） | [502](14-mythic-europe.md#組織) |
-| Clerk (Virtue)（《知識階層》） | [74](04-virtues-and-flaws.md#知識階層clerk) |
+| Clerk (Virtue)（《知識階層》） | [74](04-virtues-and-flaws.md#知識階層-clerk) |
 | Climaxes（クライマックス） | [517](15-stories.md#山場) |
-| Close Family Ties (Flaw)（《濃い家族の絆》） | [122](04-virtues-and-flaws.md#濃い家族の絆close-family-ties) |
+| Close Family Ties (Flaw)（《濃い家族の絆》） | [122](04-virtues-and-flaws.md#濃い家族の絆-close-family-ties) |
 | Club（こん棒） | [401](11-obstacles.md#片手武器) |
-| Clumsy (Flaw)（《不器用》） | [122](04-virtues-and-flaws.md#不器用clumsy) |
-| Clumsy Magic (Flaw)（《不器用な魔術》） | [122](04-virtues-and-flaws.md#不器用な魔術clumsy-magic) |
+| Clumsy (Flaw)（《不器用》） | [122](04-virtues-and-flaws.md#不器用-clumsy) |
+| Clumsy Magic (Flaw)（《不器用な魔術》） | [122](04-virtues-and-flaws.md#不器用な魔術-clumsy-magic) |
 | Code of Hermes（ヘルメス法典） | [6](01-introduction.md#用語集), [18–19](02-the-order-of-hermes.md#ヘルメス法典) |
-| Code of Hermes (Ability)（〈ヘルメス法典〉） | [161](05-abilities.md#ヘルメス法典code-of-hermes) |
+| Code of Hermes (Ability)（〈ヘルメス法典〉） | [161](05-abilities.md#ヘルメス法典-code-of-hermes-秘術系) |
 | Coif（コイフ） | [399](11-obstacles.md#装着範囲) |
 | Combat（戦闘） | [393–398](11-obstacles.md#戦闘) |
 | &nbsp;&nbsp;Moving（移動） | [395](11-obstacles.md#戦闘中の移動) |
@@ -1884,42 +1884,42 @@
 | &nbsp;&nbsp;Sequence（手順） | [394](11-obstacles.md#戦闘の順序) |
 | &nbsp;&nbsp;*see also [Wizard's War](02-the-order-of-hermes.md#魔術師の決闘)* |  |
 | Combat Botches（戦闘のボッチ） | [393](11-obstacles.md#戦闘のボッチ) |
-| Command Animals (Virtue)（《動物への命令》） | [74](04-virtues-and-flaws.md#動物への命令command-animals) |
-| Commanding Aura (Virtue)（《威令のオーラ》） | [74](04-virtues-and-flaws.md#威令のオーラcommanding-aura) |
-| Common Law (Ability)（〈コモン・ロー〉） | [162](05-abilities.md#コモンローcommon-law) |
-| Common Sense (Virtue)（《常識》） | [74](04-virtues-and-flaws.md#常識common-sense) |
-| Communication（【交渉】） | [27](03-characters.md#交渉communicationcom) |
-| Companion Animal (Flaw)（《伴侶動物》） | [122](04-virtues-and-flaws.md#伴侶動物companion-animal) |
+| Command Animals (Virtue)（《動物への命令》） | [74](04-virtues-and-flaws.md#動物への命令-command-animals) |
+| Commanding Aura (Virtue)（《威令のオーラ》） | [74](04-virtues-and-flaws.md#威令のオーラ-commanding-aura) |
+| Common Law (Ability)（〈コモン・ロー〉） | [162](05-abilities.md#コモンロー-common-law-学術系) |
+| Common Sense (Virtue)（《常識》） | [74](04-virtues-and-flaws.md#常識-common-sense) |
+| Communication（【交渉】） | [27](03-characters.md#交渉-communication-com) |
+| Companion Animal (Flaw)（《伴侶動物》） | [122](04-virtues-and-flaws.md#伴侶動物-companion-animal) |
 | Companions（コンパニオン） | [6](01-introduction.md#用語集), [25](03-characters.md#コンパニオン) |
 | &nbsp;&nbsp;Templates（テンプレート） | [33–35](03-characters.md#コンパニオンテンプレート) |
-| Compassionate (Flaw)（《思いやり深い》） | [122](04-virtues-and-flaws.md#思いやり深いcompassionate) |
-| Compulsion (Flaw)（《悪癖》） | [122](04-virtues-and-flaws.md#悪癖compulsion) |
-| Compulsive Lying (Flaw)（《虚言癖》） | [122](04-virtues-and-flaws.md#虚言癖compulsive-lying) |
-| Concentration (Ability)（〈集中〉） | [162](05-abilities.md#集中concentration) |
+| Compassionate (Flaw)（《思いやり深い》） | [122](04-virtues-and-flaws.md#思いやり深い-compassionate) |
+| Compulsion (Flaw)（《悪癖》） | [122](04-virtues-and-flaws.md#悪癖-compulsion) |
+| Compulsive Lying (Flaw)（《虚言癖》） | [122](04-virtues-and-flaws.md#虚言癖-compulsive-lying) |
+| Concentration (Ability)（〈集中〉） | [162](05-abilities.md#集中-concentration-一般系) |
 | Concentration (Duration)（集中（持続時間）） | [215](07-hermetic-magic.md#集中), [304](09-spells.md#持続時間) |
 | Confidence（自信） | [29](03-characters.md#自信), [52](03-characters.md#自信-1) |
 | Confirmation（堅信） | [500](14-mythic-europe.md#秘蹟) |
 | Constant Effect Devices（常時効果の呪付物） | [258](08-laboratory.md#常時効果の呪付物) |
-| Constant Expression (Flaw)（《常なる魔法発現》） | [123](04-virtues-and-flaws.md#常なる魔法発現the-constant-expression) |
+| Constant Expression (Flaw)（《常なる魔法発現》） | [123](04-virtues-and-flaws.md#常なる魔法発現-the-constant-expression) |
 | Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン派) |
-| Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具consumed-casting-tools) |
+| Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具-consumed-casting-tools) |
 | Container Targets（容器の目標） | [309](09-spells.md#容器の目標) |
 | Contested Resource (Hook)（《争われる資源（コヴナント設定）》） | [181](06-covenants.md#コヴナント設定小) |
-| Continence (Flaw)（《禁欲》） | [123](04-virtues-and-flaws.md#禁欲continence) |
+| Continence (Flaw)（《禁欲》） | [123](04-virtues-and-flaws.md#禁欲-continence) |
 | Convents（修道院） | [505](14-mythic-europe.md#修道院) |
-| Convoluted Mind (Virtue)（《屈折した精神》） | [74](04-virtues-and-flaws.md#屈折した精神convoluted-mind) |
+| Convoluted Mind (Virtue)（《屈折した精神》） | [74](04-virtues-and-flaws.md#屈折した精神-convoluted-mind) |
 | Corpse, Animating（屍を動かす） | [462](13-bestiary.md#魔術で屍を動かす) |
-| Corpse Magic (Ability)（〈屍の魔術〉） | [162](05-abilities.md#屍の魔術corpse-magic) |
-| Corpse Magic (Virtue)（《屍の魔術》） | [74](04-virtues-and-flaws.md#屍の魔術corpse-magic) |
+| Corpse Magic (Ability)（〈屍の魔術〉） | [162](05-abilities.md#屍の魔術-corpse-magic-超常系) |
+| Corpse Magic (Virtue)（《屍の魔術》） | [74](04-virtues-and-flaws.md#屍の魔術-corpse-magic) |
 | Corpus (Art)（コルプース／肉体） | [209](07-hermetic-magic.md#コルプースco肉体), [332–339](09-spells.md#コルプースの呪文) |
 | Corrosion（腐食） | [407](11-obstacles.md#熱と腐食) |
 | Corrupt Beasts（穢れた獣） | [486](13-bestiary.md#穢れた獣) |
-| Corrupted Abilities (Flaw)（《穢れた能力》） | [123](04-virtues-and-flaws.md#穢れた能力corrupted-abilities) |
-| Corrupted Arts (Flaw)（《穢れた術法》） | [123](04-virtues-and-flaws.md#穢れた術法corrupted-arts) |
+| Corrupted Abilities (Flaw)（《穢れた能力》） | [123](04-virtues-and-flaws.md#穢れた能力-corrupted-abilities) |
+| Corrupted Arts (Flaw)（《穢れた術法》） | [123](04-virtues-and-flaws.md#穢れた術法-corrupted-arts) |
 | Corrupted Copies（劣化した写本） | [380](10-long-term-events.md#損なわれた写し) |
-| Corrupted Spells (Flaw)（《穢れた呪文》） | [123](04-virtues-and-flaws.md#穢れた呪文corrupted-spells) |
+| Corrupted Spells (Flaw)（《穢れた呪文》） | [123](04-virtues-and-flaws.md#穢れた呪文-corrupted-spells) |
 | Court Wizards（宮廷魔術師） | [21](02-the-order-of-hermes.md#世俗への干渉) |
-| Covenant Upbringing (Flaw)（《コヴナント育ち》） | [124](04-virtues-and-flaws.md#コヴナント育ちcovenant-upbringing) |
+| Covenant Upbringing (Flaw)（《コヴナント育ち》） | [124](04-virtues-and-flaws.md#コヴナント育ち-covenant-upbringing) |
 | Covenants（コヴナント） | [6](01-introduction.md#用語集), [18](02-the-order-of-hermes.md#コヴナント), [173–199](06-covenants.md#第6章コヴナント) |
 | &nbsp;&nbsp;Baseline（基準） | [179](06-covenants.md#基準) |
 | &nbsp;&nbsp;Customized Creation（任意の作成） | [178–184](06-covenants.md#カスタムコヴナント作成) |
@@ -1933,17 +1933,17 @@
 | &nbsp;&nbsp;Seasons（季節） | [174–176](06-covenants.md#コヴナントの季節) |
 | &nbsp;&nbsp;Situations（状況） | [177](06-covenants.md#コヴナントの状況) |
 | Covenfolk（コヴナントの住人） | [190](06-covenants.md#コヴナントの住人の区分), [197](06-covenants.md#コヴナントの住人の組織) |
-| Covenfolk (Virtue)（《コヴナントの住人》） | [74](04-virtues-and-flaws.md#コヴナントの住人covenfolk) |
-| Craft (Type) (Ability)（〈工芸（種別）〉） | [162](05-abilities.md#工芸種別craft-type) |
-| Craft Guild Training (Virtue)（《職人ギルドの修行》） | [75](04-virtues-and-flaws.md#職人ギルドの修行craft-guild-training) |
-| Crafter's Healing (Ability)（〈職人の癒し〉） | [162](05-abilities.md#職人の癒しcrafters-healing) |
-| Crafter's Healing (Virtue)（《職人の癒し》） | [75](04-virtues-and-flaws.md#職人の癒しcrafters-healing) |
+| Covenfolk (Virtue)（《コヴナントの住人》） | [74](04-virtues-and-flaws.md#コヴナントの住人-covenfolk) |
+| Craft (Type) (Ability)（〈工芸（種別）〉） | [162](05-abilities.md#工芸種別-craft-type-一般系) |
+| Craft Guild Training (Virtue)（《職人ギルドの修行》） | [75](04-virtues-and-flaws.md#職人ギルドの修行-craft-guild-training) |
+| Crafter's Healing (Ability)（〈職人の癒し〉） | [162](05-abilities.md#職人の癒し-crafters-healing-超常系) |
+| Crafter's Healing (Virtue)（《職人の癒し》） | [75](04-virtues-and-flaws.md#職人の癒し-crafters-healing) |
 | Crafting Magical Objects（魔法の品を作る） | [306–308](09-spells.md#魔術の工芸) |
-| Craftsman (Virtue)（《職人》） | [75](04-virtues-and-flaws.md#職人craftsman) |
-| Craving for Travel (Flaw)（《旅への渇望》） | [124](04-virtues-and-flaws.md#旅への渇望craving-for-travel) |
+| Craftsman (Virtue)（《職人》） | [75](04-virtues-and-flaws.md#職人-craftsman) |
+| Craving for Travel (Flaw)（《旅への渇望》） | [124](04-virtues-and-flaws.md#旅への渇望-craving-for-travel) |
 | Creation, Limit of（創造の限界） | [211](07-hermetic-magic.md#創造の限界) |
 | Creation Saga（創造のサーガ） | [533](16-sagas.md#創造) |
-| Creative Block (Flaw)（《創造の行き詰まり》） | [124](04-virtues-and-flaws.md#創造の行き詰まりcreative-block) |
+| Creative Block (Flaw)（《創造の行き詰まり》） | [124](04-virtues-and-flaws.md#創造の行き詰まり-creative-block) |
 | Creatures（クリーチャー） | [425–428](13-bestiary.md#第13章幻獣誌) |
 | &nbsp;&nbsp;Beasts, Mundane（世俗の獣） | [428–442](13-bestiary.md#世俗の獣) |
 | &nbsp;&nbsp;Creating（作る） | [428](13-bestiary.md#クリーチャーを作る) |
@@ -1959,21 +1959,21 @@
 | Criamon – The Enigma（クリーアモン――エニグマ） | [235–236](07-hermetic-magic.md#クリーアモンエニグマ) |
 | Criamon (Template)（クリーアモン（テンプレート）） | [38](03-characters.md#クリーアモン) |
 | Criamon, House（クリーアモン派） | [13](02-the-order-of-hermes.md#クリーアモン派) |
-| Crippled (Flaw)（《不具》） | [124](04-virtues-and-flaws.md#不具crippled) |
+| Crippled (Flaw)（《不具》） | [124](04-virtues-and-flaws.md#不具-crippled) |
 | Crises（危機） | [521](15-stories.md#本拠の危機) |
 | &nbsp;&nbsp;*see also [Aging Crises](10-long-term-events.md#老化)* |  |
 | Crucifixion（磔刑） | [498](14-mythic-europe.md#教義) |
 | Cudgel（棍棒） | [402](11-obstacles.md#両手武器) |
 | Cult of Mercury（メルクリウス・カルト） | [9–10](02-the-order-of-hermes.md#魔術団の歴史) |
 | Curate（助任司祭） | [504](14-mythic-europe.md#組織) |
-| Curse of Slander (Flaw)（《中傷の呪い》） | [124](04-virtues-and-flaws.md#中傷の呪いcurse-of-slander) |
-| Curse of Venus (Flaw)（《ウェヌスの呪い》） | [124](04-virtues-and-flaws.md#ウェヌスの呪いcurse-of-venus) |
-| Curse-Throwing (Ability)（〈呪い移し〉） | [163–164](05-abilities.md#呪い移しcurse-throwing) |
-| Curse-Throwing (Virtue)（《呪い移し》） | [75](04-virtues-and-flaws.md#呪い移しcurse-throwing) |
-| Cursed Guile (Flaw)（《呪われた詐術》） | [124](04-virtues-and-flaws.md#呪われた詐術cursed-guile) |
-| Custos (Virtue)（《クストス》） | [75](04-virtues-and-flaws.md#クストスcustos) |
-| Cyclic Magic (Negative) (Flaw)（《周期魔術（逆）》） | [124](04-virtues-and-flaws.md#周期魔術逆cyclic-magic-negative) |
-| Cyclic Magic (Positive) (Virtue)（《周期魔術（順）》） | [75](04-virtues-and-flaws.md#周期魔術順cyclic-magic-positive) |
+| Curse of Slander (Flaw)（《中傷の呪い》） | [124](04-virtues-and-flaws.md#中傷の呪い-curse-of-slander) |
+| Curse of Venus (Flaw)（《ウェヌスの呪い》） | [124](04-virtues-and-flaws.md#ウェヌスの呪い-curse-of-venus) |
+| Curse-Throwing (Ability)（〈呪い移し〉） | [163–164](05-abilities.md#呪い移し-curse-throwing-超常系) |
+| Curse-Throwing (Virtue)（《呪い移し》） | [75](04-virtues-and-flaws.md#呪い移し-curse-throwing) |
+| Cursed Guile (Flaw)（《呪われた詐術》） | [124](04-virtues-and-flaws.md#呪われた詐術-cursed-guile) |
+| Custos (Virtue)（《クストス》） | [75](04-virtues-and-flaws.md#クストス-custos) |
+| Cyclic Magic (Negative) (Flaw)（《周期魔術（逆）》） | [124](04-virtues-and-flaws.md#周期魔術逆-cyclic-magic-negative) |
+| Cyclic Magic (Positive) (Virtue)（《周期魔術（順）》） | [75](04-virtues-and-flaws.md#周期魔術順-cyclic-magic-positive) |
 | Dagger（短剣） | [401](11-obstacles.md#格闘の武器) |
 | Daimons（ダイモーン） | [444](13-bestiary.md#ダイモーン) |
 | Damage Table（ダメージ表） | [404](11-obstacles.md#ダメージ表) |
@@ -1981,51 +1981,51 @@
 | Damhan-Allaidh（ダーヴァン＝オラス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | Dangers（危険性） | [227–233](07-hermetic-magic.md#危険性) |
 | Darius of Flambeau (example character)（フランボーのダリウス（キャラクター例）） | [45](03-characters.md#例フランボー派のダリウス), [47–54](03-characters.md#例フランボー派のダリウス-1) |
-| Dark Secret (Flaw)（《暗い秘密》） | [124](04-virtues-and-flaws.md#暗い秘密dark-secret) |
+| Dark Secret (Flaw)（《暗い秘密》） | [124](04-virtues-and-flaws.md#暗い秘密-dark-secret) |
 | Deacon（助祭） | [500](14-mythic-europe.md#秘蹟) |
-| (Dead Language) (Ability)（〈（死語）〉） | [164](05-abilities.md#死語dead-language) |
+| (Dead Language) (Ability)（〈（死語）〉） | [164](05-abilities.md#死語-dead-language-学術系) |
 | Deadly Sins（大罪） | [499](14-mythic-europe.md#教義) |
-| Deaf (Flaw)（《聾》） | [125](04-virtues-and-flaws.md#聾deaf) |
-| Deal with the Devil (Flaw)（《悪魔との取引》） | [125](04-virtues-and-flaws.md#悪魔との取引a-deal-with-the-devil) |
-| Death Prophecy (Virtue)（《死の予言》） | [75](04-virtues-and-flaws.md#死の予言death-prophecy) |
+| Deaf (Flaw)（《聾》） | [125](04-virtues-and-flaws.md#聾-deaf) |
+| Deal with the Devil (Flaw)（《悪魔との取引》） | [125](04-virtues-and-flaws.md#悪魔との取引-a-deal-with-the-devil) |
+| Death Prophecy (Virtue)（《死の予言》） | [75](04-virtues-and-flaws.md#死の予言-death-prophecy) |
 | Debilitation（衰弱） | [406](11-obstacles.md#衰弱) |
 | Decrepitude（老衰） | [30](03-characters.md#書式), [392](10-long-term-events.md#老化) |
-| Deficient Technique (Flaw)（《不得手な技法》） | [125](04-virtues-and-flaws.md#不得手な技法deficient-technique) |
-| Deft Form (Virtue)（《巧みな形相》） | [75](04-virtues-and-flaws.md#巧みな形相deft-form) |
-| Deleterious Circumstances (Flaw)（《不利な状況》） | [125](04-virtues-and-flaws.md#不利な状況deleterious-circumstances) |
-| Delusion (Flaw)（《妄想》） | [125](04-virtues-and-flaws.md#妄想delusion) |
+| Deficient Technique (Flaw)（《不得手な技法》） | [125](04-virtues-and-flaws.md#不得手な技法-deficient-technique) |
+| Deft Form (Virtue)（《巧みな形相》） | [75](04-virtues-and-flaws.md#巧みな形相-deft-form) |
+| Deleterious Circumstances (Flaw)（《不利な状況》） | [125](04-virtues-and-flaws.md#不利な状況-deleterious-circumstances) |
+| Delusion (Flaw)（《妄想》） | [125](04-virtues-and-flaws.md#妄想-delusion) |
 | Demons（悪魔） | [21](02-the-order-of-hermes.md#悪魔との関わり) |
 | &nbsp;&nbsp;*see also Creatures of the Infernal* |  |
-| Demonic Blood (Virtue)（《悪魔の血》） | [75](04-virtues-and-flaws.md#悪魔の血demonic-blood) |
-| Demonic Familiar (Flaw)（《悪魔の使い魔》） | [125](04-virtues-and-flaws.md#悪魔の使い魔demonic-familiar) |
-| Demonic Might (Virtue)（《悪魔の実力値》） | [76](04-virtues-and-flaws.md#悪魔の実力値demonic-might) |
-| Demonic Powers (Virtue)（《悪魔の力》） | [76](04-virtues-and-flaws.md#悪魔の力demonic-powers) |
-| Dependent (Flaw)（《扶養者》） | [125](04-virtues-and-flaws.md#扶養者dependent) |
-| Depraved (Flaw)（《堕落》） | [125](04-virtues-and-flaws.md#堕落depraved) |
-| Depressed (Flaw)（《抑鬱》） | [125](04-virtues-and-flaws.md#抑鬱depressed) |
+| Demonic Blood (Virtue)（《悪魔の血》） | [75](04-virtues-and-flaws.md#悪魔の血-demonic-blood) |
+| Demonic Familiar (Flaw)（《悪魔の使い魔》） | [125](04-virtues-and-flaws.md#悪魔の使い魔-demonic-familiar) |
+| Demonic Might (Virtue)（《悪魔の実力値》） | [76](04-virtues-and-flaws.md#悪魔の実力値-demonic-might) |
+| Demonic Powers (Virtue)（《悪魔の力》） | [76](04-virtues-and-flaws.md#悪魔の力-demonic-powers) |
+| Dependent (Flaw)（《扶養者》） | [125](04-virtues-and-flaws.md#扶養者-dependent) |
+| Depraved (Flaw)（《堕落》） | [125](04-virtues-and-flaws.md#堕落-depraved) |
+| Depressed (Flaw)（《抑鬱》） | [125](04-virtues-and-flaws.md#抑鬱-depressed) |
 | Deprivation（欠乏） | [407](11-obstacles.md#欠乏) |
 | Depriving of Magical Power（魔法の力の剥奪） | [21](02-the-order-of-hermes.md#魔法の力の剥奪) |
 | Detailed Character Creation（詳細なキャラクター作成） | [25–55](03-characters.md#詳細キャラクター作成) |
-| Deteriorating Power (Flaw)（《衰えゆく力》） | [126](04-virtues-and-flaws.md#衰えゆく力deteriorating-power) |
+| Deteriorating Power (Flaw)（《衰えゆく力》） | [126](04-virtues-and-flaws.md#衰えゆく力-deteriorating-power) |
 | Devil Child（悪魔の子） | [56](03-characters.md#悪魔の子) |
-| Devil Child (Virtue)（《悪魔の子》） | [76](04-virtues-and-flaws.md#悪魔の子devil-child) |
-| Devoted Parent/Child (Flaw)（《献身的な親／子》） | [126](04-virtues-and-flaws.md#献身的な親子devoted-parentchild) |
-| Dexterity（【器用】） | [27](03-characters.md#器用dexteritydex) |
-| Dhimmi (Flaw)（《ズィンミー》） | [126](04-virtues-and-flaws.md#ズィンミーdhimmi) |
-| Diabolic Past (Flaw)（《悪魔的な過去》） | [126](04-virtues-and-flaws.md#悪魔的な過去diabolic-past) |
+| Devil Child (Virtue)（《悪魔の子》） | [76](04-virtues-and-flaws.md#悪魔の子-devil-child) |
+| Devoted Parent/Child (Flaw)（《献身的な親／子》） | [126](04-virtues-and-flaws.md#献身的な親子-devoted-parentchild) |
+| Dexterity（【器用】） | [27](03-characters.md#器用-dexterity-dex) |
+| Dhimmi (Flaw)（《ズィンミー》） | [126](04-virtues-and-flaws.md#ズィンミー-dhimmi) |
+| Diabolic Past (Flaw)（《悪魔的な過去》） | [126](04-virtues-and-flaws.md#悪魔的な過去-diabolic-past) |
 | Diameter (Duration)（陽径（持続時間）） | [304](09-spells.md#持続時間) |
 | Die Rolls（ダイスのロール） | [7](01-introduction.md#ダイスロール) |
 | Diedne, House（ディエドネ流派） | [10–11](02-the-order-of-hermes.md#魔術団の流派) |
-| Diedne Magic (Virtue)（《ディエドネー魔術》） | [76](04-virtues-and-flaws.md#ディエドネー魔術diedne-magic) |
-| Difficult Longevity Ritual (Flaw)（《延命儀式が困難》） | [126](04-virtues-and-flaws.md#延命儀式が困難difficult-longevity-ritual) |
-| Difficult Spontaneous Magic (Flaw)（《即興魔術が困難》） | [126](04-virtues-and-flaws.md#即興魔術が困難difficult-spontaneous-magic) |
-| Difficult Underlings (Flaw)（《扱いにくい配下》） | [126](04-virtues-and-flaws.md#扱いにくい配下difficult-underlings) |
+| Diedne Magic (Virtue)（《ディエドネー魔術》） | [76](04-virtues-and-flaws.md#ディエドネー魔術-diedne-magic) |
+| Difficult Longevity Ritual (Flaw)（《延命儀式が困難》） | [126](04-virtues-and-flaws.md#延命儀式が困難-difficult-longevity-ritual) |
+| Difficult Spontaneous Magic (Flaw)（《即興魔術が困難》） | [126](04-virtues-and-flaws.md#即興魔術が困難-difficult-spontaneous-magic) |
+| Difficult Underlings (Flaw)（《扱いにくい配下》） | [126](04-virtues-and-flaws.md#扱いにくい配下-difficult-underlings) |
 | Diocese（教区） | [504](14-mythic-europe.md#組織) |
 | Disease（病気） | [406](11-obstacles.md#病) |
 | Disengaging (From Combat)（離脱（戦闘からの）） | [397](11-obstacles.md#離脱) |
-| Disfigured (Flaw)（《醜貌》） | [126](04-virtues-and-flaws.md#醜貌disfigured) |
-| Disjointed Magic (Flaw)（《ちぐはぐな魔術》） | [126](04-virtues-and-flaws.md#ちぐはぐな魔術disjointed-magic) |
-| Disorientating Magic (Flaw)（《目眩を引き起こす魔術行使》） | [126](04-virtues-and-flaws.md#目眩を引き起こす魔術行使disorientating-magic) |
+| Disfigured (Flaw)（《醜貌》） | [126](04-virtues-and-flaws.md#醜貌-disfigured) |
+| Disjointed Magic (Flaw)（《ちぐはぐな魔術》） | [126](04-virtues-and-flaws.md#ちぐはぐな魔術-disjointed-magic) |
+| Disorientating Magic (Flaw)（《目眩を引き起こす魔術行使》） | [126](04-virtues-and-flaws.md#目眩を引き起こす魔術行使-disorientating-magic) |
 | Distractions（気晴らし／妨害） | [379](10-long-term-events.md#妨げ) |
 | &nbsp;&nbsp;From Lab Work（研究室の作業からの） | [265](08-laboratory.md#研究室作業の妨げ) |
 | Divine Aura（聖なるオーラ） | [418](12-realms.md#神聖圏のオーラ) |
@@ -2036,83 +2036,83 @@
 | Divine, Limit of the（神聖圏の限界） | [210](07-hermetic-magic.md#神聖圏の限界) |
 | Divine, The（神聖圏） | [6](01-introduction.md#用語集), [418–420](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Church, The* |  |
-| Doctor in (Faculty) (Virtue)（（学部）博士） | [76](04-virtues-and-flaws.md#学部博士doctor-in-faculty) |
+| Doctor in (Faculty) (Virtue)（（学部）博士） | [76](04-virtues-and-flaws.md#学部博士-doctor-in-faculty) |
 | Doctrine（教義） | [498](14-mythic-europe.md#教義) |
 | Dodge（回避） | [401](11-obstacles.md#格闘の武器) |
-| Domestic Animal (Virtue)（《家畜》） | [77](04-virtues-and-flaws.md#家畜domestic-animal) |
+| Domestic Animal (Virtue)（《家畜》） | [77](04-virtues-and-flaws.md#家畜-domestic-animal) |
 | Dominion（聖堂圏） | [418](12-realms.md#神聖圏) |
 | &nbsp;&nbsp;*see also Auras* |  |
-| Dominion Lore (Ability)（〈神聖圏知識〉） | [164](05-abilities.md#神聖圏知識dominion-lore) |
+| Dominion Lore (Ability)（〈神聖圏知識〉） | [164](05-abilities.md#神聖圏知識-dominion-lore-秘術系) |
 | Doorkeeper（守衛） | [500](14-mythic-europe.md#秘蹟) |
-| Dowsing (Ability)（〈ダウジング〉） | [164](05-abilities.md#ダウジングdowsing) |
-| Dowsing (Virtue)（《ダウジング》） | [77](04-virtues-and-flaws.md#ダウジングdowsing) |
-| Driven (Flaw)（《ライフワーク》） | [126](04-virtues-and-flaws.md#ライフワークdriven) |
+| Dowsing (Ability)（〈ダウジング〉） | [164](05-abilities.md#ダウジング-dowsing-超常系) |
+| Dowsing (Virtue)（《ダウジング》） | [77](04-virtues-and-flaws.md#ダウジング-dowsing) |
+| Driven (Flaw)（《ライフワーク》） | [126](04-virtues-and-flaws.md#ライフワーク-driven) |
 | Durations（持続時間） | [304](09-spells.md#持続時間) |
 | Durenmar（デュレンマール） | [22](02-the-order-of-hermes.md#大トリビューナル) |
-| Dust Devil (Virtue)（《塵旋風》） | [77](04-virtues-and-flaws.md#塵旋風dust-devil) |
-| Dutybound (Flaw)（《義務に縛られる》） | [126](04-virtues-and-flaws.md#義務に縛られるdutybound) |
-| Dwarf (Flaw)（《矮人》） | [126](04-virtues-and-flaws.md#矮人dwarf) |
+| Dust Devil (Virtue)（《塵旋風》） | [77](04-virtues-and-flaws.md#塵旋風-dust-devil) |
+| Dutybound (Flaw)（《義務に縛られる》） | [126](04-virtues-and-flaws.md#義務に縛られる-dutybound) |
+| Dwarf (Flaw)（《矮人》） | [126](04-virtues-and-flaws.md#矮人-dwarf) |
 | Early Childhood（幼少期） | [48](03-characters.md#幼年期) |
 | Ease Factor（目標値） | [8](01-introduction.md#目標値) |
 | Ecclesiastical Reputation（教会での評判） | [28](03-characters.md#評判) |
-| Educated (Virtue)（《教育》） | [77](04-virtues-and-flaws.md#教育educated) |
-| &nbsp;&nbsp;(Bardic)（（吟遊詩人）） | [77](04-virtues-and-flaws.md#教育吟遊詩人educated-bardic) |
-| &nbsp;&nbsp;(Islamic)（（イスラーム）） | [77](04-virtues-and-flaws.md#教育イスラームeducated-islamic) |
-| &nbsp;&nbsp;(Hebrew)（（ヘブライ）） | [77](04-virtues-and-flaws.md#教育ヘブライeducated-hebrew) |
-| &nbsp;&nbsp;(Vernacular)（（世俗）） | [77](04-virtues-and-flaws.md#教育世俗educated-vernacular) |
+| Educated (Virtue)（《教育》） | [77](04-virtues-and-flaws.md#教育-educated) |
+| &nbsp;&nbsp;(Bardic)（（吟遊詩人）） | [77](04-virtues-and-flaws.md#教育吟遊詩人-educated-bardic) |
+| &nbsp;&nbsp;(Islamic)（（イスラーム）） | [77](04-virtues-and-flaws.md#教育イスラーム-educated-islamic) |
+| &nbsp;&nbsp;(Hebrew)（（ヘブライ）） | [77](04-virtues-and-flaws.md#教育ヘブライ-educated-hebrew) |
+| &nbsp;&nbsp;(Vernacular)（（世俗）） | [77](04-virtues-and-flaws.md#教育世俗-educated-vernacular) |
 | Effect Frequency Table（効果頻度表） | [256](08-laboratory.md#効果の頻度表) |
 | Elemental Forms（元素の形相） | [210](07-hermetic-magic.md#元素の形相) |
-| Elemental Magic (Virtue)（《四大の魔術》） | [77](04-virtues-and-flaws.md#四大の魔術elemental-magic) |
+| Elemental Magic (Virtue)（《四大の魔術》） | [77](04-virtues-and-flaws.md#四大の魔術-elemental-magic) |
 | Elementals（精霊） | [449–456](13-bestiary.md#精霊) |
 | &nbsp;&nbsp;Air（風） | [454](13-bestiary.md#風の精霊) |
 | &nbsp;&nbsp;Earth（地） | [451](13-bestiary.md#地の精霊) |
 | &nbsp;&nbsp;Fire（火） | [455](13-bestiary.md#火の精霊) |
 | &nbsp;&nbsp;Size, Might, & Characteristics（サイズ・実力値・特性値） | [450](13-bestiary.md#精霊のサイズ実力値特性値) |
 | &nbsp;&nbsp;Water（水） | [453](13-bestiary.md#水の精霊) |
-| Embitterment（心を蝕む） | [245](05-abilities.md#心を蝕むembitterment) |
-| Embitterment (Ability)（〈心を蝕む〉） | [164](05-abilities.md#心を蝕むembitterment) |
-| Embitterment (Virtue)（《心を蝕む》） | [78](04-virtues-and-flaws.md#心を蝕むembitterment) |
-| Emir (Virtue)（《アミール》） | [78](04-virtues-and-flaws.md#アミールemir) |
-| Employed by Company (Flaw)（《商会に雇われている》） | [126](04-virtues-and-flaws.md#商会に雇われているemployed-by-company) |
+| Embitterment（心を蝕む） | [245](05-abilities.md#心を蝕む-embitterment) |
+| Embitterment (Ability)（〈心を蝕む〉） | [164](05-abilities.md#心を蝕む-embitterment) |
+| Embitterment (Virtue)（《心を蝕む》） | [78](04-virtues-and-flaws.md#心を蝕む-embitterment) |
+| Emir (Virtue)（《アミール》） | [78](04-virtues-and-flaws.md#アミール-emir) |
+| Employed by Company (Flaw)（《商会に雇われている》） | [126](04-virtues-and-flaws.md#商会に雇われている-employed-by-company) |
 | Enchanted Items（呪付物） | [180](06-covenants.md#呪付物) |
-| Enchanting (Ability) (Ability)（〈魔性の技芸（能力）〉） | [164](05-abilities.md#魔性の技芸能力enchanting-ability) |
-| Enchanting (Ability) (Virtue)（《魔性の技芸（能力）》） | [78](04-virtues-and-flaws.md#魔性の技芸能力enchanting-ability) |
+| Enchanting (Ability) (Ability)（〈魔性の技芸（能力）〉） | [164](05-abilities.md#魔性の技芸能力-enchanting-ability-超常系) |
+| Enchanting (Ability) (Virtue)（《魔性の技芸（能力）》） | [78](04-virtues-and-flaws.md#魔性の技芸能力-enchanting-ability) |
 | Encumbrance（運搬負荷） | [403](11-obstacles.md#運搬負荷) |
-| Enduring Constitution (Virtue)（《不屈の肉体》） | [78](04-virtues-and-flaws.md#不屈の肉体enduring-constitution) |
-| Enduring Magic (Virtue)（《持続する魔術》） | [78](04-virtues-and-flaws.md#持続する魔術enduring-magic) |
-| Enemies (Flaw)（《宿敵》） | [127](04-virtues-and-flaws.md#宿敵enemies) |
+| Enduring Constitution (Virtue)（《不屈の肉体》） | [78](04-virtues-and-flaws.md#不屈の肉体-enduring-constitution) |
+| Enduring Magic (Virtue)（《持続する魔術》） | [78](04-virtues-and-flaws.md#持続する魔術-enduring-magic) |
+| Enemies (Flaw)（《宿敵》） | [127](04-virtues-and-flaws.md#宿敵-enemies) |
 | Energy, Limit of（エネルギーの限界） | [211](07-hermetic-magic.md#エネルギーの限界) |
-| Enfeebled (Flaw)（《衰弱》） | [127](04-virtues-and-flaws.md#衰弱enfeebled) |
+| Enfeebled (Flaw)（《衰弱》） | [127](04-virtues-and-flaws.md#衰弱-enfeebled) |
 | Enigma, The（エニグマ） | [13](02-the-order-of-hermes.md#クリーアモン派), [235](07-hermetic-magic.md#クリーアモンエニグマ) |
-| Enigma, The (Virtue)（《エニグマ》） | [78](04-virtues-and-flaws.md#エニグマthe-enigma) |
-| Enigmatic Wisdom (Ability)（〈エニグマ悟得〉） | [164](05-abilities.md#エニグマ悟得enigmatic-wisdom), [236](07-hermetic-magic.md#エニグマ悟得) |
+| Enigma, The (Virtue)（《エニグマ》） | [78](04-virtues-and-flaws.md#エニグマ-the-enigma) |
+| Enigmatic Wisdom (Ability)（〈エニグマ悟得〉） | [164](05-abilities.md#エニグマ悟得-enigmatic-wisdom-秘術系), [236](07-hermetic-magic.md#エニグマ悟得) |
 | Entertainments, Noble（娯楽（貴族の）） | [508](14-mythic-europe.md#娯楽) |
-| Enticer of Multitudes (Virtue)（《群衆を誘う者》） | [78](04-virtues-and-flaws.md#群衆を誘う者enticer-of-multitudes) |
-| Entrancement (Ability)（〈魅了〉） | [164](05-abilities.md#魅了entrancement), [167](05-abilities.md#魅了と感応) |
-| Entrancement (Virtue)（《魅了》） | [78](04-virtues-and-flaws.md#魅了entrancement) |
-| Envied Beauty (Flaw)（《妬まれる美貌》） | [127](04-virtues-and-flaws.md#妬まれる美貌envied-beauty) |
-| Envious (Flaw)（《嫉妬深い》） | [127](04-virtues-and-flaws.md#嫉妬深いenvious) |
+| Enticer of Multitudes (Virtue)（《群衆を誘う者》） | [78](04-virtues-and-flaws.md#群衆を誘う者-enticer-of-multitudes) |
+| Entrancement (Ability)（〈魅了〉） | [164](05-abilities.md#魅了-entrancement-超常系), [167](05-abilities.md#魅了と感応) |
+| Entrancement (Virtue)（《魅了》） | [78](04-virtues-and-flaws.md#魅了-entrancement) |
+| Envied Beauty (Flaw)（《妬まれる美貌》） | [127](04-virtues-and-flaws.md#妬まれる美貌-envied-beauty) |
+| Envious (Flaw)（《嫉妬深い》） | [127](04-virtues-and-flaws.md#嫉妬深い-envious) |
 | Environmental Temperatures（環境の気温） | [152](04-virtues-and-flaws.md#環境気温) |
-| Environmental Magic Condition (Flaw)（《環境の魔法条件》） | [127](04-virtues-and-flaws.md#環境の魔法条件environmental-magic-condition) |
-| Environmental Sensitivity (Flaw)（《環境過敏》） | [127](04-virtues-and-flaws.md#環境過敏environmental-sensitivity) |
+| Environmental Magic Condition (Flaw)（《環境の魔法条件》） | [127](04-virtues-and-flaws.md#環境の魔法条件-environmental-magic-condition) |
+| Environmental Sensitivity (Flaw)（《環境過敏》） | [127](04-virtues-and-flaws.md#環境過敏-environmental-sensitivity) |
 | Environmental Trigger（環境誘因） | [257](08-laboratory.md#効果の修正) |
 | Envy（嫉妬） | [499](14-mythic-europe.md#教義) |
 | Equipment（装備） | [52](03-characters.md#装備) |
 | Errors（誤り） | [514](14-mythic-europe.md#誤りと時代錯誤) |
 | Essential Nature, Limit of（本質的性質の限界） | [210](07-hermetic-magic.md#本質的性質の限界) |
-| Etiquette (Ability)（〈作法〉） | [165](05-abilities.md#作法etiquette) |
-| Eunuch (Virtue)（《宦官》） | [78](04-virtues-and-flaws.md#宦官eunuch) |
+| Etiquette (Ability)（〈作法〉） | [165](05-abilities.md#作法-etiquette-一般系) |
+| Eunuch (Virtue)（《宦官》） | [78](04-virtues-and-flaws.md#宦官-eunuch) |
 | Eve（イブ） | [498](14-mythic-europe.md#教義) |
-| Evil Destiny (Flaw)（《邪悪な宿命》） | [127](04-virtues-and-flaws.md#邪悪な宿命evil-destiny) |
-| Evil Eye (Flaw)（《邪視》） | [127](04-virtues-and-flaws.md#邪視evil-eye) |
+| Evil Destiny (Flaw)（《邪悪な宿命》） | [127](04-virtues-and-flaws.md#邪悪な宿命-evil-destiny) |
+| Evil Eye (Flaw)（《邪視》） | [127](04-virtues-and-flaws.md#邪視-evil-eye) |
 | Ex Miscellanea (Template)（雑集派（テンプレート）） | [38](03-characters.md#雑集派) |
 | Ex Miscellanea, House（雑集派） | [14](02-the-order-of-hermes.md#雑集派), [243–244](07-hermetic-magic.md#雑集派の伝統) |
-| Exciting Experimentation (Flaw)（《刺激的な実験》） | [127](04-virtues-and-flaws.md#刺激的な実験exciting-experimentation) |
-| Excommunicate (Flaw)（《破門者》） | [128](04-virtues-and-flaws.md#破門者excommunicate) |
+| Exciting Experimentation (Flaw)（《刺激的な実験》） | [127](04-virtues-and-flaws.md#刺激的な実験-exciting-experimentation) |
+| Excommunicate (Flaw)（《破門者》） | [128](04-virtues-and-flaws.md#破門者-excommunicate) |
 | Exertion（全力） | [397](11-obstacles.md#全力) |
-| Exiled Atlantean (Flaw)（《追放されたアトランティス人》） | [128](04-virtues-and-flaws.md#追放されたアトランティス人exiled-atlantean) |
+| Exiled Atlantean (Flaw)（《追放されたアトランティス人》） | [128](04-virtues-and-flaws.md#追放されたアトランティス人-exiled-atlantean) |
 | Exorcist（祓魔師） | [500](14-mythic-europe.md#秘蹟) |
-| Exotic Casting (Virtue)（《独特の魔術行使》） | [78](04-virtues-and-flaws.md#独特の魔術行使exotic-casting) |
+| Exotic Casting (Virtue)（《独特の魔術行使》） | [78](04-virtues-and-flaws.md#独特の魔術行使-exotic-casting) |
 | Expenditure（支出） | [189](06-covenants.md#支出), [195–196](06-covenants.md#年間支出の要約) |
 | Experience（経験点） | [375–376](10-long-term-events.md#経験と成長) |
 | &nbsp;&nbsp;Adventure（冒険） | [376](10-long-term-events.md#冒険) |
@@ -2121,255 +2121,255 @@
 | Experimentation（実験） | [274–276](08-laboratory.md#実験) |
 | Exploration（探検） | [520](15-stories.md#探索) |
 | Exploring Childhood（探検好きな幼少期） | [48](03-characters.md#幼年期の例) |
-| Extractor of (Form) Vis (Virtue)（（形相）ウィースの抽出者） | [78](04-virtues-and-flaws.md#形相ウィースの抽出者extractor-of-form-vis) |
+| Extractor of (Form) Vis (Virtue)（（形相）ウィースの抽出者） | [78](04-virtues-and-flaws.md#形相ウィースの抽出者-extractor-of-form-vis) |
 | Extraordinary Results Chart（異常な結果表） | [275](08-laboratory.md#異常な結果表) |
 | Extreme-Research Saga（極端な研究サーガ） | [532](16-sagas.md#徹底して調べるサーガ) |
 | Eye (Range)（目（射程）） | [303](09-spells.md#射程) |
-| Eye of Hephaestus (Virtue)（《ヘパイストスの眼》） | [78](04-virtues-and-flaws.md#ヘパイストスの眼eye-of-hephaestus) |
-| Fabric Ripper (Virtue)（《布裂き》） | [79](04-virtues-and-flaws.md#布裂きfabric-ripper) |
-| Factor (Virtue)（《番頭》） | [79](04-virtues-and-flaws.md#番頭factor) |
+| Eye of Hephaestus (Virtue)（《ヘパイストスの眼》） | [78](04-virtues-and-flaws.md#ヘパイストスの眼-eye-of-hephaestus) |
+| Fabric Ripper (Virtue)（《布裂き》） | [79](04-virtues-and-flaws.md#布裂き-fabric-ripper) |
+| Factor (Virtue)（《番頭》） | [79](04-virtues-and-flaws.md#番頭-factor) |
 | Faerie（妖精圏） | [6](01-introduction.md#用語集), [416–418](12-realms.md#妖精圏) |
 | Faerie Aura（妖精圏のオーラ） | [416](12-realms.md#妖精圏のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
-| Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈faerie-blood) |
+| Faerie Blood (Virtue)（《妖精の血脈》） | [79](04-virtues-and-flaws.md#妖精の血脈-faerie-blood) |
 | Faerie Creatures（妖精圏のクリーチャー） | [466–475](13-bestiary.md#妖精圏のクリーチャー) |
 | &nbsp;&nbsp;Virtues & Flaws（《美点》と《欠点》） | [466](13-bestiary.md#新たな美点と欠点) |
-| Faerie Doctor (Virtue)（《妖精呪医》） | [79](04-virtues-and-flaws.md#妖精呪医faerie-doctor) |
+| Faerie Doctor (Virtue)（《妖精呪医》） | [79](04-virtues-and-flaws.md#妖精呪医-faerie-doctor) |
 | Faerie Doctors（妖精呪医） | [56–57](03-characters.md#妖精呪医) |
-| Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精faerie-friend) |
-| Faerie Lore (Ability)（〈妖精圏知識〉） | [165](05-abilities.md#妖精圏知識faerie-lore) |
+| Faerie Friend (Flaw)（《友なる妖精》） | [128](04-virtues-and-flaws.md#友なる妖精-faerie-friend) |
+| Faerie Lore (Ability)（〈妖精圏知識〉） | [165](05-abilities.md#妖精圏知識-faerie-lore-秘術系) |
 | Faerie Magic（妖精魔術） | [236–238](07-hermetic-magic.md#メリニータ妖精魔術) |
-| Faerie Magic (Ability)（〈妖精魔術〉） | [165](05-abilities.md#妖精魔術faerie-magic) |
-| Faerie Magic (Virtue)（《妖精魔術》） | [79](04-virtues-and-flaws.md#妖精魔術faerie-magic) |
-| Faerie-Raised Magic (Virtue)（《妖精に育まれた魔法》） | [79](04-virtues-and-flaws.md#妖精に育まれた魔法faerie-raised-magic) |
-| Faerie Upbringing (Flaw)（《妖精郷育ち》） | [128](04-virtues-and-flaws.md#妖精郷育ちfaerie-upbringing) |
-| Failed Apprentice (Virtue)（《落第徒弟》） | [80](04-virtues-and-flaws.md#落第徒弟failed-apprentice) |
-| Failed Journeyman (Flaw)（《追放遍歴職人》） | [128](04-virtues-and-flaws.md#追放遍歴職人failed-journeyman) |
-| Failed Master (Flaw)（《追放親方》） | [128](04-virtues-and-flaws.md#追放親方failed-master) |
-| Failed Monk (Flaw)（《追放修道士》） | [128](04-virtues-and-flaws.md#追放修道士failed-monk) |
-| Failed Student (Flaw)（《落第学生》） | [128](04-virtues-and-flaws.md#落第学生failed-student) |
+| Faerie Magic (Ability)（〈妖精魔術〉） | [165](05-abilities.md#妖精魔術-faerie-magic-秘術系) |
+| Faerie Magic (Virtue)（《妖精魔術》） | [79](04-virtues-and-flaws.md#妖精魔術-faerie-magic) |
+| Faerie-Raised Magic (Virtue)（《妖精に育まれた魔法》） | [79](04-virtues-and-flaws.md#妖精に育まれた魔法-faerie-raised-magic) |
+| Faerie Upbringing (Flaw)（《妖精郷育ち》） | [128](04-virtues-and-flaws.md#妖精郷育ち-faerie-upbringing) |
+| Failed Apprentice (Virtue)（《落第徒弟》） | [80](04-virtues-and-flaws.md#落第徒弟-failed-apprentice) |
+| Failed Journeyman (Flaw)（《追放遍歴職人》） | [128](04-virtues-and-flaws.md#追放遍歴職人-failed-journeyman) |
+| Failed Master (Flaw)（《追放親方》） | [128](04-virtues-and-flaws.md#追放親方-failed-master) |
+| Failed Monk (Flaw)（《追放修道士》） | [128](04-virtues-and-flaws.md#追放修道士-failed-monk) |
+| Failed Student (Flaw)（《落第学生》） | [128](04-virtues-and-flaws.md#落第学生-failed-student) |
 | Fairs（市） | [509](14-mythic-europe.md#市と大市) |
 | Faith（信仰） | [499](14-mythic-europe.md#教義) |
 | &nbsp;&nbsp;*see also True Faith* |  |
-| Falconer (Virtue)（《鷹匠》） | [80](04-virtues-and-flaws.md#鷹匠falconer) |
+| Falconer (Virtue)（《鷹匠》） | [80](04-virtues-and-flaws.md#鷹匠-falconer) |
 | Falling（落下） | [407](11-obstacles.md#衝撃) |
-| Falling Evil (Flaw)（《癲癇》） | [128](04-virtues-and-flaws.md#癲癇the-falling-evil) |
-| Falls Like a Cat (Virtue)（《猫のごとき着地》） | [80](04-virtues-and-flaws.md#猫のごとき着地falls-like-a-cat) |
-| False Power (Flaw)（《偽りの力》） | [128](04-virtues-and-flaws.md#偽りの力false-power) |
+| Falling Evil (Flaw)（《癲癇》） | [128](04-virtues-and-flaws.md#癲癇-the-falling-evil) |
+| Falls Like a Cat (Virtue)（《猫のごとき着地》） | [80](04-virtues-and-flaws.md#猫のごとき着地-falls-like-a-cat) |
+| False Power (Flaw)（《偽りの力》） | [128](04-virtues-and-flaws.md#偽りの力-false-power) |
 | Familiar Powers（使い魔の〈能力〉） | [267–268](08-laboratory.md#力の例) |
 | Familiars（使い魔） | [265–268](08-laboratory.md#使い魔) |
 | &nbsp;&nbsp;Suggested Familiars by Art（術法別の使い魔の例） | [266](08-laboratory.md#術法別の使い魔の例) |
-| Familiar with the Fae (Virtue)（《妖精への通暁》） | [80](04-virtues-and-flaws.md#妖精への通暁familiarity-with-the-fae) |
-| Famous (Virtue)（《高名》） | [80](04-virtues-and-flaws.md#高名famous) |
+| Familiar with the Fae (Virtue)（《妖精への通暁》） | [80](04-virtues-and-flaws.md#妖精への通暁-familiarity-with-the-fae) |
+| Famous (Virtue)（《高名》） | [80](04-virtues-and-flaws.md#高名-famous) |
 | Farm Implement（農具） | [402](11-obstacles.md#両手武器) |
-| Fast Caster (Virtue)（《迅速な行使》） | [80](04-virtues-and-flaws.md#迅速な行使fast-caster) |
+| Fast Caster (Virtue)（《迅速な行使》） | [80](04-virtues-and-flaws.md#迅速な行使-fast-caster) |
 | Fast Casting（高速行使） | [217](07-hermetic-magic.md#高速行使), [225](07-hermetic-magic.md#高速行使-1) |
 | Fast Saga（進行の早いサーガ） | [528](16-sagas.md#速いサーガ) |
 | Fate of Magic（魔術の行く末） | [526](16-sagas.md#魔術の行く末) |
 | Fatigue（疲労） | [403–404](11-obstacles.md#疲労) |
 | &nbsp;&nbsp;Levels（レベル） | [30](03-characters.md#書式), [403](11-obstacles.md#疲労) |
 | &nbsp;&nbsp;Recovery Chart（回復表） | [404](11-obstacles.md#疲労回復表) |
-| Favors (Flaw)（《借り》） | [129](04-virtues-and-flaws.md#借りfavors) |
+| Favors (Flaw)（《借り》） | [129](04-virtues-and-flaws.md#借り-favors) |
 | Fealty（臣従） | [506](14-mythic-europe.md#封建制) |
-| Fear (Flaw)（《恐怖》） | [129](04-virtues-and-flaws.md#恐怖fear) |
-| Feather Messenger (Virtue)（《羽根の使い》） | [80](04-virtues-and-flaws.md#羽根の使いfeather-messenger) |
+| Fear (Flaw)（《恐怖》） | [129](04-virtues-and-flaws.md#恐怖-fear) |
+| Feather Messenger (Virtue)（《羽根の使い》） | [80](04-virtues-and-flaws.md#羽根の使い-feather-messenger) |
 | Female Scholar (Template)（女性の学者（テンプレート）） | [33](03-characters.md#女性学者) |
-| Feral Scent (Flaw)（《獣じみた匂い》） | [129](04-virtues-and-flaws.md#獣じみた匂いferal-scent) |
-| Feral Upbringing (Flaw)（《野生の育ち》） | [129](04-virtues-and-flaws.md#野生の育ちferal-upbringing) |
-| Ferocity (Virtue)（《獰猛》） | [80](04-virtues-and-flaws.md#獰猛ferocity) |
-| Fettered Magic (Flaw)（《足枷ある魔術》） | [130](04-virtues-and-flaws.md#足枷ある魔術fettered-magic) |
-| Feud (Flaw)（《遺恨》） | [130](04-virtues-and-flaws.md#遺恨feud) |
+| Feral Scent (Flaw)（《獣じみた匂い》） | [129](04-virtues-and-flaws.md#獣じみた匂い-feral-scent) |
+| Feral Upbringing (Flaw)（《野生の育ち》） | [129](04-virtues-and-flaws.md#野生の育ち-feral-upbringing) |
+| Ferocity (Virtue)（《獰猛》） | [80](04-virtues-and-flaws.md#獰猛-ferocity) |
+| Fettered Magic (Flaw)（《足枷ある魔術》） | [130](04-virtues-and-flaws.md#足枷ある魔術-fettered-magic) |
+| Feud (Flaw)（《遺恨》） | [130](04-virtues-and-flaws.md#遺恨-feud) |
 | Feudalism（封建制） | [506](14-mythic-europe.md#封建制) |
-| Fickle Nature (Flaw)（《気まぐれな性分》） | [130](04-virtues-and-flaws.md#気まぐれな性分fickle-nature) |
-| Fida'i (Virtue)（《フィダーイー》） | [81](04-virtues-and-flaws.md#フィダーイーfidai) |
+| Fickle Nature (Flaw)（《気まぐれな性分》） | [130](04-virtues-and-flaws.md#気まぐれな性分-fickle-nature) |
+| Fida'i (Virtue)（《フィダーイー》） | [81](04-virtues-and-flaws.md#フィダーイー-fidai) |
 | Fief（封土） | [506](14-mythic-europe.md#封建制) |
 | Filius/Filia（フィリウス／フィリア） | [6](01-introduction.md#用語集) |
 | Final Twilight（終末の黄昏） | [228](07-hermetic-magic.md#黄昏の悟得) |
-| Finding Hidden Loot (Virtue)（《隠し財の発見》） | [81](04-virtues-and-flaws.md#隠し財の発見finding-hidden-loot) |
-| Finesse (Ability)（〈呪文操作〉） | [165](05-abilities.md#呪文操作finesse), [208](07-hermetic-magic.md#レーゴーre我操る) |
+| Finding Hidden Loot (Virtue)（《隠し財の発見》） | [81](04-virtues-and-flaws.md#隠し財の発見-finding-hidden-loot) |
+| Finesse (Ability)（〈呪文操作〉） | [165](05-abilities.md#呪文操作-finesse-秘術系), [208](07-hermetic-magic.md#レーゴーre我操る) |
 | Fire（火） | [407](11-obstacles.md#熱と腐食) |
-| Fish Out of Water (Terrain) (Flaw)（《水を離れた魚（地形）》） | [130](04-virtues-and-flaws.md#水を離れた魚地形fish-out-of-water-terrain) |
+| Fish Out of Water (Terrain) (Flaw)（《水を離れた魚（地形）》） | [130](04-virtues-and-flaws.md#水を離れた魚地形-fish-out-of-water-terrain) |
 | Fist（拳） | [401](11-obstacles.md#格闘の武器) |
 | Flail（フレイル） | [402](11-obstacles.md#両手武器) |
 | Flambeau (Template)（フランボー（テンプレート）） | [39](03-characters.md#フランボー) |
 | Flambeau, House（フランボー派） | [14](02-the-order-of-hermes.md#フランボー派) |
-| Flashbacks (Flaw)（《フラッシュバック》） | [130](04-virtues-and-flaws.md#フラッシュバックflashbacks) |
-| Flawed Parma Magica (Flaw)（《欠陥あるパルマ・マギカ》） | [130](04-virtues-and-flaws.md#欠陥あるパルママギカflawed-parma-magica) |
-| Flawed Powers (Flaw)（《欠陥ある力》） | [130](04-virtues-and-flaws.md#欠陥ある力flawed-powers) |
-| Flawless Magic (Virtue)（《完璧な魔法》） | [81](04-virtues-and-flaws.md#完璧な魔法flawless-magic) |
+| Flashbacks (Flaw)（《フラッシュバック》） | [130](04-virtues-and-flaws.md#フラッシュバック-flashbacks) |
+| Flawed Parma Magica (Flaw)（《欠陥あるパルマ・マギカ》） | [130](04-virtues-and-flaws.md#欠陥あるパルママギカ-flawed-parma-magica) |
+| Flawed Powers (Flaw)（《欠陥ある力》） | [130](04-virtues-and-flaws.md#欠陥ある力-flawed-powers) |
+| Flawless Magic (Virtue)（《完璧な魔法》） | [81](04-virtues-and-flaws.md#完璧な魔法-flawless-magic) |
 | Flaws（《欠点》） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
 | &nbsp;&nbsp;*see also Virtues and Flaws* |  |
-| Flexible Formulaic Magic (Virtue)（《柔軟な定式魔術》） | [81](04-virtues-and-flaws.md#柔軟な定式魔術flexible-formulaic-magic) |
-| Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢fluctuating-fortune) |
-| Focus Power (Virtue)（《集中の力》） | [81](04-virtues-and-flaws.md#集中の力focus-power) |
-| Folk Ken (Ability)（〈人間知識〉） | [165](05-abilities.md#人間知識folk-ken) |
-| Folk Magic (Virtue)（《民間魔術》） | [81](04-virtues-and-flaws.md#民間魔術folk-magic) |
-| Follower (Flaw)（《追従者》） | [131](04-virtues-and-flaws.md#追従者follower) |
-| Font of Knowledge (Ability)（〈知識の泉〉） | [165](05-abilities.md#知識の泉font-of-knowledge) |
-| Font of Knowledge (Virtue)（《知識の泉》） | [82](04-virtues-and-flaws.md#知識の泉font-of-knowledge) |
+| Flexible Formulaic Magic (Virtue)（《柔軟な定式魔術》） | [81](04-virtues-and-flaws.md#柔軟な定式魔術-flexible-formulaic-magic) |
+| Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢-fluctuating-fortune) |
+| Focus Power (Virtue)（《集中の力》） | [81](04-virtues-and-flaws.md#集中の力-focus-power) |
+| Folk Ken (Ability)（〈人間知識〉） | [165](05-abilities.md#人間知識-folk-ken-一般系) |
+| Folk Magic (Virtue)（《民間魔術》） | [81](04-virtues-and-flaws.md#民間魔術-folk-magic) |
+| Follower (Flaw)（《追従者》） | [131](04-virtues-and-flaws.md#追従者-follower) |
+| Font of Knowledge (Ability)（〈知識の泉〉） | [165](05-abilities.md#知識の泉-font-of-knowledge-超常系) |
+| Font of Knowledge (Virtue)（《知識の泉》） | [82](04-virtues-and-flaws.md#知識の泉-font-of-knowledge) |
 | Food Deprivation（食料欠乏） | [407](11-obstacles.md#欠乏) |
 | Forceless Casting（無力な行使） | [220](07-hermetic-magic.md#無力な行使) |
-| Foreign Upbringing (Flaw)（《異国育ち》） | [131](04-virtues-and-flaws.md#異国育ちforeign-upbringing) |
-| Forge-Companion (Virtue)（《鍛冶仲間》） | [82](04-virtues-and-flaws.md#鍛冶仲間forge-companion) |
-| Forgettable Face (Virtue)（《影の薄い容貌》） | [82](04-virtues-and-flaws.md#影の薄い容貌forgettable-face) |
+| Foreign Upbringing (Flaw)（《異国育ち》） | [131](04-virtues-and-flaws.md#異国育ち-foreign-upbringing) |
+| Forge-Companion (Virtue)（《鍛冶仲間》） | [82](04-virtues-and-flaws.md#鍛冶仲間-forge-companion) |
+| Forgettable Face (Virtue)（《影の薄い容貌》） | [82](04-virtues-and-flaws.md#影の薄い容貌-forgettable-face) |
 | Form（形相） | [206](07-hermetic-magic.md#ヘルメス魔術の術法), [208–209](07-hermetic-magic.md#形相) |
-| (Form) Monstrosity (Flaw)（《（形相）の異形》） | [131](04-virtues-and-flaws.md#形相の異形form-monstrosity) |
+| (Form) Monstrosity (Flaw)（《（形相）の異形》） | [131](04-virtues-and-flaws.md#形相の異形-form-monstrosity) |
 | Formulaic Magic（定式魔術） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#定式魔術) |
 | Founders, The（祖師たち） | [6](01-introduction.md#用語集), [9–10](02-the-order-of-hermes.md#魔術団の流派) |
-| Fragile Constitution (Flaw)（《虚弱な体質》） | [131](04-virtues-and-flaws.md#虚弱な体質fragile-constitution) |
-| Frail (Flaw)（《脆弱》） | [131](04-virtues-and-flaws.md#脆弱frail) |
+| Fragile Constitution (Flaw)（《虚弱な体質》） | [131](04-virtues-and-flaws.md#虚弱な体質-fragile-constitution) |
+| Frail (Flaw)（《脆弱》） | [131](04-virtues-and-flaws.md#脆弱-frail) |
 | Franciscans（フランシスコ会） | [505](14-mythic-europe.md#修道院) |
-| Free Expression (Virtue)（《独創的な表現力》） | [82](04-virtues-and-flaws.md#独創的な表現力free-expression) |
-| Free Study (Virtue)（《自在な研究》） | [82](04-virtues-and-flaws.md#自在な研究free-study) |
+| Free Expression (Virtue)（《独創的な表現力》） | [82](04-virtues-and-flaws.md#独創的な表現力-free-expression) |
+| Free Study (Virtue)（《自在な研究》） | [82](04-virtues-and-flaws.md#自在な研究-free-study) |
 | Friars（托鉢修道士） | [505](14-mythic-europe.md#修道院) |
-| Frightful Presence (Virtue)（《恐るべき威圧》） | [82](04-virtues-and-flaws.md#恐るべき威圧frightful-presence) |
+| Frightful Presence (Virtue)（《恐るべき威圧》） | [82](04-virtues-and-flaws.md#恐るべき威圧-frightful-presence) |
 | Full Armor（全身鎧） | [399](11-obstacles.md#装着範囲) |
-| Fury (Flaw)（《憤激》） | [131](04-virtues-and-flaws.md#憤激fury) |
-| Gabai (Flaw)（《ガバイ》） | [131](04-virtues-and-flaws.md#ガバイgabai) |
-| Galen（ガレノス） | [168](05-abilities.md#医学medicine) |
+| Fury (Flaw)（《憤激》） | [131](04-virtues-and-flaws.md#憤激-fury) |
+| Gabai (Flaw)（《ガバイ》） | [131](04-virtues-and-flaws.md#ガバイ-gabai) |
+| Galen（ガレノス） | [168](05-abilities.md#医学-medicine-学術系) |
 | Gambeson（ギャンベゾン） | [399](11-obstacles.md#装着範囲) |
 | Garden of Eden（エデンの園） | [498](14-mythic-europe.md#教義) |
 | Gauntlet (Weapon)（籠手（武器）） | [401](11-obstacles.md#格闘の武器) |
-| Gender Nonconforming (Flaw)（《性別規範不適合》） | [131](04-virtues-and-flaws.md#性別規範不適合gender-nonconforming) |
-| Gender Shift (Virtue)（《性別変換》） | [82](04-virtues-and-flaws.md#性別変換gender-shift) |
-| Generous (Flaw)（《気前がよい》） | [132](04-virtues-and-flaws.md#気前がよいgenerous) |
-| Gentle Gift (Virtue)（《穏和な天禀》） | [82](04-virtues-and-flaws.md#穏和な天禀gentle-gift) |
-| Gentleman/Woman (Virtue)（《郷紳／淑女》） | [82](04-virtues-and-flaws.md#郷紳淑女gentlemanwoman) |
-| Ghostly Warder (Virtue)（《亡霊の守護者》） | [83](04-virtues-and-flaws.md#亡霊の守護者ghostly-warder) |
-| Giant Blood (Virtue)（《巨人の血》） | [83](04-virtues-and-flaws.md#巨人の血giant-blood) |
+| Gender Nonconforming (Flaw)（《性別規範不適合》） | [131](04-virtues-and-flaws.md#性別規範不適合-gender-nonconforming) |
+| Gender Shift (Virtue)（《性別変換》） | [82](04-virtues-and-flaws.md#性別変換-gender-shift) |
+| Generous (Flaw)（《気前がよい》） | [132](04-virtues-and-flaws.md#気前がよい-generous) |
+| Gentle Gift (Virtue)（《穏和な天禀》） | [82](04-virtues-and-flaws.md#穏和な天禀-gentle-gift) |
+| Gentleman/Woman (Virtue)（《郷紳／淑女》） | [82](04-virtues-and-flaws.md#郷紳淑女-gentlemanwoman) |
+| Ghostly Warder (Virtue)（《亡霊の守護者》） | [83](04-virtues-and-flaws.md#亡霊の守護者-ghostly-warder) |
+| Giant Blood (Virtue)（《巨人の血》） | [83](04-virtues-and-flaws.md#巨人の血-giant-blood) |
 | Giants（巨人） | [457](13-bestiary.md#典型的な巨人) |
 | Gift, The（天禀） | [6](01-introduction.md#用語集), [63–64](04-virtues-and-flaws.md#天禀), [203–205](07-hermetic-magic.md#天禀) |
-| Gift, The (Virtue)（《天禀》） | [83](04-virtues-and-flaws.md#天禀the-gift) |
+| Gift, The (Virtue)（《天禀》） | [83](04-virtues-and-flaws.md#天禀-the-gift) |
 | God（神） | [9](02-the-order-of-hermes.md#第2章ヘルメス魔術団), [418–420](12-realms.md#神聖圏), [498–502](14-mythic-europe.md#教義) |
 | Golden Cord（金綬） | [267](08-laboratory.md#三本の絆) |
-| Good Teacher (Virtue)（《教え上手》） | [83](04-virtues-and-flaws.md#教え上手good-teacher) |
-| Gorgiastic (Virtue)（《ゴルギアス》） | [83](04-virtues-and-flaws.md#ゴルギアスgorgiastic) |
-| Gossip (Virtue)（《噂通》） | [83](04-virtues-and-flaws.md#噂通gossip) |
+| Good Teacher (Virtue)（《教え上手》） | [83](04-virtues-and-flaws.md#教え上手-good-teacher) |
+| Gorgiastic (Virtue)（《ゴルギアス》） | [83](04-virtues-and-flaws.md#ゴルギアス-gorgiastic) |
+| Gossip (Virtue)（《噂通》） | [83](04-virtues-and-flaws.md#噂通-gossip) |
 | Grace（恩寵） | [499](14-mythic-europe.md#教義) |
-| Grammar（文法） | [160](05-abilities.md#自由学科artes-liberales) |
+| Grammar（文法） | [160](05-abilities.md#自由学科-artes-liberales-学術系) |
 | Grand Tribunal（大トリビューナル） | [22](02-the-order-of-hermes.md#大トリビューナル) |
 | Grappling（組みつき） | [398](11-obstacles.md#非致死の戦闘) |
-| Great (Characteristic) (Virtue)（《傑出した（特性値）》） | [83](04-virtues-and-flaws.md#傑出した特性値great-characteristic) |
+| Great (Characteristic) (Virtue)（《傑出した（特性値）》） | [83](04-virtues-and-flaws.md#傑出した特性値-great-characteristic) |
 | Great Sword（グレートソード） | [402](11-obstacles.md#両手武器) |
-| Great Weapon (Ability)（〈両手武器〉） | [165](05-abilities.md#両手武器great-weapon) |
+| Great Weapon (Ability)（〈両手武器〉） | [165](05-abilities.md#両手武器-great-weapon-戦闘系) |
 | Great Weapons（両手武器） | [402](11-obstacles.md#両手武器) |
-| Greater Benediction (Virtue)（《大いなる祝福》） | [83](04-virtues-and-flaws.md#大いなる祝福greater-benediction) |
-| Greater Immunity (Virtue)（《大いなる耐性》） | [83](04-virtues-and-flaws.md#大いなる耐性greater-immunity) |
-| Greater Malediction (Flaw)（《大いなる呪詛》） | [132](04-virtues-and-flaws.md#大いなる呪詛greater-malediction) |
-| Greater Power (Virtue)（《大いなる力》） | [84](04-virtues-and-flaws.md#大いなる力greater-power) |
-| Greater Purifying Touch (Virtue)（《大いなる浄化の手》） | [84](04-virtues-and-flaws.md#大いなる浄化の手greater-purifying-touch) |
+| Greater Benediction (Virtue)（《大いなる祝福》） | [83](04-virtues-and-flaws.md#大いなる祝福-greater-benediction) |
+| Greater Immunity (Virtue)（《大いなる耐性》） | [83](04-virtues-and-flaws.md#大いなる耐性-greater-immunity) |
+| Greater Malediction (Flaw)（《大いなる呪詛》） | [132](04-virtues-and-flaws.md#大いなる呪詛-greater-malediction) |
+| Greater Power (Virtue)（《大いなる力》） | [84](04-virtues-and-flaws.md#大いなる力-greater-power) |
+| Greater Purifying Touch (Virtue)（《大いなる浄化の手》） | [84](04-virtues-and-flaws.md#大いなる浄化の手-greater-purifying-touch) |
 | Greed（強欲） | [499](14-mythic-europe.md#教義) |
-| Greedy (Flaw)（《大食》） | [132](04-virtues-and-flaws.md#大食greedy) |
+| Greedy (Flaw)（《大食》） | [132](04-virtues-and-flaws.md#大食-greedy) |
 | Greek（ギリシャ語） | [158](05-abilities.md#学術系能力) |
 | Grizzled Veteran (Template)（歴戦の古兵（テンプレート）） | [31](03-characters.md#歴戦の古参兵) |
 | Grogs（グロッグ） | [6](01-introduction.md#用語集), [26](03-characters.md#グロッグ) |
 | Group (Target)（集団（目標）） | [305](09-spells.md#目標) |
 | Groups, Combat（集団（戦闘の）） | [395–397](11-obstacles.md#集団) |
-| Grudge (Flaw)（《遺恨》） | [132](04-virtues-and-flaws.md#遺恨grudge) |
-| Guardian Angel (Virtue)（《守護天使》） | [84](04-virtues-and-flaws.md#守護天使guardian-angel) |
+| Grudge (Flaw)（《遺恨》） | [132](04-virtues-and-flaws.md#遺恨-grudge) |
+| Guardian Angel (Virtue)（《守護天使》） | [84](04-virtues-and-flaws.md#守護天使-guardian-angel) |
 | Guernicus (Template)（グエルニクス（テンプレート）） | [40](03-characters.md#グエルニクス) |
 | Guernicus, House（グエルニクス派） | [14](02-the-order-of-hermes.md#グエルニクス派) |
 | &nbsp;&nbsp;*see also Quaesitor* |  |
-| Guest of House Criamon (Virtue)（《クリーアモン派の客人》） | [84](04-virtues-and-flaws.md#クリーアモン派の客人guest-of-house-criamon) |
+| Guest of House Criamon (Virtue)（《クリーアモン派の客人》） | [84](04-virtues-and-flaws.md#クリーアモン派の客人-guest-of-house-criamon) |
 | Guest Storyguiding（客演のストーリーガイド） | [529](16-sagas.md#客演のストーリーガイド) |
-| Guild Apprentice (Virtue)（《ギルド徒弟》） | [84](04-virtues-and-flaws.md#ギルド徒弟guild-apprentice) |
-| Guild Dean (Virtue)（《ギルド長老》） | [85](04-virtues-and-flaws.md#ギルド長老guild-dean) |
-| Guild Master (Virtue)（《ギルド親方》） | [84](04-virtues-and-flaws.md#ギルド親方guild-master) |
-| Guile (Ability)（〈詐術〉） | [165](05-abilities.md#詐術guile) |
-| Gullible (Flaw)（《騙されやすい》） | [132](04-virtues-and-flaws.md#騙されやすいgullible) |
-| Hallucinations (Flaw)（《幻覚》） | [132](04-virtues-and-flaws.md#幻覚hallucinations) |
-| Harmless Magic (Flaw)（《無害な魔術》） | [132](04-virtues-and-flaws.md#無害な魔術harmless-magic) |
-| Harnessed Magic (Virtue)（《御された魔術》） | [85](04-virtues-and-flaws.md#御された魔術harnessed-magic) |
+| Guild Apprentice (Virtue)（《ギルド徒弟》） | [84](04-virtues-and-flaws.md#ギルド徒弟-guild-apprentice) |
+| Guild Dean (Virtue)（《ギルド長老》） | [85](04-virtues-and-flaws.md#ギルド長老-guild-dean) |
+| Guild Master (Virtue)（《ギルド親方》） | [84](04-virtues-and-flaws.md#ギルド親方-guild-master) |
+| Guile (Ability)（〈詐術〉） | [165](05-abilities.md#詐術-guile-一般系) |
+| Gullible (Flaw)（《騙されやすい》） | [132](04-virtues-and-flaws.md#騙されやすい-gullible) |
+| Hallucinations (Flaw)（《幻覚》） | [132](04-virtues-and-flaws.md#幻覚-hallucinations) |
+| Harmless Magic (Flaw)（《無害な魔術》） | [132](04-virtues-and-flaws.md#無害な魔術-harmless-magic) |
+| Harnessed Magic (Virtue)（《御された魔術》） | [85](04-virtues-and-flaws.md#御された魔術-harnessed-magic) |
 | Hatchet（手斧） | [401](11-obstacles.md#片手武器) |
-| Hatred (Flaw)（《憎悪》） | [132](04-virtues-and-flaws.md#憎悪hatred) |
+| Hatred (Flaw)（《憎悪》） | [132](04-virtues-and-flaws.md#憎悪-hatred) |
 | Hauberk（ホーバーク） | [399](11-obstacles.md#装着範囲) |
 | Healing Miracle（癒しの奇跡） | [505–506](14-mythic-europe.md#奇跡) |
 | Healing Spells（治癒呪文） | [406](11-obstacles.md#治癒の呪文) |
 | Heartbeast（心獣） | [233](07-hermetic-magic.md#ビョルネール心獣) |
-| Heartbeast (Ability)（〈心獣〉） | [165](05-abilities.md#心獣heartbeast) |
-| Heartbeast (Virtue)（《心獣》） | [85](04-virtues-and-flaws.md#心獣heartbeast) |
+| Heartbeast (Ability)（〈心獣〉） | [165](05-abilities.md#心獣-heartbeast-秘術系) |
+| Heartbeast (Virtue)（《心獣》） | [85](04-virtues-and-flaws.md#心獣-heartbeast) |
 | Heat（熱） | [407](11-obstacles.md#熱と腐食) |
 | Heater Shield（ヒーターシールド） | [401](11-obstacles.md#片手武器) |
 | Heaven（天国） | [498–500](14-mythic-europe.md#教義) |
 | Heavy Leather Armor（ハードレザー） | [399](11-obstacles.md#材質) |
 | Hebrew（ヘブライ語） | [158](05-abilities.md#学術系能力) |
 | Hedge Magic（俗魔術） | [6](01-introduction.md#用語集) |
-| Hedge Wizard (Flaw)（《俗魔術師》） | [132](04-virtues-and-flaws.md#俗魔術師hedge-wizard) |
-| Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人heir) |
+| Hedge Wizard (Flaw)（《俗魔術師》） | [132](04-virtues-and-flaws.md#俗魔術師-hedge-wizard) |
+| Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人-heir) |
 | Hell（地獄） | [415](12-realms.md#地獄圏), [499](14-mythic-europe.md#教義) |
 | Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究室での助力) |
 | Herbam (Art)（ヘルバーム／植物） | [209](07-hermetic-magic.md#ヘルバームhe植物), [339–343](09-spells.md#ヘルバームの呪文) |
-| Heresy（異端） | [171](05-abilities.md#神学キリスト教theology-christian), [504](14-mythic-europe.md#教会法) |
+| Heresy（異端） | [171](05-abilities.md#神学キリスト教-theology-christian-学術系), [504](14-mythic-europe.md#教会法) |
 | Hermetic Arts（ヘルメス魔術の術法） | [206–209](07-hermetic-magic.md#ヘルメス魔術の術法) |
 | Hermetic Breakthrough（ヘルメス突破） | [277](08-laboratory.md#突破) |
-| Hermetic Experience (Virtue)（《ヘルメスの経験》） | [85](04-virtues-and-flaws.md#ヘルメスの経験hermetic-experience) |
+| Hermetic Experience (Virtue)（《ヘルメスの経験》） | [85](04-virtues-and-flaws.md#ヘルメスの経験-hermetic-experience) |
 | Hermetic Houses（ヘルメスの流派） | [10–17](02-the-order-of-hermes.md#魔術団の流派), [46](03-characters.md#ヘルメスの流派一覧) |
 | Hermetic Life（ヘルメスの生） | [533](16-sagas.md#ヘルメスの生) |
 | Hermetic Magi（ヘルメスのマギ） | [6](01-introduction.md#用語集), [25](03-characters.md#マギ) |
 | &nbsp;&nbsp;*see also Order of Hermes* |  |
 | Hermetic Magic（ヘルメス魔術） | [6](01-introduction.md#用語集), [203–246](07-hermetic-magic.md#第7章ヘルメス魔術) |
-| Hermetic Magus (Virtue)（《ヘルメスのマギ》） | [85](04-virtues-and-flaws.md#ヘルメスのマギhermetic-magus) |
+| Hermetic Magus (Virtue)（《ヘルメスのマギ》） | [85](04-virtues-and-flaws.md#ヘルメスのマギ-hermetic-magus) |
 | Hermetic Oath（ヘルメス法典） | [6](01-introduction.md#用語集), [18–19](02-the-order-of-hermes.md#ヘルメス法典) |
-| Hermetic Patron (Flaw)（《ヘルメスの庇護者》） | [132](04-virtues-and-flaws.md#ヘルメスの庇護者hermetic-patron) |
-| Hermetic Prestige (Virtue)（《ヘルメスの威光》） | [85](04-virtues-and-flaws.md#ヘルメスの威光hermetic-prestige) |
+| Hermetic Patron (Flaw)（《ヘルメスの庇護者》） | [132](04-virtues-and-flaws.md#ヘルメスの庇護者-hermetic-patron) |
+| Hermetic Prestige (Virtue)（《ヘルメスの威光》） | [85](04-virtues-and-flaws.md#ヘルメスの威光-hermetic-prestige) |
 | Hermetic Reputation（ヘルメスの評判） | [28](03-characters.md#評判) |
 | Hermetic Virtues and Flaws（ヘルメス《美点》と《欠点》） | [45](03-characters.md#美点と欠点-1) |
-| Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛hex) |
-| Hex (Virtue)（《呪詛》） | [85](04-virtues-and-flaws.md#呪詛hex) |
+| Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛-hex) |
+| Hex (Virtue)（《呪詛》） | [85](04-virtues-and-flaws.md#呪詛-hex) |
 | Hiems（冬） | [176](06-covenants.md#ヒエムス) |
 | High Fantasy（ハイ・ファンタジー） | [532](16-sagas.md#ハイファンタジー) |
 | High Vis（多量のウィース） | [526](16-sagas.md#資力) |
 | High-Research Saga（研究重視のサーガ） | [532](16-sagas.md#よく調べるサーガ) |
-| Higher Purpose (Flaw)（《より高き目的》） | [133](04-virtues-and-flaws.md#より高き目的higher-purpose) |
-| Hippocrates（ヒポクラテス） | [168](05-abilities.md#医学medicine) |
+| Higher Purpose (Flaw)（《より高き目的》） | [133](04-virtues-and-flaws.md#より高き目的-higher-purpose) |
+| Hippocrates（ヒポクラテス） | [168](05-abilities.md#医学-medicine-学術系) |
 | Historical Accuracy（歴史的正確性） | [495](14-mythic-europe.md#第14章伝承ヨーロッパ) |
 | History（歴史） | [523–524](16-sagas.md#歴史) |
-| Hobbled (Flaw)（《足萎え》） | [133](04-virtues-and-flaws.md#足萎えhobbled) |
+| Hobbled (Flaw)（《足萎え》） | [133](04-virtues-and-flaws.md#足萎え-hobbled) |
 | Holy Grail（聖杯） | [522](15-stories.md#探求の目的物) |
-| Holy Orders（叙階） | [74](04-virtues-and-flaws.md#知識階層clerk), [500](14-mythic-europe.md#秘蹟) |
-| Homing Instinct (Virtue)（《帰巣本能》） | [85](04-virtues-and-flaws.md#帰巣本能homing-instinct) |
+| Holy Orders（叙階） | [74](04-virtues-and-flaws.md#知識階層-clerk), [500](14-mythic-europe.md#秘蹟) |
+| Homing Instinct (Virtue)（《帰巣本能》） | [85](04-virtues-and-flaws.md#帰巣本能-homing-instinct) |
 | Hooks（導入の糸口） | [181–182](06-covenants.md#コヴナント設定), [516](15-stories.md#導入の糸口) |
 | Hope（希望） | [499](14-mythic-europe.md#教義) |
 | Horoscope（ホロスコープ） | [220](07-hermetic-magic.md#類感媒体) |
-| Horrifying Appearance – Snake Legs (Flaw)（《恐ろしい姿――蛇の脚》） | [133](04-virtues-and-flaws.md#恐ろしい姿蛇の脚horrifying-appearance--snake-legs) |
-| Hospitallers（聖ヨハネ騎士団） | [73](04-virtues-and-flaws.md#騎士修道士brother-knight) |
+| Horrifying Appearance – Snake Legs (Flaw)（《恐ろしい姿――蛇の脚》） | [133](04-virtues-and-flaws.md#恐ろしい姿蛇の脚-horrifying-appearance--snake-legs) |
+| Hospitallers（聖ヨハネ騎士団） | [73](04-virtues-and-flaws.md#騎士修道士-brother-knight) |
 | Host, The（聖体） | [500](14-mythic-europe.md#秘蹟) |
 | House Rules（ハウスルール） | [524](16-sagas.md#ルールについての問い) |
 | Houses of Hermes（魔術団の流派） | [10–17](02-the-order-of-hermes.md#魔術団の流派), [46](03-characters.md#ヘルメスの流派一覧) |
 | Hubris（驕慢） | [241](07-hermetic-magic.md#驕慢) |
-| Humble (Flaw)（《謙虚》） | [133](04-virtues-and-flaws.md#謙虚humble) |
-| Humors（体液） | [168](05-abilities.md#医学medicine), [497](14-mythic-europe.md#中世の自然学) |
-| Hunchback (Flaw)（《猫背》） | [133](04-virtues-and-flaws.md#猫背hunchback) |
-| Hunger for (Form) Magic (Flaw)（（形相）魔術への飢え） | [133](04-virtues-and-flaws.md#形相魔術への飢えhunger-for-form-magic) |
-| Hunt (Ability)（〈狩猟〉） | [166](05-abilities.md#狩猟hunt) |
+| Humble (Flaw)（《謙虚》） | [133](04-virtues-and-flaws.md#謙虚-humble) |
+| Humors（体液） | [168](05-abilities.md#医学-medicine-学術系), [497](14-mythic-europe.md#中世の自然学) |
+| Hunchback (Flaw)（《猫背》） | [133](04-virtues-and-flaws.md#猫背-hunchback) |
+| Hunger for (Form) Magic (Flaw)（（形相）魔術への飢え） | [133](04-virtues-and-flaws.md#形相魔術への飢え-hunger-for-form-magic) |
+| Hunt (Ability)（〈狩猟〉） | [166](05-abilities.md#狩猟-hunt-一般系) |
 | Hunter (Template)（狩人（テンプレート）） | [32](03-characters.md#狩人) |
 | Ice（氷） | [407](11-obstacles.md#熱と腐食) |
 | Ignem (Art)（イグネム／火） | [209](07-hermetic-magic.md#イグネムig火), [343–347](09-spells.md#イグネムの呪文) |
-| Imagined Folk Tradition Vulnerability (Flaw)（《魔除けに脆いという思い込み》） | [133](04-virtues-and-flaws.md#魔除けに脆いという思い込みimagined-folk-tradition-vulnerability) |
+| Imagined Folk Tradition Vulnerability (Flaw)（《魔除けに脆いという思い込み》） | [133](04-virtues-and-flaws.md#魔除けに脆いという思い込み-imagined-folk-tradition-vulnerability) |
 | Imaginem (Art)（イマーギネム／幻） | [209](07-hermetic-magic.md#イマーギネムim幻), [347–352](09-spells.md#イマーギネムの呪文) |
-| Imbued with the Spirit of (Form) (Virtue)（（形相）の精を宿す） | [85](04-virtues-and-flaws.md#形相の精を宿すimbued-with-the-spirit-of-form) |
-| Immune to Disease (Virtue)（《病への免疫》） | [86](04-virtues-and-flaws.md#病への免疫immune-to-disease) |
-| Immunity to Cold (Virtue)（《寒気への耐性》） | [86](04-virtues-and-flaws.md#寒気への耐性immunity-to-cold) |
+| Imbued with the Spirit of (Form) (Virtue)（（形相）の精を宿す） | [85](04-virtues-and-flaws.md#形相の精を宿す-imbued-with-the-spirit-of-form) |
+| Immune to Disease (Virtue)（《病への免疫》） | [86](04-virtues-and-flaws.md#病への免疫-immune-to-disease) |
+| Immunity to Cold (Virtue)（《寒気への耐性》） | [86](04-virtues-and-flaws.md#寒気への耐性-immunity-to-cold) |
 | Impact（衝撃） | [407](11-obstacles.md#衝撃) |
 | Imperturbable Casting（不動行使） | [225](07-hermetic-magic.md#不動行使) |
-| Impious Friend (Flaw)（《冒涜的な友》） | [133](04-virtues-and-flaws.md#冒涜的な友impious-friend) |
-| Improved Characteristics (Virtue)（《特性値強化》） | [86](04-virtues-and-flaws.md#特性値強化improved-characteristics) |
+| Impious Friend (Flaw)（《冒涜的な友》） | [133](04-virtues-and-flaws.md#冒涜的な友-impious-friend) |
+| Improved Characteristics (Virtue)（《特性値強化》） | [86](04-virtues-and-flaws.md#特性値強化-improved-characteristics) |
 | Incapacitation（瀕死） | [404](11-obstacles.md#負傷) |
 | Incarnation（受肉） | [498](14-mythic-europe.md#教義) |
 | Income（収入） | [188](06-covenants.md#収入) |
-| Incompatible Arts (Flaw)（《相容れぬ術法》） | [134](04-virtues-and-flaws.md#相容れぬ術法incompatible-arts) |
-| Incomprehensible (Flaw)（《理解不能》） | [134](04-virtues-and-flaws.md#理解不能incomprehensible) |
-| Inconstant Magic (Flaw)（《定まらぬ魔術》） | [134](04-virtues-and-flaws.md#定まらぬ魔術inconstant-magic) |
-| Indescribable Face (Virtue)（《言い表せぬ顔》） | [86](04-virtues-and-flaws.md#言い表せぬ顔indescribable-face) |
-| Independent Craftsman (Flaw)（《孤立した職人》） | [134](04-virtues-and-flaws.md#孤立した職人independent-craftsman) |
-| Independent Study (Virtue)（《独学》） | [86](04-virtues-and-flaws.md#独学independent-study) |
-| Indiscreet (Flaw)（《口が軽い》） | [134](04-virtues-and-flaws.md#口が軽いindiscreet) |
+| Incompatible Arts (Flaw)（《相容れぬ術法》） | [134](04-virtues-and-flaws.md#相容れぬ術法-incompatible-arts) |
+| Incomprehensible (Flaw)（《理解不能》） | [134](04-virtues-and-flaws.md#理解不能-incomprehensible) |
+| Inconstant Magic (Flaw)（《定まらぬ魔術》） | [134](04-virtues-and-flaws.md#定まらぬ魔術-inconstant-magic) |
+| Indescribable Face (Virtue)（《言い表せぬ顔》） | [86](04-virtues-and-flaws.md#言い表せぬ顔-indescribable-face) |
+| Independent Craftsman (Flaw)（《孤立した職人》） | [134](04-virtues-and-flaws.md#孤立した職人-independent-craftsman) |
+| Independent Study (Virtue)（《独学》） | [86](04-virtues-and-flaws.md#独学-independent-study) |
+| Indiscreet (Flaw)（《口が軽い》） | [134](04-virtues-and-flaws.md#口が軽い-indiscreet) |
 | Individual (Target)（個人（目標）） | [305](09-spells.md#目標) |
-| Induction (Ability)（〈感応〉） | [166–167](05-abilities.md#感応induction) |
-| Induction (Virtue)（《感応》） | [86](04-virtues-and-flaws.md#感応induction) |
-| Ineslemen (Virtue)（《イネスレメン》） | [86](04-virtues-and-flaws.md#イネスレメンineslemen) |
-| Infamous (Flaw)（《悪名高い》） | [134](04-virtues-and-flaws.md#悪名高いinfamous) |
-| Infamous Master (Flaw)（《悪名高い師》） | [134](04-virtues-and-flaws.md#悪名高い師infamous-master) |
+| Induction (Ability)（〈感応〉） | [166–167](05-abilities.md#感応-induction-超常系) |
+| Induction (Virtue)（《感応》） | [86](04-virtues-and-flaws.md#感応-induction) |
+| Ineslemen (Virtue)（《イネスレメン》） | [86](04-virtues-and-flaws.md#イネスレメン-ineslemen) |
+| Infamous (Flaw)（《悪名高い》） | [134](04-virtues-and-flaws.md#悪名高い-infamous) |
+| Infamous Master (Flaw)（《悪名高い師》） | [134](04-virtues-and-flaws.md#悪名高い師-infamous-master) |
 | Infernal Aura（地獄圏のオーラ） | [415](12-realms.md#地獄圏のオーラ) |
 | &nbsp;&nbsp;*see also Auras* |  |
 | Infernal Creatures（地獄圏のクリーチャー） | [475–488](13-bestiary.md#地獄圏のクリーチャー) |
@@ -2378,11 +2378,11 @@
 | &nbsp;&nbsp;Free Will（自由意志） | [478](13-bestiary.md#悪魔と自由意志) |
 | &nbsp;&nbsp;Horrifying Appearance（怖ろしき外見） | [487](13-bestiary.md#怖ろしき外見) |
 | &nbsp;&nbsp;and Magic（と魔術） | [477](13-bestiary.md#悪魔と魔術) |
-| &nbsp;&nbsp;Powers（力） | [475](04-virtues-and-flaws.md#悪魔の力demonic-powers) |
+| &nbsp;&nbsp;Powers（力） | [475](04-virtues-and-flaws.md#悪魔の力-demonic-powers) |
 | &nbsp;&nbsp;Religious Limitations（宗教上の制約） | [478](13-bestiary.md#悪魔への宗教上の制約) |
 | &nbsp;&nbsp;Weaknesses（弱点） | [477](13-bestiary.md#悪魔の弱点) |
-| Infernal Heirloom (Virtue)（《地獄の家宝》） | [86](04-virtues-and-flaws.md#地獄の家宝infernal-heirloom) |
-| Infernal Lore (Ability)（〈地獄圏知識〉） | [167](05-abilities.md#地獄圏知識infernal-lore) |
+| Infernal Heirloom (Virtue)（《地獄の家宝》） | [86](04-virtues-and-flaws.md#地獄の家宝-infernal-heirloom) |
+| Infernal Lore (Ability)（〈地獄圏知識〉） | [167](05-abilities.md#地獄圏知識-infernal-lore-秘術系) |
 | Infernal, Limit of The（地獄の限界） | [211](07-hermetic-magic.md#地獄の限界) |
 | Infernal, The（地獄圏） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄圏) |
 | &nbsp;&nbsp;*see also Demons* |  |
@@ -2391,25 +2391,25 @@
 | Initiative Total（イニシアチブ合計） | [393](11-obstacles.md#戦闘値) |
 | Injuries（怪我） | [407](11-obstacles.md#怪我) |
 | Ink of Hermes（ヘルメスの墨） | [281](08-laboratory.md#ヘルメスの墨) |
-| Inoffensive to (Beings) (Virtue)（《（存在）にとって無害》） | [86](04-virtues-and-flaws.md#存在にとって無害inoffensive-to-beings) |
-| Inscribed Shadow (Flaw)（《刻まれた影》） | [134](04-virtues-and-flaws.md#刻まれた影inscribed-shadow) |
-| Inspirational (Virtue)（《鼓舞》） | [87](04-virtues-and-flaws.md#鼓舞inspirational) |
+| Inoffensive to (Beings) (Virtue)（《（存在）にとって無害》） | [86](04-virtues-and-flaws.md#存在にとって無害-inoffensive-to-beings) |
+| Inscribed Shadow (Flaw)（《刻まれた影》） | [134](04-virtues-and-flaws.md#刻まれた影-inscribed-shadow) |
+| Inspirational (Virtue)（《鼓舞》） | [87](04-virtues-and-flaws.md#鼓舞-inspirational) |
 | Instilling Effects（効果を込める） | [256–258](08-laboratory.md#効果を込める) |
 | Intellego (Art)（インテルレゴー） | [207](07-hermetic-magic.md#インテルレゴーin我知る) |
-| Intelligence（【知性】） | [27](03-characters.md#知性intelligenceint) |
+| Intelligence（【知性】） | [27](03-characters.md#知性-intelligence-int) |
 | Interfering with Mundanes（世俗への干渉） | [21](02-the-order-of-hermes.md#世俗への干渉) |
-| Intrigue (Ability)（〈策謀〉） | [167](05-abilities.md#策謀intrigue) |
-| Intuition (Virtue)（《直観》） | [87](04-virtues-and-flaws.md#直観intuition) |
+| Intrigue (Ability)（〈策謀〉） | [167](05-abilities.md#策謀-intrigue-一般系) |
+| Intuition (Virtue)（《直観》） | [87](04-virtues-and-flaws.md#直観-intuition) |
 | Inventing Spells（呪文の発明） | [251](08-laboratory.md#呪文を考案する) |
-| Inventive Genius (Virtue)（《発明の才》） | [87](04-virtues-and-flaws.md#発明の才inventive-genius) |
+| Inventive Genius (Virtue)（《発明の才》） | [87](04-virtues-and-flaws.md#発明の才-inventive-genius) |
 | Invested Items（魔器） | [253](08-laboratory.md#魔器) |
 | Investigating Enchantments（呪付の調査） | [260](08-laboratory.md#呪付を調査する) |
 | Investigation Saga（探索のサーガ） | [533](16-sagas.md#探索) |
 | Iron, Molten（溶けた鉄） | [407](11-obstacles.md#熱と腐食) |
-| Islam（イスラム教） | [77](04-virtues-and-flaws.md#教育イスラームeducated-islamic), [110–111](04-virtues-and-flaws.md#スーフィsufi), [172](05-abilities.md#神学イスラームtheology-islam) |
-| Islamic Law (Ability)（〈イスラーム法〉） | [167](05-abilities.md#イスラーム法islamic-law) |
+| Islam（イスラム教） | [77](04-virtues-and-flaws.md#教育イスラーム-educated-islamic), [110–111](04-virtues-and-flaws.md#スーフィ-sufi), [172](05-abilities.md#神学イスラーム-theology-islam-学術系) |
+| Islamic Law (Ability)（〈イスラーム法〉） | [167](05-abilities.md#イスラーム法-islamic-law-学術系) |
 | &nbsp;&nbsp;*see also Muslims* |  |
-| Jack-of-All-Trades (Virtue)（《何でも屋》） | [87](04-virtues-and-flaws.md#何でも屋jack-of-all-trades) |
+| Jack-of-All-Trades (Virtue)（《何でも屋》） | [87](04-virtues-and-flaws.md#何でも屋-jack-of-all-trades) |
 | Javelin（ジャベリン） | [402](11-obstacles.md#飛び道具) |
 | Jerbiton (Template)（イェルビトン（テンプレート）） | [40](03-characters.md#イェルビトン) |
 | Jerbiton, House（イェルビトン派） | [15](02-the-order-of-hermes.md#イェルビトン派) |
@@ -2417,26 +2417,26 @@
 | Jesus Christ（イエス・キリスト） | [498](14-mythic-europe.md#教義) |
 | Jews（ユダヤ人） | [499](14-mythic-europe.md#秘蹟), [504](14-mythic-europe.md#教会法) |
 | Jinn（ジン） | [442](13-bestiary.md#ジン) |
-| Jinxed (Flaw)（《疫病神》） | [134](04-virtues-and-flaws.md#疫病神jinxed) |
-| Journeyman (Virtue)（《遍歴職人》） | [87](04-virtues-and-flaws.md#遍歴職人journeyman) |
-| Judaic Lore (Ability)（〈ユダヤ知識〉） | [167](05-abilities.md#ユダヤ知識judaic-lore) |
-| Judged Unfairly (Flaw)（《不当な評価》） | [134](04-virtues-and-flaws.md#不当な評価judged-unfairly) |
+| Jinxed (Flaw)（《疫病神》） | [134](04-virtues-and-flaws.md#疫病神-jinxed) |
+| Journeyman (Virtue)（《遍歴職人》） | [87](04-virtues-and-flaws.md#遍歴職人-journeyman) |
+| Judaic Lore (Ability)（〈ユダヤ知識〉） | [167](05-abilities.md#ユダヤ知識-judaic-lore-一般系) |
+| Judged Unfairly (Flaw)（《不当な評価》） | [134](04-virtues-and-flaws.md#不当な評価-judged-unfairly) |
 | Judges（裁判官） | [14](02-the-order-of-hermes.md#グエルニクス派), [504](14-mythic-europe.md#教会法) |
-| Jumping（跳躍） | [161](05-abilities.md#運動athletics) |
-| Jurist (Virtue)（《法学者》） | [87](04-virtues-and-flaws.md#法学者jurist) |
-| Just an Instant (Virtue)（《ほんの一瞬》） | [87](04-virtues-and-flaws.md#ほんの一瞬just-an-instant) |
-| Justinian（ユスティニアヌス） | [161](05-abilities.md#ローマ法及び教会法civil-and-canon-law) |
+| Jumping（跳躍） | [161](05-abilities.md#運動-athletics-一般系) |
+| Jurist (Virtue)（《法学者》） | [87](04-virtues-and-flaws.md#法学者-jurist) |
+| Just an Instant (Virtue)（《ほんの一瞬》） | [87](04-virtues-and-flaws.md#ほんの一瞬-just-an-instant) |
+| Justinian（ユスティニアヌス） | [161](05-abilities.md#ローマ法及び教会法-civil-and-canon-law-学術系) |
 | Kassalan Dust（カッサラーンの粉） | [87](04-virtues-and-flaws.md#カッサラーンの粉) |
-| Kassalan Exorcism (Virtue)（《カッサラーン式祓魔》） | [87](04-virtues-and-flaws.md#カッサラーン式祓魔kassalan-exorcism) |
-| Keen Sense of Smell (Virtue)（《鋭い嗅覚》） | [88](04-virtues-and-flaws.md#鋭い嗅覚keen-sense-of-smell) |
-| Keen Vision (Virtue)（《鋭い視力》） | [88](04-virtues-and-flaws.md#鋭い視力keen-vision) |
+| Kassalan Exorcism (Virtue)（《カッサラーン式祓魔》） | [87](04-virtues-and-flaws.md#カッサラーン式祓魔-kassalan-exorcism) |
+| Keen Sense of Smell (Virtue)（《鋭い嗅覚》） | [88](04-virtues-and-flaws.md#鋭い嗅覚-keen-sense-of-smell) |
+| Keen Vision (Virtue)（《鋭い視力》） | [88](04-virtues-and-flaws.md#鋭い視力-keen-vision) |
 | Kick（蹴り） | [401](11-obstacles.md#格闘の武器) |
-| Kinesis（念動力） | [457](04-virtues-and-flaws.md#亡霊の守護者ghostly-warder) |
+| Kinesis（念動力） | [457](04-virtues-and-flaws.md#亡霊の守護者-ghostly-warder) |
 | Knife（ナイフ） | [401](11-obstacles.md#格闘の武器) |
 | Knight (Template)（騎士（テンプレート）） | [34](03-characters.md#騎士) |
-| Knight (Virtue)（《騎士》） | [88](04-virtues-and-flaws.md#騎士knight) |
+| Knight (Virtue)（《騎士》） | [88](04-virtues-and-flaws.md#騎士-knight) |
 | Knights Templar（テンプル騎士団） | [111](04-virtues-and-flaws.md#テンプル騎士団) |
-| Knows People (Virtue)（《顔が広い》） | [88](04-virtues-and-flaws.md#顔が広いknows-people) |
+| Knows People (Virtue)（《顔が広い》） | [88](04-virtues-and-flaws.md#顔が広い-knows-people) |
 | Lab Total（研究室合計値） | [249](08-laboratory.md#基本的な研究室作業) |
 | Laboratory（研究室） | [249–298](08-laboratory.md#第8章研究室) |
 | &nbsp;&nbsp;Characteristics（特性値） | [286–291](08-laboratory.md#研究室の特性値) |
@@ -2445,73 +2445,73 @@
 | &nbsp;&nbsp;Texts（研究書巻） | [180](06-covenants.md#研究書巻), [262](08-laboratory.md#研究書巻) |
 | &nbsp;&nbsp;Virtues and Flaws（《美点》と《欠点》） | [292–296](08-laboratory.md#研究室の美点と欠点) |
 | &nbsp;&nbsp;Work（作業） | [249](08-laboratory.md#基本的な研究室作業) |
-| Laborer (Virtue)（《労働者》） | [88](04-virtues-and-flaws.md#労働者laborer) |
-| Lame (Flaw)（《跛行》） | [135](04-virtues-and-flaws.md#跛行lame) |
+| Laborer (Virtue)（《労働者》） | [88](04-virtues-and-flaws.md#労働者-laborer) |
+| Lame (Flaw)（《跛行》） | [135](04-virtues-and-flaws.md#跛行-lame) |
 | Lance（ランス） | [401](11-obstacles.md#片手武器) |
-| (Land) Regio Network (Virtue)（《（土地）のレギオー網》） | [88](04-virtues-and-flaws.md#土地のレギオー網land-regio-network) |
-| Landed Noble (Virtue)（《領主貴族》） | [89](04-virtues-and-flaws.md#領主貴族landed-noble) |
-| Large (Virtue)（《大柄》） | [89](04-virtues-and-flaws.md#大柄large) |
-| Lasiq (Virtue)（《ラーシク》） | [89](04-virtues-and-flaws.md#ラーシクlasiq) |
-| Latent Magic Ability (Virtue)（《埋もれた魔力》） | [89](04-virtues-and-flaws.md#埋もれた魔力latent-magic-ability) |
+| (Land) Regio Network (Virtue)（《（土地）のレギオー網》） | [88](04-virtues-and-flaws.md#土地のレギオー網-land-regio-network) |
+| Landed Noble (Virtue)（《領主貴族》） | [89](04-virtues-and-flaws.md#領主貴族-landed-noble) |
+| Large (Virtue)（《大柄》） | [89](04-virtues-and-flaws.md#大柄-large) |
+| Lasiq (Virtue)（《ラーシク》） | [89](04-virtues-and-flaws.md#ラーシク-lasiq) |
+| Latent Magic Ability (Virtue)（《埋もれた魔力》） | [89](04-virtues-and-flaws.md#埋もれた魔力-latent-magic-ability) |
 | Later Life（その後の人生） | [49](03-characters.md#その後の人生) |
-| Latin（ラテン語） | [164](05-abilities.md#死語dead-language) |
-| Law（法律） | [161](05-abilities.md#ローマ法及び教会法civil-and-canon-law), [504](14-mythic-europe.md#教会法) |
+| Latin（ラテン語） | [164](05-abilities.md#死語-dead-language-学術系) |
+| Law（法律） | [161](05-abilities.md#ローマ法及び教会法-civil-and-canon-law-学術系), [504](14-mythic-europe.md#教会法) |
 | &nbsp;&nbsp;*see also Canon Law, and Civil and Canon Law* |  |
-| Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮leadership) |
-| Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力learn-ability-from-mistakes) |
+| Leadership (Ability)（〈指揮〉） | [167](05-abilities.md#指揮-leadership-一般系) |
+| Learn (Ability) From Mistakes (Virtue)（《失敗から学ぶ（能力）》） | [89](04-virtues-and-flaws.md#失敗から学ぶ能力-learn-ability-from-mistakes) |
 | Learning Supernatural Abilities（〈超常系能力〉の学習） | [383](10-long-term-events.md#超常系能力を習得する) |
-| Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂きleather-ripper) |
+| Leather Ripper (Virtue)（《革裂き》） | [90](04-virtues-and-flaws.md#革裂き-leather-ripper) |
 | Leather Scale Armor（レザースケール） | [399](11-obstacles.md#材質) |
-| Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色lecherous) |
+| Lecherous (Flaw)（《好色》） | [135](04-virtues-and-flaws.md#好色-lecherous) |
 | Lector（朗読者） | [500](14-mythic-europe.md#秘蹟) |
-| Legerdemain (Ability)（〈早業〉） | [167](05-abilities.md#早業legerdemain) |
-| Leper Magus (Virtue)（《癩者のマギ》） | [90](04-virtues-and-flaws.md#癩者のマギleper-magus) |
-| Leprosy (Flaw)（《癩病》） | [135](04-virtues-and-flaws.md#癩病leprosy) |
-| Lesser Benediction (Virtue)（《小なる祝福》） | [90](04-virtues-and-flaws.md#小なる祝福lesser-benediction) |
+| Legerdemain (Ability)（〈早業〉） | [167](05-abilities.md#早業-legerdemain-一般系) |
+| Leper Magus (Virtue)（《癩者のマギ》） | [90](04-virtues-and-flaws.md#癩者のマギ-leper-magus) |
+| Leprosy (Flaw)（《癩病》） | [135](04-virtues-and-flaws.md#癩病-leprosy) |
+| Lesser Benediction (Virtue)（《小なる祝福》） | [90](04-virtues-and-flaws.md#小なる祝福-lesser-benediction) |
 | Lesser Enchantments（簡易呪付） | [253](08-laboratory.md#小魔道具) |
-| Lesser Immunity (Virtue)（《耐性》） | [90](04-virtues-and-flaws.md#耐性lesser-immunity) |
+| Lesser Immunity (Virtue)（《耐性》） | [90](04-virtues-and-flaws.md#耐性-lesser-immunity) |
 | Lesser Limits（弱限界） | [211](07-hermetic-magic.md#弱限界) |
-| Lesser Malediction (Flaw)（《小なる呪詛》） | [135](04-virtues-and-flaws.md#小なる呪詛lesser-malediction) |
-| Lesser Power (Virtue)（《小なる力》） | [90](04-virtues-and-flaws.md#小なる力lesser-power) |
-| Lesser Purifying Touch (Virtue)（《浄化の手》） | [91](04-virtues-and-flaws.md#浄化の手lesser-purifying-touch) |
+| Lesser Malediction (Flaw)（《小なる呪詛》） | [135](04-virtues-and-flaws.md#小なる呪詛-lesser-malediction) |
+| Lesser Power (Virtue)（《小なる力》） | [90](04-virtues-and-flaws.md#小なる力-lesser-power) |
+| Lesser Purifying Touch (Virtue)（《浄化の手》） | [91](04-virtues-and-flaws.md#浄化の手-lesser-purifying-touch) |
 | Levels, Spell（レベル（呪文の）） | [301](09-spells.md#レベル) |
 | Levels of Regiones（レギオーのレベル） | [420](12-realms.md#レギオー) |
 | Lex Hermae（レクス・ヘルマエ） | [20](02-the-order-of-hermes.md#lex-hermae) |
 | Library（蔵書） | [179](06-covenants.md#蔵書) |
-| License of Absence (Virtue)（《不在許可》） | [91](04-virtues-and-flaws.md#不在許可license-of-absence) |
-| Life Boost (Virtue)（《生命力による増幅》） | [91](04-virtues-and-flaws.md#生命力による増幅life-boost) |
-| Life-Linked Spontaneous Magic (Virtue)（《生命力燃焼即興魔術》） | [91](04-virtues-and-flaws.md#生命力燃焼即興魔術life-linked-spontaneous-magic) |
-| Light Touch (Virtue)（《軽やかな指先》） | [91](04-virtues-and-flaws.md#軽やかな指先light-touch) |
-| Lightning Reflexes (Virtue)（《稲妻の反応》） | [91](04-virtues-and-flaws.md#稲妻の反応lightning-reflexes) |
-| Limited Magic Resistance (Flaw)（《限られた魔法抵抗》） | [135](04-virtues-and-flaws.md#限られた魔法抵抗limited-magic-resistance) |
+| License of Absence (Virtue)（《不在許可》） | [91](04-virtues-and-flaws.md#不在許可-license-of-absence) |
+| Life Boost (Virtue)（《生命力による増幅》） | [91](04-virtues-and-flaws.md#生命力による増幅-life-boost) |
+| Life-Linked Spontaneous Magic (Virtue)（《生命力燃焼即興魔術》） | [91](04-virtues-and-flaws.md#生命力燃焼即興魔術-life-linked-spontaneous-magic) |
+| Light Touch (Virtue)（《軽やかな指先》） | [91](04-virtues-and-flaws.md#軽やかな指先-light-touch) |
+| Lightning Reflexes (Virtue)（《稲妻の反応》） | [91](04-virtues-and-flaws.md#稲妻の反応-lightning-reflexes) |
+| Limited Magic Resistance (Flaw)（《限られた魔法抵抗》） | [135](04-virtues-and-flaws.md#限られた魔法抵抗-limited-magic-resistance) |
 | Limits of Magic（魔法の限界） | [210–212](07-hermetic-magic.md#魔法の限界) |
-| Lingering Injury (Flaw)（《癒えぬ傷》） | [135](04-virtues-and-flaws.md#癒えぬ傷lingering-injury) |
-| Linguist (Virtue)（《語学の才》） | [91](04-virtues-and-flaws.md#語学の才linguist) |
+| Lingering Injury (Flaw)（《癒えぬ傷》） | [135](04-virtues-and-flaws.md#癒えぬ傷-lingering-injury) |
+| Linguist (Virtue)（《語学の才》） | [91](04-virtues-and-flaws.md#語学の才-linguist) |
 | Linked Trigger（連動トリガー） | [258](08-laboratory.md#効果の修正) |
-| (Living Language) (Ability)（〈（現用語）〉） | [167](05-abilities.md#現用語living-language) |
+| (Living Language) (Ability)（〈（現用語）〉） | [167](05-abilities.md#現用語-living-language-一般系) |
 | Load（荷重値） | [403](11-obstacles.md#運搬負荷) |
 | Local Reputation（地域の評判） | [28](03-characters.md#評判) |
-| Logic (Artes Liberales)（論理学（自由学科）） | [160](05-abilities.md#自由学科artes-liberales) |
-| Lone Redcap (Virtue)（《一匹狼の赤帽士》） | [91](04-virtues-and-flaws.md#一匹狼の赤帽士lone-redcap) |
+| Logic (Artes Liberales)（論理学（自由学科）） | [160](05-abilities.md#自由学科-artes-liberales-学術系) |
+| Lone Redcap (Virtue)（《一匹狼の赤帽士》） | [91](04-virtues-and-flaws.md#一匹狼の赤帽士-lone-redcap) |
 | Long Spear（長槍） | [402](11-obstacles.md#両手武器) |
 | Long Sword（ロングソード） | [401](11-obstacles.md#片手武器) |
 | Long-Term Fatigue（長期疲労） | [404](11-obstacles.md#長期疲労) |
-| Long-Winded (Virtue)（《持久力》） | [92](04-virtues-and-flaws.md#持久力long-winded) |
+| Long-Winded (Virtue)（《持久力》） | [92](04-virtues-and-flaws.md#持久力-long-winded) |
 | Longbow（ロングボウ） | [402](11-obstacles.md#飛び道具) |
 | Longevity Rituals（延命儀式） | [261](08-laboratory.md#延命儀式) |
-| Loose Magic (Flaw)（《大雑把な魔術》） | [135](04-virtues-and-flaws.md#大雑把な魔術loose-magic) |
+| Loose Magic (Flaw)（《大雑把な魔術》） | [135](04-virtues-and-flaws.md#大雑把な魔術-loose-magic) |
 | Lord（領主） | [506](14-mythic-europe.md#貴族) |
-| Lost Love (Flaw)（《失われた愛》） | [135](04-virtues-and-flaws.md#失われた愛lost-love) |
+| Lost Love (Flaw)（《失われた愛》） | [135](04-virtues-and-flaws.md#失われた愛-lost-love) |
 | Love（愛） | [499](14-mythic-europe.md#教義) |
-| Low Self-Esteem (Flaw)（《自己評価が低い》） | [135](04-virtues-and-flaws.md#自己評価が低いlow-self-esteem) |
-| Low Tolerance (Flaw)（《忍耐不足》） | [135](04-virtues-and-flaws.md#忍耐不足low-tolerance) |
+| Low Self-Esteem (Flaw)（《自己評価が低い》） | [135](04-virtues-and-flaws.md#自己評価が低い-low-self-esteem) |
+| Low Tolerance (Flaw)（《忍耐不足》） | [135](04-virtues-and-flaws.md#忍耐不足-low-tolerance) |
 | Low Vis（少量のウィース） | [526](16-sagas.md#資力) |
 | Low-Research Saga（研究軽視のサーガ） | [532](16-sagas.md#少しだけ調べるサーガ) |
 | Loyal (Personality Trait)（忠実（性格）） | [28](03-characters.md#性格) |
-| Luck (Virtue)（《幸運》） | [92](04-virtues-and-flaws.md#幸運luck) |
+| Luck (Virtue)（《幸運》） | [92](04-virtues-and-flaws.md#幸運-luck) |
 | Lunar Sphere, Limit of the（月の限界） | [211](07-hermetic-magic.md#月の限界), [497](14-mythic-europe.md#中世の自然学) |
-| Lupus (the Wolf) (Virtue)（《ルプス（狼）》） | [92](04-virtues-and-flaws.md#ルプス狼lupus-the-wolf) |
-| Lycanthrope (Flaw)（《人狼》） | [135](04-virtues-and-flaws.md#人狼lycanthrope) |
+| Lupus (the Wolf) (Virtue)（《ルプス（狼）》） | [92](04-virtues-and-flaws.md#ルプス狼-lupus-the-wolf) |
+| Lycanthrope (Flaw)（《人狼》） | [135](04-virtues-and-flaws.md#人狼-lycanthrope) |
 | Lye（灰汁） | [407](11-obstacles.md#熱と腐食の表) |
 | Mace（メイス） | [401](11-obstacles.md#片手武器) |
 | Mace and Chain（鎖付きメイス） | [401](11-obstacles.md#片手武器) |
@@ -2519,9 +2519,9 @@
 | &nbsp;&nbsp;*see also Order of Hermes* |  |
 | Magi（マギ） | [6](01-introduction.md#用語集), [25](03-characters.md#マギ) |
 | &nbsp;&nbsp;*see also Order of Hermes* |  |
-| Magian Lineage (Virtue)（《マゴス僧の血統》） | [92](04-virtues-and-flaws.md#マゴス僧の血統magian-lineage) |
+| Magian Lineage (Virtue)（《マゴス僧の血統》） | [92](04-virtues-and-flaws.md#マゴス僧の血統-magian-lineage) |
 | Magic（魔術） | [6](01-introduction.md#用語集) |
-| Magic Addiction (Flaw)（《魔術への耽溺》） | [135](04-virtues-and-flaws.md#魔術への耽溺magic-addiction) |
+| Magic Addiction (Flaw)（《魔術への耽溺》） | [135](04-virtues-and-flaws.md#魔術への耽溺-magic-addiction) |
 | Magic and Sin（魔法と罪） | [499](14-mythic-europe.md#魔術と罪) |
 | Magic Aura（魔法圏のオーラ） | [413–414](12-realms.md#魔法圏のオーラ) |
 | &nbsp;&nbsp;*see also [Auras](12-realms.md#圏域のオーラ)* |  |
@@ -2530,94 +2530,94 @@
 | &nbsp;&nbsp;Daimons（ダイモーン） | [444](13-bestiary.md#ダイモーン) |
 | &nbsp;&nbsp;Elementals（精霊） | [449](13-bestiary.md#精霊) |
 | &nbsp;&nbsp;Animated Corpses（動かされた屍） | [462](13-bestiary.md#魔術で屍を動かす) |
-| Magic Items (Virtue)（《魔法のアイテム》） | [92](04-virtues-and-flaws.md#魔法のアイテムmagic-items) |
-| Magic Lore (Ability)（〈魔法圏知識〉） | [168](05-abilities.md#魔法圏知識magic-lore) |
+| Magic Items (Virtue)（《魔法のアイテム》） | [92](04-virtues-and-flaws.md#魔法のアイテム-magic-items) |
+| Magic Lore (Ability)（〈魔法圏知識〉） | [168](05-abilities.md#魔法圏知識-magic-lore-秘術系) |
 | Magic Might（魔法の実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
 | Magic Realm（魔法圏） | [413–414](12-realms.md#魔法圏) |
 | Magic Resistance（魔法抵抗） | [221–223](07-hermetic-magic.md#魔法抵抗), [225](07-hermetic-magic.md#魔法抵抗-1) |
 | &nbsp;&nbsp;Limit of（魔法抵抗の限界） | [212](07-hermetic-magic.md#魔法抵抗の限界) |
-| Magic Sensitivity (Ability)（〈魔法感受性〉） | [168](05-abilities.md#魔法感受性magic-sensitivity) |
-| Magic Sensitivity (Virtue)（《魔法感受性》） | [92](04-virtues-and-flaws.md#魔法感受性magic-sensitivity) |
-| Magic Theory (Ability)（〈魔術理論〉） | [168](05-abilities.md#魔術理論magic-theory) |
-| Magical Air (Flaw)（《魔法の妖気》） | [136](04-virtues-and-flaws.md#魔法の妖気magical-air) |
-| Magical (Being) Companion (Flaw)（《友なる魔法の（存在）》） | [136](04-virtues-and-flaws.md#友なる魔法の存在magical-being-companion) |
-| Magical Blood (Virtue)（《魔法の血脈》） | [93](04-virtues-and-flaws.md#魔法の血脈magical-blood) |
+| Magic Sensitivity (Ability)（〈魔法感受性〉） | [168](05-abilities.md#魔法感受性-magic-sensitivity-超常系) |
+| Magic Sensitivity (Virtue)（《魔法感受性》） | [92](04-virtues-and-flaws.md#魔法感受性-magic-sensitivity) |
+| Magic Theory (Ability)（〈魔術理論〉） | [168](05-abilities.md#魔術理論-magic-theory-秘術系) |
+| Magical Air (Flaw)（《魔法の妖気》） | [136](04-virtues-and-flaws.md#魔法の妖気-magical-air) |
+| Magical (Being) Companion (Flaw)（《友なる魔法の（存在）》） | [136](04-virtues-and-flaws.md#友なる魔法の存在-magical-being-companion) |
+| Magical Blood (Virtue)（《魔法の血脈》） | [93](04-virtues-and-flaws.md#魔法の血脈-magical-blood) |
 | Magical Craft（魔術の工芸） | [306](09-spells.md#魔術の工芸) |
 | Magical Creatures（魔法圏のクリーチャー） | [21](02-the-order-of-hermes.md#魔法圏のクリーチャー), [413](12-realms.md#魔法圏のクリーチャー) |
 | Magical Enchantments（魔法の呪付） | [252](08-laboratory.md#呪付) |
-| Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られmagical-fascination) |
+| Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られ-magical-fascination) |
 | Magical Foci（魔術の専門分野） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野の例), [98](04-virtues-and-flaws.md#小なる魔術の専門分野の例) |
 | Magical Items（魔法のアイテム） | [24](02-the-order-of-hermes.md#魔法の品) |
-| Magical Memory (Virtue)（《魔術の記憶力》） | [92](04-virtues-and-flaws.md#魔術の記憶力magical-memory) |
-| Magical Mount (Virtue)（《魔法の乗騎》） | [93](04-virtues-and-flaws.md#魔法の乗騎magical-mount) |
+| Magical Memory (Virtue)（《魔術の記憶力》） | [92](04-virtues-and-flaws.md#魔術の記憶力-magical-memory) |
+| Magical Mount (Virtue)（《魔法の乗騎》） | [93](04-virtues-and-flaws.md#魔法の乗騎-magical-mount) |
 | Magical Senses（魔法の感覚） | [305](09-spells.md#魔法の感覚) |
 | Magical Wards（魔法の結界） | [306](09-spells.md#魔法の結界) |
-| Magical Warder (Virtue)（《魔法の守護者》） | [93](04-virtues-and-flaws.md#魔法の守護者magical-warder) |
-| Magister in Artibus (Virtue)（《学芸修士》） | [93](04-virtues-and-flaws.md#学芸修士magister-in-artibus) |
-| Magister in Medicina (Virtue)（《医学修士》） | [94](04-virtues-and-flaws.md#医学修士magister-in-medicina) |
+| Magical Warder (Virtue)（《魔法の守護者》） | [93](04-virtues-and-flaws.md#魔法の守護者-magical-warder) |
+| Magister in Artibus (Virtue)（《学芸修士》） | [93](04-virtues-and-flaws.md#学芸修士-magister-in-artibus) |
+| Magister in Medicina (Virtue)（《医学修士》） | [94](04-virtues-and-flaws.md#医学修士-magister-in-medicina) |
 | Magnitudes（階級） | [301](09-spells.md#階級) |
 | Magus（マギ） | [6](01-introduction.md#用語集), [25](03-characters.md#マギ) |
 | &nbsp;&nbsp;*see also Order of Hermes* |  |
 | Magus Templates（マギのテンプレート） | [37–43](03-characters.md#マギのテンプレート) |
 | Major Breakthrough（大突破） | [277](08-laboratory.md#突破) |
-| Major Magical Focus (Virtue)（《大いなる魔術の専門分野》） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野major-magical-focus) |
+| Major Magical Focus (Virtue)（《大いなる魔術の専門分野》） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野-major-magical-focus) |
 | Major Personality Flaws（大いなる性格の《欠点》） | [64](04-virtues-and-flaws.md#性格), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
 | Major Story Flaws（大いなる物語の《欠点》） | [66](04-virtues-and-flaws.md#物語) |
-| Maker of Textured Vessels (Virtue)（《紋様ある器の作り手》） | [94](04-virtues-and-flaws.md#紋様ある器の作り手maker-of-textured-vessels) |
-| Maker of Water Vessels (Virtue)（《水の器の作り手》） | [94](04-virtues-and-flaws.md#水の器の作り手maker-of-water-vessels) |
-| Male Guild Sponsor (Virtue)（《男性ギルド後見人》） | [95](04-virtues-and-flaws.md#男性ギルド後見人male-guild-sponsor) |
-| Mamluk (Virtue)（《マムルーク》） | [95](04-virtues-and-flaws.md#マムルークmamluk) |
-| Manifest Sin (Flaw)（《露わな罪》） | [136](04-virtues-and-flaws.md#露わな罪manifest-sin) |
-| Manufactured Ignorance (Flaw)（《作られた無知》） | [136](04-virtues-and-flaws.md#作られた無知manufactured-ignorance) |
-| Many Marriageable Daughters (Flaw)（《年頃の娘たち》） | [136](04-virtues-and-flaws.md#年頃の娘たちmany-marriageable-daughters) |
+| Maker of Textured Vessels (Virtue)（《紋様ある器の作り手》） | [94](04-virtues-and-flaws.md#紋様ある器の作り手-maker-of-textured-vessels) |
+| Maker of Water Vessels (Virtue)（《水の器の作り手》） | [94](04-virtues-and-flaws.md#水の器の作り手-maker-of-water-vessels) |
+| Male Guild Sponsor (Virtue)（《男性ギルド後見人》） | [95](04-virtues-and-flaws.md#男性ギルド後見人-male-guild-sponsor) |
+| Mamluk (Virtue)（《マムルーク》） | [95](04-virtues-and-flaws.md#マムルーク-mamluk) |
+| Manifest Sin (Flaw)（《露わな罪》） | [136](04-virtues-and-flaws.md#露わな罪-manifest-sin) |
+| Manufactured Ignorance (Flaw)（《作られた無知》） | [136](04-virtues-and-flaws.md#作られた無知-manufactured-ignorance) |
+| Many Marriageable Daughters (Flaw)（《年頃の娘たち》） | [136](04-virtues-and-flaws.md#年頃の娘たち-many-marriageable-daughters) |
 | Markets（市場） | [509](14-mythic-europe.md#市と大市) |
 | Marriage（結婚） | [500](14-mythic-europe.md#秘蹟) |
-| Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭marshal) |
+| Marshal (Virtue)（《厩舎頭》） | [95](04-virtues-and-flaws.md#厩舎頭-marshal) |
 | Martial Abilities（〈戦闘系能力〉） | [158](05-abilities.md#戦闘系能力) |
 | Martyrdom（殉教） | [419](12-realms.md#神聖圏のオーラの源) |
 | Mass（ミサ） | [500](14-mythic-europe.md#秘蹟) |
-| Master Bard (Virtue)（《大吟遊詩人》） | [96](04-virtues-and-flaws.md#大吟遊詩人master-bard) |
-| Master of (Form) Creatures (Virtue)（《（形相）のクリーチャーの支配者》） | [96](04-virtues-and-flaws.md#形相のクリーチャーの支配者master-of-form-creatures) |
-| Master of Kennels (Virtue)（《犬舎頭》） | [96](04-virtues-and-flaws.md#犬舎頭master-of-kennels) |
-| Master of None (Flaw)（《器用貧乏》） | [136](04-virtues-and-flaws.md#器用貧乏master-of-none) |
-| Mastered Spells (Virtue)（《習熟呪文》） | [96](04-virtues-and-flaws.md#習熟呪文mastered-spells) |
-| Masterpiece (Virtue)（《傑作》） | [97](04-virtues-and-flaws.md#傑作masterpiece) |
+| Master Bard (Virtue)（《大吟遊詩人》） | [96](04-virtues-and-flaws.md#大吟遊詩人-master-bard) |
+| Master of (Form) Creatures (Virtue)（《（形相）のクリーチャーの支配者》） | [96](04-virtues-and-flaws.md#形相のクリーチャーの支配者-master-of-form-creatures) |
+| Master of Kennels (Virtue)（《犬舎頭》） | [96](04-virtues-and-flaws.md#犬舎頭-master-of-kennels) |
+| Master of None (Flaw)（《器用貧乏》） | [136](04-virtues-and-flaws.md#器用貧乏-master-of-none) |
+| Mastered Spells (Virtue)（《習熟呪文》） | [96](04-virtues-and-flaws.md#習熟呪文-mastered-spells) |
+| Masterpiece (Virtue)（《傑作》） | [97](04-virtues-and-flaws.md#傑作-masterpiece) |
 | Mastery（習得） | [27](03-characters.md#能力), [225–226](07-hermetic-magic.md#呪文の習熟) |
-| Mazdean Priest (Virtue)（《マズダー教司祭》） | [97](04-virtues-and-flaws.md#マズダー教司祭mazdean-priest) |
-| Meddler (Flaw)（《お節介》） | [137](04-virtues-and-flaws.md#お節介meddler) |
+| Mazdean Priest (Virtue)（《マズダー教司祭》） | [97](04-virtues-and-flaws.md#マズダー教司祭-mazdean-priest) |
+| Meddler (Flaw)（《お節介》） | [137](04-virtues-and-flaws.md#お節介-meddler) |
 | Medical Attention（医療） | [405](11-obstacles.md#医療の手当て) |
-| Medicine（医学） | [163](05-abilities.md#呪い移しcurse-throwing) |
-| Medicine (Ability)（〈医学〉） | [168](05-abilities.md#医学medicine) |
+| Medicine（医学） | [163](05-abilities.md#呪い移し-curse-throwing-超常系) |
+| Medicine (Ability)（〈医学〉） | [168](05-abilities.md#医学-medicine-学術系) |
 | Medieval Paradigm（中世のパラダイム） | [251](08-laboratory.md#呪文を考案する) |
 | Medieval Physics（中世の自然学） | [497](14-mythic-europe.md#中世の自然学) |
 | Medium Covenant（中規模コヴナント） | [178](06-covenants.md#中程度のコヴナント) |
 | Medium Saga（中速度のサーガ） | [527](16-sagas.md#中庸のサーガ) |
 | Medium-Research Saga（中程度の研究サーガ） | [532](16-sagas.md#そこそこ調べるサーガ) |
 | Melee Weapon Statistics（白兵武器のデータ） | [400](11-obstacles.md#近接武器のデータ) |
-| Mendicant Friar (Virtue)（《托鉢修道士》） | [97](04-virtues-and-flaws.md#托鉢修道士mendicant-friar) |
+| Mendicant Friar (Virtue)（《托鉢修道士》） | [97](04-virtues-and-flaws.md#托鉢修道士-mendicant-friar) |
 | Mendicant Friars（托鉢修道士） | [505](14-mythic-europe.md#修道院) |
 | Mentem (Art)（メンテム／心） | [209](07-hermetic-magic.md#メンテムme心), [353–358](09-spells.md#メンテムの呪文) |
-| Mentor (Flaw)（《導師》） | [137](04-virtues-and-flaws.md#導師mentor) |
-| Mentored by Demons (Virtue)（《悪魔の教え》） | [98](04-virtues-and-flaws.md#悪魔の教えmentored-by-demons) |
-| Mercenary Captain (Virtue)（《傭兵隊長》） | [98](04-virtues-and-flaws.md#傭兵隊長mercenary-captain) |
+| Mentor (Flaw)（《導師》） | [137](04-virtues-and-flaws.md#導師-mentor) |
+| Mentored by Demons (Virtue)（《悪魔の教え》） | [98](04-virtues-and-flaws.md#悪魔の教え-mentored-by-demons) |
+| Mercenary Captain (Virtue)（《傭兵隊長》） | [98](04-virtues-and-flaws.md#傭兵隊長-mercenary-captain) |
 | Mercere (Template)（メルケーレ（テンプレート）） | [41](03-characters.md#メルケーレ) |
 | Mercere, House（メルケーレ派） | [15](02-the-order-of-hermes.md#メルケーレ派) |
 | &nbsp;&nbsp;*see also Redcaps* |  |
-| Merchant (Virtue)（《商人》） | [98](04-virtues-and-flaws.md#商人merchant) |
-| Merchant Adventurer (Virtue)（《冒険商人》） | [98](04-virtues-and-flaws.md#冒険商人merchant-adventurer) |
-| Mercurian Magic (Virtue)（《メルクリウス魔術》） | [98](04-virtues-and-flaws.md#メルクリウス魔術mercurian-magic) |
+| Merchant (Virtue)（《商人》） | [98](04-virtues-and-flaws.md#商人-merchant) |
+| Merchant Adventurer (Virtue)（《冒険商人》） | [98](04-virtues-and-flaws.md#冒険商人-merchant-adventurer) |
+| Mercurian Magic (Virtue)（《メルクリウス魔術》） | [98](04-virtues-and-flaws.md#メルクリウス魔術-mercurian-magic) |
 | Mercury（メルクリウス） | [9](02-the-order-of-hermes.md#魔術団の歴史) |
 | Merinita – Faerie Magic（メリニータ――妖精魔術） | [236–238](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Merinita (Template)（メリニータ（テンプレート）） | [41](03-characters.md#メリニータ) |
 | Merinita, House（メリニータ派） | [16](02-the-order-of-hermes.md#メリニータ派) |
 | Metal Reinforced Leather Armor（リングメイル） | [399](11-obstacles.md#材質) |
 | Metal Scale Armor（スケールメイル） | [399](11-obstacles.md#材質) |
-| Method Caster (Virtue)（《型どおりの行使》） | [98](04-virtues-and-flaws.md#型どおりの行使method-caster) |
+| Method Caster (Virtue)（《型どおりの行使》） | [98](04-virtues-and-flaws.md#型どおりの行使-method-caster) |
 | Might（実力値） | [425](13-bestiary.md#クリーチャーの実力値) |
-| Mild Aging (Virtue)（《緩やかな老い》） | [98](04-virtues-and-flaws.md#緩やかな老いmild-aging) |
+| Mild Aging (Virtue)（《緩やかな老い》） | [98](04-virtues-and-flaws.md#緩やかな老い-mild-aging) |
 | Minor Breakthrough（小突破） | [277](08-laboratory.md#突破) |
-| Minor Enchantments (Virtue)（《小呪付の品》） | [98](04-virtues-and-flaws.md#小呪付の品minor-enchantments) |
-| Minor Magical Focus (Virtue)（《小なる魔術の専門分野》） | [98](04-virtues-and-flaws.md#小なる魔術の専門分野minor-magical-focus) |
+| Minor Enchantments (Virtue)（《小呪付の品》） | [98](04-virtues-and-flaws.md#小呪付の品-minor-enchantments) |
+| Minor Magical Focus (Virtue)（《小なる魔術の専門分野》） | [98](04-virtues-and-flaws.md#小なる魔術の専門分野-minor-magical-focus) |
 | Minor Orders（下級品級） | [500](14-mythic-europe.md#秘蹟) |
 | Minor Personality Flaws（小なる性格の《欠点》） | [66](04-virtues-and-flaws.md#性格) |
 | Minor Story Flaws（小なる物語の《欠点》） | [66](04-virtues-and-flaws.md#物語) |
@@ -2626,121 +2626,121 @@
 | Missile Combat（射撃戦闘） | [395](11-obstacles.md#飛び道具の戦闘) |
 | Missile Weapons（射撃武器） | [402](11-obstacles.md#飛び道具) |
 | Missile Weapon Statistics（射撃武器のデータ） | [401](11-obstacles.md#飛び道具のデータ) |
-| Missing Ear (Flaw)（《片耳》） | [136](04-virtues-and-flaws.md#片耳missing-ear) |
-| Missing Eye (Flaw)（《片目》） | [136](04-virtues-and-flaws.md#片目missing-eye) |
-| Missing Hand (Flaw)（《片手》） | [136](04-virtues-and-flaws.md#片手missing-hand) |
-| Mistaken Identity (Flaw)（《人違い》） | [136](04-virtues-and-flaws.md#人違いmistaken-identity) |
+| Missing Ear (Flaw)（《片耳》） | [136](04-virtues-and-flaws.md#片耳-missing-ear) |
+| Missing Eye (Flaw)（《片目》） | [136](04-virtues-and-flaws.md#片目-missing-eye) |
+| Missing Hand (Flaw)（《片手》） | [136](04-virtues-and-flaws.md#片手-missing-hand) |
+| Mistaken Identity (Flaw)（《人違い》） | [136](04-virtues-and-flaws.md#人違い-mistaken-identity) |
 | Moderate Vis（中程度のウィース） | [526](16-sagas.md#資力) |
 | Momentary (Duration)（瞬間（持続時間）） | [304](09-spells.md#持続時間) |
 | Monasteries（修道院） | [505](14-mythic-europe.md#修道院) |
 | Monastic Offices（聖務日課） | [505](14-mythic-europe.md#修道院) |
 | Monastic Rule（修道会則） | [505](14-mythic-europe.md#修道院) |
-| Monastic Vows (Flaw)（《修道誓願》） | [138](04-virtues-and-flaws.md#修道誓願monastic-vows) |
+| Monastic Vows (Flaw)（《修道誓願》） | [138](04-virtues-and-flaws.md#修道誓願-monastic-vows) |
 | Monster (Hook)（《怪物（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
-| Monstrous Blood (Flaw)（《異形の血》） | [138](04-virtues-and-flaws.md#異形の血monstrous-blood) |
+| Monstrous Blood (Flaw)（《異形の血》） | [138](04-virtues-and-flaws.md#異形の血-monstrous-blood) |
 | Moon (Duration)（月（持続時間）） | [304](09-spells.md#持続時間) |
 | Moses（モーゼ） | [502](14-mythic-europe.md#聖人) |
-| Motion Sickness (Flaw)（《乗り物酔い》） | [138](04-virtues-and-flaws.md#乗り物酔いmotion-sickness) |
+| Motion Sickness (Flaw)（《乗り物酔い》） | [138](04-virtues-and-flaws.md#乗り物酔い-motion-sickness) |
 | Mounted Combat（騎乗戦闘） | [397](11-obstacles.md#騎乗戦闘) |
 | Multiple Casting（多重行使） | [225](07-hermetic-magic.md#多重行使) |
 | Mundane, The（世俗） | [420](12-realms.md#世俗) |
 | Mundane Interactions（世俗との関わり） | [21](02-the-order-of-hermes.md#世俗への干渉), [518](16-sagas.md#世俗との関わり) |
 | Mundane Lord (covenant situation)（世俗の領主（コヴナントの状況）） | [177](06-covenants.md#世俗の領主) |
 | Mundanes（俗人） | [21](02-the-order-of-hermes.md#世俗への干渉) |
-| Muqta' (Virtue)（《ムクター》） | [99](04-virtues-and-flaws.md#ムクターmuqta) |
+| Muqta' (Virtue)（《ムクター》） | [99](04-virtues-and-flaws.md#ムクター-muqta) |
 | Mundane Beasts（世俗の獣） | [428–442](13-bestiary.md#世俗の獣) |
-| Muse (Virtue)（《ミューズ》） | [99](04-virtues-and-flaws.md#ミューズmuse) |
-| Music (Ability)（〈音楽〉） | [168](05-abilities.md#音楽music) |
-| Muslims（イスラム教徒） | [99](04-virtues-and-flaws.md#ムクターmuqta), [111](04-virtues-and-flaws.md#スーフィsufi) |
-| Mute (Flaw)（《唖》） | [138](04-virtues-and-flaws.md#唖mute) |
+| Muse (Virtue)（《ミューズ》） | [99](04-virtues-and-flaws.md#ミューズ-muse) |
+| Music (Ability)（〈音楽〉） | [168](05-abilities.md#音楽-music-一般系) |
+| Muslims（イスラム教徒） | [99](04-virtues-and-flaws.md#ムクター-muqta), [111](04-virtues-and-flaws.md#スーフィ-sufi) |
+| Mute (Flaw)（《唖》） | [138](04-virtues-and-flaws.md#唖-mute) |
 | Muto (Art)（ムートー／変成） | [207](07-hermetic-magic.md#ムートーmu我変える) |
 | Mysteries（秘術） | [233–243](07-hermetic-magic.md#秘儀) |
 | Mystery Cults（秘儀教団） | [12](02-the-order-of-hermes.md#魔術団の流派) |
-| (Mystery Cult) Lore (Ability)（〈（秘儀教団）知識〉） | [168](05-abilities.md#秘儀教団知識mystery-cult-lore) |
+| (Mystery Cult) Lore (Ability)（〈（秘儀教団）知識〉） | [168](05-abilities.md#秘儀教団知識-mystery-cult-lore-一般系) |
 | Mystery Initiation（秘儀参入） | [387–389](10-long-term-events.md#秘儀の参入儀礼) |
-| Mystical Choreography (Virtue)（《神秘の舞踏》） | [99](04-virtues-and-flaws.md#神秘の舞踏mystical-choreography) |
-| Mythic Blood (Virtue)（《神話の血脈》） | [99](04-virtues-and-flaws.md#神話の血脈mythic-blood) |
+| Mystical Choreography (Virtue)（《神秘の舞踏》） | [99](04-virtues-and-flaws.md#神秘の舞踏-mystical-choreography) |
+| Mythic Blood (Virtue)（《神話の血脈》） | [99](04-virtues-and-flaws.md#神話の血脈-mythic-blood) |
 | Mythic Companions（神話的コンパニオン） | [25](03-characters.md#神話的コンパニオン), [55](03-characters.md#神話的コンパニオン-1) |
 | Mythic Europe（伝承ヨーロッパ） | [6](01-introduction.md#用語集), [495–514](14-mythic-europe.md#第14章伝承ヨーロッパ) |
 | &nbsp;&nbsp;Map（地図） | 493–494 |
 | Mythic Pound（神話ポンド） | [187](06-covenants.md#神話ポンド) |
-| Natural Leader (Virtue)（《生来の指導者》） | [99](04-virtues-and-flaws.md#生来の指導者natural-leader) |
-| Necessary Condition (Flaw)（《必須の条件》） | [138](04-virtues-and-flaws.md#必須の条件necessary-condition) |
-| Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（圏域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な圏域のオーラnecessary-realm-aura-for-ability) |
+| Natural Leader (Virtue)（《生来の指導者》） | [99](04-virtues-and-flaws.md#生来の指導者-natural-leader) |
+| Necessary Condition (Flaw)（《必須の条件》） | [138](04-virtues-and-flaws.md#必須の条件-necessary-condition) |
+| Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（圏域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な圏域のオーラ-necessary-realm-aura-for-ability) |
 | Nemthengacha, The（ネムセンガハ） | [244](07-hermetic-magic.md#ネヴサンガハ) |
 | Nephilim（ネフィリム） | [57](03-characters.md#ネフィリム) |
-| Nephilim (Virtue)（《ネフィリム》） | [99](04-virtues-and-flaws.md#ネフィリムnephilim) |
-| Night Terrors (Flaw)（《夜驚》） | [138](04-virtues-and-flaws.md#夜驚night-terrors) |
-| No Hands (Flaw)（《手がない》） | [139](04-virtues-and-flaws.md#手がないno-hands) |
-| No Sense of Direction (Flaw)（《方向音痴》） | [139](04-virtues-and-flaws.md#方向音痴no-sense-of-direction) |
+| Nephilim (Virtue)（《ネフィリム》） | [99](04-virtues-and-flaws.md#ネフィリム-nephilim) |
+| Night Terrors (Flaw)（《夜驚》） | [138](04-virtues-and-flaws.md#夜驚-night-terrors) |
+| No Hands (Flaw)（《手がない》） | [139](04-virtues-and-flaws.md#手がない-no-hands) |
+| No Sense of Direction (Flaw)（《方向音痴》） | [139](04-virtues-and-flaws.md#方向音痴-no-sense-of-direction) |
 | No-Research Saga（研究なしのサーガ） | [532](16-sagas.md#調べないサーガ) |
 | Nobles（貴族） | [24](02-the-order-of-hermes.md#貴族), [506–509](14-mythic-europe.md#貴族) |
-| Nocturnal (Flaw)（《宵っぱり》） | [139](04-virtues-and-flaws.md#宵っぱりnocturnal) |
+| Nocturnal (Flaw)（《宵っぱり》） | [139](04-virtues-and-flaws.md#宵っぱり-nocturnal) |
 | Non-lethal Combat（非致傷戦闘） | [397](11-obstacles.md#非致死の戦闘) |
-| Noncombatant (Flaw)（《非戦闘員》） | [139](04-virtues-and-flaws.md#非戦闘員noncombatant) |
-| Notary (Virtue)（《公証人》） | [99](04-virtues-and-flaws.md#公証人notary) |
-| Nuntius (Virtue)（《ヌンティウス》） | [100](04-virtues-and-flaws.md#ヌンティウスnuntius) |
+| Noncombatant (Flaw)（《非戦闘員》） | [139](04-virtues-and-flaws.md#非戦闘員-noncombatant) |
+| Notary (Virtue)（《公証人》） | [99](04-virtues-and-flaws.md#公証人-notary) |
+| Nuntius (Virtue)（《ヌンティウス》） | [100](04-virtues-and-flaws.md#ヌンティウス-nuntius) |
 | Nuns（修道女） | [513](14-mythic-europe.md#修道女) |
-| Oath of Fealty (Flaw)（《臣従の誓い》） | [139](04-virtues-and-flaws.md#臣従の誓いoath-of-fealty) |
-| Obese (Flaw)（《肥満》） | [139](04-virtues-and-flaws.md#肥満obese) |
+| Oath of Fealty (Flaw)（《臣従の誓い》） | [139](04-virtues-and-flaws.md#臣従の誓い-oath-of-fealty) |
+| Obese (Flaw)（《肥満》） | [139](04-virtues-and-flaws.md#肥満-obese) |
 | Obfuscated Casting（秘匿行使） | [226](07-hermetic-magic.md#秘匿行使) |
-| Obsessed (Flaw)（《固執》） | [139](04-virtues-and-flaws.md#固執obsessed) |
-| Offensive to (Beings) (Flaw)（《（存在）にとって不快》） | [139](04-virtues-and-flaws.md#存在にとって不快offensive-to-beings) |
-| Optimistic (Flaw)（《楽天的》） | [139](04-virtues-and-flaws.md#楽天的optimistic) |
+| Obsessed (Flaw)（《固執》） | [139](04-virtues-and-flaws.md#固執-obsessed) |
+| Offensive to (Beings) (Flaw)（《（存在）にとって不快》） | [139](04-virtues-and-flaws.md#存在にとって不快-offensive-to-beings) |
+| Optimistic (Flaw)（《楽天的》） | [139](04-virtues-and-flaws.md#楽天的-optimistic) |
 | Order of Hermes（ヘルメス魔術団） | [6](01-introduction.md#用語集), [9–24](02-the-order-of-hermes.md#第2章ヘルメス魔術団), [497](14-mythic-europe.md#ヘルメスの魔術団) |
 | &nbsp;&nbsp;Crises（危機） | [11](02-the-order-of-hermes.md#魔術団の危機) |
 | &nbsp;&nbsp;Foundation（創設） | [9](02-the-order-of-hermes.md#魔術団の創設) |
 | &nbsp;&nbsp;History（歴史） | [9](02-the-order-of-hermes.md#魔術団の歴史) |
 | Ordination（叙階） | [500](14-mythic-europe.md#秘蹟) |
 | Ordo Miscellanea（諸類派魔術団） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
-| (Organization) Lore (Ability)（〈（組織）知識〉） | [169](05-abilities.md#組織知識organization-lore) |
+| (Organization) Lore (Ability)（〈（組織）知識〉） | [169](05-abilities.md#組織知識-organization-lore-一般系) |
 | Original Sin（原罪） | [498](14-mythic-europe.md#教義) |
-| Outcast (Flaw)（《追われ者》） | [139](04-virtues-and-flaws.md#追われ者outcast) |
-| Outlaw (Flaw)（《無法者》） | [140](04-virtues-and-flaws.md#無法者outlaw) |
-| Outlaw Leader (Flaw)（《無法者の頭目》） | [140](04-virtues-and-flaws.md#無法者の頭目outlaw-leader) |
-| Outsider (Flaw)（《よそ者》） | [140](04-virtues-and-flaws.md#よそ者outsider) |
-| Overconfident (Flaw)（《自信過剰》） | [140](04-virtues-and-flaws.md#自信過剰overconfident) |
-| Oversensitive (Flaw)（《神経質》） | [140](04-virtues-and-flaws.md#神経質oversensitive) |
+| Outcast (Flaw)（《追われ者》） | [139](04-virtues-and-flaws.md#追われ者-outcast) |
+| Outlaw (Flaw)（《無法者》） | [140](04-virtues-and-flaws.md#無法者-outlaw) |
+| Outlaw Leader (Flaw)（《無法者の頭目》） | [140](04-virtues-and-flaws.md#無法者の頭目-outlaw-leader) |
+| Outsider (Flaw)（《よそ者》） | [140](04-virtues-and-flaws.md#よそ者-outsider) |
+| Overconfident (Flaw)（《自信過剰》） | [140](04-virtues-and-flaws.md#自信過剰-overconfident) |
+| Oversensitive (Flaw)（《神経質》） | [140](04-virtues-and-flaws.md#神経質-oversensitive) |
 | Pace（歩） | [395](11-obstacles.md#一歩の長さ) |
-| Pagan (Flaw)（《異教徒》） | [140](04-virtues-and-flaws.md#異教徒pagan) |
-| Paid Rights (Virtue)（《権利買取》） | [100](04-virtues-and-flaws.md#権利買取paid-rights) |
-| Painful Magic (Flaw)（《苦痛に満ちた魔術》） | [140](04-virtues-and-flaws.md#苦痛に満ちた魔術painful-magic) |
-| Palsied Hands (Flaw)（《震える手》） | [140](04-virtues-and-flaws.md#震える手palsied-hands) |
+| Pagan (Flaw)（《異教徒》） | [140](04-virtues-and-flaws.md#異教徒-pagan) |
+| Paid Rights (Virtue)（《権利買取》） | [100](04-virtues-and-flaws.md#権利買取-paid-rights) |
+| Painful Magic (Flaw)（《苦痛に満ちた魔術》） | [140](04-virtues-and-flaws.md#苦痛に満ちた魔術-painful-magic) |
+| Palsied Hands (Flaw)（《震える手》） | [140](04-virtues-and-flaws.md#震える手-palsied-hands) |
 | Parens（恩師（パレンス）） | [6](01-introduction.md#用語集) |
 | Parish（小教区） | [504](14-mythic-europe.md#組織) |
 | Parma Magica（パルマ・マギカ） | [6](01-introduction.md#用語集), [221](07-hermetic-magic.md#パルママギカ) |
-| Parma Magica (Ability)（〈パルマ・マギカ〉） | [169](05-abilities.md#パルママギカparma-magica) |
+| Parma Magica (Ability)（〈パルマ・マギカ〉） | [169](05-abilities.md#パルママギカ-parma-magica-秘術系) |
 | Part (Target)（部分（目標）） | [305](09-spells.md#目標) |
-| Partner (Virtue)（《共同経営者》） | [100](04-virtues-and-flaws.md#共同経営者partner) |
+| Partner (Virtue)（《共同経営者》） | [100](04-virtues-and-flaws.md#共同経営者-partner) |
 | Peasant（農夫） | [23](02-the-order-of-hermes.md#農民), [511](14-mythic-europe.md#農民) |
-| Peasant (Virtue)（《農夫》） | [100](04-virtues-and-flaws.md#農夫peasant) |
+| Peasant (Virtue)（《農夫》） | [100](04-virtues-and-flaws.md#農夫-peasant) |
 | Penance（贖罪） | [500](14-mythic-europe.md#秘蹟) |
 | Penetration（抵抗貫通力） | [215](07-hermetic-magic.md#抵抗貫通力合計値), [219](07-hermetic-magic.md#抵抗貫通力), [226](07-hermetic-magic.md#抵抗貫通力-1) |
-| Penetration (Ability)（〈抵抗貫通力〉） | [169](05-abilities.md#抵抗貫通力penetration) |
-| Perception（【知覚】） | [27](03-characters.md#知覚perceptionper) |
+| Penetration (Ability)（〈抵抗貫通力〉） | [169](05-abilities.md#抵抗貫通力-penetration-秘術系) |
+| Perception（【知覚】） | [27](03-characters.md#知覚-perception-per) |
 | Perdo (Art)（ペルドー／破壊） | [208](07-hermetic-magic.md#ペルドーpe我滅ぼす) |
-| Perfect Balance (Virtue)（《平衡感覚》） | [100](04-virtues-and-flaws.md#平衡感覚perfect-balance) |
-| Perfect Eye for (Commodity) (Virtue)（《（商品）の目利き》） | [100](04-virtues-and-flaws.md#商品の目利きperfect-eye-for-commodity) |
-| Perfectus (Virtue)（《完徳者》） | [100](04-virtues-and-flaws.md#完徳者perfectus) |
+| Perfect Balance (Virtue)（《平衡感覚》） | [100](04-virtues-and-flaws.md#平衡感覚-perfect-balance) |
+| Perfect Eye for (Commodity) (Virtue)（《（商品）の目利き》） | [100](04-virtues-and-flaws.md#商品の目利き-perfect-eye-for-commodity) |
+| Perfectus (Virtue)（《完徳者》） | [100](04-virtues-and-flaws.md#完徳者-perfectus) |
 | Performance (Duration)（上演（持続時間）） | [101](#performance) |
-| Performance Magic (Virtue)（《所作魔術》） | [101–102](04-virtues-and-flaws.md#所作魔術performance-magic) |
+| Performance Magic (Virtue)（《所作魔術》） | [101–102](04-virtues-and-flaws.md#所作魔術-performance-magic) |
 | Peripheral Code（附則法） | [18](02-the-order-of-hermes.md#附則法) |
-| Persona (Ability)（〈ペルソナ〉） | [169](05-abilities.md#ペルソナpersona) |
-| Persona (Virtue)（《ペルソナ》） | [101](04-virtues-and-flaws.md#ペルソナpersona) |
+| Persona (Ability)（〈ペルソナ〉） | [169](05-abilities.md#ペルソナ-persona-超常系) |
+| Persona (Virtue)（《ペルソナ》） | [101](04-virtues-and-flaws.md#ペルソナ-persona) |
 | Personal (Range)（自身（射程）） | [303](09-spells.md#射程) |
-| Personal Power (Virtue)（《個人の力》） | [102](04-virtues-and-flaws.md#個人の力personal-power) |
-| Personal Vis Source (Virtue)（《自前のウィース源》） | [103](04-virtues-and-flaws.md#自前のウィース源personal-vis-source) |
+| Personal Power (Virtue)（《個人の力》） | [102](04-virtues-and-flaws.md#個人の力-personal-power) |
+| Personal Vis Source (Virtue)（《自前のウィース源》） | [103](04-virtues-and-flaws.md#自前のウィース源-personal-vis-source) |
 | Personality（性格） | [52](03-characters.md#性格-1) |
 | Personality Flaws（性格の《欠点》） | [45](03-characters.md#美点と欠点), [61](04-virtues-and-flaws.md#第4章美点と欠点), [66](04-virtues-and-flaws.md#性格) |
 | Personality Rolls（性格のロール） | [28](03-characters.md#性格ロール) |
 | Personality Traits（性格） | [28](03-characters.md#性格) |
-| Pessimistic (Flaw)（《悲観的》） | [140](04-virtues-and-flaws.md#悲観的pessimistic) |
-| Philosophiae (Ability)（〈哲学〉） | [169](05-abilities.md#哲学philosophiae) |
-| Physician of Salerno (Virtue)（《サレルノの医師》） | [103](04-virtues-and-flaws.md#サレルノの医師physician-of-salerno) |
-| Piercing Gaze (Virtue)（《射抜く眼差し》） | [103](04-virtues-and-flaws.md#射抜く眼差しpiercing-gaze) |
+| Pessimistic (Flaw)（《悲観的》） | [140](04-virtues-and-flaws.md#悲観的-pessimistic) |
+| Philosophiae (Ability)（〈哲学〉） | [169](05-abilities.md#哲学-philosophiae-学術系) |
+| Physician of Salerno (Virtue)（《サレルノの医師》） | [103](04-virtues-and-flaws.md#サレルノの医師-physician-of-salerno) |
+| Piercing Gaze (Virtue)（《射抜く眼差し》） | [103](04-virtues-and-flaws.md#射抜く眼差し-piercing-gaze) |
 | Pilgrimage（巡礼） | [496](14-mythic-europe.md#歴史らしくする), [502](14-mythic-europe.md#聖人) |
-| Pious (Flaw)（《敬虔》） | [140](04-virtues-and-flaws.md#敬虔pious) |
-| Plagued by Supernatural Entity (Flaw)（《超常の憎悪》） | [141](04-virtues-and-flaws.md#超常の憎悪plagued-by-supernatural-entity) |
+| Pious (Flaw)（《敬虔》） | [140](04-virtues-and-flaws.md#敬虔-pious) |
+| Plagued by Supernatural Entity (Flaw)（《超常の憎悪》） | [141](04-virtues-and-flaws.md#超常の憎悪-plagued-by-supernatural-entity) |
 | Platonic Philosophy（プラトン哲学） | [409](12-realms.md#圏域の本性) |
 | Plots（プロット） | [515](15-stories.md#筋書き) |
 | Poisons（毒） | [406](11-obstacles.md#毒) |
@@ -2749,41 +2749,41 @@
 | Politics（政治） | [522](15-stories.md#政治) |
 | Politics Saga（政治のサーガ） | [533](16-sagas.md#政治) |
 | Pooled Characters（共有キャラクター） | [529](16-sagas.md#共有キャラクター) |
-| Poor (Flaw)（《貧困》） | [141](04-virtues-and-flaws.md#貧困poor) |
-| Poor (Characteristic) (Flaw)（《貧弱な（特性値）》） | [141](04-virtues-and-flaws.md#貧弱な特性値poor-characteristic) |
-| Poor Concentration (Flaw)（《集中力散漫》） | [141](04-virtues-and-flaws.md#集中力散漫poor-concentration) |
-| Poor Eyesight (Flaw)（《弱い視力》） | [141](04-virtues-and-flaws.md#弱い視力poor-eyesight) |
-| Poor Formulaic Magic (Flaw)（《定式呪文が苦手》） | [141](04-virtues-and-flaws.md#定式呪文が苦手poor-formulaic-magic) |
-| Poor Hearing (Flaw)（《弱い聴力》） | [141](04-virtues-and-flaws.md#弱い聴力poor-hearing) |
-| Poor Living Conditions (Flaw)（《劣悪な生活環境》） | [141](04-virtues-and-flaws.md#劣悪な生活環境poor-living-conditions) |
-| Poor Memory (Flaw)（《物覚えが悪い》） | [141](04-virtues-and-flaws.md#物覚えが悪いpoor-memory) |
-| Poor Student (Flaw)（《勉強が苦手》） | [141](04-virtues-and-flaws.md#勉強が苦手poor-student) |
+| Poor (Flaw)（《貧困》） | [141](04-virtues-and-flaws.md#貧困-poor) |
+| Poor (Characteristic) (Flaw)（《貧弱な（特性値）》） | [141](04-virtues-and-flaws.md#貧弱な特性値-poor-characteristic) |
+| Poor Concentration (Flaw)（《集中力散漫》） | [141](04-virtues-and-flaws.md#集中力散漫-poor-concentration) |
+| Poor Eyesight (Flaw)（《弱い視力》） | [141](04-virtues-and-flaws.md#弱い視力-poor-eyesight) |
+| Poor Formulaic Magic (Flaw)（《定式呪文が苦手》） | [141](04-virtues-and-flaws.md#定式呪文が苦手-poor-formulaic-magic) |
+| Poor Hearing (Flaw)（《弱い聴力》） | [141](04-virtues-and-flaws.md#弱い聴力-poor-hearing) |
+| Poor Living Conditions (Flaw)（《劣悪な生活環境》） | [141](04-virtues-and-flaws.md#劣悪な生活環境-poor-living-conditions) |
+| Poor Memory (Flaw)（《物覚えが悪い》） | [141](04-virtues-and-flaws.md#物覚えが悪い-poor-memory) |
+| Poor Student (Flaw)（《勉強が苦手》） | [141](04-virtues-and-flaws.md#勉強が苦手-poor-student) |
 | Pope（教皇） | [502](14-mythic-europe.md#組織) |
-| Potent Magic (Virtue)（《強力な魔術》） | [103–104](04-virtues-and-flaws.md#強力な魔術potent-magic) |
+| Potent Magic (Virtue)（《強力な魔術》） | [103–104](04-virtues-and-flaws.md#強力な魔術-potent-magic) |
 | Powerful Covenant（強力なコヴナント） | [178](06-covenants.md#強力なコヴナント) |
 | Powerful Location (covenant situation)（力ある場所（コヴナントの状況）） | [177](06-covenants.md#力ある土地) |
-| Powerful Relic (Virtue)（《強力な聖遺物》） | [104](04-virtues-and-flaws.md#強力な聖遺物powerful-relic) |
+| Powerful Relic (Virtue)（《強力な聖遺物》） | [104](04-virtues-and-flaws.md#強力な聖遺物-powerful-relic) |
 | Practice Experience（実践経験点） | [377](10-long-term-events.md#鍛錬) |
 | Praeco（主宰） | [22](02-the-order-of-hermes.md#トリビューナル) |
 | Pralix（プラリクス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | Precise Casting（精確行使） | [226](07-hermetic-magic.md#精確行使) |
-| Premonitions (Ability)（〈予感〉） | [170](05-abilities.md#予感premonitions) |
-| Premonitions (Virtue)（《予感》） | [104](04-virtues-and-flaws.md#予感premonitions) |
-| Presence（【魅力】） | [27](03-characters.md#魅力presencepre) |
-| Prestigious Student (Virtue)（《名門の学生》） | [104](04-virtues-and-flaws.md#名門の学生prestigious-student) |
+| Premonitions (Ability)（〈予感〉） | [170](05-abilities.md#予感-premonitions-超常系) |
+| Premonitions (Virtue)（《予感》） | [104](04-virtues-and-flaws.md#予感-premonitions) |
+| Presence（【魅力】） | [27](03-characters.md#魅力-presence-pre) |
+| Prestigious Student (Virtue)（《名門の学生》） | [104](04-virtues-and-flaws.md#名門の学生-prestigious-student) |
 | Priest (Template)（司祭（テンプレート）） | [34](03-characters.md#司祭) |
-| Priest (Virtue)（《司祭》） | [104](04-virtues-and-flaws.md#司祭priest) |
-| Primitive Equipment (Flaw)（《粗末な装備》） | [141](04-virtues-and-flaws.md#粗末な装備primitive-equipment) |
-| Primogeniture Lineage (Flaw)（《長子相続の血統》） | [141](04-virtues-and-flaws.md#長子相続の血統primogeniture-lineage) |
-| Privileged Upbringing (Virtue)（《恵まれた生い立ち》） | [104](04-virtues-and-flaws.md#恵まれた生い立ちprivileged-upbringing) |
+| Priest (Virtue)（《司祭》） | [104](04-virtues-and-flaws.md#司祭-priest) |
+| Primitive Equipment (Flaw)（《粗末な装備》） | [141](04-virtues-and-flaws.md#粗末な装備-primitive-equipment) |
+| Primogeniture Lineage (Flaw)（《長子相続の血統》） | [141](04-virtues-and-flaws.md#長子相続の血統-primogeniture-lineage) |
+| Privileged Upbringing (Virtue)（《恵まれた生い立ち》） | [104](04-virtues-and-flaws.md#恵まれた生い立ち-privileged-upbringing) |
 | Proactive Stories（能動的な物語） | [517](15-stories.md#能動的な物語) |
-| Profession (Type) (Ability)（〈職業（種別）〉） | [170](05-abilities.md#職業種別profession-type) |
-| Prohibition (Flaw)（《禁忌》） | [142](04-virtues-and-flaws.md#禁忌prohibition) |
-| Protection (Virtue)（《庇護》） | [105](04-virtues-and-flaws.md#庇護protection) |
+| Profession (Type) (Ability)（〈職業（種別）〉） | [170](05-abilities.md#職業種別-profession-type-一般系) |
+| Prohibition (Flaw)（《禁忌》） | [142](04-virtues-and-flaws.md#禁忌-prohibition) |
+| Protection (Virtue)（《庇護》） | [105](04-virtues-and-flaws.md#庇護-protection) |
 | Protector (Hook)（《庇護者（コヴナント設定）》） | [181](06-covenants.md#コヴナント設定小) |
-| Proud (Flaw)（《尊大》） | [142](04-virtues-and-flaws.md#尊大proud) |
-| Puissant Ability (Virtue)（《強化（能力）》） | [105](04-virtues-and-flaws.md#強化能力puissant-ability) |
-| Puissant Art (Virtue)（《強化（術法）》） | [105](04-virtues-and-flaws.md#強化術法puissant-art) |
+| Proud (Flaw)（《尊大》） | [142](04-virtues-and-flaws.md#尊大-proud) |
+| Puissant Ability (Virtue)（《強化（能力）》） | [105](04-virtues-and-flaws.md#強化能力-puissant-ability) |
+| Puissant Art (Virtue)（《強化（術法）》） | [105](04-virtues-and-flaws.md#強化術法-puissant-art) |
 | Pulsed Saga（断続的なサーガ） | [528](16-sagas.md#脈打つサーガ) |
 | Pure Fantasy Saga（純ファンタジーサーガ） | [530](16-sagas.md#純粋なファンタジーのサーガ) |
 | Pure Troupe Style（純粋なトループ式） | [530](16-sagas.md#純粋なトループ式) |
@@ -2791,69 +2791,69 @@
 | Quaesitor（審問士） | [6](01-introduction.md#用語集), [14](02-the-order-of-hermes.md#グエルニクス派) |
 | &nbsp;&nbsp;*see also [Guernicus, House*](02-the-order-of-hermes.md#グエルニクス派) |  |
 | Quick Casting（迅速行使） | [226](07-hermetic-magic.md#迅速行使) |
-| Quickness（【反応】） | [27](03-characters.md#反応quicknessqik) |
+| Quickness（【反応】） | [27](03-characters.md#反応-quickness-qik) |
 | Quiet Casting（静穏行使） | [226](07-hermetic-magic.md#静穏行使) |
-| Quiet Magic (Virtue)（《無音の魔術》） | [105](04-virtues-and-flaws.md#無音の魔術quiet-magic) |
+| Quiet Magic (Virtue)（《無音の魔術》） | [105](04-virtues-and-flaws.md#無音の魔術-quiet-magic) |
 | Quilted Armor（キルトアーマー） | [399](11-obstacles.md#材質) |
 | Quests（探求） | [522](15-stories.md#探求) |
-| Rabbi (Virtue)（《ラビ》） | [105](04-virtues-and-flaws.md#ラビrabbi) |
-| Rabbinic Law (Ability)（〈ラビ法〉） | [170](05-abilities.md#ラビ法rabbinic-law) |
-| Raised from the Dead (Flaw)（《死より甦りし者》） | [142](04-virtues-and-flaws.md#死より甦りし者raised-from-the-dead) |
-| Raised in the Gutter (Flaw)（《どぶ板育ち》） | [142](04-virtues-and-flaws.md#どぶ板育ちraised-in-the-gutter) |
+| Rabbi (Virtue)（《ラビ》） | [105](04-virtues-and-flaws.md#ラビ-rabbi) |
+| Rabbinic Law (Ability)（〈ラビ法〉） | [170](05-abilities.md#ラビ法-rabbinic-law-学術系) |
+| Raised from the Dead (Flaw)（《死より甦りし者》） | [142](04-virtues-and-flaws.md#死より甦りし者-raised-from-the-dead) |
+| Raised in the Gutter (Flaw)（《どぶ板育ち》） | [142](04-virtues-and-flaws.md#どぶ板育ち-raised-in-the-gutter) |
 | Ranges（射程） | [303–304](09-spells.md#射程) |
-| Rapid Convalescence (Virtue)（《速やかな快復》） | [105](04-virtues-and-flaws.md#速やかな快復rapid-convalescence) |
-| Rat Up a Drainpipe (Virtue)（《樋を駆け上る鼠》） | [105](04-virtues-and-flaws.md#樋を駆け上る鼠rat-up-a-drainpipe) |
+| Rapid Convalescence (Virtue)（《速やかな快復》） | [105](04-virtues-and-flaws.md#速やかな快復-rapid-convalescence) |
+| Rat Up a Drainpipe (Virtue)（《樋を駆け上る鼠》） | [105](04-virtues-and-flaws.md#樋を駆け上る鼠-rat-up-a-drainpipe) |
 | Reactive Stories（受動的な物語） | [517](15-stories.md#受動的な物語) |
-| (Realm) Stigmatic (Flaw)（《（圏域）の徴を負う者》） | [142](04-virtues-and-flaws.md#圏域の徴を負う者realm-stigmatic) |
-| Rebellious (Flaw)（《反抗的》） | [142](04-virtues-and-flaws.md#反抗的rebellious) |
+| (Realm) Stigmatic (Flaw)（《（圏域）の徴を負う者》） | [142](04-virtues-and-flaws.md#圏域の徴を負う者-realm-stigmatic) |
+| Rebellious (Flaw)（《反抗的》） | [142](04-virtues-and-flaws.md#反抗的-rebellious) |
 | Rebuttal（反駁） | [226](07-hermetic-magic.md#反駁) |
-| Reckless (Flaw)（《無謀》） | [142](04-virtues-and-flaws.md#無謀reckless) |
-| Reclusive (Flaw)（《引きこもり》） | [142](04-virtues-and-flaws.md#引きこもりreclusive) |
+| Reckless (Flaw)（《無謀》） | [142](04-virtues-and-flaws.md#無謀-reckless) |
+| Reclusive (Flaw)（《引きこもり》） | [142](04-virtues-and-flaws.md#引きこもり-reclusive) |
 | Recovery from Fatigue（疲労からの回復） | [403–404](11-obstacles.md#短期疲労からの回復) |
 | Recovery from Wounds（負傷からの回復） | [405–406](11-obstacles.md#負傷からの回復) |
-| Rector/Proctor (Flaw)（《学長／監事》） | [142](04-virtues-and-flaws.md#学長監事rectorproctor) |
+| Rector/Proctor (Flaw)（《学長／監事》） | [142](04-virtues-and-flaws.md#学長監事-rectorproctor) |
 | Recurring Spells（反復する呪文） | [240](07-hermetic-magic.md#反復する呪文) |
-| Redcap (Virtue)（《赤帽士》） | [105](04-virtues-and-flaws.md#赤帽士redcap) |
+| Redcap (Virtue)（《赤帽士》） | [105](04-virtues-and-flaws.md#赤帽士-redcap) |
 | &nbsp;&nbsp;*see also [Mercere, House](02-the-order-of-hermes.md#メルケーレ派)* |  |
 | Redcaps（赤帽士） | [6](01-introduction.md#用語集), [15](02-the-order-of-hermes.md#メルケーレ派) |
 | Refinement (laboratory)（洗練（研究室の）） | [287](08-laboratory.md#洗練) |
 | Regio（レギオー） | [181–182](06-covenants.md#コヴナント設定小), [420](12-realms.md#レギオー) |
 | Rego (Art)（レーゴー／操作） | [208](07-hermetic-magic.md#レーゴーre我操る) |
-| Regular (Flaw)（《修道規則の徒》） | [143](04-virtues-and-flaws.md#修道規則の徒regular) |
-| Relic (Virtue)（《聖遺物》） | [105](04-virtues-and-flaws.md#聖遺物relic) |
+| Regular (Flaw)（《修道規則の徒》） | [143](04-virtues-and-flaws.md#修道規則の徒-regular) |
+| Relic (Virtue)（《聖遺物》） | [105](04-virtues-and-flaws.md#聖遺物-relic) |
 | Relics（聖遺物） | [419](12-realms.md#聖遺物) |
-| Religious (Virtue)（《修道者》） | [106](04-virtues-and-flaws.md#修道者religious) |
+| Religious (Virtue)（《修道者》） | [106](04-virtues-and-flaws.md#修道者-religious) |
 | Renouncing（追放） | [18](02-the-order-of-hermes.md#附則法) |
-| Repellent (Flaw)（《忌避される》） | [143](04-virtues-and-flaws.md#忌避されるrepellent) |
+| Repellent (Flaw)（《忌避される》） | [143](04-virtues-and-flaws.md#忌避される-repellent) |
 | Reputations（評判） | [28](03-characters.md#評判), [52](03-characters.md#評判-1) |
 | &nbsp;&nbsp;Ease Factors（目標値） | [29](03-characters.md#評判目標値) |
 | Requests for Assistance（助けの求め） | [521](15-stories.md#助けの求め) |
 | Requisites（制約術法） | [311–312](09-spells.md#制約術法) |
 | Researching a Setting（舞台を調べる） | [531–532](16-sagas.md#舞台を調べる) |
-| Reserves of Strength (Virtue)（《底力》） | [106](04-virtues-and-flaws.md#底力reserves-of-strength) |
+| Reserves of Strength (Virtue)（《底力》） | [106](04-virtues-and-flaws.md#底力-reserves-of-strength) |
 | Resources（資源） | [179–181](06-covenants.md#資源), [504](14-mythic-europe.md#財源), [527](16-sagas.md#資力) |
-| Restricted Learning (Flaw)（《学びの制限》） | [143](04-virtues-and-flaws.md#学びの制限restricted-learning) |
-| Restricted Power (Flaw)（《制限された力》） | [143](04-virtues-and-flaws.md#制限された力restricted-power) |
-| Restriction (Flaw)（《制約》） | [143](04-virtues-and-flaws.md#制約restriction) |
+| Restricted Learning (Flaw)（《学びの制限》） | [143](04-virtues-and-flaws.md#学びの制限-restricted-learning) |
+| Restricted Power (Flaw)（《制限された力》） | [143](04-virtues-and-flaws.md#制限された力-restricted-power) |
+| Restriction (Flaw)（《制約》） | [143](04-virtues-and-flaws.md#制約-restriction) |
 | Resurrection（復活） | [498](14-mythic-europe.md#教義) |
 | Revenants（レヴェナント） | [461–463](13-bestiary.md#レヴェナント歩く死者) |
 | &nbsp;&nbsp;Corpse-Like Form（屍の姿） | [462](13-bestiary.md#レヴェナント屍の姿) |
 | &nbsp;&nbsp;Skeletal Form（骸骨の姿） | [463](13-bestiary.md#レヴェナント骸骨の姿) |
-| Rhetoric (Artes Liberales)（修辞学（自由学科）） | [160](05-abilities.md#自由学科artes-liberales) |
-| Ride (Ability)（〈乗馬〉） | [170](05-abilities.md#乗馬ride) |
-| Rigid Magic (Flaw)（《硬直した魔術》） | [143](04-virtues-and-flaws.md#硬直した魔術rigid-magic) |
+| Rhetoric (Artes Liberales)（修辞学（自由学科）） | [160](05-abilities.md#自由学科-artes-liberales-学術系) |
+| Ride (Ability)（〈乗馬〉） | [170](05-abilities.md#乗馬-ride-一般系) |
+| Rigid Magic (Flaw)（《硬直した魔術》） | [143](04-virtues-and-flaws.md#硬直した魔術-rigid-magic) |
 | Ring (Duration)（輪（持続時間）） | [304](09-spells.md#持続時間) |
-| Ripper (Virtue)（《裂き手》） | [106](04-virtues-and-flaws.md#裂き手ripper) |
+| Ripper (Virtue)（《裂き手》） | [106](04-virtues-and-flaws.md#裂き手-ripper) |
 | Ritual Magic（儀式魔術） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#儀式魔術) |
-| Ritual Power (Virtue)（《儀式の力》） | [106](04-virtues-and-flaws.md#儀式の力ritual-power) |
+| Ritual Power (Virtue)（《儀式の力》） | [106](04-virtues-and-flaws.md#儀式の力-ritual-power) |
 | Ritual Spells（儀式呪文） | [311](09-spells.md#儀式呪文) |
 | Rival (Hook)（《好敵手（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Hook)（《道（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Rogue (Template)（無頼（テンプレート）） | [35](03-characters.md#悪漢) |
-| Rolling Stone (Flaw)（《風来坊》） | [143](04-virtues-and-flaws.md#風来坊rolling-stone) |
+| Rolling Stone (Flaw)（《風来坊》） | [143](04-virtues-and-flaws.md#風来坊-rolling-stone) |
 | Room (Target)（部屋（目標）） | [305](09-spells.md#目標) |
-| Rosh Beth Din (Virtue)（《ローシュ・ベート・ディーン》） | [106](04-virtues-and-flaws.md#ローシュベートディーンrosh-beth-din) |
+| Rosh Beth Din (Virtue)（《ローシュ・ベート・ディーン》） | [106](04-virtues-and-flaws.md#ローシュベートディーン-rosh-beth-din) |
 | Round Shield（ラウンドシールド） | [401](11-obstacles.md#片手武器) |
 | Rounding（端数の処理） | [6](01-introduction.md#端数処理) |
 | Sacraments（秘蹟） | [499–501](14-mythic-europe.md#秘蹟) |
@@ -2864,86 +2864,86 @@
 | Saints（聖人） | [501–502](14-mythic-europe.md#聖人) |
 | Satan（サタン） | [21](02-the-order-of-hermes.md#悪魔との関わり) |
 | &nbsp;&nbsp;*see also [Creatures of the Infernal](13-bestiary.md#地獄圏のクリーチャー)* |  |
-| Savantism (Flaw)（《サヴァン》） | [143](04-virtues-and-flaws.md#サヴァンsavantism) |
+| Savantism (Flaw)（《サヴァン》） | [143](04-virtues-and-flaws.md#サヴァン-savantism) |
 | Schism War（分裂大戦） | [6](01-introduction.md#用語集), [11](02-the-order-of-hermes.md#分裂大戦) |
-| Schooled in Crime (Virtue)（《犯罪の心得》） | [106](04-virtues-and-flaws.md#犯罪の心得schooled-in-crime) |
+| Schooled in Crime (Virtue)（《犯罪の心得》） | [106](04-virtues-and-flaws.md#犯罪の心得-schooled-in-crime) |
 | Scuffle Effects（小競り合いの効果） | [398](11-obstacles.md#小競り合いの効果) |
 | Scrying（覗き見） | [21](02-the-order-of-hermes.md#探り見る魔術) |
 | Seasons（季節） | [174–176](06-covenants.md#コヴナントの季節), [376](10-long-term-events.md#季を割り当てる) |
-| Secretive (Flaw)（《秘密主義》） | [144](04-virtues-and-flaws.md#秘密主義secretive) |
-| Second Sight (Ability)（〈霊視〉） | [170](05-abilities.md#霊視second-sight) |
-| Second Sight (Virtue)（《霊視》） | [106](04-virtues-and-flaws.md#霊視second-sight) |
-| Secondary Insight (Virtue)（《副次的洞察》） | [106](04-virtues-and-flaws.md#副次的洞察secondary-insight) |
+| Secretive (Flaw)（《秘密主義》） | [144](04-virtues-and-flaws.md#秘密主義-secretive) |
+| Second Sight (Ability)（〈霊視〉） | [170](05-abilities.md#霊視-second-sight-超常系) |
+| Second Sight (Virtue)（《霊視》） | [106](04-virtues-and-flaws.md#霊視-second-sight) |
+| Secondary Insight (Virtue)（《副次的洞察》） | [106](04-virtues-and-flaws.md#副次的洞察-secondary-insight) |
 | Secular Clergy（在俗聖職者） | [505](14-mythic-europe.md#修道院) |
-| See in Darkness (Virtue)（《闇中視》） | [107](04-virtues-and-flaws.md#闇中視see-in-darkness) |
-| Seeker (Flaw)（《探求者》） | [144](04-virtues-and-flaws.md#探求者seeker) |
-| Self-Confident (Virtue)（《自信家》） | [107](04-virtues-and-flaws.md#自信家self-confident) |
-| Senior Bard (Virtue)（《上級吟遊詩人》） | [107](04-virtues-and-flaws.md#上級吟遊詩人senior-bard) |
-| Senior Clergy (Virtue)（《高位聖職者》） | [107](04-virtues-and-flaws.md#高位聖職者senior-clergy) |
-| Senior Master (Virtue)（《有力な親方》） | [107](04-virtues-and-flaws.md#有力な親方senior-master) |
-| Sense Holiness and Unholiness (Ability)（〈聖邪感知〉） | [170](04-virtues-and-flaws.md#聖邪感知sense-holiness-and-unholiness) |
-| Sense Holiness and Unholiness (Virtue)（《聖邪感知》） | [107](04-virtues-and-flaws.md#聖邪感知sense-holiness-and-unholiness) |
-| Sense Passions (Ability)（〈情念感知〉） | [107](05-abilities.md#情念感知sense-passions) |
-| Sense Passions (Virtue)（《情念感知》） | [107](04-virtues-and-flaws.md#情念感知sense-passions) |
-| Servant of the (Land) (Flaw)（（土地）の僕） | [144](04-virtues-and-flaws.md#土地の僕servant-of-the-land) |
+| See in Darkness (Virtue)（《闇中視》） | [107](04-virtues-and-flaws.md#闇中視-see-in-darkness) |
+| Seeker (Flaw)（《探求者》） | [144](04-virtues-and-flaws.md#探求者-seeker) |
+| Self-Confident (Virtue)（《自信家》） | [107](04-virtues-and-flaws.md#自信家-self-confident) |
+| Senior Bard (Virtue)（《上級吟遊詩人》） | [107](04-virtues-and-flaws.md#上級吟遊詩人-senior-bard) |
+| Senior Clergy (Virtue)（《高位聖職者》） | [107](04-virtues-and-flaws.md#高位聖職者-senior-clergy) |
+| Senior Master (Virtue)（《有力な親方》） | [107](04-virtues-and-flaws.md#有力な親方-senior-master) |
+| Sense Holiness and Unholiness (Ability)（〈聖邪感知〉） | [170](04-virtues-and-flaws.md#聖邪感知-sense-holiness-and-unholiness) |
+| Sense Holiness and Unholiness (Virtue)（《聖邪感知》） | [107](04-virtues-and-flaws.md#聖邪感知-sense-holiness-and-unholiness) |
+| Sense Passions (Ability)（〈情念感知〉） | [107](05-abilities.md#情念感知-sense-passions-超常系) |
+| Sense Passions (Virtue)（《情念感知》） | [107](04-virtues-and-flaws.md#情念感知-sense-passions) |
+| Servant of the (Land) (Flaw)（（土地）の僕） | [144](04-virtues-and-flaws.md#土地の僕-servant-of-the-land) |
 | Seven Deadly Sins（七つの大罪） | [499](14-mythic-europe.md#教義) |
-| Shadchan (Virtue)（《シャドヘン》） | [107](04-virtues-and-flaws.md#シャドヘンshadchan) |
-| Shamash (Virtue)（《シャマシュ》） | [107](04-virtues-and-flaws.md#シャマシュshamash) |
+| Shadchan (Virtue)（《シャドヘン》） | [107](04-virtues-and-flaws.md#シャドヘン-shadchan) |
+| Shamash (Virtue)（《シャマシュ》） | [107](04-virtues-and-flaws.md#シャマシュ-shamash) |
 | Shape and Material Bonuses Table（形状・材質ボーナス表） | [282–285](08-laboratory.md#形状材質ボーナス表) |
 | Shapechanger Statistics（変身者の数値） | [441](13-bestiary.md#変身者の数値) |
-| Shapeshifter (Ability)（〈変身能力者〉） | [171](04-virtues-and-flaws.md#変身能力者shapeshifter) |
-| Shapeshifter (Virtue)（《変身能力者》） | [107](04-virtues-and-flaws.md#変身能力者shapeshifter) |
-| Sharp Ears (Virtue)（《鋭い聴力》） | [108](04-virtues-and-flaws.md#鋭い聴力sharp-ears) |
-| Sheltered Upbringing (Flaw)（《過保護な育ち》） | [144](04-virtues-and-flaws.md#過保護な育ちsheltered-upbringing) |
-| Short Attention Span (Flaw)（《注意散漫》） | [144](04-virtues-and-flaws.md#注意散漫short-attention-span) |
+| Shapeshifter (Ability)（〈変身能力者〉） | [171](04-virtues-and-flaws.md#変身能力者-shapeshifter) |
+| Shapeshifter (Virtue)（《変身能力者》） | [107](04-virtues-and-flaws.md#変身能力者-shapeshifter) |
+| Sharp Ears (Virtue)（《鋭い聴力》） | [108](04-virtues-and-flaws.md#鋭い聴力-sharp-ears) |
+| Sheltered Upbringing (Flaw)（《過保護な育ち》） | [144](04-virtues-and-flaws.md#過保護な育ち-sheltered-upbringing) |
+| Short Attention Span (Flaw)（《注意散漫》） | [144](04-virtues-and-flaws.md#注意散漫-short-attention-span) |
 | Short Spear（ショートスピア） | [401](11-obstacles.md#片手武器) |
 | Short Sword（ショートソード） | [401](11-obstacles.md#片手武器) |
 | Shortbow（ショートボウ） | [402](11-obstacles.md#飛び道具) |
-| Short-Lived Magic (Flaw)（《短命な魔術》） | [144](04-virtues-and-flaws.md#短命な魔術short-lived-magic) |
-| Short of Breath (Flaw)（《息切れ》） | [144](04-virtues-and-flaws.md#息切れshort-of-breath) |
-| Short-Ranged Magic (Flaw)（《短射程の魔術》） | [144](04-virtues-and-flaws.md#短射程の魔術short-ranged-magic) |
+| Short-Lived Magic (Flaw)（《短命な魔術》） | [144](04-virtues-and-flaws.md#短命な魔術-short-lived-magic) |
+| Short of Breath (Flaw)（《息切れ》） | [144](04-virtues-and-flaws.md#息切れ-short-of-breath) |
+| Short-Ranged Magic (Flaw)（《短射程の魔術》） | [144](04-virtues-and-flaws.md#短射程の魔術-short-ranged-magic) |
 | Short-Term Fatigue（短期疲労） | [403](11-obstacles.md#短期疲労) |
-| Side Effect (Virtue)（《副次効果》） | [108](04-virtues-and-flaws.md#副次効果side-effect) |
+| Side Effect (Virtue)（《副次効果》） | [108](04-virtues-and-flaws.md#副次効果-side-effect) |
 | Sigils（印） | [224](07-hermetic-magic.md#印), [314](09-spells.md#魔術師の印) |
 | Similar Spells（類似の呪文） | [260](08-laboratory.md#類似した呪文) |
 | Simple Die（シンプルダイス） | [7](01-introduction.md#シンプルダイス) |
-| Simple-Minded (Flaw)（《単純》） | [144](04-virtues-and-flaws.md#単純simple-minded) |
-| Simple Student (Virtue)（《一介の学生》） | [108](04-virtues-and-flaws.md#一介の学生simple-student) |
+| Simple-Minded (Flaw)（《単純》） | [144](04-virtues-and-flaws.md#単純-simple-minded) |
+| Simple Student (Virtue)（《一介の学生》） | [108](04-virtues-and-flaws.md#一介の学生-simple-student) |
 | Sin-Eating（罪喰い） | [57](03-characters.md#罪喰い) |
-| Single Weapon (Ability)（〈片手武器〉） | [171](05-abilities.md#片手武器single-weapon) |
+| Single Weapon (Ability)（〈片手武器〉） | [171](05-abilities.md#片手武器-single-weapon-戦闘系) |
 | Single Weapons（片手武器） | [401](11-obstacles.md#片手武器) |
 | Size（サイズ） | [26](03-characters.md#サイズ), [427](13-bestiary.md#サイズの例) |
-| Skilled Parens (Virtue)（《優れた恩師》） | [108](04-virtues-and-flaws.md#優れた恩師skilled-parens) |
-| Skilled Smuggler (Virtue)（《腕利きの密輸業者》） | [108](04-virtues-and-flaws.md#腕利きの密輸業者skilled-smuggler) |
-| Skinchanger (Virtue)（《皮衣変身》） | [108](04-virtues-and-flaws.md#皮衣変身skinchanger) |
-| &nbsp;&nbsp;(Dove)（（鳩）） | [108](04-virtues-and-flaws.md#皮衣変身鳩skinchanger-dove) |
-| Sleep Disorder (Flaw)（《睡眠障害》） | [144](04-virtues-and-flaws.md#睡眠障害sleep-disorder) |
+| Skilled Parens (Virtue)（《優れた恩師》） | [108](04-virtues-and-flaws.md#優れた恩師-skilled-parens) |
+| Skilled Smuggler (Virtue)（《腕利きの密輸業者》） | [108](04-virtues-and-flaws.md#腕利きの密輸業者-skilled-smuggler) |
+| Skinchanger (Virtue)（《皮衣変身》） | [108](04-virtues-and-flaws.md#皮衣変身-skinchanger) |
+| &nbsp;&nbsp;(Dove)（（鳩）） | [108](04-virtues-and-flaws.md#皮衣変身鳩-skinchanger-dove) |
+| Sleep Disorder (Flaw)（《睡眠障害》） | [144](04-virtues-and-flaws.md#睡眠障害-sleep-disorder) |
 | Sling（スリング） | [402](11-obstacles.md#飛び道具) |
 | Sloth（怠惰） | [499](14-mythic-europe.md#教義) |
-| Slothful (Flaw)（《怠惰》） | [145](04-virtues-and-flaws.md#怠惰slothful) |
-| Slow Caster (Flaw)（《緩慢な行使》） | [145](04-virtues-and-flaws.md#緩慢な行使slow-caster) |
-| Slow Power (Flaw)（《緩慢な力》） | [145](04-virtues-and-flaws.md#緩慢な力slow-power) |
-| Slow Reflexes (Flaw)（《鈍い反射》） | [145](04-virtues-and-flaws.md#鈍い反射slow-reflexes) |
-| Small Frame (Flaw)（《小柄》） | [145](04-virtues-and-flaws.md#小柄small-frame) |
+| Slothful (Flaw)（《怠惰》） | [145](04-virtues-and-flaws.md#怠惰-slothful) |
+| Slow Caster (Flaw)（《緩慢な行使》） | [145](04-virtues-and-flaws.md#緩慢な行使-slow-caster) |
+| Slow Power (Flaw)（《緩慢な力》） | [145](04-virtues-and-flaws.md#緩慢な力-slow-power) |
+| Slow Reflexes (Flaw)（《鈍い反射》） | [145](04-virtues-and-flaws.md#鈍い反射-slow-reflexes) |
+| Small Frame (Flaw)（《小柄》） | [145](04-virtues-and-flaws.md#小柄-small-frame) |
 | Soak（吸収値） | [30](03-characters.md#書式), [394](11-obstacles.md#戦闘値) |
 | Soap Opera（連続劇） | [518](15-stories.md#連続劇) |
 | Social Childhood（社交的な幼少期） | [48](03-characters.md#幼年期の例) |
-| Social Contacts (Virtue)（《人脈》） | [108](04-virtues-and-flaws.md#人脈social-contacts) |
-| Social Handicap (Flaw)（《社交場の不利》） | [145](04-virtues-and-flaws.md#社交場の不利social-handicap) |
+| Social Contacts (Virtue)（《人脈》） | [108](04-virtues-and-flaws.md#人脈-social-contacts) |
+| Social Handicap (Flaw)（《社交場の不利》） | [145](04-virtues-and-flaws.md#社交場の不利-social-handicap) |
 | Social Status（社会的地位） | [45](03-characters.md#美点と欠点-1), [62](04-virtues-and-flaws.md#社会階層の美点と欠点), [64](04-virtues-and-flaws.md#社会階層) |
 | &nbsp;&nbsp;By Culture（文化別） | [65](04-virtues-and-flaws.md#文化圏ごとの社会階層) |
 | Sodalis（ソダリス） | [6](01-introduction.md#用語集) |
-| Sofer (Virtue)（《ソフェル》） | [109](04-virtues-and-flaws.md#ソフェルsofer) |
-| Soft-Hearted (Flaw)（《情にもろい》） | [145](04-virtues-and-flaws.md#情にもろいsoft-hearted) |
+| Sofer (Virtue)（《ソフェル》） | [109](04-virtues-and-flaws.md#ソフェル-sofer) |
+| Soft-Hearted (Flaw)（《情にもろい》） | [145](04-virtues-and-flaws.md#情にもろい-soft-hearted) |
 | Soul, Limit of the（魂の限界） | [211](07-hermetic-magic.md#魂の限界) |
-| Special Circumstances (Virtue)（《特別な状況》） | [109](04-virtues-and-flaws.md#特別な状況special-circumstances) |
+| Special Circumstances (Virtue)（《特別な状況》） | [109](04-virtues-and-flaws.md#特別な状況-special-circumstances) |
 | Special Effects (combat)（特別な効果（戦闘の）） | [398](11-obstacles.md#特別な効果) |
 | Specialist (Template)（専門家（テンプレート）） | [32](03-characters.md#専門家) |
 | Specialists（専門家） | [180](06-covenants.md#専門家) |
 | Specializations（専門） | [157](05-abilities.md#専門) |
 | Spell Damage（呪文ダメージ） | [314](09-spells.md#呪文のダメージ), [394](11-obstacles.md#呪文のダメージ) |
 | Spell Format（呪文の書式） | [313–314](09-spells.md#呪文の書式) |
-| Spell Improvisation (Virtue)（《呪文の即興》） | [109](04-virtues-and-flaws.md#呪文の即興spell-improvisation) |
+| Spell Improvisation (Virtue)（《呪文の即興》） | [109](04-virtues-and-flaws.md#呪文の即興-spell-improvisation) |
 | Spell Mastery（呪文の習熟） | [27](03-characters.md#能力), [225–226](07-hermetic-magic.md#呪文の習熟) |
 | Spell Mastery Abilities（呪文習熟の〈能力〉） | [158](05-abilities.md#呪文習熟能力) |
 | Spells（呪文） | [6](01-introduction.md#用語集), [301–372](09-spells.md#第9章呪文) |
@@ -2953,110 +2953,110 @@
 | &nbsp;&nbsp;Level Guidelines（レベルの指針） | [301](09-spells.md#レベルの指針) |
 | Spirits（精霊） | [444](13-bestiary.md#ダイモーン) |
 | Spirit Votary（精霊の信徒） | [58](03-characters.md#精霊の信徒) |
-| Spirit Votary (Virtue)（《精霊の信徒》） | [109](04-virtues-and-flaws.md#精霊の信徒spirit-votary) |
-| Spiritual Pact (Virtue)（《精霊との盟約》） | [109](04-virtues-and-flaws.md#精霊との盟約spiritual-pact) |
+| Spirit Votary (Virtue)（《精霊の信徒》） | [109](04-virtues-and-flaws.md#精霊の信徒-spirit-votary) |
+| Spiritual Pact (Virtue)（《精霊との盟約》） | [109](04-virtues-and-flaws.md#精霊との盟約-spiritual-pact) |
 | Splitting Groups（集団を分断する） | [398](11-obstacles.md#集団を分断する) |
-| Spontaneous Casting Tools (Flaw)（《即興用の詠唱道具》） | [145](04-virtues-and-flaws.md#即興用の詠唱道具spontaneous-casting-tools) |
+| Spontaneous Casting Tools (Flaw)（《即興用の詠唱道具》） | [145](04-virtues-and-flaws.md#即興用の詠唱道具-spontaneous-casting-tools) |
 | Spontaneous Magic（即興魔術） | [6](01-introduction.md#用語集), [214](07-hermetic-magic.md#即興魔術) |
 | Spring（春） | [174](06-covenants.md#春) |
 | Stabilizing The Unknown（未知を安定させる） | [279](08-laboratory.md#未知を安定させる) |
 | Staff（杖） | [402](11-obstacles.md#両手武器) |
-| Stamina（【体力】） | [27](03-characters.md#体力staminasta) |
+| Stamina（【体力】） | [27](03-characters.md#体力-stamina-sta) |
 | Standard Soldier (Template)（標準の兵士（テンプレート）） | [32](03-characters.md#並の兵士) |
-| Stealth (Ability)（〈隠密〉） | [171](05-abilities.md#隠密stealth) |
-| Stigmatic Catalyst (Flaw)（《徴の触媒》） | [145](04-virtues-and-flaws.md#徴の触媒stigmatic-catalyst) |
+| Stealth (Ability)（〈隠密〉） | [171](05-abilities.md#隠密-stealth-一般系) |
+| Stigmatic Catalyst (Flaw)（《徴の触媒》） | [145](04-virtues-and-flaws.md#徴の触媒-stigmatic-catalyst) |
 | Still Casting（静止行使） | [226](07-hermetic-magic.md#静止行使) |
-| Stockade Parma Magica (Flaw)（《柵状のパルマ・マギカ》） | [145](04-virtues-and-flaws.md#柵状のパルママギカstockade-parma-magica) |
-| Storm (Duration)（嵐（持続時間）） | [71](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
+| Stockade Parma Magica (Flaw)（《柵状のパルマ・マギカ》） | [145](04-virtues-and-flaws.md#柵状のパルママギカ-stockade-parma-magica) |
+| Storm (Duration)（嵐（持続時間）） | [71](04-virtues-and-flaws.md#アトランティス魔術-atlantean-magic) |
 | Story Flaws（物語の《欠点》） | [45](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [61](04-virtues-and-flaws.md#性格の欠点と物語の欠点), [66](04-virtues-and-flaws.md#性格の欠点と物語の欠点) |
 | Story Ideas（物語の着想） | [520–522](15-stories.md#物語の着想) |
 | Story Types（物語の類型） | [517–518](15-stories.md#物語の類型) |
 | Stone（石） | [402](11-obstacles.md#飛び道具) |
-| Strength（【筋力】） | [27](03-characters.md#筋力strengthstr) |
+| Strength（【筋力】） | [27](03-characters.md#筋力-strength-str) |
 | Stress Die（ストレス・ダイス） | [7](01-introduction.md#ストレスダイス) |
-| Strong Angelic Heritage (Virtue)（《濃い天使の血統》） | [109](04-virtues-and-flaws.md#濃い天使の血統strong-angelic-heritage) |
-| Strong Faerie Blood (Virtue)（《濃い妖精の血脈》） | [110](04-virtues-and-flaws.md#濃い妖精の血脈strong-faerie-blood) |
-| Strong-Willed (Virtue)（《強い意志》） | [110](04-virtues-and-flaws.md#強い意志strong-willed) |
+| Strong Angelic Heritage (Virtue)（《濃い天使の血統》） | [109](04-virtues-and-flaws.md#濃い天使の血統-strong-angelic-heritage) |
+| Strong Faerie Blood (Virtue)（《濃い妖精の血脈》） | [110](04-virtues-and-flaws.md#濃い妖精の血脈-strong-faerie-blood) |
+| Strong-Willed (Virtue)（《強い意志》） | [110](04-virtues-and-flaws.md#強い意志-strong-willed) |
 | Structure (Target)（構造物（目標）） | [305](09-spells.md#目標) |
 | Structures (The Church)（組織（教会の）） | [502–503](14-mythic-europe.md#組織) |
 | Struggling (covenant situation)（苦境（コヴナントの状況）） | [177](06-covenants.md#困窮) |
-| Stuck in Your Ways (Flaw)（《頑固》） | [145](04-virtues-and-flaws.md#頑固stuck-in-your-ways) |
-| Student of (Realm) (Virtue)（（圏域）の徒） | [110](04-virtues-and-flaws.md#圏域の徒student-of-realm) |
-| Study Bonus (Virtue)（《研究の冴え》） | [110](04-virtues-and-flaws.md#研究の冴えstudy-bonus) |
-| Study Requirement (Flaw)（《学習の要件》） | [145](04-virtues-and-flaws.md#学習の要件study-requirement) |
+| Stuck in Your Ways (Flaw)（《頑固》） | [145](04-virtues-and-flaws.md#頑固-stuck-in-your-ways) |
+| Student of (Realm) (Virtue)（（圏域）の徒） | [110](04-virtues-and-flaws.md#圏域の徒-student-of-realm) |
+| Study Bonus (Virtue)（《研究の冴え》） | [110](04-virtues-and-flaws.md#研究の冴え-study-bonus) |
+| Study Requirement (Flaw)（《学習の要件》） | [145](04-virtues-and-flaws.md#学習の要件-study-requirement) |
 | Sub-Deacon（副助祭） | [500](14-mythic-europe.md#秘蹟) |
-| Subtle Magic (Virtue)（《動作なき魔術》） | [110](04-virtues-and-flaws.md#動作なき魔術subtle-magic) |
-| Sufi (Virtue)（《スーフィ》） | [111](04-virtues-and-flaws.md#スーフィsufi) |
+| Subtle Magic (Virtue)（《動作なき魔術》） | [110](04-virtues-and-flaws.md#動作なき魔術-subtle-magic) |
+| Sufi (Virtue)（《スーフィ》） | [111](04-virtues-and-flaws.md#スーフィ-sufi) |
 | Summae（大全書） | [179](06-covenants.md#蔵書), [379](10-long-term-events.md#大全書) |
 | Summer（夏） | [175](06-covenants.md#夏) |
-| Summon Animals (Ability)（〈動物召喚〉） | [171](05-abilities.md#動物召喚summon-animals), [243](07-hermetic-magic.md#動物召喚) |
-| Summon Animals (Virtue)（《動物召喚》） | [111](04-virtues-and-flaws.md#動物召喚summon-animals) |
+| Summon Animals (Ability)（〈動物召喚〉） | [171](05-abilities.md#動物召喚-summon-animals), [243](07-hermetic-magic.md#動物召喚) |
+| Summon Animals (Virtue)（《動物召喚》） | [111](04-virtues-and-flaws.md#動物召喚-summon-animals) |
 | Summoning Spirits（霊の召喚） | [308](09-spells.md#霊の召喚) |
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
 | Sundering, The（大分断） | [11](02-the-order-of-hermes.md#トレメーレ派の専横) |
 | Superiors (Hook)（《上位者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Supernatural Abilities（〈超常系能力〉） | [159](05-abilities.md#超常系能力) |
 | &nbsp;&nbsp;Learning（習得） | [383](10-long-term-events.md#超常系能力を習得する) |
-| Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌supernatural-beauty) |
-| Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事supernatural-nuisance) |
+| Supernatural Beauty (Virtue)（《超常の美貌》） | [111](04-virtues-and-flaws.md#超常の美貌-supernatural-beauty) |
+| Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事-supernatural-nuisance) |
 | Supernatural Virtues and Flaws（超常的《美点》と《欠点》） | [64](04-virtues-and-flaws.md#超常) |
-| Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀suppressed-gift) |
-| Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医surgical-empiricus) |
-| Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術survival) |
-| Susceptibility to Divine Power (Flaw)（《神聖圏への脆弱》） | [146](04-virtues-and-flaws.md#神聖圏への脆弱susceptibility-to-divine-power) |
-| Susceptibility to Faerie Power (Flaw)（《妖精の力への脆弱》） | [146](04-virtues-and-flaws.md#妖精の力への脆弱susceptibility-to-faerie-power) |
-| Susceptibility to Infernal Power (Flaw)（《地獄の力への脆弱》） | [146](04-virtues-and-flaws.md#地獄の力への脆弱susceptibility-to-infernal-power) |
-| Susceptibility to Sunlight (Flaw)（《日光への脆弱》） | [146](04-virtues-and-flaws.md#日光への脆弱susceptibility-to-sunlight) |
-| Susceptibility to Warping (Flaw)（《歪曲への脆弱》） | [146](04-virtues-and-flaws.md#歪曲への脆弱susceptibility-to-warping) |
-| Swim (Ability)（〈水泳〉） | [171](05-abilities.md#水泳swim) |
+| Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀-suppressed-gift) |
+| Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医-surgical-empiricus) |
+| Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術-survival-一般系) |
+| Susceptibility to Divine Power (Flaw)（《神聖圏への脆弱》） | [146](04-virtues-and-flaws.md#神聖圏への脆弱-susceptibility-to-divine-power) |
+| Susceptibility to Faerie Power (Flaw)（《妖精の力への脆弱》） | [146](04-virtues-and-flaws.md#妖精の力への脆弱-susceptibility-to-faerie-power) |
+| Susceptibility to Infernal Power (Flaw)（《地獄の力への脆弱》） | [146](04-virtues-and-flaws.md#地獄の力への脆弱-susceptibility-to-infernal-power) |
+| Susceptibility to Sunlight (Flaw)（《日光への脆弱》） | [146](04-virtues-and-flaws.md#日光への脆弱-susceptibility-to-sunlight) |
+| Susceptibility to Warping (Flaw)（《歪曲への脆弱》） | [146](04-virtues-and-flaws.md#歪曲への脆弱-susceptibility-to-warping) |
+| Swim (Ability)（〈水泳〉） | [171](05-abilities.md#水泳-swim-一般系) |
 | Sympathetic Connections（類感媒体） | [220](07-hermetic-magic.md#類感媒体) |
-| Tainted Offspring (Flaw)（《汚された子》） | [146](04-virtues-and-flaws.md#汚された子tainted-offspring) |
-| Tainted Treasure (Virtue)（《汚された財宝》） | [111](04-virtues-and-flaws.md#汚された財宝tainted-treasure) |
+| Tainted Offspring (Flaw)（《汚された子》） | [146](04-virtues-and-flaws.md#汚された子-tainted-offspring) |
+| Tainted Treasure (Virtue)（《汚された財宝》） | [111](04-virtues-and-flaws.md#汚された財宝-tainted-treasure) |
 | Tainted Vis（汚されたウィース） | [422](12-realms.md#汚されたウィース) |
-| Tainted with Evil (Flaw)（《悪に穢れた》） | [146](04-virtues-and-flaws.md#悪に穢れたtainted-with-evil) |
+| Tainted with Evil (Flaw)（《悪に穢れた》） | [146](04-virtues-and-flaws.md#悪に穢れた-tainted-with-evil) |
 | Talisman（タリスマン） | [259](08-laboratory.md#タリスマンの調律) |
 | Targets（目標） | [305](09-spells.md#目標), [309–311](09-spells.md#容器の目標) |
 | &nbsp;&nbsp;Size（サイズ） | [310](09-spells.md#目標と大きさ) |
 | &nbsp;&nbsp;Volume（体積） | [311](09-spells.md#体積と目標) |
 | Teaching（教授） | [378](10-long-term-events.md#教授) |
-| Teaching (Ability)（〈教授〉） | [171](05-abilities.md#教授teaching) |
+| Teaching (Ability)（〈教授〉） | [171](05-abilities.md#教授-teaching-一般系) |
 | Technique（技法） | [207–208](07-hermetic-magic.md#技法) |
-| Temperate (Flaw)（《節度ある》） | [146](04-virtues-and-flaws.md#節度あるtemperate) |
+| Temperate (Flaw)（《節度ある》） | [146](04-virtues-and-flaws.md#節度ある-temperate) |
 | Tempestaria (Weather Witch)（テンペスタリア（天候の魔女）） | [245](07-hermetic-magic.md#テンペスタリア天候魔女) |
-| Templar Administrator (Virtue)（《テンプル騎士団行政官》） | [111](04-virtues-and-flaws.md#テンプル騎士団行政官templar-administrator) |
-| Templar Commander (Virtue)（《テンプル騎士団司令官》） | [111](04-virtues-and-flaws.md#テンプル騎士団司令官templar-commander) |
-| Templar Confrere or Consoeur (Virtue)（《テンプル騎士団協力者（男／女）》） | [112](04-virtues-and-flaws.md#テンプル騎士団協力者男女templar-confrere-or-consoeur) |
-| Templar Office Holder (Virtue)（《テンプル騎士団役職者》） | [112](04-virtues-and-flaws.md#テンプル騎士団役職者templar-office-holder) |
-| Templar Prestige (Virtue)（《テンプル騎士団の威光》） | [112](04-virtues-and-flaws.md#テンプル騎士団の威光templar-prestige) |
-| Templar Servant (Virtue)（《テンプル騎士団従僕》） | [113](04-virtues-and-flaws.md#テンプル騎士団従僕templar-servant) |
-| Templar Specialist (Virtue)（《テンプル騎士団専門職》） | [113](04-virtues-and-flaws.md#テンプル騎士団専門職templar-specialist) |
-| Temporal Influence (Virtue)（《世俗への影響力》） | [113](04-virtues-and-flaws.md#世俗への影響力temporal-influence) |
+| Templar Administrator (Virtue)（《テンプル騎士団行政官》） | [111](04-virtues-and-flaws.md#テンプル騎士団行政官-templar-administrator) |
+| Templar Commander (Virtue)（《テンプル騎士団司令官》） | [111](04-virtues-and-flaws.md#テンプル騎士団司令官-templar-commander) |
+| Templar Confrere or Consoeur (Virtue)（《テンプル騎士団協力者（男／女）》） | [112](04-virtues-and-flaws.md#テンプル騎士団協力者男女-templar-confrere-or-consoeur) |
+| Templar Office Holder (Virtue)（《テンプル騎士団役職者》） | [112](04-virtues-and-flaws.md#テンプル騎士団役職者-templar-office-holder) |
+| Templar Prestige (Virtue)（《テンプル騎士団の威光》） | [112](04-virtues-and-flaws.md#テンプル騎士団の威光-templar-prestige) |
+| Templar Servant (Virtue)（《テンプル騎士団従僕》） | [113](04-virtues-and-flaws.md#テンプル騎士団従僕-templar-servant) |
+| Templar Specialist (Virtue)（《テンプル騎士団専門職》） | [113](04-virtues-and-flaws.md#テンプル騎士団専門職-templar-specialist) |
+| Temporal Influence (Virtue)（《世俗への影響力》） | [113](04-virtues-and-flaws.md#世俗への影響力-temporal-influence) |
 | Terram (Art)（テルラーム／地） | [209](07-hermetic-magic.md#テルラームte地), [359–364](09-spells.md#テルラームの呪文) |
-| Tethered Magic (Virtue)（《繋がれた魔術》） | [113](04-virtues-and-flaws.md#繋がれた魔術tethered-magic) |
-| Theology (Ability)（〈神学〉） | [171–172](05-abilities.md#神学キリスト教theology-christian) |
-| &nbsp;&nbsp;Christian（キリスト教） | [171](05-abilities.md#神学キリスト教theology-christian) |
-| &nbsp;&nbsp;Islam（イスラム教） | [172](05-abilities.md#神学イスラームtheology-islam) |
-| &nbsp;&nbsp;Judaism（ユダヤ教） | [172](05-abilities.md#神学ユダヤ教theology-judaism) |
+| Tethered Magic (Virtue)（《繋がれた魔術》） | [113](04-virtues-and-flaws.md#繋がれた魔術-tethered-magic) |
+| Theology (Ability)（〈神学〉） | [171–172](05-abilities.md#神学キリスト教-theology-christian-学術系) |
+| &nbsp;&nbsp;Christian（キリスト教） | [171](05-abilities.md#神学キリスト教-theology-christian-学術系) |
+| &nbsp;&nbsp;Islam（イスラム教） | [172](05-abilities.md#神学イスラーム-theology-islam-学術系) |
+| &nbsp;&nbsp;Judaism（ユダヤ教） | [172](05-abilities.md#神学ユダヤ教-theology-judaism-学術系) |
 | Theological Virtues（対神徳） | [499](14-mythic-europe.md#教義) |
 | Through the Aegis（アエギスを通す） | [173](06-covenants.md#through-the-aegis) |
-| Thrown Weapon (Ability)（〈投擲武器〉） | [172](05-abilities.md#投擲武器thrown-weapon) |
+| Thrown Weapon (Ability)（〈投擲武器〉） | [172](05-abilities.md#投擲武器-thrown-weapon-戦闘系) |
 | Time, Limit of（時間の限界） | [212](07-hermetic-magic.md#時間の限界) |
 | Tithe（10分の1税） | [504](14-mythic-europe.md#財源) |
 | Tonsure（剃髪） | [500](14-mythic-europe.md#秘蹟) |
-| Tormenting Master (Flaw)（《苦しめる師》） | [146](04-virtues-and-flaws.md#苦しめる師tormenting-master) |
+| Tormenting Master (Flaw)（《苦しめる師》） | [146](04-virtues-and-flaws.md#苦しめる師-tormenting-master) |
 | Touch (Range)（接触（射程）） | [303](09-spells.md#射程) |
-| Tough (Virtue)（《強靭》） | [113](04-virtues-and-flaws.md#強靭tough) |
+| Tough (Virtue)（《強靭》） | [113](04-virtues-and-flaws.md#強靭-tough) |
 | Tough Guy (Template)（猛者（テンプレート）） | [33](03-characters.md#タフガイ) |
 | Towns（町） | [510–511](14-mythic-europe.md#町) |
-| Town Magistrate (Virtue)（《町の参事》） | [113](04-virtues-and-flaws.md#町の参事town-magistrate) |
+| Town Magistrate (Virtue)（《町の参事》） | [113](04-virtues-and-flaws.md#町の参事-town-magistrate) |
 | Tractatus（専門書） | [179](06-covenants.md#蔵書), [380](10-long-term-events.md#専門書) |
 | Trade（交易） | [509](14-mythic-europe.md#町と交易) |
-| Trained Assassin (Virtue)（《訓練された暗殺者》） | [113](04-virtues-and-flaws.md#訓練された暗殺者trained-assassin) |
+| Trained Assassin (Virtue)（《訓練された暗殺者》） | [113](04-virtues-and-flaws.md#訓練された暗殺者-trained-assassin) |
 | Trained Group（訓練された集団） | [385](10-long-term-events.md#訓練された集団), [396](11-obstacles.md#訓練された集団) |
 | Training（訓練） | [377](10-long-term-events.md#訓練) |
 | Training Apprentices（徒弟の訓練） | [270–272](08-laboratory.md#徒弟を訓練する) |
 | Training Creatures（クリーチャーを訓練する） | [384–386](10-long-term-events.md#クリーチャーを訓練する) |
-| Tragic Life (Flaw)（《悲劇的な生涯》） | [147](04-virtues-and-flaws.md#悲劇的な生涯tragic-life) |
+| Tragic Life (Flaw)（《悲劇的な生涯》） | [147](04-virtues-and-flaws.md#悲劇的な生涯-tragic-life) |
 | Travel（旅行） | [408](11-obstacles.md#旅), [507–508](14-mythic-europe.md#旅) |
 | Traveling Childhood（旅する幼少期） | [48](03-characters.md#幼年期の例) |
 | Treasure Hunting（トレジャーハンティング） | [519–520](15-stories.md#宝探し) |
@@ -3066,62 +3066,62 @@
 | Tribunals（トリビューナル） | [6](01-introduction.md#用語集), [21–23](02-the-order-of-hermes.md#トリビューナル) |
 | &nbsp;&nbsp;Grand（大トリビューナル） | [21](02-the-order-of-hermes.md#大トリビューナル) |
 | &nbsp;&nbsp;Regional（地方トリビューナル） | [23](02-the-order-of-hermes.md#地方トリビューナル) |
-| Trivium（三学） | [160](05-abilities.md#自由学科artes-liberales) |
-| Troubadour/Trobairitz (Virtue)（《トルバドゥール／トロバイリツ》） | [113](04-virtues-and-flaws.md#トルバドゥールトロバイリツtroubadourtrobairitz) |
+| Trivium（三学） | [160](05-abilities.md#自由学科-artes-liberales-学術系) |
+| Troubadour/Trobairitz (Virtue)（《トルバドゥール／トロバイリツ》） | [113](04-virtues-and-flaws.md#トルバドゥールトロバイリツ-troubadourtrobairitz) |
 | Troupe-Style Roleplaying（トループ式のロールプレイ） | [4](01-introduction.md#基本的なコンセプト), [528–530](16-sagas.md#トループ式のロールプレイ) |
-| Troupe Upbringing (Virtue)（《旅芸人育ち》） | [113](04-virtues-and-flaws.md#旅芸人育ちtroupe-upbringing) |
+| Troupe Upbringing (Virtue)（《旅芸人育ち》） | [113](04-virtues-and-flaws.md#旅芸人育ち-troupe-upbringing) |
 | True Faith（真の信仰） | [419](12-realms.md#真の信仰) |
-| True Faith (Virtue)（《真の信仰》） | [113](04-virtues-and-flaws.md#真の信仰true-faith) |
+| True Faith (Virtue)（《真の信仰》） | [113](04-virtues-and-flaws.md#真の信仰-true-faith) |
 | True Feeling, Limit of（真の感情の限界） | [212](07-hermetic-magic.md#真の感情の限界) |
-| True Love (Flaw)（《まことの愛》） | [147](04-virtues-and-flaws.md#まことの愛true-love) |
-| True Love (PC) (Virtue)（《まことの愛（PC）》） | [113](04-virtues-and-flaws.md#まことの愛pctrue-love-pc) |
+| True Love (Flaw)（《まことの愛》） | [147](04-virtues-and-flaws.md#まことの愛-true-love) |
+| True Love (PC) (Virtue)（《まことの愛（PC）》） | [113](04-virtues-and-flaws.md#まことの愛pc-true-love-pc) |
 | True Names（真名） | [445](13-bestiary.md#真名とシュンテーマタ) |
-| Turb Trained (Virtue)（《トゥルブ仕込み》） | [114](04-virtues-and-flaws.md#トゥルブ仕込みturb-trained) |
+| Turb Trained (Virtue)（《トゥルブ仕込み》） | [114](04-virtues-and-flaws.md#トゥルブ仕込み-turb-trained) |
 | Twilight（黄昏） | [228–230](07-hermetic-magic.md#魔術師の黄昏) |
 | &nbsp;&nbsp;Scars（痕） | [30](03-characters.md#書式), [229](07-hermetic-magic.md#黄昏の効果) |
-| Twilight Prone (Flaw)（《黄昏の誘い》） | [148](04-virtues-and-flaws.md#黄昏の誘いtwilight-prone) |
+| Twilight Prone (Flaw)（《黄昏の誘い》） | [148](04-virtues-and-flaws.md#黄昏の誘い-twilight-prone) |
 | Tytalus (Template)（テュータルス（テンプレート）） | [42](03-characters.md#テュータルス) |
 | Tytalus, House（テュータルス派） | [11](02-the-order-of-hermes.md#テュータルス派の堕落), [17](02-the-order-of-hermes.md#テュータルス派) |
-| Tzadik Nistar (Flaw)（《ツァディーク・ニスタル》） | [148](04-virtues-and-flaws.md#ツァディークニスタルtzadik-nistar) |
-| Unaffected by The Gift (Virtue)（《天禀に動じない》） | [114](04-virtues-and-flaws.md#天禀に動じないunaffected-by-the-gift) |
-| Unaging (Virtue)（《不老》） | [114](04-virtues-and-flaws.md#不老unaging) |
-| Unbaptized (Flaw)（《未洗礼》） | [148](04-virtues-and-flaws.md#未洗礼unbaptized) |
-| Unbearable to (Beings) (Flaw)（《（存在）にとって耐え難い》） | [148](04-virtues-and-flaws.md#存在にとって耐え難いunbearable-to-beings) |
-| Unbound Tongue (Virtue)（《縛られぬ舌》） | [114](04-virtues-and-flaws.md#縛られぬ舌unbound-tongue) |
-| Uncertain Faith (Flaw)（《揺らぐ信仰》） | [148](04-virtues-and-flaws.md#揺らぐ信仰uncertain-faith) |
-| Uncontrollable Strength (Flaw)（《制御できぬ怪力》） | [148](04-virtues-and-flaws.md#制御できぬ怪力uncontrollable-strength) |
+| Tzadik Nistar (Flaw)（《ツァディーク・ニスタル》） | [148](04-virtues-and-flaws.md#ツァディークニスタル-tzadik-nistar) |
+| Unaffected by The Gift (Virtue)（《天禀に動じない》） | [114](04-virtues-and-flaws.md#天禀に動じない-unaffected-by-the-gift) |
+| Unaging (Virtue)（《不老》） | [114](04-virtues-and-flaws.md#不老-unaging) |
+| Unbaptized (Flaw)（《未洗礼》） | [148](04-virtues-and-flaws.md#未洗礼-unbaptized) |
+| Unbearable to (Beings) (Flaw)（《（存在）にとって耐え難い》） | [148](04-virtues-and-flaws.md#存在にとって耐え難い-unbearable-to-beings) |
+| Unbound Tongue (Virtue)（《縛られぬ舌》） | [114](04-virtues-and-flaws.md#縛られぬ舌-unbound-tongue) |
+| Uncertain Faith (Flaw)（《揺らぐ信仰》） | [148](04-virtues-and-flaws.md#揺らぐ信仰-uncertain-faith) |
+| Uncontrollable Strength (Flaw)（《制御できぬ怪力》） | [148](04-virtues-and-flaws.md#制御できぬ怪力-uncontrollable-strength) |
 | Un-Fun History（楽しくない歴史） | [496](14-mythic-europe.md#楽しくない歴史) |
-| Unhappily Married (Flaw)（《不幸な結婚》） | [148](04-virtues-and-flaws.md#不幸な結婚unhappily-married) |
-| Unimaginative Learner (Flaw)（《想像力なき学び手》） | [148](04-virtues-and-flaws.md#想像力なき学び手unimaginative-learner) |
-| Uninspirational (Flaw)（《人を動かせない》） | [148](04-virtues-and-flaws.md#人を動かせないuninspirational) |
-| University Dean (Flaw)（《大学学部長》） | [149](04-virtues-and-flaws.md#大学学部長university-dean) |
-| University Grammar Teacher (Virtue)（《大学文法教師》） | [114](04-virtues-and-flaws.md#大学文法教師university-grammar-teacher) |
-| Unlucky (Flaw)（《不運》） | [149](04-virtues-and-flaws.md#不運unlucky) |
-| Unnatural Magic (Flaw)（《不自然な魔術》） | [149](04-virtues-and-flaws.md#不自然な魔術unnatural-magic) |
-| Unpredictable Magic (Flaw)（《予測できない魔術》） | [149](04-virtues-and-flaws.md#予測できない魔術unpredictable-magic) |
+| Unhappily Married (Flaw)（《不幸な結婚》） | [148](04-virtues-and-flaws.md#不幸な結婚-unhappily-married) |
+| Unimaginative Learner (Flaw)（《想像力なき学び手》） | [148](04-virtues-and-flaws.md#想像力なき学び手-unimaginative-learner) |
+| Uninspirational (Flaw)（《人を動かせない》） | [148](04-virtues-and-flaws.md#人を動かせない-uninspirational) |
+| University Dean (Flaw)（《大学学部長》） | [149](04-virtues-and-flaws.md#大学学部長-university-dean) |
+| University Grammar Teacher (Virtue)（《大学文法教師》） | [114](04-virtues-and-flaws.md#大学文法教師-university-grammar-teacher) |
+| Unlucky (Flaw)（《不運》） | [149](04-virtues-and-flaws.md#不運-unlucky) |
+| Unnatural Magic (Flaw)（《不自然な魔術》） | [149](04-virtues-and-flaws.md#不自然な魔術-unnatural-magic) |
+| Unpredictable Magic (Flaw)（《予測できない魔術》） | [149](04-virtues-and-flaws.md#予測できない魔術-unpredictable-magic) |
 | Unraveling（織りを解く） | [226](07-hermetic-magic.md#解体) |
-| Unruly Air (Flaw)（《荒ぶる妖気》） | [149](04-virtues-and-flaws.md#荒ぶる妖気unruly-air) |
-| Unspecialized (Flaw)（《専門を持たない》） | [149](04-virtues-and-flaws.md#専門を持たないunspecialized) |
-| Unstructured Caster (Flaw)（《型なき術者》） | [149](04-virtues-and-flaws.md#型なき術者unstructured-caster) |
+| Unruly Air (Flaw)（《荒ぶる妖気》） | [149](04-virtues-and-flaws.md#荒ぶる妖気-unruly-air) |
+| Unspecialized (Flaw)（《専門を持たない》） | [149](04-virtues-and-flaws.md#専門を持たない-unspecialized) |
+| Unstructured Caster (Flaw)（《型なき術者》） | [149](04-virtues-and-flaws.md#型なき術者-unstructured-caster) |
 | Until (Condition) (Duration)（（条件）まで（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Untrained Group（未訓練の集団） | [396](11-obstacles.md#訓練されていない集団) |
 | Urban (Covenant Situation)（都市（コヴナントの状況）） | [177](06-covenants.md#都市) |
 | Urban (Hook)（《都市（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Using Enchanted Devices（呪付物の使用） | [259](08-laboratory.md#呪付物を使う) |
-| Usurer (Flaw)（《高利貸し》） | [149](04-virtues-and-flaws.md#高利貸しusurer) |
+| Usurer (Flaw)（《高利貸し》） | [149](04-virtues-and-flaws.md#高利貸し-usurer) |
 | Variable Outcomes（結末の幅） | [516](15-stories.md#結末の幅) |
-| Variable Power (Virtue)（《可変の力》） | [114](04-virtues-and-flaws.md#可変の力variable-power) |
+| Variable Power (Virtue)（《可変の力》） | [114](04-virtues-and-flaws.md#可変の力-variable-power) |
 | Vassal（家臣） | [506](14-mythic-europe.md#封建制) |
-| Venditor (Virtue)（《ウェルディーティウス派仲買人》） | [114](04-virtues-and-flaws.md#ウェルディーティウス派仲買人venditor) |
-| Venus' Blessing (Virtue)（《ウェヌスの祝福》） | [114](04-virtues-and-flaws.md#ウェヌスの祝福venus-blessing) |
+| Venditor (Virtue)（《ウェルディーティウス派仲買人》） | [114](04-virtues-and-flaws.md#ウェルディーティウス派仲買人-venditor) |
+| Venus' Blessing (Virtue)（《ウェヌスの祝福》） | [114](04-virtues-and-flaws.md#ウェヌスの祝福-venus-blessing) |
 | Verditius (Template)（ウェルディーティウス（テンプレート）） | [43](03-characters.md#ウェルディーティウス) |
 | Verditius, House（ウェルディーティウス派） | [17](02-the-order-of-hermes.md#ウェルディーティウス派) |
 | Verditius Magic（ウェルディーティウス魔術） | [240–243](07-hermetic-magic.md#ウェルディーティウスウェルディーティウス魔術) |
-| Verditius Magic (Virtue)（《ウェルディーティウス魔術》） | [114](04-virtues-and-flaws.md#ウェルディーティウス魔術verditius-magic) |
-| Vendetta (Flaw)（《抗争》） | [149](04-virtues-and-flaws.md#抗争vendetta) |
-| Vengeful Powers (Flaw)（《祟りをなす力》） | [150](04-virtues-and-flaws.md#祟りをなす力vengeful-powers) |
+| Verditius Magic (Virtue)（《ウェルディーティウス魔術》） | [114](04-virtues-and-flaws.md#ウェルディーティウス魔術-verditius-magic) |
+| Vendetta (Flaw)（《抗争》） | [149](04-virtues-and-flaws.md#抗争-vendetta) |
+| Vengeful Powers (Flaw)（《祟りをなす力》） | [150](04-virtues-and-flaws.md#祟りをなす力-vengeful-powers) |
 | Vernus（春） | [175](06-covenants.md#ウェルヌス) |
-| Viaticarus (Flaw)（《ウィアティカルス》） | [150](04-virtues-and-flaws.md#ウィアティカルスviaticarus) |
+| Viaticarus (Flaw)（《ウィアティカルス》） | [150](04-virtues-and-flaws.md#ウィアティカルス-viaticarus) |
 | Viea（ウィエア） | [10](02-the-order-of-hermes.md#トリアノマとヴィエア) |
 | Vim (Art)（ウィーム／力） | [209](07-hermetic-magic.md#ウィームvi力), [364–372](09-spells.md#ウィームの呪文) |
 | Virtues and Flaws（《美点》と《欠点》） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
@@ -3131,53 +3131,53 @@
 | &nbsp;&nbsp;Sources（源） | [422](12-realms.md#ウィース源) |
 | &nbsp;&nbsp;Limit of（ウィースの限界） | [212](07-hermetic-magic.md#ウィースの限界) |
 | Vision（幻視） | [306](09-spells.md#魔法の感覚) |
-| Visions (Flaw)（《幻視》） | [150](04-virtues-and-flaws.md#幻視visions) |
+| Visions (Flaw)（《幻視》） | [150](04-virtues-and-flaws.md#幻視-visions) |
 | Voice (Range)（声（射程）） | [303](09-spells.md#射程) |
-| Voice of the (Land) (Virtue)（（土地）の声） | [115](04-virtues-and-flaws.md#土地の声voice-of-the-land) |
-| Vow (Flaw)（《誓い》） | [150](04-virtues-and-flaws.md#誓いvow) |
-| Vulnerable Casting (Flaw)（《脆い行使》） | [150](04-virtues-and-flaws.md#脆い行使vulnerable-casting) |
-| Vulnerable Magic (Flaw)（《脆い魔術》） | [151](04-virtues-and-flaws.md#脆い魔術vulnerable-magic) |
-| Vulnerable to Folk Tradition (Flaw)（《魔除けに脆い魔術》） | [151](04-virtues-and-flaws.md#魔除けに脆い魔術vulnerable-to-folk-tradition) |
-| Wanderer (Virtue)（《放浪者》） | [115](04-virtues-and-flaws.md#放浪者wanderer) |
-| Wanderlust (Flaw)（《放浪癖》） | [151](04-virtues-and-flaws.md#放浪癖wanderlust) |
+| Voice of the (Land) (Virtue)（（土地）の声） | [115](04-virtues-and-flaws.md#土地の声-voice-of-the-land) |
+| Vow (Flaw)（《誓い》） | [150](04-virtues-and-flaws.md#誓い-vow) |
+| Vulnerable Casting (Flaw)（《脆い行使》） | [150](04-virtues-and-flaws.md#脆い行使-vulnerable-casting) |
+| Vulnerable Magic (Flaw)（《脆い魔術》） | [151](04-virtues-and-flaws.md#脆い魔術-vulnerable-magic) |
+| Vulnerable to Folk Tradition (Flaw)（《魔除けに脆い魔術》） | [151](04-virtues-and-flaws.md#魔除けに脆い魔術-vulnerable-to-folk-tradition) |
+| Wanderer (Virtue)（《放浪者》） | [115](04-virtues-and-flaws.md#放浪者-wanderer) |
+| Wanderlust (Flaw)（《放浪癖》） | [151](04-virtues-and-flaws.md#放浪癖-wanderlust) |
 | Wards（結界） | [306](09-spells.md#魔法の結界) |
 | Warhammer（ウォーハンマー） | [402](11-obstacles.md#両手武器) |
-| Warped by Magic (Flaw)（《魔法に歪められた》） | [151](04-virtues-and-flaws.md#魔法に歪められたwarped-by-magic) |
-| Warped Magic (Flaw)（《歪んだ魔術》） | [151](04-virtues-and-flaws.md#歪んだ魔術warped-magic) |
-| Warped Senses (Flaw)（《歪んだ感覚》） | [151](04-virtues-and-flaws.md#歪んだ感覚warped-senses) |
+| Warped by Magic (Flaw)（《魔法に歪められた》） | [151](04-virtues-and-flaws.md#魔法に歪められた-warped-by-magic) |
+| Warped Magic (Flaw)（《歪んだ魔術》） | [151](04-virtues-and-flaws.md#歪んだ魔術-warped-magic) |
+| Warped Senses (Flaw)（《歪んだ感覚》） | [151](04-virtues-and-flaws.md#歪んだ感覚-warped-senses) |
 | Warping（歪曲） | [389–391](10-long-term-events.md#歪曲) |
 | &nbsp;&nbsp;Points（歪曲点） | [389](10-long-term-events.md#歪曲点を得る) |
 | &nbsp;&nbsp;Score（歪曲度） | [30](03-characters.md#書式) |
 | &nbsp;&nbsp;Limit of（歪曲の限界） | [212](07-hermetic-magic.md#歪曲の限界) |
-| Warrior (Virtue)（《戦闘訓練》） | [115](04-virtues-and-flaws.md#戦闘訓練warrior) |
-| Waster of Vis (Flaw)（《ウィースの浪費家》） | [152](04-virtues-and-flaws.md#ウィースの浪費家waster-of-vis) |
-| Water-Way (Range)（水路（射程）） | [70](04-virtues-and-flaws.md#アトランティス魔術atlantean-magic) |
-| Ways of the (Land) (Virtue)（（土地）の流儀） | [115](04-virtues-and-flaws.md#土地の流儀ways-of-the-land) |
-| Weak Characteristics (Flaw)（《貧弱な特性値》） | [152](04-virtues-and-flaws.md#貧弱な特性値weak-characteristics) |
-| Weak Enchanter (Flaw)（《呪付が苦手》） | [152](04-virtues-and-flaws.md#呪付が苦手weak-enchanter) |
-| Weak Magic (Flaw)（《弱い魔術》） | [152](04-virtues-and-flaws.md#弱い魔術weak-magic) |
-| Weak Magic Resistance (Flaw)（《弱い魔法抵抗》） | [152](04-virtues-and-flaws.md#弱い魔法抵抗weak-magic-resistance) |
-| Weak Parens (Flaw)（《劣った恩師》） | [152](04-virtues-and-flaws.md#劣った恩師weak-parens) |
-| Weak Personality (Flaw)（《弱い個性》） | [153](04-virtues-and-flaws.md#弱い個性weak-personality) |
-| Weak Scholar (Flaw)（《学びが苦手》） | [153](04-virtues-and-flaws.md#学びが苦手weak-scholar) |
-| Weak Spontaneous Magic (Flaw)（《即興魔術が苦手》） | [153](04-virtues-and-flaws.md#即興魔術が苦手weak-spontaneous-magic) |
-| Weakness (Flaw)（《弱点》） | [154](04-virtues-and-flaws.md#弱点weakness) |
-| Weak-Willed (Flaw)（《意志薄弱》） | [154](04-virtues-and-flaws.md#意志薄弱weak-willed) |
-| Wealthy (Virtue)（《富裕》） | [115](04-virtues-and-flaws.md#富裕wealthy) |
+| Warrior (Virtue)（《戦闘訓練》） | [115](04-virtues-and-flaws.md#戦闘訓練-warrior) |
+| Waster of Vis (Flaw)（《ウィースの浪費家》） | [152](04-virtues-and-flaws.md#ウィースの浪費家-waster-of-vis) |
+| Water-Way (Range)（水路（射程）） | [70](04-virtues-and-flaws.md#アトランティス魔術-atlantean-magic) |
+| Ways of the (Land) (Virtue)（（土地）の流儀） | [115](04-virtues-and-flaws.md#土地の流儀-ways-of-the-land) |
+| Weak Characteristics (Flaw)（《貧弱な特性値》） | [152](04-virtues-and-flaws.md#貧弱な特性値-weak-characteristics) |
+| Weak Enchanter (Flaw)（《呪付が苦手》） | [152](04-virtues-and-flaws.md#呪付が苦手-weak-enchanter) |
+| Weak Magic (Flaw)（《弱い魔術》） | [152](04-virtues-and-flaws.md#弱い魔術-weak-magic) |
+| Weak Magic Resistance (Flaw)（《弱い魔法抵抗》） | [152](04-virtues-and-flaws.md#弱い魔法抵抗-weak-magic-resistance) |
+| Weak Parens (Flaw)（《劣った恩師》） | [152](04-virtues-and-flaws.md#劣った恩師-weak-parens) |
+| Weak Personality (Flaw)（《弱い個性》） | [153](04-virtues-and-flaws.md#弱い個性-weak-personality) |
+| Weak Scholar (Flaw)（《学びが苦手》） | [153](04-virtues-and-flaws.md#学びが苦手-weak-scholar) |
+| Weak Spontaneous Magic (Flaw)（《即興魔術が苦手》） | [153](04-virtues-and-flaws.md#即興魔術が苦手-weak-spontaneous-magic) |
+| Weakness (Flaw)（《弱点》） | [154](04-virtues-and-flaws.md#弱点-weakness) |
+| Weak-Willed (Flaw)（《意志薄弱》） | [154](04-virtues-and-flaws.md#意志薄弱-weak-willed) |
+| Wealthy (Virtue)（《富裕》） | [115](04-virtues-and-flaws.md#富裕-wealthy) |
 | Weapons（武器） | [400–402](11-obstacles.md#近接武器のデータ) |
-| Weird Magic (Flaw)（《奇怪な魔術》） | [154](04-virtues-and-flaws.md#奇怪な魔術weird-magic) |
-| Well-Traveled (Virtue)（《旅慣れ》） | [116](04-virtues-and-flaws.md#旅慣れwell-traveled) |
-| Whistle Up The Wind (Ability)（〈風を呼ぶ口笛〉） | [172](05-abilities.md#風を呼ぶ口笛whistle-up-the-wind) |
-| Whistle Up The Wind (Virtue)（《風を呼ぶ口笛》） | [116](04-virtues-and-flaws.md#風を呼ぶ口笛whistle-up-the-wind) |
-| Wilderness Sense (Ability)（〈山野の知恵〉） | [172](05-abilities.md#山野の知恵wilderness-sense) |
-| Wilderness Sense (Virtue)（《山野の知恵》） | [116](04-virtues-and-flaws.md#山野の知恵wilderness-sense) |
+| Weird Magic (Flaw)（《奇怪な魔術》） | [154](04-virtues-and-flaws.md#奇怪な魔術-weird-magic) |
+| Well-Traveled (Virtue)（《旅慣れ》） | [116](04-virtues-and-flaws.md#旅慣れ-well-traveled) |
+| Whistle Up The Wind (Ability)（〈風を呼ぶ口笛〉） | [172](05-abilities.md#風を呼ぶ口笛-whistle-up-the-wind) |
+| Whistle Up The Wind (Virtue)（《風を呼ぶ口笛》） | [116](04-virtues-and-flaws.md#風を呼ぶ口笛-whistle-up-the-wind) |
+| Wilderness Sense (Ability)（〈山野の知恵〉） | [172](05-abilities.md#山野の知恵-wilderness-sense-超常系) |
+| Wilderness Sense (Virtue)（《山野の知恵》） | [116](04-virtues-and-flaws.md#山野の知恵-wilderness-sense) |
 | Winter（冬） | [176](06-covenants.md#冬) |
 | Winter Ruins（冬の廃墟） | [178](06-covenants.md#冬の廃墟) |
-| Wisdom from Ignorance (Virtue)（《無知よりの叡智》） | [116](04-virtues-and-flaws.md#無知よりの叡智wisdom-from-ignorance) |
-| Wise One (Virtue)（《賢人》） | [116](04-virtues-and-flaws.md#賢人wise-one) |
+| Wisdom from Ignorance (Virtue)（《無知よりの叡智》） | [116](04-virtues-and-flaws.md#無知よりの叡智-wisdom-from-ignorance) |
+| Wise One (Virtue)（《賢人》） | [116](04-virtues-and-flaws.md#賢人-wise-one) |
 | Witch (Template)（魔女（テンプレート）） | [35](03-characters.md#魔女) |
-| Witch Marks (Flaw)（《魔女の徴》） | [154](04-virtues-and-flaws.md#魔女の徴witch-marks) |
-| Withstand Casting (Virtue)（《行使への耐性》） | [116](04-virtues-and-flaws.md#行使への耐性withstand-casting) |
+| Witch Marks (Flaw)（《魔女の徴》） | [154](04-virtues-and-flaws.md#魔女の徴-witch-marks) |
+| Withstand Casting (Virtue)（《行使への耐性》） | [116](04-virtues-and-flaws.md#行使への耐性-withstand-casting) |
 | Wizard's March（魔術師の行軍） | [18](02-the-order-of-hermes.md#附則法) |
 | Wizard's Sigils（魔術師の印） | [224](07-hermetic-magic.md#印), [314](09-spells.md#魔術師の印) |
 | Wizard's Twilight（魔術師の黄昏） | [228–230](07-hermetic-magic.md#魔術師の黄昏) |
@@ -3187,7 +3187,7 @@
 | Wound Penalties（負傷ペナルティ） | [30](03-characters.md#書式), [404](11-obstacles.md#負傷表) |
 | Wounds（負傷） | [404–406](11-obstacles.md#負傷) |
 | Wrath（憤怒） | [499](14-mythic-europe.md#教義) |
-| Wrathful (Flaw)（《怒りっぽい》） | [154](04-virtues-and-flaws.md#怒りっぽいwrathful) |
+| Wrathful (Flaw)（《怒りっぽい》） | [154](04-virtues-and-flaws.md#怒りっぽい-wrathful) |
 | Writing Books（執筆） | [379–380](10-long-term-events.md#書物を著す) |
 | Year (Duration)（年（持続時間）） | [305](09-spells.md#持続時間) |
 | Year + 1 (Duration)（年+1（持続時間）） | [237](07-hermetic-magic.md#メリニータ妖精魔術) |
