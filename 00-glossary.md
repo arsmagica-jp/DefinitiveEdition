@@ -186,7 +186,7 @@
 | Praeco | 主宰 |
 | Primus / Prima | 首座 |
 | Certamen | ケルターメン |
-| Wizard's War | ウィザーズ・ウォー |
+| Wizard's War | 魔術師の決闘 | 「ウィザーズ・ウォー」（索引準拠の音写）から変更。第2章の見出しと第18章索引のリンク先も同時に変えた |
 | Wizard's March | 魔術師の行軍 |
 | Renouncing | 追放 |
 | regio (pl. regiones) | レギオー |
@@ -855,13 +855,13 @@
 | --- | --- | --- |
 | supplement | サプリメント | 『アルス・マギカ』の補足製品。「補足資料」「補足書」から統一 |
 | magus / maga / magi | マギ | 単複を区別しない。maga は「女マギ」、Hermetic Magus は「ヘルメスのマギ」、Archmagus は「大マギ」 |
-| wizard | 魔術師／魔法使い | magi とは別語。**Wizard's ◯◯ の固有名は「魔術師の◯◯」を維持する** |
+| wizard | 魔術師 | magi（マギ）とは別語。「魔法使い」「マギ」と訳し分かれていた箇所を全て「魔術師」に統一した（**マギは magus/maga/magi 専用**）。Wizard's ◯◯ の固有名も「魔術師の◯◯」。hedge wizard は「俗魔術師」。magician・sorcerer は別語として据え置き |
 
 **Wizard's ◯◯ として「魔術師」を据え置いた語**（magi ではないため）
 
 *魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の駒*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
 
-なお「ウィザーズ・ウォー」（Wizard's War）は索引準拠の音写のため対象外である。
+Wizard's War も「魔術師の決闘」とし、この系統に揃えた（従来は索引準拠の音写「ウィザーズ・ウォー」だった）。
 
 ## magic の訳し分け
 
@@ -877,12 +877,12 @@
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
 | 魔術団（Order of Hermes）／秘儀教団 | 魔法圏のクリーチャー／魔法のアイテム |
 | 共感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
-| 魔術の工芸（magical craft） | 魔法的（magical）／魔法使い（wizard） |
+| 魔術の工芸（magical craft）／魔術師（wizard） | 魔法的（magical） |
 | 俗魔術（hedge magic）／民間魔術（folk magic） | — |
 
 **注：**「魔術師の◯◯」（Wizard's Twilight など）は wizard 由来の固有名であり、この訳し分けの対象外。「魔術団」は組織名として慣用が固まっているため据え置く。
 
-**hedge magic と folk magic：**両者は原文で別概念のため訳し分ける。hedge magic は技法なので「**俗魔術**」（Hedge Wizard は「俗魔術使い」）、folk magic は第4章の欠点《**民間魔術**》として据え置く。両方を「民間魔術」とすると欠点名と魔法伝統の分類が同名になり区別できなくなるため。
+**hedge magic と folk magic：**両者は原文で別概念のため訳し分ける。hedge magic は技法なので「**俗魔術**」（Hedge Wizard は「俗魔術師」）、folk magic は第4章の欠点《**民間魔術**》として据え置く。両方を「民間魔術」とすると欠点名と魔法伝統の分類が同名になり区別できなくなるため。
 
 ## 類型名の括弧付け
 

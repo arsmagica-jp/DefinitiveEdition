@@ -100,7 +100,7 @@
 
 《天禀》は特別な《美点》である。点数を要しないからだ。そのキャラクターはマギと同じく天禀のあらゆる不利益を受けるが（203ページ参照）、対応する《美点》を取ることなしに超常系〈能力〉を教わることができる（ルールは[383ページ](10-long-term-events.md#超常系能力を習得する)参照）。何より重要なのは、そのキャラクターがヘルメス魔術を習いうるということである。それゆえすべてのマギはこの《美点》を持たねばならない。天禀を持つキャラクターは、マギでなくとも、出自や訓練ではなく生来の資質に関わるヘルメス《美点》・《欠点》を取得できる。
 
-キャラクターは《天禀》を取らずに超常系〈能力〉を与える《美点》を取ることができ、そうしたキャラクターは天禀が齎す不利益を受けない。ただしそうしたキャラクターは、サーガの中で新たな超常系〈能力〉を習得することはできない。すでに持っている〈能力〉を伸ばすことはできる。天禀なきキャラクターが秘儀教団を通じて新たな超常系〈能力〉を得ることは可能だが、これでさえ天禀を持つ者より難しい。
+キャラクターは《天禀》を取らずに超常系〈能力〉を与える《美点》を取ることができ、そうしたキャラクターは天禀が齎す不利益を受けない。ただしそうしたキャラクターは、サーガの中で新たな超常系〈能力〉を習得することはできない。すでに持っている〈能力〉を伸ばすことはできる。天禀なきキャラクターが「秘儀教団」を通じて新たな超常系〈能力〉を得ることは可能だが、これでさえ天禀を持つ者より難しい。
 
 天禀を持つキャラクターは、他の《美点》を取ることなしに超常系〈能力〉を1つ持ってプレイを開始できる。ただし他の〈能力〉を習得したければ、サーガの進行中にその機会を見つけねばならない。キャラクター作成時により多くの〈能力〉を持ちたければ、超常系〈能力〉を与える《美点》を取ってもよい。なお、超常系〈能力〉を持つキャラクターがヘルメスのマギになるのはより難しい（[270ページ](08-laboratory.md#徒弟を訓練する)「徒弟を訓練する」参照）ので、そのキャラクターを徒弟にするつもりであれば、そうした〈能力〉をまったく取りたくないかもしれない。ヘルメス魔術を行使する能力は、ヘルメスのマギが天禀ゆえに有している唯一の超常系〈能力〉である。また望むならさらに超常系〈能力〉の《美点》を取ってよい。
 
@@ -596,7 +596,7 @@
 
 #### 《ディエドネー魔術》（Diedne Magic）
 *大、ヘルメス*<br>
-あなたの魔法の血統と伝統はドルイド、そして滅ぼされた旧ディエドネー流派に由来し、それゆえあなたは即興魔術に特に長けている。疲労を消費せずに即興呪文を行使する際、5で割るか2で割るかを選べる。5で割ることを選んだ場合、通常どおりストレス・ダイスを振る必要はなく、ボッチもしない。2で割ることを選んだ場合はストレス・ダイスを振らねばならず、ボッチしうる。
+あなたの魔法の血統と伝統はドルイド、そして滅ぼされた旧ディエドネー派に由来し、それゆえあなたは即興魔術に特に長けている。疲労を消費せずに即興呪文を行使する際、5で割るか2で割るかを選べる。5で割ることを選んだ場合、通常どおりストレス・ダイスを振る必要はなく、ボッチもしない。2で割ることを選んだ場合はストレス・ダイスを振らねばならず、ボッチしうる。
 
 即興呪文の行使に疲労を消費する場合、該当する術法のうち最も低いものを2倍にしてから、合計全体を2で割る。この場合もストレス・ダイスを振り、ボッチしうる。
 
@@ -1492,7 +1492,7 @@
 
 #### 《神話の血脈》（Mythic Blood）
 *大、ヘルメス*<br>
-あなたは伝説の魔法使い（十二祖師の1人かもしれないし、他の古代の強力な術者かもしれない）か、あるいは超常の存在（竜など）の血を引く末裔である。
+あなたは伝説の魔術師（十二祖師の1人かもしれないし、他の古代の強力な術者かもしれない）か、あるいは超常の存在（竜など）の血を引く末裔である。
 
 あなたの強力な天禀ゆえに、行使合計値が定式呪文のレベルに10点以内で届かなかった場合でも疲労レベルを失わない。ただし呪文が完全に失敗した場合は疲労レベルを失う。儀式呪文を行使する際は、失う疲労レベルが通常より3つ少ない。これは、成功した場合、あるいは10点以内の差で失敗した場合には疲労レベルをまったく失わないことを意味する。即興魔術の行使には通常どおり疲労を費やさねばならず、定式呪文の行使に失敗した場合は通常の数の疲労レベルを失う。
 
@@ -2226,7 +2226,7 @@
 
 ### ヘルメス、小
 
-《縛られた詠唱道具》（Bound Casting Tools）／《縛られた魔術》（Bound Magic）／《荒々しい作り手》（Brutal Artist）／《不注意な術者》（Careless Sorcerer）／《儀礼的即興魔術》（Ceremonial Spontaneous Magic）／《不器用な魔術》（Clumsy Magic）／《消費される詠唱道具》（Consumed Casting Tools）／《穢れた術法》（Corrupted Arts）／《穢れた呪文》（Corrupted Spells）／《創造の行き詰まり》（Creative Block）／《周期魔術（逆）》（Cyclic Magic (negative)）／《不得手な形相》（Deficient Form）／《不利な状況》（Deleterious Circumstances）／《即興魔術が困難》（Difficult Spontaneous Magic）／《ちぐはぐな魔術》（Disjointed Magic）／《目眩を引き起こす魔術行使》（Disorientating Magic）／《刺激的な実験》（Exciting Experimentation）／《足枷ある魔術》（Fettered Magic）／《欠陥あるパルマ・マギカ》（Flawed Parma Magica）／《無害な魔術》（Harmless Magic）／《俗魔術使い》（Hedge Wizard）／《相容れぬ術法》（Incompatible Arts）／《定まらぬ魔術》（Inconstant Magic）／《悪名高い師》（Infamous Master）／《限られた魔法抵抗》（Limited Magic Resistance）／《大雑把な魔術》（Loose Magic）／《（存在）にとって不快》（Offensive to (Beings)）／《定式呪文が苦手》（Poor Formulaic Magic）／《長子相続の血統》（Primogeniture Lineage）／《短命な魔術》（Short-Lived Magic）／《緩慢な行使》（Slow Caster）／《即興用の詠唱道具》（Spontaneous Casting Tools）／《柵状のパルマ・マギカ》（Stockade Parma Magica）／《神聖圏への脆弱》（Susceptibility to Divine Power）／《妖精の力への脆弱》（Susceptibility to Faerie Power）／《地獄の力への脆弱》（Susceptibility to Infernal Power）／《（存在）にとって耐え難い》（Unbearable to (Beings)）／《想像力なき学び手》（Unimaginative Learner）／《予測できない魔術》（Unpredictable Magic）／《脆い行使》（Vulnerable Casting）／《魔除けに脆い魔術》（Vulnerable to Folk Tradition）／《歪んだ魔術》（Warped Magic）／《呪付が苦手》（Weak Enchanter）／《弱い魔術》（Weak Magic）／《劣った恩師》（Weak Parens）／《学びが苦手》（Weak Scholar）／《奇怪な魔術》（Weird Magic）
+《縛られた詠唱道具》（Bound Casting Tools）／《縛られた魔術》（Bound Magic）／《荒々しい作り手》（Brutal Artist）／《不注意な術者》（Careless Sorcerer）／《儀礼的即興魔術》（Ceremonial Spontaneous Magic）／《不器用な魔術》（Clumsy Magic）／《消費される詠唱道具》（Consumed Casting Tools）／《穢れた術法》（Corrupted Arts）／《穢れた呪文》（Corrupted Spells）／《創造の行き詰まり》（Creative Block）／《周期魔術（逆）》（Cyclic Magic (negative)）／《不得手な形相》（Deficient Form）／《不利な状況》（Deleterious Circumstances）／《即興魔術が困難》（Difficult Spontaneous Magic）／《ちぐはぐな魔術》（Disjointed Magic）／《目眩を引き起こす魔術行使》（Disorientating Magic）／《刺激的な実験》（Exciting Experimentation）／《足枷ある魔術》（Fettered Magic）／《欠陥あるパルマ・マギカ》（Flawed Parma Magica）／《無害な魔術》（Harmless Magic）／《俗魔術師》（Hedge Wizard）／《相容れぬ術法》（Incompatible Arts）／《定まらぬ魔術》（Inconstant Magic）／《悪名高い師》（Infamous Master）／《限られた魔法抵抗》（Limited Magic Resistance）／《大雑把な魔術》（Loose Magic）／《（存在）にとって不快》（Offensive to (Beings)）／《定式呪文が苦手》（Poor Formulaic Magic）／《長子相続の血統》（Primogeniture Lineage）／《短命な魔術》（Short-Lived Magic）／《緩慢な行使》（Slow Caster）／《即興用の詠唱道具》（Spontaneous Casting Tools）／《柵状のパルマ・マギカ》（Stockade Parma Magica）／《神聖圏への脆弱》（Susceptibility to Divine Power）／《妖精の力への脆弱》（Susceptibility to Faerie Power）／《地獄の力への脆弱》（Susceptibility to Infernal Power）／《（存在）にとって耐え難い》（Unbearable to (Beings)）／《想像力なき学び手》（Unimaginative Learner）／《予測できない魔術》（Unpredictable Magic）／《脆い行使》（Vulnerable Casting）／《魔除けに脆い魔術》（Vulnerable to Folk Tradition）／《歪んだ魔術》（Warped Magic）／《呪付が苦手》（Weak Enchanter）／《弱い魔術》（Weak Magic）／《劣った恩師》（Weak Parens）／《学びが苦手》（Weak Scholar）／《奇怪な魔術》（Weird Magic）
 
 ### 性格、小
 
@@ -2848,9 +2848,9 @@
 *大または小、性格*<br>
 あなたは誰か、あるいはある集団を激しく憎んでおり、それを害することが人生を支配している。憎悪の相手は、あなたが容易に打ち負かせるような者であってはならない。
 
-#### 《俗魔術使い》（Hedge Wizard）
+#### 《俗魔術師》（Hedge Wizard）
 *小、ヘルメス*<br>
-その秘教的な魔法ゆえに、他のマギはあなたを信用せず、さらに重要なことに、あなたに敬意を払わない。あなたは魔術団の一員であるにもかかわらず、ヘルメス魔術団内で俗魔術使いとしてのレベル3の悪い評判を持って始める。
+その秘教的な魔法ゆえに、他のマギはあなたを信用せず、さらに重要なことに、あなたに敬意を払わない。あなたは魔術団の一員であるにもかかわらず、ヘルメス魔術団内で俗魔術師としてのレベル3の悪い評判を持って始める。
 
 #### 《相続人》（Heir）
 *小、物語*<br>

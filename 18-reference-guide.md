@@ -757,7 +757,7 @@
 | 26〜30 | 6 |
 | 以下同様 | 以下同様 |
 
-### 魔法使いの黄昏
+### 魔術師の黄昏
 
 1つの出来事から歪曲点を2点以上得たときにロールする。
 
@@ -1882,7 +1882,7 @@
 | &nbsp;&nbsp;Moving（移動） | [395](11-obstacles.md#戦闘中の移動) |
 | &nbsp;&nbsp;Options（選択肢） | [397–398](11-obstacles.md#戦闘の選択肢) |
 | &nbsp;&nbsp;Sequence（手順） | [394](11-obstacles.md#戦闘の順序) |
-| &nbsp;&nbsp;*see also [Wizard's War](02-the-order-of-hermes.md#ウィザーズウォー)* |  |
+| &nbsp;&nbsp;*see also [Wizard's War](02-the-order-of-hermes.md#魔術師の決闘)* |  |
 | Combat Botches（戦闘のボッチ） | [393](11-obstacles.md#戦闘のボッチ) |
 | Command Animals (Virtue)（《動物への命令》） | [74](04-virtues-and-flaws.md#動物への命令command-animals) |
 | Commanding Aura (Virtue)（《威令のオーラ》） | [74](04-virtues-and-flaws.md#威令のオーラcommanding-aura) |
@@ -1918,7 +1918,7 @@
 | Corrupted Arts (Flaw)（《穢れた術法》） | [123](04-virtues-and-flaws.md#穢れた術法corrupted-arts) |
 | Corrupted Copies（劣化した写本） | [380](10-long-term-events.md#損なわれた写し) |
 | Corrupted Spells (Flaw)（《穢れた呪文》） | [123](04-virtues-and-flaws.md#穢れた呪文corrupted-spells) |
-| Court Wizards（宮廷マギ） | [21](02-the-order-of-hermes.md#世俗への干渉) |
+| Court Wizards（宮廷魔術師） | [21](02-the-order-of-hermes.md#世俗への干渉) |
 | Covenant Upbringing (Flaw)（《コヴナント育ち》） | [124](04-virtues-and-flaws.md#コヴナント育ちcovenant-upbringing) |
 | Covenants（コヴナント） | [6](01-introduction.md#用語集), [18](02-the-order-of-hermes.md#コヴナント), [173–199](06-covenants.md#第6章コヴナント) |
 | &nbsp;&nbsp;Baseline（基準） | [179](06-covenants.md#基準) |
@@ -2004,7 +2004,7 @@
 | Depraved (Flaw)（《堕落》） | [125](04-virtues-and-flaws.md#堕落depraved) |
 | Depressed (Flaw)（《抑鬱》） | [125](04-virtues-and-flaws.md#抑鬱depressed) |
 | Deprivation（欠乏） | [407](11-obstacles.md#欠乏) |
-| Depriving of Magical Power（魔法の力を奪う） | [21](02-the-order-of-hermes.md#魔法の力を奪うこと) |
+| Depriving of Magical Power（魔法の力の剥奪） | [21](02-the-order-of-hermes.md#魔法の力の剥奪) |
 | Detailed Character Creation（詳細なキャラクター作成） | [25–55](03-characters.md#詳細キャラクター作成) |
 | Deteriorating Power (Flaw)（《衰えゆく力》） | [126](04-virtues-and-flaws.md#衰えゆく力deteriorating-power) |
 | Devil Child（悪魔の子） | [56](03-characters.md#悪魔の子) |
@@ -2294,7 +2294,7 @@
 | Heavy Leather Armor（ハードレザー） | [399](11-obstacles.md#材質) |
 | Hebrew（ヘブライ語） | [158](05-abilities.md#学術系能力) |
 | Hedge Magic（俗魔術） | [6](01-introduction.md#用語集) |
-| Hedge Wizard (Flaw)（《俗魔術使い》） | [132](04-virtues-and-flaws.md#俗魔術使いhedge-wizard) |
+| Hedge Wizard (Flaw)（《俗魔術師》） | [132](04-virtues-and-flaws.md#俗魔術師hedge-wizard) |
 | Heir (Flaw)（《相続人》） | [132](04-virtues-and-flaws.md#相続人heir) |
 | Hell（地獄） | [415](12-realms.md#地獄圏), [499](14-mythic-europe.md#教義) |
 | Help in the Laboratory（研究室での助手） | [264](08-laboratory.md#研究室での助力) |
@@ -3068,7 +3068,7 @@
 | &nbsp;&nbsp;Regional（地方トリビューナル） | [23](02-the-order-of-hermes.md#地方トリビューナル) |
 | Trivium（三学） | [160](05-abilities.md#自由学科artes-liberales) |
 | Troubadour/Trobairitz (Virtue)（《トルバドゥール／トロバイリツ》） | [113](04-virtues-and-flaws.md#トルバドゥールトロバイリツtroubadourtrobairitz) |
-| Troupe-Style Roleplaying（トループ式のロールプレイ） | [4](01-introduction.md#基本的な考え方), [528–530](16-sagas.md#トループ式のロールプレイ) |
+| Troupe-Style Roleplaying（トループ式のロールプレイ） | [4](01-introduction.md#基本的なコンセプト), [528–530](16-sagas.md#トループ式のロールプレイ) |
 | Troupe Upbringing (Virtue)（《旅芸人育ち》） | [113](04-virtues-and-flaws.md#旅芸人育ちtroupe-upbringing) |
 | True Faith（真の信仰） | [419](12-realms.md#真の信仰) |
 | True Faith (Virtue)（《真の信仰》） | [113](04-virtues-and-flaws.md#真の信仰true-faith) |
@@ -3181,7 +3181,7 @@
 | Wizard's March（魔術師の行軍） | [18](02-the-order-of-hermes.md#附則法) |
 | Wizard's Sigils（魔術師の印） | [224](07-hermetic-magic.md#印), [314](09-spells.md#魔術師の印) |
 | Wizard's Twilight（魔術師の黄昏） | [228–230](07-hermetic-magic.md#魔術師の黄昏) |
-| Wizard's War（ウィザーズ・ウォー） | [21](02-the-order-of-hermes.md#ウィザーズウォー) |
+| Wizard's War（魔術師の決闘） | [21](02-the-order-of-hermes.md#魔術師の決闘) |
 | Women in Mythic Europe（伝承ヨーロッパの女性） | [511–514](14-mythic-europe.md#女性の公的な権力) |
 | Words and Gestures（言葉と身振り） | [216–217](07-hermetic-magic.md#言葉と身振り) |
 | Wound Penalties（負傷ペナルティ） | [30](03-characters.md#書式), [404](11-obstacles.md#負傷表) |
