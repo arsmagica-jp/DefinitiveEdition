@@ -1934,7 +1934,7 @@
 | &nbsp;&nbsp;Situations（状況） | [177](06-covenants.md#コヴナントの状況) |
 | Covenfolk（コヴナントの住人） | [190](06-covenants.md#コヴナントの住人の区分), [197](06-covenants.md#コヴナントの住人の組織) |
 | Covenfolk (Virtue)（《コヴナントの住人》） | [74](04-virtues-and-flaws.md#コヴナントの住人-covenfolk) |
-| Craft (Type) (Ability)（〈工芸（種別）〉） | [162](05-abilities.md#工芸種別-craft-type-一般系) |
+| Craft (Type) (Ability)（〈製作（種別）〉） | [162](05-abilities.md#製作種別-craft-type-一般系) |
 | Craft Guild Training (Virtue)（《職人ギルドの修行》） | [75](04-virtues-and-flaws.md#職人ギルドの修行-craft-guild-training) |
 | Crafter's Healing (Ability)（〈職人の癒し〉） | [162](05-abilities.md#職人の癒し-crafters-healing-超常系) |
 | Crafter's Healing (Virtue)（《職人の癒し》） | [75](04-virtues-and-flaws.md#職人の癒し-crafters-healing) |
@@ -2202,7 +2202,7 @@
 | Flexible Formulaic Magic (Virtue)（《柔軟な定式魔術》） | [81](04-virtues-and-flaws.md#柔軟な定式魔術-flexible-formulaic-magic) |
 | Fluctuating Fortune (Flaw)（《揺らぐ運勢》） | [130](04-virtues-and-flaws.md#揺らぐ運勢-fluctuating-fortune) |
 | Focus Power (Virtue)（《集中の力》） | [81](04-virtues-and-flaws.md#集中の力-focus-power) |
-| Folk Ken (Ability)（〈人間知識〉） | [165](05-abilities.md#人間知識-folk-ken-一般系) |
+| Folk Ken (Ability)（〈人間理解〉） | [165](05-abilities.md#人間理解-folk-ken-一般系) |
 | Folk Magic (Virtue)（《民間魔術》） | [81](04-virtues-and-flaws.md#民間魔術-folk-magic) |
 | Follower (Flaw)（《追従者》） | [131](04-virtues-and-flaws.md#追従者-follower) |
 | Font of Knowledge (Ability)（〈知識の泉〉） | [165](05-abilities.md#知識の泉-font-of-knowledge-超常系) |
