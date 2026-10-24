@@ -1800,7 +1800,7 @@
 | &nbsp;&nbsp;Summae（大全書） | [379–380](10-long-term-events.md#大全書) |
 | &nbsp;&nbsp;Tractatus（専門書） | [380](10-long-term-events.md#専門書) |
 | &nbsp;&nbsp;Writing（書く） | [379–380](10-long-term-events.md#書物を著す) |
-| Boons（恵み） | [183–184](06-covenants.md#恩恵) |
+| Boons（《恩恵》） | [183–184](06-covenants.md#恩恵) |
 | Boosted Magic (Virtue)（《増幅魔術》） | [72](04-virtues-and-flaws.md#増幅魔術-boosted-magic) |
 | Botch（ボッチ（大失敗）） | [7](01-introduction.md#ストレスダイス) |
 | &nbsp;&nbsp;*see also [Combat Botches](11-obstacles.md#戦闘のボッチ)* |  |
@@ -2069,8 +2069,8 @@
 | &nbsp;&nbsp;Fire（火） | [455](13-bestiary.md#火の精霊) |
 | &nbsp;&nbsp;Size, Might, & Characteristics（サイズ・実力値・特性値） | [450](13-bestiary.md#精霊のサイズ実力値特性値) |
 | &nbsp;&nbsp;Water（水） | [453](13-bestiary.md#水の精霊) |
-| Embitterment（心を蝕む） | [245](05-abilities.md#心を蝕む-embitterment) |
-| Embitterment (Ability)（〈心を蝕む〉） | [164](05-abilities.md#心を蝕む-embitterment) |
+| Embitterment（心を蝕む） | [245](05-abilities.md#心を蝕む-embitterment-超常系) |
+| Embitterment (Ability)（〈心を蝕む〉） | [164](05-abilities.md#心を蝕む-embitterment-超常系) |
 | Embitterment (Virtue)（《心を蝕む》） | [78](04-virtues-and-flaws.md#心を蝕む-embitterment) |
 | Emir (Virtue)（《アミール》） | [78](04-virtues-and-flaws.md#アミール-emir) |
 | Employed by Company (Flaw)（《商会に雇われている》） | [126](04-virtues-and-flaws.md#商会に雇われている-employed-by-company) |
@@ -2314,7 +2314,7 @@
 | Hermetic Prestige (Virtue)（《ヘルメスの威光》） | [85](04-virtues-and-flaws.md#ヘルメスの威光-hermetic-prestige) |
 | Hermetic Reputation（ヘルメスの評判） | [28](03-characters.md#評判) |
 | Hermetic Virtues and Flaws（ヘルメス《美点》と《欠点》） | [45](03-characters.md#美点と欠点-1) |
-| Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛-hex) |
+| Hex (Ability)（〈呪詛〉） | [165–166](05-abilities.md#呪詛-hex-超常系) |
 | Hex (Virtue)（《呪詛》） | [85](04-virtues-and-flaws.md#呪詛-hex) |
 | Hiems（冬） | [176](06-covenants.md#ヒエムス) |
 | High Fantasy（ハイ・ファンタジー） | [532](16-sagas.md#ハイファンタジー) |
@@ -2663,7 +2663,7 @@
 | Mythic Companions（神話的コンパニオン） | [25](03-characters.md#神話的コンパニオン), [55](03-characters.md#神話的コンパニオン-1) |
 | Mythic Europe（伝承ヨーロッパ） | [6](01-introduction.md#用語集), [495–514](14-mythic-europe.md#第14章伝承ヨーロッパ) |
 | &nbsp;&nbsp;Map（地図） | 493–494 |
-| Mythic Pound（神話ポンド） | [187](06-covenants.md#神話ポンド) |
+| Mythic Pound（伝承ポンド） | [187](06-covenants.md#伝承ポンド) |
 | Natural Leader (Virtue)（《生来の指導者》） | [99](04-virtues-and-flaws.md#生来の指導者-natural-leader) |
 | Necessary Condition (Flaw)（《必須の条件》） | [138](04-virtues-and-flaws.md#必須の条件-necessary-condition) |
 | Necessary (Realm) Aura for (Ability) (Flaw)（（〈能力〉）に必要な（圏域）のオーラ） | [138](04-virtues-and-flaws.md#能力に必要な圏域のオーラ-necessary-realm-aura-for-ability) |
@@ -2847,7 +2847,7 @@
 | Ritual Magic（儀式魔術） | [6](01-introduction.md#用語集), [213](07-hermetic-magic.md#儀式魔術) |
 | Ritual Power (Virtue)（《儀式の力》） | [106](04-virtues-and-flaws.md#儀式の力-ritual-power) |
 | Ritual Spells（儀式呪文） | [311](09-spells.md#儀式呪文) |
-| Rival (Hook)（《好敵手（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
+| Rival (Hook)（《対立者（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Hook)（《道（コヴナント設定）》） | [181–182](06-covenants.md#コヴナント設定小) |
 | Road (Range)（道（射程）） | [236–237](07-hermetic-magic.md#メリニータ妖精魔術) |
 | Rogue (Template)（無頼（テンプレート）） | [35](03-characters.md#悪漢) |
@@ -2989,7 +2989,7 @@
 | Sufi (Virtue)（《スーフィ》） | [111](04-virtues-and-flaws.md#スーフィ-sufi) |
 | Summae（大全書） | [179](06-covenants.md#蔵書), [379](10-long-term-events.md#大全書) |
 | Summer（夏） | [175](06-covenants.md#夏) |
-| Summon Animals (Ability)（〈動物召喚〉） | [171](05-abilities.md#動物召喚-summon-animals), [243](07-hermetic-magic.md#動物召喚) |
+| Summon Animals (Ability)（〈動物召喚〉） | [171](05-abilities.md#動物召喚-summon-animals-超常系), [243](07-hermetic-magic.md#動物召喚) |
 | Summon Animals (Virtue)（《動物召喚》） | [111](04-virtues-and-flaws.md#動物召喚-summon-animals) |
 | Summoning Spirits（霊の召喚） | [308](09-spells.md#霊の召喚) |
 | Sun (Duration)（日（持続時間）） | [304](09-spells.md#持続時間) |
@@ -3167,7 +3167,7 @@
 | Weapons（武器） | [400–402](11-obstacles.md#近接武器のデータ) |
 | Weird Magic (Flaw)（《奇怪な魔術》） | [154](04-virtues-and-flaws.md#奇怪な魔術-weird-magic) |
 | Well-Traveled (Virtue)（《旅慣れ》） | [116](04-virtues-and-flaws.md#旅慣れ-well-traveled) |
-| Whistle Up The Wind (Ability)（〈風を呼ぶ口笛〉） | [172](05-abilities.md#風を呼ぶ口笛-whistle-up-the-wind) |
+| Whistle Up The Wind (Ability)（〈風を呼ぶ口笛〉） | [172](05-abilities.md#風を呼ぶ口笛-whistle-up-the-wind-超常系) |
 | Whistle Up The Wind (Virtue)（《風を呼ぶ口笛》） | [116](04-virtues-and-flaws.md#風を呼ぶ口笛-whistle-up-the-wind) |
 | Wilderness Sense (Ability)（〈山野の知恵〉） | [172](05-abilities.md#山野の知恵-wilderness-sense-超常系) |
 | Wilderness Sense (Virtue)（《山野の知恵》） | [116](04-virtues-and-flaws.md#山野の知恵-wilderness-sense) |

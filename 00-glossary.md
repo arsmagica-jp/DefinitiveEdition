@@ -392,14 +392,14 @@
 
 | 原語 | 訳語 | 備考 |
 | --- | --- | --- |
-| **Hook** | **コヴナント設定** | 第4章の Minor Site Hook もこれに準拠 |
-| Boon | 恩恵 | |
+| **Hook** | **《コヴナント設定》** | コヴナントの用語。《美点》《恩恵》と同じく術語として《　》を付ける。大小は《コヴナント設定（大）》《コヴナント設定（小）》と括弧の内側に入れる。第4章の Minor Site Hook もこれに準拠。索引の識別用の丸括弧（《怪物（コヴナント設定）》など）は入れ子を避けて素のままとする |
+| Boon | 《恩恵》 | コヴナントの用語。《美点》と同じく術語として《　》を付ける。Minor Boon は《小恩恵》、Major Boon は《大恩恵》（「小なる恩恵」「大いなる恩恵」から変更）。一般語の「恩恵」（benefit の意。「《美点》の恩恵」「忠誠度への恩恵」など）は括弧なしで据え置き |
 | Build Points | 構築点 | |
 | Baseline | 基準 | |
 | Accessible Power Level | 利用可能魔力レベル | 索引にも項目あり |
 | casting tablet | 詠唱板 | |
 | tractatus | 専門書 | summa（大全書）と対 |
-| Mythic Pound | 神話ポンド | |
+| Mythic Pound | 伝承ポンド | |
 | Source of Income Categories | 収入源の区分 | |
 | Lesser / Typical / Greater / Legendary | 小規模／標準的／大規模／伝説的 | 収入源の区分 |
 | Inflation | 物価上昇 | |
@@ -416,8 +416,8 @@
 | dependents | 扶養者 | コヴナントの住人の区分 |
 | Covenant Lore | 〈コヴナント知識〉 | |
 | domus magna | ドムス・マグナ | |
-| Edifice / Seclusion / Prestige | 大建築／隔絶／威信 | 恩恵の名 |
-| Beholden / Unknown | 恩義／未知 | コヴナント設定の名 |
+| Edifice / Seclusion / Prestige | 大建築／隔絶／威光 | 《恩恵》の名 |
+| Beholden / Unknown | 恩義／未知 | 《コヴナント設定》の名 |
 | protectorate | 被保護対象 | |
 | beta-storyguide | ベータ・ストーリーガイド | |
 
@@ -455,7 +455,7 @@
 | nation（コヴナント） | 組 | グロッグを役割横断で束ねる区分（第6章）。「同郷団」から変更 |
 | nation（大学） | 同郷団 | 大学の学生団体の区分（第4章《ヌンティウス》《代表》、第6章で大学を例に引く段落）。国家の意味の nation は対象外 |
 | guild dean / alderman | ギルド長老／組合役員 | |
-| Site Hook | 土地に関するコヴナント設定 | 『Covenants』 の分類 |
+| Site Hook | 土地に関する《コヴナント設定》 | 『Covenants』 の分類 |
 | Nemthengacha / Nemthenga | ネヴサンガハ／ネヴサンガ | 雑集派の一派 |
 | Tempestaria / Tempestariae | テンペスタリア／テンペスタリアエ | 天候魔女 |
 | Beast Masters | 獣使い | 雑集派の伝統 |
