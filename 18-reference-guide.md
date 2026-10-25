@@ -3127,7 +3127,7 @@
 | Virtues and Flaws（《美点》と《欠点》） | [26](03-characters.md#美点と欠点), [45](03-characters.md#美点と欠点-1), [47](03-characters.md#手早く簡単に美点と欠点を決める), [61–154](04-virtues-and-flaws.md#第4章美点と欠点) |
 | &nbsp;&nbsp;List of Virtues（《美点》の一覧） | [67–68](04-virtues-and-flaws.md#美点一覧) |
 | &nbsp;&nbsp;List of Flaws（《欠点》の一覧） | [117–118](04-virtues-and-flaws.md#欠点一覧) |
-| Vis（ウィース） | [6](01-introduction.md#用語集), [180](06-covenants.md#ウィース), [212](07-hermetic-magic.md#生のウィース), [250](08-laboratory.md#ウィース) |
+| Vis（ウィース） | [6](01-introduction.md#用語集), [180](06-covenants.md#ウィース), [212](07-hermetic-magic.md#原ウィース), [250](08-laboratory.md#ウィース) |
 | &nbsp;&nbsp;Sources（源） | [422](12-realms.md#ウィース源) |
 | &nbsp;&nbsp;Limit of（ウィースの限界） | [212](07-hermetic-magic.md#ウィースの限界) |
 | Vision（幻視） | [306](09-spells.md#魔法の感覚) |
