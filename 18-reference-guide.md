@@ -1013,7 +1013,7 @@
 | 驚異 | 24 | その工芸の大家による最上の出来。 |
 | ほぼ不可能 | 27 | その工芸における技の極み。 |
 
-#### 魔法の工作
+#### 魔術の製作
 
 レーゴーの工作魔術のロール：【知覚】+〈呪文操作〉
 
@@ -1805,7 +1805,7 @@
 | Botch（ボッチ（大失敗）） | [7](01-introduction.md#ストレスダイス) |
 | &nbsp;&nbsp;*see also [Combat Botches](11-obstacles.md#戦闘のボッチ)* |  |
 | Botch Dice（ボッチ・ダイス） | [7–8](01-introduction.md#ボッチダイス) |
-| Bound Casting Tools (Flaw)（《縛られた詠唱道具》） | [120](04-virtues-and-flaws.md#縛られた詠唱道具-bound-casting-tools) |
+| Bound Casting Tools (Flaw)（《縛られた詠唱術具》） | [120](04-virtues-and-flaws.md#縛られた詠唱術具-bound-casting-tools) |
 | Bound Magic (Flaw)（《縛られた魔術》） | [120](04-virtues-and-flaws.md#縛られた魔術-bound-magic) |
 | Bound to (Realm) (Flaw)（《（圏域）の呪縛》） | [120](04-virtues-and-flaws.md#圏域の呪縛-bound-to-realm) |
 | Bound to (Role) Role (Flaw)（《（役目）の呪縛》） | [121](04-virtues-and-flaws.md#役目の呪縛-bound-to-role) |
@@ -1833,7 +1833,7 @@
 | Casting Requisites（行使の制約術法） | [311–312](09-spells.md#制約術法) |
 | Casting Spells（呪文の行使） | [213–220](07-hermetic-magic.md#呪文の行使) |
 | Casting Tablet（詠唱板） | [180](06-covenants.md#詠唱板), [263](08-laboratory.md#詠唱板) |
-| Casting Tools（詠唱道具） | [242](07-hermetic-magic.md#詠唱道具の呪付小なる流派の秘儀の美点) |
+| Casting Tools（詠唱術具） | [242](07-hermetic-magic.md#詠唱術具の呪付小なる流派の秘儀の美点) |
 | Castratus (Flaw)（《去勢者》） | [122](04-virtues-and-flaws.md#去勢者-castratus) |
 | Cathedral（大聖堂） | [502](14-mythic-europe.md#組織) |
 | Cathedral School Master (Virtue)（《司教座聖堂学校長》） | [73](04-virtues-and-flaws.md#司教座聖堂学校長-cathedral-school-master) |
@@ -1902,7 +1902,7 @@
 | Constant Effect Devices（常時効果の呪付物） | [258](08-laboratory.md#常時効果の呪付物) |
 | Constant Expression (Flaw)（《常なる魔法発現》） | [123](04-virtues-and-flaws.md#常なる魔法発現-the-constant-expression) |
 | Constantinople（コンスタンティノープル） | [15](02-the-order-of-hermes.md#イェルビトン派) |
-| Consumed Casting Tools (Flaw)（《消費される詠唱道具》） | [123](04-virtues-and-flaws.md#消費される詠唱道具-consumed-casting-tools) |
+| Consumed Casting Tools (Flaw)（《消費される詠唱術具》） | [123](04-virtues-and-flaws.md#消費される詠唱術具-consumed-casting-tools) |
 | Container Targets（容器の目標） | [309](09-spells.md#容器の目標) |
 | Contested Resource (Hook)（《争われる資源（コヴナント設定）》） | [181](06-covenants.md#コヴナント設定小) |
 | Continence (Flaw)（《禁欲》） | [123](04-virtues-and-flaws.md#禁欲-continence) |
@@ -1938,7 +1938,7 @@
 | Craft Guild Training (Virtue)（《職人ギルドの修行》） | [75](04-virtues-and-flaws.md#職人ギルドの修行-craft-guild-training) |
 | Crafter's Healing (Ability)（〈職人の癒し〉） | [162](05-abilities.md#職人の癒し-crafters-healing-超常系) |
 | Crafter's Healing (Virtue)（《職人の癒し》） | [75](04-virtues-and-flaws.md#職人の癒し-crafters-healing) |
-| Crafting Magical Objects（魔法の品を作る） | [306–308](09-spells.md#魔術の工芸) |
+| Crafting Magical Objects（魔法の品を作る） | [306–308](09-spells.md#魔術の製作) |
 | Craftsman (Virtue)（《職人》） | [75](04-virtues-and-flaws.md#職人-craftsman) |
 | Craving for Travel (Flaw)（《旅への渇望》） | [124](04-virtues-and-flaws.md#旅への渇望-craving-for-travel) |
 | Creation, Limit of（創造の限界） | [211](07-hermetic-magic.md#創造の限界) |
@@ -1979,7 +1979,7 @@
 | Damage Table（ダメージ表） | [404](11-obstacles.md#ダメージ表) |
 | Damage Total（ダメージ合計） | [394](11-obstacles.md#戦闘値) |
 | Damhan-Allaidh（ダーヴァン＝オラス） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
-| Dangers（危険性） | [227–233](07-hermetic-magic.md#危険性) |
+| Dangers（ヘルメス魔術の危険性） | [227–233](07-hermetic-magic.md#ヘルメス魔術の危険性) |
 | Darius of Flambeau (example character)（フランボーのダリウス（キャラクター例）） | [45](03-characters.md#例フランボー派のダリウス), [47–54](03-characters.md#例フランボー派のダリウス-1) |
 | Dark Secret (Flaw)（《暗い秘密》） | [124](04-virtues-and-flaws.md#暗い秘密-dark-secret) |
 | Deacon（助祭） | [500](14-mythic-europe.md#秘蹟) |
@@ -2542,7 +2542,7 @@
 | Magical Air (Flaw)（《魔法の妖気》） | [136](04-virtues-and-flaws.md#魔法の妖気-magical-air) |
 | Magical (Being) Companion (Flaw)（《友なる魔法の（存在）》） | [136](04-virtues-and-flaws.md#友なる魔法の存在-magical-being-companion) |
 | Magical Blood (Virtue)（《魔法の血脈》） | [93](04-virtues-and-flaws.md#魔法の血脈-magical-blood) |
-| Magical Craft（魔術の工芸） | [306](09-spells.md#魔術の工芸) |
+| Magical Craft（魔術の製作） | [306](09-spells.md#魔術の製作) |
 | Magical Creatures（魔法圏のクリーチャー） | [21](02-the-order-of-hermes.md#魔法圏のクリーチャー), [413](12-realms.md#魔法圏のクリーチャー) |
 | Magical Enchantments（魔法の呪付） | [252](08-laboratory.md#呪付) |
 | Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られ-magical-fascination) |
@@ -2956,7 +2956,7 @@
 | Spirit Votary (Virtue)（《精霊の信徒》） | [109](04-virtues-and-flaws.md#精霊の信徒-spirit-votary) |
 | Spiritual Pact (Virtue)（《精霊との盟約》） | [109](04-virtues-and-flaws.md#精霊との盟約-spiritual-pact) |
 | Splitting Groups（集団を分断する） | [398](11-obstacles.md#集団を分断する) |
-| Spontaneous Casting Tools (Flaw)（《即興用の詠唱道具》） | [145](04-virtues-and-flaws.md#即興用の詠唱道具-spontaneous-casting-tools) |
+| Spontaneous Casting Tools (Flaw)（《即興用の詠唱術具》） | [145](04-virtues-and-flaws.md#即興用の詠唱術具-spontaneous-casting-tools) |
 | Spontaneous Magic（即興魔術） | [6](01-introduction.md#用語集), [214](07-hermetic-magic.md#即興魔術) |
 | Spring（春） | [174](06-covenants.md#春) |
 | Stabilizing The Unknown（未知を安定させる） | [279](08-laboratory.md#未知を安定させる) |
@@ -3022,7 +3022,7 @@
 | Teaching (Ability)（〈教授〉） | [171](05-abilities.md#教授-teaching-一般系) |
 | Technique（技法） | [207–208](07-hermetic-magic.md#技法) |
 | Temperate (Flaw)（《節度ある》） | [146](04-virtues-and-flaws.md#節度ある-temperate) |
-| Tempestaria (Weather Witch)（テンペスタリア（天候の魔女）） | [245](07-hermetic-magic.md#テンペスタリア天候魔女) |
+| Tempestaria (Weather Witch)（テンペスタリア（天候の魔女）） | [245](07-hermetic-magic.md#テンペスタリア天候の魔女) |
 | Templar Administrator (Virtue)（《テンプル騎士団行政官》） | [111](04-virtues-and-flaws.md#テンプル騎士団行政官-templar-administrator) |
 | Templar Commander (Virtue)（《テンプル騎士団司令官》） | [111](04-virtues-and-flaws.md#テンプル騎士団司令官-templar-commander) |
 | Templar Confrere or Consoeur (Virtue)（《テンプル騎士団協力者（男／女）》） | [112](04-virtues-and-flaws.md#テンプル騎士団協力者男女-templar-confrere-or-consoeur) |

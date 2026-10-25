@@ -204,7 +204,7 @@
 | Mystery Cults | 秘儀教団 | 組織名・〈（秘儀教団）知識〉とも同じ語。「秘儀魔術団」から統一 |
 | sigil | 印 |
 | pawn | ポーン |
-| casting tools | 詠唱道具 |
+| casting tools | 詠唱術具 | ウェルディーティウス派の小なる流派の秘儀。「詠唱道具」から変更。《縛られた詠唱術具》《消費される詠唱術具》《即興用の詠唱術具》も同様。メリニータの護符（charms）は別名 |
 | charged items | 充填魔道具 | 「チャージ・アイテム」から変更 |
 | enchanted items | 呪付物 | 「呪付アイテム／呪付装置／呪付されたアイテム／呪付された装置」の4通りに割れていたのを統一 |
 | Heartbeast | 心獣 |
@@ -219,7 +219,7 @@
 | warping score | 歪曲度 |
 | Encumbrance | 運搬負荷 |
 | Confidence | 自信 |
-| Personality Traits | 性格 |
+| Personality Traits | 「性格」 | ゲーム用語として鉤括弧を付ける（`**「性格」：**勇敢+3` のようにデータ欄も含む）。《欠点》の類型「性格」（*小、性格*、大いなる性格の《欠点》、性格・社会階層・物語の《欠点》）は別物なので素のまま。見出し・リンク先アンカー・索引の項目名・一般語の「性格」も素のまま |
 | Reputations | 評判 |
 | size | サイズ |
 | Equipment | 装備 |
@@ -303,7 +303,7 @@
 | Weakening / Resistance Total | 衰弱合計値／抵抗合計値 | ケルターメン |
 | Script / Script Bonus | 式次第／式次第ボーナス | 参入儀礼 |
 | Station / Avenue / Path | 位階／小道／道 | クリーアモンの秘儀。Avenue は「大路」から変更 |
-| charms | 護符 | メリニータの詠唱道具 |
+| charms | 護符 | メリニータの詠唱術具 |
 | recurring spell | 反復する呪文 | 呪文の刻限 |
 | Hubris | 驕慢 | ウェルディーティウスの性格《欠点》。《尊大》（Proud）と区別 |
 | Verditius Runes | ウェルディーティウス・ルーン | |
@@ -475,8 +475,8 @@
 | sub-lunar world | 月下界 | |
 | cauterization | 焼灼 | |
 | Improvement Ease Factor | 改善目標値 | |
-| Craft (Type) | 〈製作（種別）〉 | 〈能力〉名。「〈工芸（種別）〉」から変更。専門指定も〈製作（金工）（鉄）〉〈製作：陶工〉のように改めた。《強化（製作〔金工〕）》《素質（製作〔石工〕）》も同様。普通名詞の craft（「その工芸の大家」「工芸の仕事」など）、craft magic の「工芸魔術」、magical craft の「魔術の工芸」は据え置き |
-| Craft Value / Innovation | 工芸値／技術革新 | 『City & Guild』 |
+| Craft (Type) | 〈製作（種別）〉 | 〈能力〉名。「〈工芸（種別）〉」から変更。専門指定も〈製作（金工）（鉄）〉〈製作：陶工〉のように改めた。《強化（製作〔金工〕）》《素質（製作〔石工〕）》も同様。普通名詞の craft（「その工芸の大家」「工芸の仕事」など）、craft magic は「製作魔術」、magical craft は「魔術の製作」。普通名詞の craft（「その工芸の大家」「工芸の仕事」など）と工芸値は据え置き |
+| Craft Value / Innovation | 製作値／技術革新 | 『City & Guild』 |
 | Labor Points / Wealth Multiplier | 労働点／富裕度倍率 | 『City & Guild』 |
 | illuminator / percamenarius | 装飾写本師／羊皮紙職人 | |
 | tinker / cooper / lapidary | 鋳掛屋／桶職人／宝石細工師 | |
@@ -534,7 +534,7 @@
 | static / dynamic target | 静的な目標／動的な目標 | 容器目標の二様式 |
 | magical senses | 魔法の感覚 | インテルレゴーが与える |
 | magical wards | 魔法の結界 | |
-| magical craft | 魔術の工芸 | クレオー／レーゴーの工芸魔術 |
+| magical craft | 魔術の製作 | クレオー／レーゴーの製作魔術。第9章・第18章の見出し。「魔術の工芸」「魔法の工作」から統一 |
 | summoning spirits | 霊の召喚 | |
 | casting requisites | 行使の制約術法 | データに載らず行使時にのみ適用 |
 | base Individual | 基本の「個人」 | 形相ごとに定まる大きさ |
@@ -880,13 +880,13 @@ Wizard's War も「魔術師の決闘」とし、この系統に揃えた（従�
 | --- | --- |
 | ヘルメス魔術（Hermetic Magic） | 魔法圏（Magic Realm） |
 | 定式魔術／即興魔術／儀式魔術／祭式魔術 | 魔法圏のオーラ（Magic Aura） |
-| 妖精魔術／所作魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
+| 妖精魔術／所作魔術／製作魔術／周期魔術 | 魔法の実力値（Magic Might） |
 | ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法圏知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
 | 魔術団（Order of Hermes）／秘儀教団 | 魔法圏のクリーチャー／魔法のアイテム |
 | 類感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
-| 魔術の工芸（magical craft）／魔術師（wizard） | 魔法的（magical） |
+| 魔術の製作（magical craft）／魔術師（wizard） | 魔法的（magical） |
 | 俗魔術（hedge magic）／民間魔術（folk magic） | — |
 
 **注：**「魔術師の◯◯」（Wizard's Twilight など）は wizard 由来の固有名であり、この訳し分けの対象外。「魔術団」は組織名として慣用が固まっているため据え置く。
