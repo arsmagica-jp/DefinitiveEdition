@@ -199,7 +199,7 @@
 | regio (pl. regiones) | レギオー |
 | Dominion | 聖堂圏 |
 | Final Twilight | 終末の黄昏 |
-| Wizard's Twilight | 魔術師の黄昏 |
+| Wizard's Twilight | 魔術師の黄昏 | 見出し以外の本文では「魔術師の黄昏」と鉤括弧を付ける（対訳表・用語一覧・索引の項目名・リンク先アンカーは素のまま） |
 | True Lineages | 真正の血統 |
 | Mystery Cults | 秘儀教団 | 組織名・〈（秘儀教団）知識〉とも同じ語。「秘儀魔術団」から統一 |
 | sigil | 印 |
@@ -276,7 +276,7 @@
 | requisite | 制約術法 | |
 | Penetration | 抵抗貫通力 | 「貫通」から統一。名詞としての Penetration 270件が対象で、〈抵抗貫通力〉（能力）・抵抗貫通力合計値・抵抗貫通力ボーナスなども同様。動詞 penetrate（「魔法抵抗を貫通する」）54件は「貫通する」のまま |
 | Penetration Total | 抵抗貫通力合計値 | |
-| fast casting | 高速行使 | 索引は「速唱」だが本文では行使の語で統一。「速攻行使」から変更 |
+| fast casting | 即応行使 | 索引は「速唱」だが本文では行使の語で統一。「速攻行使」→「高速行使」→現在の形と二段階で改めた。「高速行使」は現在 Quick Casting の訳なので混同しないこと。第3章の習熟欄「習熟1（即応行使）」、第18章ルール要約の「即応行使の速さ／ペナルティ／ボッチ・ダイス」も原文 FAST CASTING に合わせてある。Fast Caster の《迅速な行使》は《美点》名として別に立っている |
 | aiming roll | 狙いのロール | |
 | Technique / Form | 技法／形相 | 索引準拠 |
 | Form Bonus | 形相ボーナス | |
@@ -285,7 +285,7 @@
 | Elemental Forms | 元素の形相 | 索引準拠 |
 | Limits of Magic / Lesser Limits | 魔法の限界／弱限界 | 索引の「小限界」を「弱限界」に改めた。Limit of the Lunar Sphere は「月の限界」（「月天の限界」「月天球の限界」から変更） |
 | pawn / rook / queen | ポーン／ルーク／クイーン | ウィースの単位 |
-| Forceless Casting | 無力な行使 | 抵抗貫通力合計値を0に抑える |
+| Forceless Casting | 非貫通行使 | 抵抗貫通力合計値を0に抑える。「無力な行使」から変更 |
 | sympathetic connections | 類感媒体 | 索引の「共感連鎖」から変更。魔導媒体（Arcane Connection）と対 |
 | Penetration Bonus / Multiplier | 抵抗貫通力ボーナス／抵抗貫通力の倍率 | |
 | voting sigil | 投票印 | 行使の印と対 |
@@ -293,7 +293,7 @@
 | Adaptive Casting | 適応行使 | 習熟の特殊能力 |
 | Imperturbable Casting | 不動行使 | 集中のロールにボーナス |
 | Still Casting | 静止行使 | 身振り不要。上と訳し分け |
-| Quiet Casting / Quick Casting | 静穏行使／迅速行使 | |
+| Quiet Casting / Quick Casting | 静穏行使／高速行使 | 呪文習熟の特殊能力。Quick Casting は「迅速行使」から変更。Fast Casting の「即応行使」とは別の特殊能力なので訳し分ける |
 | Obfuscated / Precise / Multiple Casting | 秘匿行使／精確行使／多重行使 | |
 | Rebuttal / Unravelling | 反駁／解体 | 習熟の特殊能力 |
 | Twilight Scar | 黄昏の痕跡 | 索引準拠 |
@@ -345,7 +345,7 @@
 | occupied Size | 占有【サイズ】 | 研究室の特性値 |
 | Laboratory Feature | 研究室の設備 | 《大設備》《小設備》 |
 | sanctum marker | 聖域の標 | |
-| Ceremonial Magic | 儀礼魔術 | |
+| Ceremonial Magic | 祭式魔術 | 「儀礼魔術」から変更。祭式行使・祭具と同系統に揃えた。ceremonial spaces は「祭式の場」、performs ceremonies は「祭式を執り行う／行う」 |
 | Exposure / Adventure / Practice | 体験／冒険／鍛錬 | 経験点の獲得手段。Exposure は「暴露」から変更。歪曲についての prolonged exposure（長期の曝露）は成長手段ではないので別語 |
 | experimentation table | 実験表 | |
 | Safety | 安全性 | 研究室の指標 |
@@ -353,7 +353,7 @@
 | Shape & Material bonus | 形状・材質ボーナス | |
 | resonant bonus | 共鳴のボーナス | 書物の材料 |
 | Potency / Casting Item | 強度／行使用具 | 《強力な魔術》 |
-| sympathetic magic | 共感魔術 | |
+| sympathetic magic | 類感魔術 | |
 | Waiting Spell | 待機呪文 | |
 | Environmental Trigger | 環境誘因 | |
 | Might Pool | 実力値の蓄え | |
@@ -515,8 +515,9 @@
 | Divine Lore / Dominion Lore | 〈神聖圏知識〉 | 原文が同一の〈能力〉に二つの名を使っている。索引は Dominion Lore にのみ訳語を与える |
 | Wizard's Vigil | *魔術師の徹夜祷* | 索引に項目なし。*魔術師の同調*（Wizard's Communion）は索引準拠。第9章で確定 |
 | Story Hook | 物語の引っ掛かり | コヴナントの Hook とは別系統として据え置き |
-| fast casting | 高速行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用 |
-| ceremonial casting | 儀礼的行使 | 索引は「祭式詠唱」。同上の理由で「行使」に統一 |
+| fast casting | 即応行使 | 索引は「速唱」。casting を全章「行使」で統一しているため本表の訳を採用（上記 fast casting の行も参照） |
+| ceremonial casting | 祭式行使 | 索引は「祭式詠唱」。casting を「行使」に統一した形。「儀礼的行使」から変更し、索引の「祭式」に戻した。「祭式で行使する」「祭式の呪文」のような動詞・連体形もこれに揃えた。Ceremonial Magic は「祭式魔術」、Ceremonial Spontaneous Magic は《祭式即興魔術》。一般語の「儀礼」（儀式呪文に伴う手の込んだ儀礼、パルマ・マギカの儀礼、清めの儀礼、参入儀礼など）は据え置き |
+| props（祭式行使） | 祭具 | 祭式行使で使う品。「道具」「儀礼用の道具」から変更。ceremonial kit は「祭具一式」。〈感応〉の説明に出る props（衣服の汚し、記念の品）は祭式行使とは別物なので「小道具」のまま |
 | Damhan-Allaidh | ダーヴァン＝オラス | 原文の発音表記 DAH-van ALL-ath に従う。索引の既訳と一致。当初「ダウン・アラー」としていたのを第2章5箇所で修正 |
 | 流派名の音写 | 索引の既訳に準拠 | ビョルネール／ボニサグス／クリーアモン／雑集派／フランボー／グエルニクス／イェルビトン／メルケーレ／メリニータ／トレメーレ／テュータルス／ウェルディーティウス。Ex Miscellanea は音写せず「雑集派」、Ordo Miscellanea は「諸類派魔術団」と訳す |
 | House (流派名に付く場合) | 〇〇派 | 「ビョルネール派」のように「派」を使う。総称としての House／流派は「流派」のまま（例：十二の流派） |
@@ -878,13 +879,13 @@ Wizard's War も「魔術師の決闘」とし、この系統に揃えた（従�
 | → 魔術（技法） | → 魔法（性質・圏域） |
 | --- | --- |
 | ヘルメス魔術（Hermetic Magic） | 魔法圏（Magic Realm） |
-| 定式魔術／即興魔術／儀式魔術／儀礼魔術 | 魔法圏のオーラ（Magic Aura） |
+| 定式魔術／即興魔術／儀式魔術／祭式魔術 | 魔法圏のオーラ（Magic Aura） |
 | 妖精魔術／所作魔術／工芸魔術／周期魔術 | 魔法の実力値（Magic Might） |
 | ウェルディーティウス魔術／ディエドネー魔術／アトランティス魔術 | 魔法圏知識（Magic Lore） |
 | 魔術理論（Magic Theory） | 魔法抵抗（Magic Resistance） |
 | 魔術の専門分野（Magical Foci） | 魔法感受性（Magic Sensitivity） |
 | 魔術団（Order of Hermes）／秘儀教団 | 魔法圏のクリーチャー／魔法のアイテム |
-| 共感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
+| 類感魔術／屍の魔術／身振りの魔術／無音の魔術 | 魔法円（Ring）／魔法の妖気／魔法の感覚 |
 | 魔術の工芸（magical craft）／魔術師（wizard） | 魔法的（magical） |
 | 俗魔術（hedge magic）／民間魔術（folk magic） | — |
 

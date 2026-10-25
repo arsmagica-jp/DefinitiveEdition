@@ -207,7 +207,7 @@
 
 **術法：**キャラクターのヘルメス魔術の術法の値。書式は「術法 X (Z)」で、Xが値、Zが次のレベルに向けて得ている経験点の数である。「X+Y (Z)」と記されている場合、Xはその値、Yは《美点》（通常は《強化（術法）》）による固定のボーナス、Zは次のレベルに向けて得ている経験点の数である。術法は[206ページ](07-hermetic-magic.md#ヘルメス魔術の術法)で解説する標準の略号に従って表記する。マギでない者は術法の値を持たないため、この項は省略される。
 
-**黄昏の痕跡：**魔術師の黄昏がもたらす長く残る影響。ヘルメスのマギにのみ適用され、[229ページ](07-hermetic-magic.md#黄昏の効果)で詳しく解説する。
+**黄昏の痕跡：**「魔術師の黄昏」がもたらす長く残る影響。ヘルメスのマギにのみ適用され、[229ページ](07-hermetic-magic.md#黄昏の効果)で詳しく解説する。
 
 **装備：**キャラクターの持ち物。
 
@@ -1487,33 +1487,33 @@
 > **運搬負荷：**0（2）
 >
 > **習得呪文：**
-> *吼ゆる狼の足を萎やす*（Cripple the Howling Wolf、PeAn 25/+27\*）、習熟1（迅速な行使）
+> *吼ゆる狼の足を萎やす*（Cripple the Howling Wolf、PeAn 25/+27\*）、習熟1（即応行使）
 > *干上がらす風*（Parching Wind、PeAq 20/+28\*）、習熟1（抵抗貫通力）
 > *荒野の呪詛*（Curse of the Desert、PeAq 25/+29\*）、習熟2（抵抗貫通力、魔法抵抗）
 > *外科医の癒し手*（The Chirurgeon's Healing Touch、CrCo 20/+32）、習熟1（抵抗貫通力）
 > *黒き門越しの囁き*（Whispers through the Black Gate、InCo(Me) 15/+13）、習熟1（静穏行使）
 > *逃れ得ぬ尋ね*（The Inexorable Search、InCo 20/+22）、習熟1（抵抗貫通力）
-> *熊の剛き賜物*（Gift of the Bear's Fortitude、MuCo 25/+20）、習熟1（迅速な行使）
+> *熊の剛き賜物*（Gift of the Bear's Fortitude、MuCo 25/+20）、習熟1（即応行使）
 > *塵は塵に*（Dust to Dust、PeCo 15/+37\*）、習熟1（抵抗貫通力）
 > *泣き止まぬ傷*（The Wound that Weeps、PeCo 15/+37\*）、習熟1（抵抗貫通力）
 > *眼を白く濁らす呪言*（Incantation of the Milky Eyes、PeCo 30/+37\*）、習熟1（抵抗貫通力）
-> *舌の捩れ*（Twist of the Tongue、PeCo 30/+37\*）、習熟1（迅速な行使）
+> *舌の捩れ*（Twist of the Tongue、PeCo 30/+37\*）、習熟1（即応行使）
 > *心の臓を締め上ぐる手*（Clenching Grasp of the Crushed Heart、PeCo 40/+38\*）、習熟2（抵抗貫通力、魔法抵抗）
-> *狂戦士の粘り*（Endurance of the Berserkers、ReCo 15/+25）、習熟1（迅速な行使）
+> *狂戦士の粘り*（Endurance of the Berserkers、ReCo 15/+25）、習熟1（即応行使）
 > *吊り下がる傀儡を持ち上ぐ*（Lifting the Dangling Puppet、ReCo 15/+25）、習熟1（抵抗貫通力）
-> *七里を跨ぐ歩み*（Seven-League Stride、ReCo 30/+25）、習熟1（迅速な行使）
-> *家路への跳躍*（The Leap of Homecoming、ReCo 35/+25）、習熟1（迅速な行使）
-> *大いなる腐れ*（The Great Rot、PeHe 25/+28\*）、習熟1（迅速な行使）
+> *七里を跨ぐ歩み*（Seven-League Stride、ReCo 30/+25）、習熟1（即応行使）
+> *家路への跳躍*（The Leap of Homecoming、ReCo 35/+25）、習熟1（即応行使）
+> *大いなる腐れ*（The Great Rot、PeHe 25/+28\*）、習熟1（即応行使）
 > *冬の氷の手*（Winter's Icy Touch、PeIg 10/+28）、習熟1（抵抗貫通力）
-> *荒ぶる炎を鎮む*（Soothe the Raging Flames、PeIg 20/+28）、習熟1（迅速な行使）
-> *熱と炎を阻む結界*（Ward Against Heat and Flames、ReIg 25/+16）、習熟1（迅速な行使）
+> *荒ぶる炎を鎮む*（Soothe the Raging Flames、PeIg 20/+28）、習熟1（即応行使）
+> *熱と炎を阻む結界*（Ward Against Heat and Flames、ReIg 25/+16）、習熟1（即応行使）
 > *姿を隠す帳*（Veil of Invisibility、PeIm 20/+28）、習熟2（静穏行使×2）
-> *舌の先*（Tip of the Tongue、PeMe 5/+29）、習熟2（迅速な行使、魔法抵抗）
+> *舌の先*（Tip of the Tongue、PeMe 5/+29）、習熟2（即応行使、魔法抵抗）
 > *心の揺らぎを鎮む*（Calm the Motion of the Heart、PeMe 15/+28）、習熟1（静穏行使）
 > *束の間の記憶の失せ*（Loss of But a Moment's Memory、PeMe 15/+30\*）、習熟3（静穏行使×2、静止行使）
 > *童の至福の祝福*（Blessing of Childlike Bliss、PeMe 25/+30）、習熟3（静穏行使×2、静止行使）
-> *二百年の錆朽*（Rusted Decay of Ten-Score Years、PeTe 20\*、目標を集団に拡大／+28\*）、習熟1（迅速な行使）
-> *悪魔の永久の忘却*（Demon's Eternal Oblivion、PeVi 30/+30\*）、習熟1（迅速な行使）
+> *二百年の錆朽*（Rusted Decay of Ten-Score Years、PeTe 20\*、目標を集団に拡大／+28\*）、習熟1（即応行使）
+> *悪魔の永久の忘却*（Demon's Eternal Oblivion、PeVi 30/+30\*）、習熟1（即応行使）
 > *世俗の静寂を運ぶ風*（Wind of Mundane Silence、PeVi 30/+30）、習熟1（魔法抵抗）
 >
 > \* ダリウスがタリスマンを手にしている場合、「遠隔で物を破壊する」呪文の行使に+4の恩恵を得る。手にしているなら、これらの呪文にこの値を加えること。

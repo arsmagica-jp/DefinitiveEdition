@@ -500,19 +500,19 @@
 
 **疲労を伴わない行使合計値：**行使値÷5
 
-**迅速行使の速さ：**【反応】+〈呪文操作〉+ストレスダイス
+**即応行使の速さ：**【反応】+〈呪文操作〉+ストレスダイス
 
-**迅速行使のペナルティ：**行使値に-10
+**即応行使のペナルティ：**行使値に-10
 
-**迅速行使のボッチ・ダイス：**ボッチ・ダイス+2個
+**即応行使のボッチ・ダイス：**ボッチ・ダイス+2個
 
 **魔法の効果の形相を見極める：**【知覚】+〈認識〉、対 15-効果の階級
 
-**儀礼的行使のボーナス：**行使値に〈自由学科〉+〈哲学〉を加える
+**祭式行使のボーナス：**行使値に〈自由学科〉+〈哲学〉を加える
 
-**儀礼的行使の所要時間：**階級1つにつき15分
+**祭式行使の所要時間：**階級1つにつき15分
 
-*儀礼の道具と儀式の場については決定版218ページ参照。*
+*祭具と儀式の場については決定版218ページ参照。*
 
 #### 呪文行使のボッチ・ダイス
 
@@ -522,7 +522,7 @@
 
 **魔法以外のレギオーで行使する：**そのオーラの値1につきボッチ・ダイス+2個
 
-**迅速行使：**ボッチ・ダイス+2個
+**即応行使：**ボッチ・ダイス+2個
 
 **使い魔との金綬：**その値1につきボッチ・ダイス-1個
 
@@ -724,7 +724,7 @@
 
 #### 魔導媒体の持続時間
 
-| 持続時間 | 連鎖の例 |
+| 持続時間 | 媒体の例 |
 |----------|---------------------|
 | 数時間 | 特定の場所の空気、人間の剥がれ落ちた皮膚、流れる水域からの水。 |
 | 数日 | 頻繁に使う道具や衣服、静止した水域からの水、標的が作った世俗の物、排泄物。 |
@@ -732,7 +732,7 @@
 | 数か月 | 髪1本、お気に入りの道具や衣服、特定の場所の木片、鳥の羽根1枚、爬虫類の鱗1枚。 |
 | 数年 | 魔器、特定の場所の岩や金属、血、髪の束、鳥の羽根の束、爬虫類の鱗の束。 |
 | 数十年 | 身体の一部。 |
-| 無期限 | ヘルメスの使い魔（主人への連鎖）、ヘルメスのマギ（使い魔への連鎖）、ヘルメスのタリスマン（作り手への連鎖）、固定された魔導媒体（94ページ／250ページ「魔導媒体を固定する」参照）。 |
+| 無期限 | ヘルメスの使い魔（主人への媒体）、ヘルメスのマギ（使い魔への媒体）、ヘルメスのタリスマン（作り手への媒体）、固定された魔導媒体（94ページ／250ページ「魔導媒体を固定する」参照）。 |
 
 ### ケルターメン
 
@@ -1840,8 +1840,8 @@
 | Cauterization (Chirurgy)（焼灼（外科処置）） | [161](05-abilities.md#外科処置-chirurgy-一般系) |
 | Cautious Sorcerer (Virtue)（《慎重な術者》） | [73](04-virtues-and-flaws.md#慎重な術者-cautious-sorcerer) |
 | Cautious with (Ability) (Virtue)（《細心（能力）》） | [73](04-virtues-and-flaws.md#細心能力-cautious-with-ability) |
-| Ceremonial Casting（儀礼的行使） | [217–218](07-hermetic-magic.md#儀礼的行使), [225](07-hermetic-magic.md#儀礼的行使-1) |
-| Ceremonial Spontaneous Magic (Flaw)（《儀礼的即興魔術》） | [122](04-virtues-and-flaws.md#儀礼的即興魔術-ceremonial-spontaneous-magic) |
+| Ceremonial Casting（祭式行使） | [217–218](07-hermetic-magic.md#祭式行使), [225](07-hermetic-magic.md#祭式行使-1) |
+| Ceremonial Spontaneous Magic (Flaw)（《祭式即興魔術》） | [122](04-virtues-and-flaws.md#祭式即興魔術-ceremonial-spontaneous-magic) |
 | Certamen（ケルターメン） | [16](02-the-order-of-hermes.md#トレメーレ派), [230–233](07-hermetic-magic.md#ケルターメン) |
 | Chain Mail（鎖帷子） | [399](11-obstacles.md#材質) |
 | Changing Reputations（評判の変化） | [28](03-characters.md#評判) |
@@ -2163,7 +2163,7 @@
 | Famous (Virtue)（《高名》） | [80](04-virtues-and-flaws.md#高名-famous) |
 | Farm Implement（農具） | [402](11-obstacles.md#両手武器) |
 | Fast Caster (Virtue)（《迅速な行使》） | [80](04-virtues-and-flaws.md#迅速な行使-fast-caster) |
-| Fast Casting（高速行使） | [217](07-hermetic-magic.md#高速行使), [225](07-hermetic-magic.md#高速行使-1) |
+| Fast Casting（即応行使） | [217](07-hermetic-magic.md#即応行使), [225](07-hermetic-magic.md#即応行使-1) |
 | Fast Saga（進行の早いサーガ） | [528](16-sagas.md#速いサーガ) |
 | Fate of Magic（魔術の行く末） | [526](16-sagas.md#魔術の行く末) |
 | Fatigue（疲労） | [403–404](11-obstacles.md#疲労) |
@@ -2208,7 +2208,7 @@
 | Font of Knowledge (Ability)（〈知識の泉〉） | [165](05-abilities.md#知識の泉-font-of-knowledge-超常系) |
 | Font of Knowledge (Virtue)（《知識の泉》） | [82](04-virtues-and-flaws.md#知識の泉-font-of-knowledge) |
 | Food Deprivation（食料欠乏） | [407](11-obstacles.md#欠乏) |
-| Forceless Casting（無力な行使） | [220](07-hermetic-magic.md#無力な行使) |
+| Forceless Casting（非貫通行使） | [220](07-hermetic-magic.md#非貫通行使) |
 | Foreign Upbringing (Flaw)（《異国育ち》） | [131](04-virtues-and-flaws.md#異国育ち-foreign-upbringing) |
 | Forge-Companion (Virtue)（《鍛冶仲間》） | [82](04-virtues-and-flaws.md#鍛冶仲間-forge-companion) |
 | Forgettable Face (Virtue)（《影の薄い容貌》） | [82](04-virtues-and-flaws.md#影の薄い容貌-forgettable-face) |
@@ -2383,7 +2383,7 @@
 | &nbsp;&nbsp;Weaknesses（弱点） | [477](13-bestiary.md#悪魔の弱点) |
 | Infernal Heirloom (Virtue)（《地獄の家宝》） | [86](04-virtues-and-flaws.md#地獄の家宝-infernal-heirloom) |
 | Infernal Lore (Ability)（〈地獄圏知識〉） | [167](05-abilities.md#地獄圏知識-infernal-lore-秘術系) |
-| Infernal, Limit of The（地獄の限界） | [211](07-hermetic-magic.md#地獄の限界) |
+| Infernal, Limit of The（地獄圏の限界） | [211](07-hermetic-magic.md#地獄圏の限界) |
 | Infernal, The（地獄圏） | [6](01-introduction.md#用語集), [414–416](12-realms.md#地獄圏) |
 | &nbsp;&nbsp;*see also Demons* |  |
 | Inheritance（遺産） | [508](14-mythic-europe.md#相続) |
@@ -2790,7 +2790,7 @@
 | Purgatory（煉獄） | [499](14-mythic-europe.md#教義) |
 | Quaesitor（審問士） | [6](01-introduction.md#用語集), [14](02-the-order-of-hermes.md#グエルニクス派) |
 | &nbsp;&nbsp;*see also [Guernicus, House*](02-the-order-of-hermes.md#グエルニクス派) |  |
-| Quick Casting（迅速行使） | [226](07-hermetic-magic.md#迅速行使) |
+| Quick Casting（高速行使） | [226](07-hermetic-magic.md#高速行使) |
 | Quickness（【反応】） | [27](03-characters.md#反応-quickness-qik) |
 | Quiet Casting（静穏行使） | [226](07-hermetic-magic.md#静穏行使) |
 | Quiet Magic (Virtue)（《無音の魔術》） | [105](04-virtues-and-flaws.md#無音の魔術-quiet-magic) |
