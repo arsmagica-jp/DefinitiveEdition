@@ -202,7 +202,7 @@
 | Wizard's Twilight | 魔術師の黄昏 | 見出し以外の本文では「魔術師の黄昏」と鉤括弧を付ける（対訳表・用語一覧・索引の項目名・リンク先アンカーは素のまま） |
 | True Lineages | 真正の血統 |
 | Mystery Cults | 秘儀教団 | 組織名・〈（秘儀教団）知識〉とも同じ語。「秘儀魔術団」から統一 |
-| sigil | 印 | wizard's sigil は見出し以外の本文では「魔術師の印」と鉤括弧を付ける（対訳表・用語一覧・索引の項目名・リンク先アンカーは素のまま）。投票印（voting sigil）・行使の印・呪文の印は素のまま |
+| sigil | 印 | wizard's sigil は「魔術師の紋痕」（「魔術師の印」から変更）。見出し以外の本文では「魔術師の紋痕」と鉤括弧を付ける（対訳表・用語一覧・索引の項目名・リンク先アンカーは素のまま）。投票印（voting sigil）・行使の印・呪文の印・第7章の見出し「印」は素の「印」のまま |
 | pawn | ポーン |
 | casting tools | 詠唱術具 | ウェルディーティウス派の小なる流派の秘儀。「詠唱道具」から変更。《縛られた詠唱術具》《消費される詠唱術具》《即興用の詠唱術具》も同様。メリニータの護符（charms）は別名 |
 | charged items | 充填魔道具 | 「チャージ・アイテム」から変更 |
@@ -245,6 +245,7 @@
 | bailiff | 荘官 | |
 | unGifted | 天禀なき者 | |
 | Archmagus / Archmaga | 大マギ | |
+| Stamina | 【生命】 | 特性値。「【体力】」から変更。第3章の見出し `#### 【生命】 Stamina (Sta)` とそのアンカーも同じ。《生命力による増幅》《生命力燃焼即興魔術》などの「生命力」（原文 vitality / life）は別語 |
 | Cunning | 【狡知】 | 動物の【知性】に代わる特性値 |
 | True Names | 真名 | |
 | Light / Medium / Heavy / Incapacitating / Deadly Wound | 軽傷／中傷／重傷／瀕死の傷／致命傷 | |
@@ -868,7 +869,7 @@
 
 **Wizard's ◯◯ として「魔術師」を据え置いた語**（magi ではないため）
 
-*魔術師の黄昏*（Wizard's Twilight）／*魔術師の印*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の駒*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
+*魔術師の黄昏*（Wizard's Twilight）／*魔術師の紋痕*（The Wizard's Sigil）／*魔術師の行軍*（Wizard's March）／*魔術師の徹夜祷*（Wizard's Vigil）／*魔術師の同調*（Wizard's Communion）／*魔術師の増強［形相］*（Wizard's Boost）／*魔術師の届き［形相］*（Wizard's Reach）／*魔術師の横歩み*（Wizard's Sidestep）／*魔術師の氷の握り*（Wizard's Icy Grip）／*魔術師の日蝕*（Wizard's Eclipse）／*魔術師の秋*（Wizard's Autumn）／*魔術師の駒*（The Wizard's Mount）／*魔術師の手業を抑える*（Suppressing the Wizard's Handiwork）／*佇む魔術師の不可視*（Invisibility of the Standing Wizard）／*魔術師から離れた像*（Image from the Wizard Torn）／「他の魔術師たち」（Other Wizards）
 
 Wizard's War も「魔術師の決闘」とし、この系統に揃えた（従来は索引準拠の音写「ウィザーズ・ウォー」だった）。
 
