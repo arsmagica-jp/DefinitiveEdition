@@ -2224,7 +2224,7 @@
 | Friars（托鉢修道士） | [505](14-mythic-europe.md#修道院) |
 | Frightful Presence (Virtue)（《恐るべき威圧》） | [82](04-virtues-and-flaws.md#恐るべき威圧-frightful-presence) |
 | Full Armor（全身鎧） | [399](11-obstacles.md#装着部位) |
-| Fury (Flaw)（《憤激》） | [131](04-virtues-and-flaws.md#憤激-fury) |
+| Fury (Flaw)（《憤怒》） | [131](04-virtues-and-flaws.md#憤怒-fury) |
 | Gabai (Flaw)（《ガバイ》） | [131](04-virtues-and-flaws.md#ガバイ-gabai) |
 | Galen（ガレノス） | [168](05-abilities.md#医学-medicine-学術系) |
 | Gambeson（ギャンベゾン） | [399](11-obstacles.md#装着部位) |
@@ -2545,7 +2545,7 @@
 | Magical Craft（魔術の製作） | [306](09-spells.md#魔術の製作) |
 | Magical Creatures（魔法圏のクリーチャー） | [21](02-the-order-of-hermes.md#魔法圏のクリーチャー), [413](12-realms.md#魔法圏の生き物) |
 | Magical Enchantments（魔法の呪付） | [252](08-laboratory.md#呪付) |
-| Magical Fascination (Flaw)（《魔法への魅入られ》） | [136](04-virtues-and-flaws.md#魔法への魅入られ-magical-fascination) |
+| Magical Fascination (Flaw)（《魔法への執心》） | [136](04-virtues-and-flaws.md#魔法への執心-magical-fascination) |
 | Magical Foci（魔術の専門分野） | [94](04-virtues-and-flaws.md#大いなる魔術の専門分野の例), [98](04-virtues-and-flaws.md#小なる魔術の専門分野の例) |
 | Magical Items（魔法のアイテム） | [24](02-the-order-of-hermes.md#魔法の品) |
 | Magical Memory (Virtue)（《魔術の記憶力》） | [92](04-virtues-and-flaws.md#魔術の記憶力-magical-memory) |
@@ -2567,7 +2567,7 @@
 | Maker of Water Vessels (Virtue)（《水の器の作り手》） | [94](04-virtues-and-flaws.md#水の器の作り手-maker-of-water-vessels) |
 | Male Guild Sponsor (Virtue)（《男性ギルド後見人》） | [95](04-virtues-and-flaws.md#男性ギルド後見人-male-guild-sponsor) |
 | Mamluk (Virtue)（《マムルーク》） | [95](04-virtues-and-flaws.md#マムルーク-mamluk) |
-| Manifest Sin (Flaw)（《露わな罪》） | [136](04-virtues-and-flaws.md#露わな罪-manifest-sin) |
+| Manifest Sin (Flaw)（《罪の露出》） | [136](04-virtues-and-flaws.md#罪の露出-manifest-sin) |
 | Manufactured Ignorance (Flaw)（《作られた無知》） | [136](04-virtues-and-flaws.md#作られた無知-manufactured-ignorance) |
 | Many Marriageable Daughters (Flaw)（《年頃の娘たち》） | [136](04-virtues-and-flaws.md#年頃の娘たち-many-marriageable-daughters) |
 | Markets（市場） | [509](14-mythic-europe.md#市と大市) |
@@ -2695,7 +2695,7 @@
 | Ordo Miscellanea（諸類派魔術団） | [11](02-the-order-of-hermes.md#ダーヴァンオラスと諸類派魔術団) |
 | (Organization) Lore (Ability)（〈［組織］知識〉） | [169](05-abilities.md#組織知識-organization-lore-一般系) |
 | Original Sin（原罪） | [498](14-mythic-europe.md#教義) |
-| Outcast (Flaw)（《追われ者》） | [139](04-virtues-and-flaws.md#追われ者-outcast) |
+| Outcast (Flaw)（《孤立者》） | [139](04-virtues-and-flaws.md#孤立者-outcast) |
 | Outlaw (Flaw)（《無法者》） | [140](04-virtues-and-flaws.md#無法者-outlaw) |
 | Outlaw Leader (Flaw)（《無法者の頭目》） | [140](04-virtues-and-flaws.md#無法者の頭目-outlaw-leader) |
 | Outsider (Flaw)（《よそ者》） | [140](04-virtues-and-flaws.md#よそ者-outsider) |
@@ -2740,7 +2740,7 @@
 | Piercing Gaze (Virtue)（《射抜く眼差し》） | [103](04-virtues-and-flaws.md#射抜く眼差し-piercing-gaze) |
 | Pilgrimage（巡礼） | [496](14-mythic-europe.md#歴史らしくする), [502](14-mythic-europe.md#聖人) |
 | Pious (Flaw)（《敬虔》） | [140](04-virtues-and-flaws.md#敬虔-pious) |
-| Plagued by Supernatural Entity (Flaw)（《超常の憎悪》） | [141](04-virtues-and-flaws.md#超常の憎悪-plagued-by-supernatural-entity) |
+| Plagued by Supernatural Entity (Flaw)（《超常の存在による災い》） | [141](04-virtues-and-flaws.md#超常の存在による災い-plagued-by-supernatural-entity) |
 | Platonic Philosophy（プラトン哲学） | [409](12-realms.md#圏域の本性) |
 | Plots（プロット） | [515](15-stories.md#筋書き) |
 | Poisons（毒） | [406](11-obstacles.md#毒) |
