@@ -1716,7 +1716,7 @@
 | Apprentices（徒弟） | [13](02-the-order-of-hermes.md#ボニサグス派), [21](02-the-order-of-hermes.md#徒弟), [269](08-laboratory.md#徒弟) |
 | Apprentice's Gauntlet（徒弟のガントレット） | [6](01-introduction.md#用語集), [273](08-laboratory.md#徒弟期間の終わり) |
 | Apprenticeship（徒弟期間） | [49](03-characters.md#徒弟期間マギのみ) |
-| Apt Student (Virtue)（《優秀な生徒》） | [70](04-virtues-and-flaws.md#優秀な生徒-apt-student) |
+| Apt Student (Virtue)（《優等生》） | [70](04-virtues-and-flaws.md#優等生-apt-student) |
 | Aptitude for (Sin) (Virtue)（《［罪］への適性》） | [70](04-virtues-and-flaws.md#罪への適性-aptitude-for-sin) |
 | Aquam (Art)（アクアーム／水） | [208](07-hermetic-magic.md#アクアームaq水), [320](09-spells.md#アクアームの呪文) |
 | Arcadia（アルカディア） | [417](12-realms.md#妖精圏) |
@@ -2757,7 +2757,7 @@
 | Poor Hearing (Flaw)（《弱い聴力》） | [141](04-virtues-and-flaws.md#弱い聴力-poor-hearing) |
 | Poor Living Conditions (Flaw)（《劣悪な生活環境》） | [141](04-virtues-and-flaws.md#劣悪な生活環境-poor-living-conditions) |
 | Poor Memory (Flaw)（《物覚えが悪い》） | [141](04-virtues-and-flaws.md#物覚えが悪い-poor-memory) |
-| Poor Student (Flaw)（《勉強が苦手》） | [141](04-virtues-and-flaws.md#勉強が苦手-poor-student) |
+| Poor Student (Flaw)（《劣等生》） | [141](04-virtues-and-flaws.md#劣等生-poor-student) |
 | Pope（教皇） | [502](14-mythic-europe.md#組織) |
 | Potent Magic (Virtue)（《強力な魔術》） | [103–104](04-virtues-and-flaws.md#強力な魔術-potent-magic) |
 | Powerful Covenant（強力なコヴナント） | [178](06-covenants.md#強力なコヴナント) |
@@ -2824,7 +2824,7 @@
 | Relics（聖遺物） | [419](12-realms.md#聖遺物) |
 | Religious (Virtue)（《修道者》） | [106](04-virtues-and-flaws.md#修道者-religious) |
 | Renouncing（追放） | [18](02-the-order-of-hermes.md#附則法) |
-| Repellent (Flaw)（《忌避される》） | [143](04-virtues-and-flaws.md#忌避される-repellent) |
+| Repellent (Flaw)（《忌まわしき体》） | [143](04-virtues-and-flaws.md#忌まわしき体-repellent) |
 | Reputations（評判） | [28](03-characters.md#評判), [52](03-characters.md#評判-1) |
 | &nbsp;&nbsp;Ease Factors（目標値） | [29](03-characters.md#評判目標値) |
 | Requests for Assistance（助けの求め） | [521](15-stories.md#助けの求め) |
@@ -2894,7 +2894,7 @@
 | Shapeshifter (Ability)（〈変身能力者〉） | [171](04-virtues-and-flaws.md#変身能力者-shapeshifter) |
 | Shapeshifter (Virtue)（《変身能力者》） | [107](04-virtues-and-flaws.md#変身能力者-shapeshifter) |
 | Sharp Ears (Virtue)（《鋭い聴力》） | [108](04-virtues-and-flaws.md#鋭い聴力-sharp-ears) |
-| Sheltered Upbringing (Flaw)（《過保護な育ち》） | [144](04-virtues-and-flaws.md#過保護な育ち-sheltered-upbringing) |
+| Sheltered Upbringing (Flaw)（《過保護》） | [144](04-virtues-and-flaws.md#過保護-sheltered-upbringing) |
 | Short Attention Span (Flaw)（《注意散漫》） | [144](04-virtues-and-flaws.md#注意散漫-short-attention-span) |
 | Short Spear（ショートスピア） | [401](11-obstacles.md#片手武器) |
 | Short Sword（ショートソード） | [401](11-obstacles.md#片手武器) |
@@ -2929,7 +2929,7 @@
 | Soap Opera（連続劇） | [518](15-stories.md#連続劇) |
 | Social Childhood（社交的な幼少期） | [48](03-characters.md#幼年期の例) |
 | Social Contacts (Virtue)（《人脈》） | [108](04-virtues-and-flaws.md#人脈-social-contacts) |
-| Social Handicap (Flaw)（《社交場の不利》） | [145](04-virtues-and-flaws.md#社交場の不利-social-handicap) |
+| Social Handicap (Flaw)（《社交上の不利》） | [145](04-virtues-and-flaws.md#社交上の不利-social-handicap) |
 | Social Status（社会的地位） | [45](03-characters.md#美点と欠点-1), [62](04-virtues-and-flaws.md#社会階層の美点と欠点), [64](04-virtues-and-flaws.md#社会階層) |
 | &nbsp;&nbsp;By Culture（文化別） | [65](04-virtues-and-flaws.md#文化圏ごとの社会階層) |
 | Sodalis（ソダリス） | [6](01-introduction.md#用語集) |
@@ -3001,19 +3001,19 @@
 | Supernatural Nuisance (Flaw)（《超常の厄介事》） | [145](04-virtues-and-flaws.md#超常の厄介事-supernatural-nuisance) |
 | Supernatural Virtues and Flaws（超常的《美点》と《欠点》） | [64](04-virtues-and-flaws.md#超常) |
 | Suppressed Gift (Flaw)（《抑えられた天禀》） | [146](04-virtues-and-flaws.md#抑えられた天禀-suppressed-gift) |
-| Surgical Empiricus (Flaw)（《経験外科医》） | [146](04-virtues-and-flaws.md#経験外科医-surgical-empiricus) |
+| Surgical Empiricus (Flaw)（《専門外科医》） | [146](04-virtues-and-flaws.md#専門外科医-surgical-empiricus) |
 | Survival (Ability)（〈生存術〉） | [171](05-abilities.md#生存術-survival-一般系) |
-| Susceptibility to Divine Power (Flaw)（《神聖圏への脆弱》） | [146](04-virtues-and-flaws.md#神聖圏への脆弱-susceptibility-to-divine-power) |
-| Susceptibility to Faerie Power (Flaw)（《妖精の力への脆弱》） | [146](04-virtues-and-flaws.md#妖精の力への脆弱-susceptibility-to-faerie-power) |
-| Susceptibility to Infernal Power (Flaw)（《地獄の力への脆弱》） | [146](04-virtues-and-flaws.md#地獄の力への脆弱-susceptibility-to-infernal-power) |
-| Susceptibility to Sunlight (Flaw)（《日光への脆弱》） | [146](04-virtues-and-flaws.md#日光への脆弱-susceptibility-to-sunlight) |
-| Susceptibility to Warping (Flaw)（《歪曲への脆弱》） | [146](04-virtues-and-flaws.md#歪曲への脆弱-susceptibility-to-warping) |
+| Susceptibility to Divine Power (Flaw)（《神聖圏への過敏》） | [146](04-virtues-and-flaws.md#神聖圏への過敏-susceptibility-to-divine-power) |
+| Susceptibility to Faerie Power (Flaw)（《妖精の力への過敏》） | [146](04-virtues-and-flaws.md#妖精の力への過敏-susceptibility-to-faerie-power) |
+| Susceptibility to Infernal Power (Flaw)（《地獄の力への過敏》） | [146](04-virtues-and-flaws.md#地獄の力への過敏-susceptibility-to-infernal-power) |
+| Susceptibility to Sunlight (Flaw)（《日光への過敏》） | [146](04-virtues-and-flaws.md#日光への過敏-susceptibility-to-sunlight) |
+| Susceptibility to Warping (Flaw)（《歪曲への過敏》） | [146](04-virtues-and-flaws.md#歪曲への過敏-susceptibility-to-warping) |
 | Swim (Ability)（〈水泳〉） | [171](05-abilities.md#水泳-swim-一般系) |
 | Sympathetic Connections（類感媒体） | [220](07-hermetic-magic.md#類感媒体) |
 | Tainted Offspring (Flaw)（《汚された子》） | [146](04-virtues-and-flaws.md#汚された子-tainted-offspring) |
 | Tainted Treasure (Virtue)（《汚された財宝》） | [111](04-virtues-and-flaws.md#汚された財宝-tainted-treasure) |
 | Tainted Vis（汚されたウィース） | [422](12-realms.md#汚されたウィース) |
-| Tainted with Evil (Flaw)（《悪に穢れた》） | [146](04-virtues-and-flaws.md#悪に穢れた-tainted-with-evil) |
+| Tainted with Evil (Flaw)（《邪悪な汚れ》） | [146](04-virtues-and-flaws.md#邪悪な汚れ-tainted-with-evil) |
 | Talisman（タリスマン） | [259](08-laboratory.md#タリスマンの調律) |
 | Targets（目標） | [305](09-spells.md#目標), [309–311](09-spells.md#容器の目標) |
 | &nbsp;&nbsp;Size（サイズ） | [310](09-spells.md#目標と大きさ) |
@@ -3021,7 +3021,7 @@
 | Teaching（教授） | [378](10-long-term-events.md#教授) |
 | Teaching (Ability)（〈教授〉） | [171](05-abilities.md#教授-teaching-一般系) |
 | Technique（技法） | [207–208](07-hermetic-magic.md#技法) |
-| Temperate (Flaw)（《節度ある》） | [146](04-virtues-and-flaws.md#節度ある-temperate) |
+| Temperate (Flaw)（《節制》） | [146](04-virtues-and-flaws.md#節制-temperate) |
 | Tempestaria (Weather Witch)（テンペスタリア（天候の魔女）） | [245](07-hermetic-magic.md#テンペスタリア天候の魔女) |
 | Templar Administrator (Virtue)（《テンプル騎士団行政官》） | [111](04-virtues-and-flaws.md#テンプル騎士団行政官-templar-administrator) |
 | Templar Commander (Virtue)（《テンプル騎士団司令官》） | [111](04-virtues-and-flaws.md#テンプル騎士団司令官-templar-commander) |
@@ -3135,14 +3135,14 @@
 | Voice (Range)（声（射程）） | [303](09-spells.md#射程) |
 | Voice of the (Land) (Virtue)（《［土地］の声》） | [115](04-virtues-and-flaws.md#土地の声-voice-of-the-land) |
 | Vow (Flaw)（《誓い》） | [150](04-virtues-and-flaws.md#誓い-vow) |
-| Vulnerable Casting (Flaw)（《脆い行使》） | [150](04-virtues-and-flaws.md#脆い行使-vulnerable-casting) |
+| Vulnerable Casting (Flaw)（《疲労する行使》） | [150](04-virtues-and-flaws.md#疲労する行使-vulnerable-casting) |
 | Vulnerable Magic (Flaw)（《脆い魔術》） | [151](04-virtues-and-flaws.md#脆い魔術-vulnerable-magic) |
 | Vulnerable to Folk Tradition (Flaw)（《魔除けに脆い魔術》） | [151](04-virtues-and-flaws.md#魔除けに脆い魔術-vulnerable-to-folk-tradition) |
 | Wanderer (Virtue)（《放浪者》） | [115](04-virtues-and-flaws.md#放浪者-wanderer) |
 | Wanderlust (Flaw)（《放浪癖》） | [151](04-virtues-and-flaws.md#放浪癖-wanderlust) |
 | Wards（結界） | [306](09-spells.md#魔法の結界) |
 | Warhammer（ウォーハンマー） | [402](11-obstacles.md#両手武器) |
-| Warped by Magic (Flaw)（《魔法に歪められた》） | [151](04-virtues-and-flaws.md#魔法に歪められた-warped-by-magic) |
+| Warped by Magic (Flaw)（《魔法による歪み》） | [151](04-virtues-and-flaws.md#魔法による歪み-warped-by-magic) |
 | Warped Magic (Flaw)（《歪んだ魔術》） | [151](04-virtues-and-flaws.md#歪んだ魔術-warped-magic) |
 | Warped Senses (Flaw)（《歪んだ感覚》） | [151](04-virtues-and-flaws.md#歪んだ感覚-warped-senses) |
 | Warping（歪曲） | [389–391](10-long-term-events.md#歪曲) |
