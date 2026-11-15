@@ -4,9 +4,9 @@
 
 ## Markdown版について
 
-オープン・ライセンスによるMarkdown版　制作：OriginalMadman　https://github.com/OriginalMadman/Ars-Magica-Open-License
+オープン・ライセンスによるMarkdown版　制作:OriginalMadman　https://github.com/OriginalMadman/Ars-Magica-Open-License
 
-*［完成状況：完了。全文と書式を手作業で修正し、時間をかけて見直した。決定版は現在、目次・《美点》一覧・《欠点》一覧・〈能力〉一覧・呪文索引・幻獣誌索引・伝統的索引のリンクを完備した、きわめて読みやすい形式となっている。内容は数箇所の修正（下記参照）を含めて完全なはずである。残る課題：他の人々による全体の見直し。データ欄・幻獣誌をはじめとするいくつかの節は、本文・見出し・表は完全に修正済みだが、`<br>`・斜体・太字などで改善しうる簡素な書式のままである。キャラクターシートはMarkdownでは作らないだろう（笑）］*
+*［完成状況:完了。全文と書式を手作業で修正し、時間をかけて見直した。決定版は現在、目次・《美点》一覧・《欠点》一覧・〈能力〉一覧・呪文索引・幻獣誌索引・伝統的索引のリンクを完備した、きわめて読みやすい形式となっている。内容は数箇所の修正（下記参照）を含めて完全なはずである。残る課題:他の人々による全体の見直し。データ欄・幻獣誌をはじめとするいくつかの節は、本文・見出し・表は完全に修正済みだが、`<br>`・斜体・太字などで改善しうる簡素な書式のままである。キャラクターシートはMarkdownでは作らないだろう（笑）］*
 
 *Markdownでの読みやすさのため、本文中の大文字だけの見出し（原版ではそれに適した書体が使われていた）は、シカゴ・マニュアル方式のタイトルケース見出しに置き換えた（呪文のレベルを示す見出しを除く）。*
 
@@ -44,19 +44,19 @@
 [幻獣誌索引](18-reference-guide.md#幻獣誌索引)<br>
 [伝統的索引](18-reference-guide.md#伝統的索引)<br>
 
-*訳注：上の便利リンクは、行き先の見出しがある章のファイルを指すよう書き換えてある。原文では `[『アルス・マギカ』オープン・ライセンス](#ars-magica-open-license)` が存在しない見出しを指していたため、実際の見出し「The Ars Magica Open License」に合わせて修正した。リンクの扱い全般については「リファレンスガイド」末尾の訳注を参照。*
+*訳注:上の便利リンクは、行き先の見出しがある章のファイルを指すよう書き換えてある。原文では `[『アルス・マギカ』オープン・ライセンス](#ars-magica-open-license)` が存在しない見出しを指していたため、実際の見出し「The Ars Magica Open License」に合わせて修正した。リンクの扱い全般については「リファレンスガイド」末尾の訳注を参照。*
 
 ### 原版PDFで見つかった問題
 
 原版PDF（2026年3月時点の最新版）に見られる、確認された問題のいくつか。これら以外にもその場で修正したものが少数ある（残念ながら、作業の後半まで記録を取り始めなかった）。
 
-- 16ページ：トレメーレ派の投票印について314ページへの参照があるが、おそらく224ページが正しい（修正済み）
-- 263ページ：「詠唱板」の節が、本文中に表が入り込む妙な形になっている（修正済み）
-- 275ページ：特別な結果の節が原版ではやや乱れて見える（呪付物の実験による調査から、見出しなしにいきなり全体の結果へ移っている。デイヴィッド・チャート曰く「見出しが囲み記事に取り込まれてしまい、本文側に置き直されなかった」。この流れの問題はMarkdown版で修正済み）
-- 325ページ：クレオー・アウラームの指針。最下部の箇条書きが「レベル25」の下に字下げされている（修正済み）
+- 16ページ:トレメーレ派の投票印について314ページへの参照があるが、おそらく224ページが正しい（修正済み）
+- 263ページ:「詠唱板」の節が、本文中に表が入り込む妙な形になっている（修正済み）
+- 275ページ:特別な結果の節が原版ではやや乱れて見える（呪付物の実験による調査から、見出しなしにいきなり全体の結果へ移っている。デイヴィッド・チャート曰く「見出しが囲み記事に取り込まれてしまい、本文側に置き直されなかった」。この流れの問題はMarkdown版で修正済み）
+- 325ページ:クレオー・アウラームの指針。最下部の箇条書きが「レベル25」の下に字下げされている（修正済み）
 - 「unravelling」（英国綴り）と「unraveling」（米国綴り）の不統一。本書全体でそれぞれ三箇所ずつ（未修正だが、リンクの都合上おそらく統一すべきである）
 
-索引で見つかった問題（558〜568ページ）：
+索引で見つかった問題（558〜568ページ）:
 
 - 索引で〈秘術知識〉が《美点》ではなく〈能力〉として挙げられている（修正済み）
 - 索引の「詠唱板」の項が180ページを指しているが、そこはコヴナントの資源しか扱っておらず、ルールは263ページにある（修正済み）
@@ -81,33 +81,33 @@
 
 ## クレジット
 
-**『アルス・マギカ』創案：**Jonathan Tweet、Mark Rein•Hagen
+**『アルス・マギカ』創案:**Jonathan Tweet、Mark Rein•Hagen
 
 ## 決定版クレジット
 
-**プロデューサー：**Michelle Nephew、Ben Hartfield
+**プロデューサー:**Michelle Nephew、Ben Hartfield
 
-**改訂・進行管理：**David Chart
+**改訂・進行管理:**David Chart
 
-**グラフィックデザイン・レイアウト：**Ben Hartfield
+**グラフィックデザイン・レイアウト:**Ben Hartfield
 
-**アーティスト：**Christian Bravery, John Cobb, Liz Danforth, Thomas Denmark, Jaume Fabregat, Eric Hotz, Tom Kyffin, Jackie Sue Lozano, Steve Luke, Jeff Menges, Eneko Menica, Emilia Nephew, Josephine Nephew, J. Scott Reeves, Pam Shanteau, Doug Shuler, Mark "Jock" Simpson, Christian St. Pierre, Dominic Reardon, Adam Rex, Grey Thornberry, Bryon Wackwitz, Mike Weaver, Katherine Wyman、および名を伝えられていない多くの才ある中世の画工たち。
+**アーティスト:**Christian Bravery, John Cobb, Liz Danforth, Thomas Denmark, Jaume Fabregat, Eric Hotz, Tom Kyffin, Jackie Sue Lozano, Steve Luke, Jeff Menges, Eneko Menica, Emilia Nephew, Josephine Nephew, J. Scott Reeves, Pam Shanteau, Doug Shuler, Mark "Jock" Simpson, Christian St. Pierre, Dominic Reardon, Adam Rex, Grey Thornberry, Bryon Wackwitz, Mike Weaver, Katherine Wyman、および名を伝えられていない多くの才ある中世の画工たち。
 
-**章間の物語：**Michelle Nephew
+**章間の物語:**Michelle Nephew
 
-**設計への寄与：**Tom Dowd, Jörg-Peter Friederich, Rich Gentile, Andrew Gronosky, Andrew Mitchell, Mark Shirley, Andrew Smith, Kevin Sours, David Woods
+**設計への寄与:**Tom Dowd, Jörg-Peter Friederich, Rich Gentile, Andrew Gronosky, Andrew Mitchell, Mark Shirley, Andrew Smith, Kevin Sours, David Woods
 
-**正誤情報の記録：**Christopher Allen およびオンラインの『アルス・マギカ』共同体
+**正誤情報の記録:**Christopher Allen およびオンラインの『アルス・マギカ』共同体
 
-**索引作成：**Ross Waataja
+**索引作成:**Ross Waataja
 
-**校正：**Woody Eblom, Jenae Floerke, Jackie Sue Lozano, John Nephew, Ross Waataja
+**校正:**Woody Eblom, Jenae Floerke, Jackie Sue Lozano, John Nephew, Ross Waataja
 
-**第五版の校正：**Sheila Thomas
+**第五版の校正:**Sheila Thomas
 
-**第五版の技術支援：**Matthew Seidl
+**第五版の技術支援:**Matthew Seidl
 
-**発行：**John & Michelle Nephew
+**発行:**John & Michelle Nephew
 
 ## 第五版製品群の著者
 
@@ -117,15 +117,15 @@ Christian Rosenkjaer Andersen, Jason Brennan, Volker Bürkel, Evangeline Cheng, 
 
 ## 第五版のプレイテスター
 
-**第一次：**John Bull, Lloyd Graney, Pete Hiley, Christian Jensen-Romer, Kevin Sides, David Woods, Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Chris Blake, Joel Coldren, Mike Daumen, Mike Graves, Ann Harper, Jason Morningstar, Patrick M. Murphy, Steve Segedy, Tom Zito; Matt Ryan, Jessica Ryan, Roland Ryan, Sarah Ferguson-Wagstaffe, Jesse Koennecke, Asif Chaudhry, Robert Ahrens; Ian Radford, Mary Woodcock-Kroble, Derek Middlemiss, James Girdwood, Jerry Braverman, Kim Braverman, Erik Dahl, Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Ulrich Willmünder, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
+**第一次:**John Bull, Lloyd Graney, Pete Hiley, Christian Jensen-Romer, Kevin Sides, David Woods, Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Chris Blake, Joel Coldren, Mike Daumen, Mike Graves, Ann Harper, Jason Morningstar, Patrick M. Murphy, Steve Segedy, Tom Zito; Matt Ryan, Jessica Ryan, Roland Ryan, Sarah Ferguson-Wagstaffe, Jesse Koennecke, Asif Chaudhry, Robert Ahrens; Ian Radford, Mary Woodcock-Kroble, Derek Middlemiss, James Girdwood, Jerry Braverman, Kim Braverman, Erik Dahl, Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Ulrich Willmünder, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
-**第二次：**Niall Christie: Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott; Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Mike Longfritz, Andrew Mitchell, Vesna Gronosky, Arwen Warlock, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Angus MacDonald, Kevin Sours, Luke Miller, Sean Winslow, Stephanie Sours, Michael Bors, Brock Close, Gary N. Mengle, Sean Mitchell; Matt Ryan, Jesse Koennecke, Roland Ryan, Robert Ahrens, Sarah Ferguson-Wagstaffe, Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder; Jack Fairchild, Matthew Law, Paul "Polly" Stephenson, Alexander White, Erik Hendrickson, Scott Kieffer, Brian Malcolm, Jeffrey Miller, David Woods, Peter Clark, Lloyd Graney, Luke Price, CJ Romer, Kevin Sides, Ed Woods, Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Dale Beach, Joel Coldren, Mike Graves, Jason Morningstar, Scott Morningstar, Patrick M. Murphy, Steve Segedy, Enno Siemsen, Tom Zito
+**第二次:**Niall Christie: Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott; Eric Grove-Stephensen, Dean Scothern, Richard Slattery, Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Mike Longfritz, Andrew Mitchell, Vesna Gronosky, Arwen Warlock, Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love, Angus MacDonald, Kevin Sours, Luke Miller, Sean Winslow, Stephanie Sours, Michael Bors, Brock Close, Gary N. Mengle, Sean Mitchell; Matt Ryan, Jesse Koennecke, Roland Ryan, Robert Ahrens, Sarah Ferguson-Wagstaffe, Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder; Jack Fairchild, Matthew Law, Paul "Polly" Stephenson, Alexander White, Erik Hendrickson, Scott Kieffer, Brian Malcolm, Jeffrey Miller, David Woods, Peter Clark, Lloyd Graney, Luke Price, CJ Romer, Kevin Sides, Ed Woods, Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville, Dale Beach, Joel Coldren, Mike Graves, Jason Morningstar, Scott Morningstar, Patrick M. Murphy, Steve Segedy, Enno Siemsen, Tom Zito
 
-**第三次：**Lloyd Graney, Pete Hiley, Chris Jensen-Romer, Paul Jenchowski, Luke Price, Kevin Sides, Ed Woods; Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Mike Longfritz, Andrew Mitchell, Arwen Warlock; Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville; Michael Bors, Richard Alan Brentar, John Burrell, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Curtis Mustain, Michael Simone; Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Matt Ryan, Roland Ryan, Robert Ahrens, Jesse Koennecke, Sarah Ferguson-Wagstaffe; Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, David Woods; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor; Sean Winslow; Dan Baseman, Robert Jankovich, Jeff Schmidt, Erik Tyrrell; Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
+**第三次:**Lloyd Graney, Pete Hiley, Chris Jensen-Romer, Paul Jenchowski, Luke Price, Kevin Sides, Ed Woods; Timothy Ferguson, Breyt Coakley, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Mike Longfritz, Andrew Mitchell, Arwen Warlock; Greg Gibbs, Donna Giltrap, Malcolm Harbrow, Aaron Hicks, Richard Love; Frédéric Clap, Eric Kouris, Yves Leblanc, Stéphane Paquet, Hubert Quatreville; Michael Bors, Richard Alan Brentar, John Burrell, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Curtis Mustain, Michael Simone; Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Matt Ryan, Roland Ryan, Robert Ahrens, Jesse Koennecke, Sarah Ferguson-Wagstaffe; Matthew L. Seidl; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, David Woods; Mike Charlesworth, David Chart, Phil Masters, Neil Taylor, Sheila Thomas, Pete Windsor; Sean Winslow; Dan Baseman, Robert Jankovich, Jeff Schmidt, Erik Tyrrell; Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
-**第四次：**Niall Christie: Chris Jensen-Romer, Peter Hiley, Paul Jenchowski, Luke Price, Lloyd Graney, Kevin Sides, Ed Woods, Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell; Michael Bors, Richard Alan Brentar, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Michael Simone, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle, Robert Ahrens, Sarah Ferguson-Wagstaffe, Daniel Ilut, Jesse Koennecke, Matt Ryan, Roland Ryan, Miriam Wallace, Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder, David Woods, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
+**第四次:**Niall Christie: Chris Jensen-Romer, Peter Hiley, Paul Jenchowski, Luke Price, Lloyd Graney, Kevin Sides, Ed Woods, Jerry Braverman, Kim Braverman, Erik Dahl, Thomas L. Scott, Eugene Dashevsky, Rich Gentile, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell; Michael Bors, Richard Alan Brentar, Richard Burrell, Skip Engle, Joe Freistuhler, Gary N. Mengle, Sean Mitchell, Michael Simone, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle, Robert Ahrens, Sarah Ferguson-Wagstaffe, Daniel Ilut, Jesse Koennecke, Matt Ryan, Roland Ryan, Miriam Wallace, Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Mathias Betge, Andrea C. Cofalik, Jörg-Peter Friederich, Joachim Kroenke, Olaf Mahl, Anette Springorum, Ulrich Willmünder, David Woods, Dawn Hansen, Michael Hansen, David Henderson, Laura Henderson, Grier Johnson, Mark Pascual, Katharine Sauceda, Laura Saunders, Steve Saunders
 
-**第五次：**Niall Christie, Chris Jensen-Romer, Peter Hiley, Kevin Sides, Luke Price, Lloyd Graney, Paul Jenchowski, Polly Draper, Samuel Bidal, Anne-Gaëlle Darmont, Jérôme Darmont, Gilles Marcvincent, Miguel Peca, Didier Rabour, Quetta Garrison, Wendell Joyner, Angus MacDonald, Sarah MacDonald, Dan Shull, Brian Watson, Kaynek Young, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Andrea C. Cofalik, Ulrich Willmünder, Tod Gelle, Roberta Olson, Jeff Schmidt, Erik Tyrrell, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell, Trond Løkke, John Henry Nordlien, Petter Stolba, Jon Sederqvist Østmoe, Tom Fraser, Philip Gardner, Ben Wright, Keith Dalzell, Sarah Doss, Paul Eastlund, Roy Pollock, Paul Tevis: Charlton Wilbur, Jason Burkins, Margaret Halpert, Chris Aylott, Fr. Tom Dowd
+**第五次:**Niall Christie, Chris Jensen-Romer, Peter Hiley, Kevin Sides, Luke Price, Lloyd Graney, Paul Jenchowski, Polly Draper, Samuel Bidal, Anne-Gaëlle Darmont, Jérôme Darmont, Gilles Marcvincent, Miguel Peca, Didier Rabour, Quetta Garrison, Wendell Joyner, Angus MacDonald, Sarah MacDonald, Dan Shull, Brian Watson, Kaynek Young, Alexander Bader, Tanja Bader, Nina Baur, Stefan Ehret, Alexander Gerber, Jochen Gutjahr, MaPhi Messner, Jens Oesterle, Mirjam Rösen-Oesterle; Camo Coffey, Roddy Hale, Mark Shirley, Andrew Smith, Andrew Walton, Mike Charlesworth, Phil Masters, Gary Parden, Neil Taylor, Sheila Thomas, Pete Windsor, Andrea C. Cofalik, Ulrich Willmünder, Tod Gelle, Roberta Olson, Jeff Schmidt, Erik Tyrrell, Andrew Gronosky, Vesna Gronosky, Andrew Mitchell, Trond Løkke, John Henry Nordlien, Petter Stolba, Jon Sederqvist Østmoe, Tom Fraser, Philip Gardner, Ben Wright, Keith Dalzell, Sarah Doss, Paul Eastlund, Roy Pollock, Paul Tevis: Charlton Wilbur, Jason Burkins, Margaret Halpert, Chris Aylott, Fr. Tom Dowd
 
 ……そして、ルールが最初に刊行されて以来の年月に、後のサプリメントをプレイテストし、正誤情報を寄せてくださったすべての方々に感謝する。皆さんのおかげで本書は今あるものとなった。
 
@@ -149,7 +149,7 @@ Christian Rosenkjaer Andersen, Jason Brennan, Volker Bürkel, Evangeline Cheng, 
 
 初刷、2025年。Atlas Games, 202 3rd Ave, Proctor MN 55810, USA.
 
-*訳注：上記の著作権・商標表示は法的な文言であるため原文を保持し、参考訳を併記した。効力を持つのは原文である。なお本書の本文は「Markdown版について」に記したとおり CC-BY-SA 4.0 のもとで許諾されており、同ライセンスは出典表示と同一ライセンスでの継承を条件に翻訳を含む改変・再配布を認めている。*
+*訳注:上記の著作権・商標表示は法的な文言であるため原文を保持し、参考訳を併記した。効力を持つのは原文である。なお本書の本文は「Markdown版について」に記したとおり CC-BY-SA 4.0 のもとで許諾されており、同ライセンスは出典表示と同一ライセンスでの継承を条件に翻訳を含む改変・再配布を認めている。*
 
 『アルス・マギカ』のプレイヤーは活気ある愛好者の共同体を形づくっている。アトラス・ゲームズが運営する掲示板やDiscordでの議論、redcap.org の Project Redcap によるゲーム資料の集積、そして patreon.com や drivethrurpg.com における『アルス・マギカ』オープン・ライセンスのもとでの自作の公開などである。詳しくは……
 

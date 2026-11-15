@@ -59,7 +59,7 @@ body:
       label: 場所
       description: |
         行番号、または該当行へのリンク。
-        リンクの作り方：ファイルを開いた URL の末尾に `?plain=1` を付けると行番号が出ます。
+        リンクの作り方:ファイルを開いた URL の末尾に `?plain=1` を付けると行番号が出ます。
         行番号をクリックしてから「Copy permalink」を選ぶとリンクが取れます。
       placeholder: "例）1234行 / https://github.com/.../04-virtues-and-flaws.md?plain=1#L1234"
     validations:
