@@ -244,55 +244,59 @@
 
 ボニサグスが最初に誓ったヘルメス法典を以下に載せた。ボニサグスが最初に誓ったため、書き記される際には常に彼の名が記されている。ボニサグス派の構成員が誓う法典と、他の流派の構成員が誓う法典とにはわずかな違いがあり、その違いは明示してある。
 
-> ### ヘルメス法典
->
-> *「我、ボニサグスは、ここにヘルメス魔術団とその構成員への永久の忠誠を誓う。*
->
-> *「我は魔術団のいかなる構成員からもその魔法の力を奪わず、また奪おうと試みぬ。我は魔術団のいかなる構成員をも殺めず、また殺めようと試みぬ。ただし正当に執行され、正式に宣告された「魔術師の決闘」においてはこの限りでない。我はここに、「魔術師の決闘」とはこの誓約を破ることなく互いを殺めうる2人のマギの間の公然たる闘争であること、そして我が「魔術師の決闘」において殺められたとしても、我を殺めた者にいかなる報復も及ばぬことを了解する。*
->
-> *「我はトリビューナルにおける公正な投票によって下された決定に従う。我はトリビューナルにおいて一票を持ち、それを慎重に用いる。我はトリビューナルにおける他のすべての者の票を等しきものとして尊重する。*
->
-> *「我は自らの行いによって魔術団を危険に晒さぬ。また世俗の者の事柄に干渉して同志に破滅をもたらすこともせぬ。我は悪魔と関わらぬ。我が魂を、そしてまた同志の魂をも危うくせぬためである。我は妖精を害さぬ。その復讐が同志にも及ばぬためである。*
->
-> *「我はヘルメス魔術団の構成員を魔法によって探り見ることをせず、またその事柄を魔法によって覗くこともせぬ。*
->
-> *「我はこの法典に誓う徒弟を訓練し、そのうちの誰かが魔術団と我が同志に牙を剥いたならば、我こそが真っ先にこれを討ち、裁きにかけるであろう。我が徒弟は、この法典を守ると誓うまでマギと呼ばれることはない。*
->
-> *ボニサグスの徒:「我は魔術団の知識を進め、叡智と力を求める探究において見出したすべてを、その構成員と分かち合う」*
->
-> *それ以外のすべての者:「我はボニサグスに対し、我が徒弟が彼の研究にとって有用であると彼が見出したならば、これを引き取る権利を認める」*
->
-> *\* 附則法は、徒弟を要求するボニサグスの権利を \* ボニサグスの徒すべてに拡張している。*
->
-> *「我がこの誓約を破ったならば、我を魔術団より放逐せられんことを願う。我が魔術団より放逐されたならば、我は同志に願う、我を見つけ出して殺めんことを。我が命が堕落と汚辱のうちに続くことのなきように。*
->
-> *「魔術団の敵は我が敵。魔術団の友は我が友。魔術団の盟友は我が盟友。我ら一体となりて働き、健やかに強く育たんことを。*
->
-> *「この誓約を、我はここに魚座の第三日、牡羊座の905年に立てる。我にこの誓約を破らせんと誘う者に災いあれ、そしてその誘惑に屈したならば我に災いあれ」*
->
-> *立会人:*
+:::column
+### ヘルメス法典
 
-> ### Lex Hermae
->
-> *"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.*
->
-> *"Quemquam sodalem ordinis potentia magica non privabo vel privare conabor. quemquam sodalem ordinis non necabo vel necare temptabo, bello magorum iure effecto excepto. bellum magorum pugnam apertam magorum duorum esse, atque si in bello magorum interficiar, poenam nullam in magum qui me necaverit cadere intellego.*
->
-> *"Decretis in tribunale suffragio aequo factis stabo. suffragium unum in tribunale habebo, cauteque utar. aequa suffragia ceterorum in tribunale habebo.*
->
-> *"Ordinem ab actionibus non periclitabor. rebus quotidianorum non interveniam et ab ea re sodales pessum dabo. cum diabolis non ageam, ne animum meum animosque sodalium quoque in periculum adducturus sim. nymphas non vexabo, ne ultio sodalibus quoque nocitura sit.*
->
-> *"Arte magica non utar ut sodales ordinis Hermae speculer.*
->
-> *"Filios qui in hanc legem iurabit docebo, et si ullus animum ab ordine sodalibusque alienaturus sit, primum feriam. filius nullus meus magus appellabitur donec in hanc legem iuraverit.*
->
-> *"Scientiam ordinis augebo atque omnem quam me sapientiam potentiamque quaerente invenero cum sodalibus meis communicabo.*
->
-> *"Hortor ut, si hanc fidem fefellero, ex ordine expellar. si expulsus ero, sodales meos hortor ut me inveniant necentque, ut viva mea in dedeco infamiaque non pergat.*
->
-> *"Hostes ordinis hostes mei sunt. amici ordinis amici mei sunt. socii ordinis socii mei sunt. tamquam unus laboremus firmemurque.*
->
-> *"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.*
+「我、ボニサグスは、ここにヘルメス魔術団とその構成員への永久の忠誠を誓う。
+
+「我は魔術団のいかなる構成員からもその魔法の力を奪わず、また奪おうと試みぬ。我は魔術団のいかなる構成員をも殺めず、また殺めようと試みぬ。ただし正当に執行され、正式に宣告された「魔術師の決闘」においてはこの限りでない。我はここに、「魔術師の決闘」とはこの誓約を破ることなく互いを殺めうる2人のマギの間の公然たる闘争であること、そして我が「魔術師の決闘」において殺められたとしても、我を殺めた者にいかなる報復も及ばぬことを了解する。
+
+「我はトリビューナルにおける公正な投票によって下された決定に従う。我はトリビューナルにおいて一票を持ち、それを慎重に用いる。我はトリビューナルにおける他のすべての者の票を等しきものとして尊重する。
+
+「我は自らの行いによって魔術団を危険に晒さぬ。また世俗の者の事柄に干渉して同志に破滅をもたらすこともせぬ。我は悪魔と関わらぬ。我が魂を、そしてまた同志の魂をも危うくせぬためである。我は妖精を害さぬ。その復讐が同志にも及ばぬためである。
+
+「我はヘルメス魔術団の構成員を魔法によって探り見ることをせず、またその事柄を魔法によって覗くこともせぬ。
+
+「我はこの法典に誓う徒弟を訓練し、そのうちの誰かが魔術団と我が同志に牙を剥いたならば、我こそが真っ先にこれを討ち、裁きにかけるであろう。我が徒弟は、この法典を守ると誓うまでマギと呼ばれることはない。
+
+ボニサグスの徒:「我は魔術団の知識を進め、叡智と力を求める探究において見出したすべてを、その構成員と分かち合う」
+
+それ以外のすべての者:「我はボニサグスに対し、我が徒弟が彼の研究にとって有用であると彼が見出したならば、これを引き取る権利を認める」
+
+\* 附則法は、徒弟を要求するボニサグスの権利をボニサグスの徒すべてに拡張している。
+
+「我がこの誓約を破ったならば、我を魔術団より放逐せられんことを願う。我が魔術団より放逐されたならば、我は同志に願う、我を見つけ出して殺めんことを。我が命が堕落と汚辱のうちに続くことのなきように。
+
+「魔術団の敵は我が敵。魔術団の友は我が友。魔術団の盟友は我が盟友。我ら一体となりて働き、健やかに強く育たんことを。
+
+「この誓約を、我はここに魚座の第三日、牡羊座の905年に立てる。我にこの誓約を破らせんと誘う者に災いあれ、そしてその誘惑に屈したならば我に災いあれ」
+
+立会人:
+:::
+
+:::column
+### Lex Hermae
+
+"Ego, Bonisagus, me ordinem sodalesque fideliter adiuvare me vivo hac re iuro.
+
+"Quemquam sodalem ordinis potentia magica non privabo vel privare conabor. quemquam sodalem ordinis non necabo vel necare temptabo, bello magorum iure effecto excepto. bellum magorum pugnam apertam magorum duorum esse, atque si in bello magorum interficiar, poenam nullam in magum qui me necaverit cadere intellego.
+
+"Decretis in tribunale suffragio aequo factis stabo. suffragium unum in tribunale habebo, cauteque utar. aequa suffragia ceterorum in tribunale habebo.
+
+"Ordinem ab actionibus non periclitabor. rebus quotidianorum non interveniam et ab ea re sodales pessum dabo. cum diabolis non ageam, ne animum meum animosque sodalium quoque in periculum adducturus sim. nymphas non vexabo, ne ultio sodalibus quoque nocitura sit.
+
+"Arte magica non utar ut sodales ordinis Hermae speculer.
+
+"Filios qui in hanc legem iurabit docebo, et si ullus animum ab ordine sodalibusque alienaturus sit, primum feriam. filius nullus meus magus appellabitur donec in hanc legem iuraverit.
+
+"Scientiam ordinis augebo atque omnem quam me sapientiam potentiamque quaerente invenero cum sodalibus meis communicabo.
+
+"Hortor ut, si hanc fidem fefellero, ex ordine expellar. si expulsus ero, sodales meos hortor ut me inveniant necentque, ut viva mea in dedeco infamiaque non pergat.
+
+"Hostes ordinis hostes mei sunt. amici ordinis amici mei sunt. socii ordinis socii mei sunt. tamquam unus laboremus firmemurque.
+
+"Id hac re iuro in die tertia Piscium Geminorum in anno nonacentensimo quinto Arietis. dolor illis qui ut hanc fidem fallam inlicere conabuntur sit, et dolor mihi si inlecebra cecidero sit.
+:::
 
 ### 附則法
 
